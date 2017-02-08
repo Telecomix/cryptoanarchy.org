@@ -1,0 +1,251 @@
+5410
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="SIP Software Modem,BBS gateway,Linmodems" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=SIP_Software_Modem&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=SIP_Software_Modem&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=SIP_Software_Modem&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>SIP Software Modem - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "SIP_Software_Modem";
+		var wgTitle = "SIP Software Modem";
+		var wgAction = "view";
+		var wgArticleId = "237";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 1807;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-SIP_Software_Modem skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">SIP Software Modem</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Status"><span class="tocnumber">1</span> <span class="toctext">Status</span></a></li>
+<li class="toclevel-1"><a href="#Overview"><span class="tocnumber">2</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1"><a href="#Get_involved"><span class="tocnumber">3</span> <span class="toctext">Get involved</span></a></li>
+<li class="toclevel-1"><a href="#Existing_softwares"><span class="tocnumber">4</span> <span class="toctext">Existing softwares</span></a></li>
+<li class="toclevel-1"><a href="#Standard_dial-up_servers"><span class="tocnumber">5</span> <span class="toctext">Standard dial-up servers</span></a></li>
+<li class="toclevel-1"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1"><a href="#Basic_Modem_Knowledge"><span class="tocnumber">7</span> <span class="toctext">Basic Modem Knowledge</span></a></li>
+<li class="toclevel-1"><a href="#Known_issues"><span class="tocnumber">8</span> <span class="toctext">Known issues</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Status" id="Status"></a><h2><span class="editsection">[<a href="/w/index.php?title=SIP_Software_Modem&amp;action=edit&amp;section=1" title="Edit section: Status">edit</a>]</span> <span class="mw-headline"> Status </span></h2>
+<p>The idea and basic specs are well defined. We miss talented driver and VoIP hackers to break through existing code.
+</p><p>We have no emergency situation requiering immediate or short term implementation, therefore we have some time to get it right. Bet we need help&nbsp;!
+</p>
+<a name="Overview" id="Overview"></a><h2><span class="editsection">[<a href="/w/index.php?title=SIP_Software_Modem&amp;action=edit&amp;section=2" title="Edit section: Overview">edit</a>]</span> <span class="mw-headline"> Overview </span></h2>
+<p>SIP Software modem would be a VoIP channel module to emulate a PSTN modem over SIP or IAX trunks, in order to provide Dial-Up Networking services with no hardware requirements.
+</p><p>It's basically a bridge from a G.711 channel to a virtual serial port that could be used by PPPd or mgetty to provide either PPP remote access for IP networking, or a <a href="/wiki/BBS_gateway" title="BBS gateway">BBS gateway</a> for low bandwidth applications.
+</p><p>It has to support recent (read <i>patented</i>) modulation, wich could assume using a binary DSP library.
+</p>
+<a name="Get_involved" id="Get_involved"></a><h2><span class="editsection">[<a href="/w/index.php?title=SIP_Software_Modem&amp;action=edit&amp;section=3" title="Edit section: Get involved">edit</a>]</span> <span class="mw-headline"> Get involved </span></h2>
+<p>Contact with the project's team could be made on IRC&nbsp;: <a href="irc://irc.telecomix.org/#SIPmodem" class="external free" title="irc://irc.telecomix.org/#SIPmodem" rel="nofollow">irc://irc.telecomix.org/#SIPmodem</a> <a href="http://chat.werebuild.eu/?nick=modem..&amp;channels=SIPModem&amp;uio=d4" class="external text" title="http://chat.werebuild.eu/?nick=modem..&amp;channels=SIPModem&amp;uio=d4" rel="nofollow">Webchat</a>
+</p><p>We need&nbsp;:
+</p>
+<ul><li> DSP coders
+</li><li> SIP telephony experts
+</li><li> testers (soon)
+</li></ul>
+<p>Any contribution would be greatly appreciated&nbsp;!
+</p>
+<a name="Existing_softwares" id="Existing_softwares"></a><h2><span class="editsection">[<a href="/w/index.php?title=SIP_Software_Modem&amp;action=edit&amp;section=4" title="Edit section: Existing softwares">edit</a>]</span> <span class="mw-headline"> Existing softwares </span></h2>
+<ul><li> Many closed-source software modem code exists, most implementations are used for <a href="/w/index.php?title=Linmodems&amp;action=edit&amp;redlink=1" class="new" title="Linmodems (page does not exist)">http://linmodems.technion.ac.il/</a>
+</li></ul>
+<ul><li> IAXmodem <a href="http://iaxmodem.sourceforge.net/" class="external autonumber" title="http://iaxmodem.sourceforge.net/" rel="nofollow">[1]</a>
+</li></ul>
+<p>Currently providing a spandsp frontend to enable FAX reception with mgetty + Hylafax via a virtual serial port. Linked against an obsolete version of spandsp
+</p>
+<ul><li> spandsp <a href="http://www.soft-switch.org/downloads/snapshots/spandsp/" class="external autonumber" title="http://www.soft-switch.org/downloads/snapshots/spandsp/" rel="nofollow">[2]</a>
+</li></ul>
+<p>it's a software DSP library used by IAXmodem. It supports V.21, V.27ter, V.29 and V.17 modems. Recent snapshots includes v.22 and functionning v.8 auto-negotiation.
+</p><p>AT command set implementation seems too partial to get anything stable in any other application than faxing.
+</p>
+<ul><li> WarVOX: a suite of tools for exploring, classifying, and auditing telephone systems. Unlike normal wardialing tools, WarVOX works with the actual audio from each call and does not use a modem directly. <a href="http://warvox.org/" class="external autonumber" title="http://warvox.org/" rel="nofollow">[3]</a>
+</li></ul>
+<ul><li> iWar: a wardialer that support the IAX2 (Intra-Asterisk eXchange) "Voice over IP" (VoIP) protocol. This allows you to scan without the need of additional hardware!<a href="https://www.softwink.com/iwar/" class="external autonumber" title="https://www.softwink.com/iwar/" rel="nofollow">[4]</a> . Links against spandsp, not yet tested.
+</li></ul>
+<a name="Standard_dial-up_servers" id="Standard_dial-up_servers"></a><h2><span class="editsection">[<a href="/w/index.php?title=SIP_Software_Modem&amp;action=edit&amp;section=5" title="Edit section: Standard dial-up servers">edit</a>]</span> <span class="mw-headline"> Standard dial-up servers </span></h2>
+<p>Having a software modem is a first step in a DUN server software stack.
+</p><p>Here are some links to howtos to create a running dialup service on a linux box&nbsp;:
+</p>
+<ul><li> <a href="http://fr.tldp.org/HOWTO/lecture//PPP-HOWTO.html" class="external free" title="http://fr.tldp.org/HOWTO/lecture//PPP-HOWTO.html" rel="nofollow">http://fr.tldp.org/HOWTO/lecture//PPP-HOWTO.html</a> (french)
+</li><li> <a href="http://www.howtoforge.com/linux_dialin_server" class="external free" title="http://www.howtoforge.com/linux_dialin_server" rel="nofollow">http://www.howtoforge.com/linux_dialin_server</a>
+</li><li> <a href="http://ubuntuforums.org/archive/index.php/t-150339.html" class="external free" title="http://ubuntuforums.org/archive/index.php/t-150339.html" rel="nofollow">http://ubuntuforums.org/archive/index.php/t-150339.html</a>
+</li><li> <a href="http://stilius.net/callback_en.php" class="external free" title="http://stilius.net/callback_en.php" rel="nofollow">http://stilius.net/callback_en.php</a> (with callback)
+</li><li> <a href="http://docstore.mik.ua/orelly/networking/tcpip/ch06_03.htm" class="external free" title="http://docstore.mik.ua/orelly/networking/tcpip/ch06_03.htm" rel="nofollow">http://docstore.mik.ua/orelly/networking/tcpip/ch06_03.htm</a>
+</li><li> <a href="http://www.warvox.org" class="external free" title="http://www.warvox.org" rel="nofollow">http://www.warvox.org</a>
+</li></ul>
+<a name="References" id="References"></a><h2><span class="editsection">[<a href="/w/index.php?title=SIP_Software_Modem&amp;action=edit&amp;section=6" title="Edit section: References">edit</a>]</span> <span class="mw-headline"> References </span></h2>
+<ul><li> <a href="http://www.eetimes.com/electronics-news/4138167/MoIP-Making-PSTN-Modems-Work-on-IP-Networks" class="external free" title="http://www.eetimes.com/electronics-news/4138167/MoIP-Making-PSTN-Modems-Work-on-IP-Networks" rel="nofollow">http://www.eetimes.com/electronics-news/4138167/MoIP-Making-PSTN-Modems-Work-on-IP-Networks</a>
+</li><li> Lots of usefull softs and papers on modems&nbsp;: <a href="http://www.linmodems.org/" class="external free" title="http://www.linmodems.org/" rel="nofollow">http://www.linmodems.org/</a>
+</li></ul>
+<p><br />
+</p>
+<a name="Basic_Modem_Knowledge" id="Basic_Modem_Knowledge"></a><h2><span class="editsection">[<a href="/w/index.php?title=SIP_Software_Modem&amp;action=edit&amp;section=7" title="Edit section: Basic Modem Knowledge">edit</a>]</span> <span class="mw-headline"> Basic Modem Knowledge </span></h2>
+<p>Modem is about MOdulation and DEModulation of a digital bitstream to an analog signal.
+</p><p>PSTN modems sole purpose is to tranport up to 56kbps/s over a phone line, using only frequencies from the voice range (200Hz to 8kHz). Those frequencies can be transprted on a G.711 digital channel&nbsp;: phone lines are usually transported using this encoding over TDM data lines and fiber optics.
+</p><p>Older modem were only able to modulate a few hundreds bits per second, then advanced modulation techniques led to advanced stardard like V.32 (9600bps), v.34 (33,6kbps) or v.92 (56kbps downstream, 48kbps upstream).
+</p><p>Other cryptic standard names are to known&nbsp;: v.8 is auto-negotiation (to choose one modulation from the above). V.42 is error-correction, wich is an absolute necessity on IP transported trunks because those are prone to packet loss and jitter. V.44 is data compression, it's not mandatory but can help speed things a little. Every of these standards have derivatives (bis, ter, ...) wich are usually improved versions. The more highly numbered, the most recent it is, therefore the most heavilly cluttered with patents it may be.
+</p>
+<a name="Known_issues" id="Known_issues"></a><h2><span class="editsection">[<a href="/w/index.php?title=SIP_Software_Modem&amp;action=edit&amp;section=8" title="Edit section: Known issues">edit</a>]</span> <span class="mw-headline"> Known issues </span></h2>
+<ul><li> SIP channels must be G.711, it's the only way to reach 14,4kbps to 33,6kbps rates. Already achieved 48kbps with an hardware modem on a G.711 linked ATA.
+</li><li> V.34 and higher modulation are covered by patents in most countries. Forget about implementing it from scratch, it couldn't be released as open-source in most countries anyway.
+</li><li> Packt loss is a key element for connection stability. Listed SIP trunk provider must have a high quality network with less than 0,1 packet loss
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 9/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:237-0!1!0!!en!2 and timestamp 20121019144001 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/SIP_Software_Modem">https://cryptoanarchy.org/wiki/SIP_Software_Modem</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/SIP_Software_Modem" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:SIP_Software_Modem&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=SIP_Software_Modem&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=SIP_Software_Modem&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=SIP_Software_Modem" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/SIP_Software_Modem" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/SIP_Software_Modem" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=SIP_Software_Modem&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=SIP_Software_Modem&amp;oldid=1807" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 10 March 2011, at 23:17.</li>
+					<li id="viewcount">This page has been accessed 5,544 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.134 secs. --></body></htm
+3
+l>
+
+0
+

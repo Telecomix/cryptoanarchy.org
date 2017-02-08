@@ -1,0 +1,376 @@
+6188
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Anon shell box,Blackthrow,CafeBox,Chaosbox,Iptables,FreeBSD jail" />
+		<link rel="canonical" href="/wiki/Anon_shell_box" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Anon_shell_box&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Anon_shell_box&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Anon_shell_box&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Anon shell box - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Anon_shell_box";
+		var wgTitle = "Anon shell box";
+		var wgAction = "view";
+		var wgArticleId = "241";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 4183;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Anon_shell_box skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Anon shell box</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub">(Redirected from <a href="/w/index.php?title=Anonshells&amp;redirect=no" title="Anonshells">Anonshells</a>)</div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p>The <b>anon shell box</b> is a box that will give anyone access to a <a href="/wiki/Chaosbox" title="Chaosbox">chaosbox</a>.
+</p><p><b>Beware that this will more or less make the box completely unsecure.</b> DONT BE A COWARD, JUST DO IT.
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#anonshells.cryptoanarchy.org"><span class="tocnumber">1</span> <span class="toctext">anonshells.cryptoanarchy.org</span></a></li>
+<li class="toclevel-1"><a href="#FreeBSD"><span class="tocnumber">2</span> <span class="toctext">FreeBSD</span></a>
+<ul>
+<li class="toclevel-2"><a href="#sysctl_changes"><span class="tocnumber">2.1</span> <span class="toctext">sysctl changes</span></a></li>
+<li class="toclevel-2"><a href="#Dont_log_the_users"><span class="tocnumber">2.2</span> <span class="toctext">Dont log the users</span></a></li>
+<li class="toclevel-2"><a href="#Webserver_to_allow_users_to_add_user_accounts"><span class="tocnumber">2.3</span> <span class="toctext">Webserver to allow users to add user accounts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Linux_.28Debian.29"><span class="tocnumber">3</span> <span class="toctext">Linux (Debian)</span></a>
+<ul>
+<li class="toclevel-2"><a href="#List_of_things_that_are_not_as_good_as_they_could_be"><span class="tocnumber">3.1</span> <span class="toctext">List of things that are not as good as they could be</span></a></li>
+<li class="toclevel-2"><a href="#How_does_it_work.3F.3F"><span class="tocnumber">3.2</span> <span class="toctext">How does it work??</span></a></li>
+<li class="toclevel-2"><a href="#Howto"><span class="tocnumber">3.3</span> <span class="toctext">Howto</span></a>
+<ul>
+<li class="toclevel-3"><a href="#index.html"><span class="tocnumber">3.3.1</span> <span class="toctext">index.html</span></a></li>
+<li class="toclevel-3"><a href="#.2Fcgi-bin.2Fgen_user.sh_.28script.29"><span class="tocnumber">3.3.2</span> <span class="toctext">/cgi-bin/gen_user.sh (script)</span></a></li>
+<li class="toclevel-3"><a href="#xox.c"><span class="tocnumber">3.3.3</span> <span class="toctext">xox.c</span></a></li>
+<li class="toclevel-3"><a href="#.2Fcgi-bin.2Fgen-usr_.28script.29"><span class="tocnumber">3.3.4</span> <span class="toctext">/cgi-bin/gen-usr (script)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#See_also"><span class="tocnumber">3.4</span> <span class="toctext">See also</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="anonshells.cryptoanarchy.org" id="anonshells.cryptoanarchy.org"></a><h1><span class="editsection">[<a href="/w/index.php?title=Anon_shell_box&amp;action=edit&amp;section=1" title="Edit section: anonshells.cryptoanarchy.org">edit</a>]</span> <span class="mw-headline"> anonshells.cryptoanarchy.org </span></h1>
+<p>Is offline since some months back.
+</p><p><i>A monk has been dispatched to meditate upon this.</i>
+</p>
+<a name="FreeBSD" id="FreeBSD"></a><h1><span class="editsection">[<a href="/w/index.php?title=Anon_shell_box&amp;action=edit&amp;section=2" title="Edit section: FreeBSD">edit</a>]</span> <span class="mw-headline"> FreeBSD </span></h1>
+<p>It is possible to run stuff inside <a href="/w/index.php?title=FreeBSD_jail&amp;action=edit&amp;redlink=1" class="new" title="FreeBSD jail (page does not exist)">jails</a> in order to limit what users can do, even if they were able to haxxor the machine and get root. Also, just adding a few lines to /etc/sysctl.conf (or typing them in manually) will prevent users from being able to view each others processes. Increasing the jails securitylevel to 3 also locks it down pretty good.
+</p>
+<a name="sysctl_changes" id="sysctl_changes"></a><h2><span class="editsection">[<a href="/w/index.php?title=Anon_shell_box&amp;action=edit&amp;section=3" title="Edit section: sysctl changes">edit</a>]</span> <span class="mw-headline"> sysctl changes </span></h2>
+<p>Inside the jail:
+</p>
+<pre>
+# cat /etc/sysctl.conf
+security.bsd.see_other_uids=0              # users can not see processes with other UIDs
+security.bsd.see_other_gids=0              # users can not see processes with other GIDs
+security.bsd.unprivileged_read_msgbuf=0    # i forgot what this was but it sounds good
+kern.maxprocperuid=512                     # set maximum number of processes a user can have
+kern.securitylevel=3                       # this can be done in a lot of different ways, here is one.
+</pre>
+<a name="Dont_log_the_users" id="Dont_log_the_users"></a><h2><span class="editsection">[<a href="/w/index.php?title=Anon_shell_box&amp;action=edit&amp;section=4" title="Edit section: Dont log the users">edit</a>]</span> <span class="mw-headline"> Dont log the users </span></h2>
+<p>Symlink the logs to /dev/null.
+</p>
+<pre>
+* /var/run/utmp
+* /var/log/wtmp
+* /var/log/&lt;&lt;&lt;lot of files here&gt;&gt;&gt;
+</pre>
+<p>for example:
+</p>
+<pre>
+cd /var/run
+rm utmp
+ln -s /dev/null utmp
+</pre>
+<a name="Webserver_to_allow_users_to_add_user_accounts" id="Webserver_to_allow_users_to_add_user_accounts"></a><h2><span class="editsection">[<a href="/w/index.php?title=Anon_shell_box&amp;action=edit&amp;section=5" title="Edit section: Webserver to allow users to add user accounts">edit</a>]</span> <span class="mw-headline"> Webserver to allow users to add user accounts </span></h2>
+<p>This solution is UGLY but it works. There is a high probability that it will be re-done in the future.
+</p><p>the <b>webserver</b> script
+</p>
+<pre>
+#!/bin/sh
+while true&nbsp;; do cat /path/to/index.html  | nc -l 80&nbsp;; done &gt; /dev/null
+</pre>
+<p>the <b>webserver2</b> script
+</p>
+<pre>
+#!/bin/sh
+while true&nbsp;; do ./makeusr | nc -l 81&nbsp;; done &gt; /dev/null 
+</pre>
+<p>the <b>makeusr</b> script
+</p>
+<pre>
+#!/bin/sh
+INTRONAME=a
+PSEUDONYM=$INTRONAME`head -c 200 /dev/urandom | tr -cd '[:graph:]' | md5 | cut -b-9`
+PASSWORD=`head -c 200 /dev/urandom | tr -cd '[:graph:]' | cut -b-30`
+
+echo -e &quot;$PSEUDONYM\n$PSEUDONYM\n\nanon\n\nanon\ntcsh\n\ngo-rwx\n\n\n\n$PASSWORD\n$PASSWORD\n\nyes\nno&quot; | adduser &gt; /dev/null &amp;2&gt;/dev/null
+
+echo -e &quot;HTTP/1.1 200 OK&quot;
+echo -e &quot;Content-Type: text/plain; charset=UTF-8&quot;
+echo -e &quot;&quot;
+echo -e &quot;:D&quot;
+echo -e &quot;&quot;
+echo -e &quot;User created!&quot;
+echo -e &quot;ssh $PSEUDONYM@anonshells.cryptoanarchy.org&quot;
+echo -e &quot;password is: $PASSWORD&quot;
+echo -e &quot;&quot;
+echo -e &quot;(try irssi -n nickname, for servers that does not like long nicknames.)&quot;
+echo -e &quot;&quot;
+echo -e &quot;(:=~~~&quot;
+</pre>
+<p>WTF is this?! -- It is a bunch of scripts that use netcat to pretend to be a webserver. One script is listening on port 80, and the other is listening on port 81. Running the script <b>webserver</b> and <b>webserver2</b> as root inside the jail will start it up. (NOTE: you will have to write your own index.html file.)
+</p>
+<a name="Linux_.28Debian.29" id="Linux_.28Debian.29"></a><h1><span class="editsection">[<a href="/w/index.php?title=Anon_shell_box&amp;action=edit&amp;section=6" title="Edit section: Linux (Debian)">edit</a>]</span> <span class="mw-headline"> Linux (Debian) </span></h1>
+<p>Below are instructions for replication of the previous anonshells box. The new run on FreeBSD.
+</p>
+<a name="List_of_things_that_are_not_as_good_as_they_could_be" id="List_of_things_that_are_not_as_good_as_they_could_be"></a><h2><span class="editsection">[<a href="/w/index.php?title=Anon_shell_box&amp;action=edit&amp;section=7" title="Edit section: List of things that are not as good as they could be">edit</a>]</span> <span class="mw-headline"> List of things that are not as good as they could be </span></h2>
+<ul><li> Users can see each others processes (with <b>ps</b> and <b>top</b>, for example). There is no simple and good method to avoid this in linux AFAIK? (grsecurity &amp; pax support limiting /proc information about processes run by other users)
+</li><li> You would also like to add a firewall that denies outbound traffic to your LAN, or something. See <a href="/wiki/Iptables" title="Iptables">iptables</a> for more info on that.
+</li></ul>
+<a name="How_does_it_work.3F.3F" id="How_does_it_work.3F.3F"></a><h2><span class="editsection">[<a href="/w/index.php?title=Anon_shell_box&amp;action=edit&amp;section=8" title="Edit section: How does it work??">edit</a>]</span> <span class="mw-headline"> How does it work?? </span></h2>
+<ul><li> index.html has a link to gen_user.sh.
+</li><li> when gen_user.sh is executed by the web browser (when the user clicks the link), it executes xox.
+</li><li> xox will run the script gen-usr with root privileges.
+</li><li> gen-usr will create a new user and generate a web page with the username &amp; password for the user to see.
+</li><li> The user can then log in at the box with SSH, using the username and password that gen-usr created&nbsp;:)
+</li></ul>
+<a name="Howto" id="Howto"></a><h2><span class="editsection">[<a href="/w/index.php?title=Anon_shell_box&amp;action=edit&amp;section=9" title="Edit section: Howto">edit</a>]</span> <span class="mw-headline"> Howto </span></h2>
+<ol><li> install apache2, lighttpd or ngnix.
+</li><li> Put the four files below in the /var/www directory.
+</li><li> Compile xox.c and name the output file xox
+</li><li> chown and chmod the scripts so that the web server can execute them
+</li><li> suid root the "xox" binary (see below for moar info on that)
+</li><li> Done.
+</li></ol>
+<p>This might need some debugging from your part.
+</p>
+<a name="index.html" id="index.html"></a><h3><span class="editsection">[<a href="/w/index.php?title=Anon_shell_box&amp;action=edit&amp;section=10" title="Edit section: index.html">edit</a>]</span> <span class="mw-headline"> index.html </span></h3>
+<pre>
+&lt;html&gt;
+&lt;head&gt;&lt;/head&gt;
+&lt;body bgcolor=&quot;#000000&quot;&gt;
+&lt;font color=&quot;#FFFFFF&quot;&gt;
+&lt;h1&gt;:)&lt;/h1&gt;
+To create a new account, &lt;a href=&quot;/cgi-bin/gen_user.sh&quot;&gt;click here&lt;/a&gt;.&lt;br&gt;
+
+&lt;h1&gt;How do I log in?&lt;/h1&gt;
+Ordinary login: SSH to XXXXXXXXX. In all operating systems except windows, type &quot;ssh username@XXXXXXXXXX&quot;.
+In windows, download &lt;a href=&quot;http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html&quot;&gt;putty&lt;/a&gt;.
+
+&lt;h1&gt;I forgot my passwords!!!!11&lt;/h1&gt;
+Too bad for you. We will NEVER recreate accounts for anyone. This is for your own safety.
+&lt;/body&gt;
+&lt;/html&gt;
+</pre>
+<p>Dont forget to replace "XXXXXXX" with the box IP address (or DNS name)
+</p>
+<a name=".2Fcgi-bin.2Fgen_user.sh_.28script.29" id=".2Fcgi-bin.2Fgen_user.sh_.28script.29"></a><h3><span class="editsection">[<a href="/w/index.php?title=Anon_shell_box&amp;action=edit&amp;section=11" title="Edit section: /cgi-bin/gen_user.sh (script)">edit</a>]</span> <span class="mw-headline"> /cgi-bin/gen_user.sh (script) </span></h3>
+<pre>
+#!/bin/sh
+./xox
+</pre>
+<a name="xox.c" id="xox.c"></a><h3><span class="editsection">[<a href="/w/index.php?title=Anon_shell_box&amp;action=edit&amp;section=12" title="Edit section: xox.c">edit</a>]</span> <span class="mw-headline"> xox.c </span></h3>
+<ol><li> compile this file and name it "xox". 
+</li><li> suid root this file. Type something like "chown root:root xox" and then "chmod u+S xox". This will make so that the file is always executed with root privileges.
+</li></ol>
+<pre>
+#include &lt;unistd.h&gt;
+
+char *path = &quot;/bin/sh&quot;;
+char *arg0 = &quot;sh&quot;;
+char *arg1 = &quot;/var/www/cgi-bin/gen-usr&quot;;
+
+int main(){
+        seteuid(0);
+        setuid(0);
+        setgid(0);
+        execl(path, arg0, arg1, NULL);
+        }
+</pre>
+<a name=".2Fcgi-bin.2Fgen-usr_.28script.29" id=".2Fcgi-bin.2Fgen-usr_.28script.29"></a><h3><span class="editsection">[<a href="/w/index.php?title=Anon_shell_box&amp;action=edit&amp;section=13" title="Edit section: /cgi-bin/gen-usr (script)">edit</a>]</span> <span class="mw-headline"> /cgi-bin/gen-usr (script) </span></h3>
+<pre>
+#!/bin/sh
+USR=anon$RANDOM$RANDOM$RANDOM
+PASS=$RANDOM$RANDOM$RANDOM$RANDOM
+
+echo -e &quot;$PASS\n$PASS\n\n\n\n\n\n\n\n\n\n&quot; | /usr/sbin/adduser $USR &amp;&gt;/dev/null
+chmod go-rwx /home/$USR
+
+echo &quot;Content-type: text/html;charset=utf-8&quot;
+echo &quot;&quot;
+echo -e &quot;&lt;html&gt;&quot;
+echo -e &quot;&lt;body bgcolor=\&quot;#000000\&quot;&gt;&quot;
+echo -e &quot;&lt;font color=\&quot;#FFFFFF\&quot;&gt;&quot;
+echo -e &quot;&lt;h1&gt;User created!&lt;/h1&gt;&quot;
+echo -e &quot;&lt;br&gt;&lt;br&gt;&quot;
+echo -e &quot;&lt;b&gt;username&lt;/b&gt;: $USR&lt;br&gt;&lt;br&gt;&quot;
+echo -e &quot;&lt;b&gt;password&lt;/b&gt;: $PASS&lt;br&gt;&quot;
+echo -e &quot;&lt;br&gt;&lt;br&gt;&quot;
+echo -e &quot;Log in by connecting to THE_IP_OF_THE_MACHINE with SSH.&lt;br&gt;(If you type &lt;b&gt;ssh username@THE_IP_OF_THE_MACHINE -D9999&lt;/b&gt; an encrypted SOCKS-proxy will be enabled at your own computer (at port 9999), which you can use to browse the web from.
+echo -e &quot;&lt;/body&gt;&quot;
+echo -e &quot;&lt;/html&gt;&quot;
+</pre>
+<p>Dont forget to replace THE_IP_OF_THE_MACHINE with the IP number of your machine (or its DNS name)
+</p>
+<a name="See_also" id="See_also"></a><h2><span class="editsection">[<a href="/w/index.php?title=Anon_shell_box&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a>]</span> <span class="mw-headline"> See also </span></h2>
+<ul><li> <a href="/wiki/Blackthrow" title="Blackthrow">Blackthrow</a>
+</li><li> <a href="/wiki/Chaosbox" title="Chaosbox">Chaosbox</a>
+</li><li> <a href="/wiki/CafeBox" title="CafeBox">CafeBox</a>
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 45/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:241-0!1!0!!en!2 and timestamp 20121020015627 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Anon_shell_box">https://cryptoanarchy.org/wiki/Anon_shell_box</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Anon_shell_box" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Anon_shell_box&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Anon_shell_box&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Anon_shell_box&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Anon_shell_box" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Anon_shell_box" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Anon_shell_box" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Anon_shell_box&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Anon_shell_box&amp;oldid=4183" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 30 September 2012, at 14:40.</li>
+					<li id="viewcount">This page has been accessed 3,427 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.141 secs. --></body></h
+5
+tml>
+
+0
+

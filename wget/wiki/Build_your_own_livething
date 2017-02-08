@@ -1,0 +1,704 @@
+a3b8
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Build your own livething" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Build_your_own_livething&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Build_your_own_livething&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Build_your_own_livething&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Build your own livething - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Build_your_own_livething";
+		var wgTitle = "Build your own livething";
+		var wgAction = "view";
+		var wgArticleId = "410";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 3835;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Build_your_own_livething skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Build your own livething</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p>This "tutorial" isn't finished yet and needs (a lot&nbsp;?) of enhancements -- Feel free to contribute&nbsp;:)
+</p><p><br />
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#What_is_this_liveThing_.3F.21"><span class="tocnumber">1</span> <span class="toctext">What is this liveThing&nbsp;?!</span></a></li>
+<li class="toclevel-1"><a href="#Why_.3F"><span class="tocnumber">2</span> <span class="toctext">Why&nbsp;?</span></a></li>
+<li class="toclevel-1"><a href="#Create_a_basic_install_using_qemu"><span class="tocnumber">3</span> <span class="toctext">Create a basic install using qemu</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Part_0_:_Create_the_qemu_image"><span class="tocnumber">3.1</span> <span class="toctext">Part 0&nbsp;: Create the qemu image</span></a></li>
+<li class="toclevel-2"><a href="#Part_1_:_Basic_infos"><span class="tocnumber">3.2</span> <span class="toctext">Part 1&nbsp;: Basic infos</span></a></li>
+<li class="toclevel-2"><a href="#Part_2_:_Partitionning"><span class="tocnumber">3.3</span> <span class="toctext">Part 2&nbsp;: Partitionning</span></a></li>
+<li class="toclevel-2"><a href="#Part_3_:_the_minimalistic_system"><span class="tocnumber">3.4</span> <span class="toctext">Part 3&nbsp;: the minimalistic system</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Transfert_the_image_to_the_usbStick_using_dd"><span class="tocnumber">4</span> <span class="toctext">Transfert the image to the usbStick using dd</span></a></li>
+<li class="toclevel-1"><a href="#Installing_a_minimal_Desktop_Environement"><span class="tocnumber">5</span> <span class="toctext">Installing a minimal Desktop Environement</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Desktop_.26_software_example"><span class="tocnumber">5.1</span> <span class="toctext">Desktop &amp; software example</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Enforcement"><span class="tocnumber">6</span> <span class="toctext">Enforcement</span></a>
+<ul>
+<li class="toclevel-2"><a href="#tor_dns"><span class="tocnumber">6.1</span> <span class="toctext">tor dns</span></a></li>
+<li class="toclevel-2"><a href="#privoxy"><span class="tocnumber">6.2</span> <span class="toctext">privoxy</span></a></li>
+<li class="toclevel-2"><a href="#firewall"><span class="tocnumber">6.3</span> <span class="toctext">firewall</span></a></li>
+<li class="toclevel-2"><a href="#proxy_environment"><span class="tocnumber">6.4</span> <span class="toctext">proxy environment</span></a></li>
+<li class="toclevel-2"><a href="#random_hostname_on_boot"><span class="tocnumber">6.5</span> <span class="toctext">random hostname on boot</span></a></li>
+<li class="toclevel-2"><a href="#random_mac_interfaces"><span class="tocnumber">6.6</span> <span class="toctext">random mac interfaces</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Tips"><span class="tocnumber">7</span> <span class="toctext">Tips</span></a></li>
+<li class="toclevel-1"><a href="#To_Do"><span class="tocnumber">8</span> <span class="toctext">To Do</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="What_is_this_liveThing_.3F.21" id="What_is_this_liveThing_.3F.21"></a><h1><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=1" title="Edit section: What is this liveThing&nbsp;?!">edit</a>]</span> <span class="mw-headline"> What is this liveThing&nbsp;?! </span></h1>
+<p>According to wikipedia: A live USB is a USB flash drive or a USB external hard disk drive containing a full operating system that can be booted. Live USBs are closely related to live CDs, but sometimes have the ability to persistently save settings and permanently install software packages back onto the USB device. <a href="https://en.wikipedia.org/wiki/Live_USB" class="external autonumber" title="https://en.wikipedia.org/wiki/Live_USB" rel="nofollow">[1]</a>
+</p><p>So, here, what we are going to do, is to build a debian based liveUsb system with persistent storage, and all that on a totally encrypted system. (or at least, the [most] important parts of it).
+This guide also group maybe useless shit you won't use. Then just skip them.
+</p>
+<a name="Why_.3F" id="Why_.3F"></a><h1><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=2" title="Edit section: Why&nbsp;?">edit</a>]</span> <span class="mw-headline"> Why&nbsp;? </span></h1>
+<p>Dunno... Just saw this page <a href="https://cryptoanarchy.org/wiki/Telecomix_Ciphersystem_MARK_II" class="external autonumber" title="https://cryptoanarchy.org/wiki/Telecomix_Ciphersystem_MARK_II" rel="nofollow">[2]</a>, and wanted to try, make my own (probably not) light usbkey. And wanted to share this ... experience&nbsp;? ...
+</p><p>Then I searched the web to find things I could include, and included them. Wrote it in this wiki, and that's all.
+</p><p>Hope someone would find that interesting, make is own usbkey, and also share his knowlegde on this wiki.
+</p><p><br />
+</p>
+<a name="Create_a_basic_install_using_qemu" id="Create_a_basic_install_using_qemu"></a><h1><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=3" title="Edit section: Create a basic install using qemu">edit</a>]</span> <span class="mw-headline"> Create a basic install using qemu </span></h1>
+<a name="Part_0_:_Create_the_qemu_image" id="Part_0_:_Create_the_qemu_image"></a><h2><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=4" title="Edit section: Part 0&nbsp;: Create the qemu image">edit</a>]</span> <span class="mw-headline"> Part 0&nbsp;: Create the qemu image </span></h2>
+<p>I've a 3.8G usbkey (should be 4Go but the system tells me it's 3.8 ...), so I create a 3.5G qemu image (to be sure the image will fits in it)
+</p>
+<pre>$ qemu-img create liveusb.img 3.5G
+</pre>
+<p>Boot qemu on it with thoses options. ie: the harddisk is "liveusb.img", the cdrom is the debian iso, and tell qemu to boot from the cdrom
+</p>
+<pre>$ qemu -hda liveusb.img -cdrom debian-netinst.iso -boot d
+</pre>
+<p><br />
+</p>
+<a name="Part_1_:_Basic_infos" id="Part_1_:_Basic_infos"></a><h2><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=5" title="Edit section: Part 1&nbsp;: Basic infos">edit</a>]</span> <span class="mw-headline"> Part 1&nbsp;: Basic infos </span></h2>
+<ul><li> Just follow the installer instructions.
+</li><li> The only thing you should care of is your location.
+</li><li> Select something else than the real one. Use "Sweden" if you can't decide.
+</li></ul>
+<p><br />
+</p>
+<a name="Part_2_:_Partitionning" id="Part_2_:_Partitionning"></a><h2><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=6" title="Edit section: Part 2&nbsp;: Partitionning">edit</a>]</span> <span class="mw-headline"> Part 2&nbsp;: Partitionning </span></h2>
+<ul><li> Select "Guided - use entire disk and set up encrypted LVM" (third choice) and confirm the disk selection on the next screen.
+</li><li> Partition scheme&nbsp;: you can select "all files in one partition" (first choice) and confirm on the next screen
+</li><li> Let the installer do it's stuffs. This can take a lot of time depending of the disk size.
+</li><li> Now it's time to think about the passphrase. Use a strong one. White spaces and stuff are allowed. ( have a look at this: <a href="http://xkcd.com/936/" class="external autonumber" title="http://xkcd.com/936/" rel="nofollow">[3]</a>, and this <a href="http://www.vvsss.com/grid/" class="external autonumber" title="http://www.vvsss.com/grid/" rel="nofollow">[4]</a> and this <a href="http://world.std.com/~reinhold/diceware.html" class="external autonumber" title="http://world.std.com/~reinhold/diceware.html" rel="nofollow">[5]</a> , to create a strong passphrase ).
+</li></ul>
+<pre>&lt;random person&gt; I'd imagine a good approach to generating a "pattern" on the password-grid would be to throw a dice a couple of times. That'd truely generate a random pattern ^^
+</pre>
+<ul><li> Enter it. And confirm it on the next screen.
+</li><li> Hit "finish partitioning and write changes to disk" and confirm on the next screen.
+</li><li> Let the installer do some stuff
+</li></ul>
+<p><br />
+</p>
+<a name="Part_3_:_the_minimalistic_system" id="Part_3_:_the_minimalistic_system"></a><h2><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=7" title="Edit section: Part 3&nbsp;: the minimalistic system">edit</a>]</span> <span class="mw-headline"> Part 3&nbsp;: the minimalistic system </span></h2>
+<ul><li> Now it's time to choose a mirror. Use a swedish one&nbsp;??
+</li><li> Next screen&nbsp;: if you've a proxy available on your network (Tor?), maybe you could/should use it. The download will be slow but ... or just skip this step
+</li><li> Do not participate to the "popularity-contest"-thing. Even if it's done anonymously...
+</li><li> on the software selection screen uncheck everything, then accept grub to be installed. Reboot. Sucess.
+</li><li> Now you have a very minimalistic working system, without graphical interface and stuff.
+</li><li> Shut down the qemu machine.
+</li></ul>
+<p><br />
+</p>
+<a name="Transfert_the_image_to_the_usbStick_using_dd" id="Transfert_the_image_to_the_usbStick_using_dd"></a><h1><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=8" title="Edit section: Transfert the image to the usbStick using dd">edit</a>]</span> <span class="mw-headline"> Transfert the image to the usbStick using dd </span></h1>
+<ul><li> NAO, the liveusb creation thing. It's quite simple. All you need to do is: plug your usbkey, find the /dev/&lt;something&gt; associated (/dev/sdb or something, use "dmesg" to be sure).
+</li></ul>
+<p><b>DO NOT MOUNT IT OR UNMOUNT IF YOUR SYSTEM DO IT AUTOMATICALLY.</b>
+</p>
+<pre># umount /dev/sdThing
+</pre>
+<ul><li> Copy the image
+</li></ul>
+<pre># dd if=liveusb.img of=/dev/sdThing bs=8192
+# sync
+</pre>
+<p>To test that everything is working as espected, make qemu boot on this usbkey:
+</p>
+<pre>$ qemu -usb -hda /dev/sdThing
+</pre>
+<p>it should boot. if it's not, so ... maybe you did something wrong. The image could be bigger than the usbStick, the usbStick is maybe bugged (too old&nbsp;?), or something else happened. Just try again.
+</p><p>If it is working, you can finish the customization directly in qemu, and once you're done, halt the qemu machine, and reboot your *real* computer on the usbkey.
+</p><p><br />
+</p>
+<a name="Installing_a_minimal_Desktop_Environement" id="Installing_a_minimal_Desktop_Environement"></a><h1><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=9" title="Edit section: Installing a minimal Desktop Environement">edit</a>]</span> <span class="mw-headline"> Installing a minimal Desktop Environement </span></h1>
+<p>You can just browse the web to find which DE you'll prefer. Anyway, as the system needs to be quite small, I'll recommend to use a tiny DE as fluxbox, blackbox, openbox or similar. The rest of this tuto will pretend you're using <b>awesome</b>
+</p><p>You may want to, first of all, reconfigure the whole system to have a better hand on it. But first, let's reconfigure the configurator&nbsp;:)
+</p>
+<pre># dpkg-reconfigure debconf
+</pre>
+<p>The following command will list every package, except <b>cron</b>, which cause an error, <b>debconf</b> that you already reconfigured, and <b>grub</b>, to avoid misconfiguration of it.
+</p>
+<pre># dpkg --get-selections | awk '{print $1 }' | grep -vE 'cron|debconf|grub' | while read package; do echo "reconfiguring: $package"; dpkg-reconfigure $package; done;
+</pre>
+<p><br />
+To make your image having a working xorg server compatible with most video cards, you will need to install thoses packages:
+</p>
+<pre># apt-get install --no-install-recommends xserver-xorg-video-vesa xserver-xorg-video-radeon xserver-xorg-video-nouveau xserver-xorg-video-intel
+</pre>
+<p>and also xinit (maybe automagically installed ... probably ... but don't remember)
+</p>
+<pre># apt-get install --no-install-recommends xinit
+</pre>
+<p><br />
+</p>
+<a name="Desktop_.26_software_example" id="Desktop_.26_software_example"></a><h2><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=10" title="Edit section: Desktop &amp; software example">edit</a>]</span> <span class="mw-headline"> Desktop &amp; software example </span></h2>
+<ul><li> The desktop Environment
+</li></ul>
+<pre># apt-get install --no-install-recommends awesome feh pcmanfm lxde-icon-theme mutt terminator
+</pre>
+<ul><li><ul><li> awesome is the desktop environment
+</li><li> feh is a background manager (for wallpaper and stuff)
+</li><li> pcmanfm is a tiny file manager
+</li><li> lxde-icon-theme is for nice looking
+</li><li> mutt is a command line email manager. I use it to read mails from system.
+</li><li> terminator is a very powerfull terminal with very nice things
+</li></ul>
+</li></ul>
+<p><br />
+</p>
+<ul><li> For the interwebs
+</li></ul>
+<pre># apt-get install --no-install-recommends claws-mail midori flashplugin-nonfree wicd wicd-gtk irssi irssi-plugin-otr
+</pre>
+<ul><li><ul><li> claws-mail is an email manager ...
+</li><li> midori to surf the interwebz
+</li><li> flashplugin-nonfree to watch some porn^Wdocumentary videos
+</li><li> wicd &amp; wicd-gtk is the network manager and it's graphical utility.
+</li><li> irssi is a command line irc client &amp; it's OTR plugin
+</li></ul>
+</li></ul>
+<p><br />
+</p>
+<ul><li> Security, becous we need that, also. -- vulns oriented
+</li></ul>
+<pre># apt-get install --no-install-recommends clamav clamav-freshclam rkhunter lsat debsecan
+</pre>
+<ul><li><ul><li> clamav is an antivirus, and clamav-freshclam it's updater tool
+</li><li> rkhunter checks for rootkits on your machine
+</li><li> lsat is the Linux Security Auditing Tool , which checks for misconfigured things
+</li><li> debsecan lists your system vulnerabilities
+</li></ul>
+</li></ul>
+<p><br />
+</p>
+<ul><li> Security, interwebs oriented
+</li></ul>
+<pre># apt-get install --no-install-recommends tor tor-geoipdb privoxy i2p proxychains telnet-ssl cryptcat openssh-client
+</pre>
+<ul><li><ul><li> tor, tor-geopipdb and privoxy&nbsp;: things required to surf anonymously (yeah I know, beeing anonymous on the interwebz is not only "going through Tor")
+</li><li> i2p is the invisible internet project ( <a href="https://i2p2.de" class="external free" title="https://i2p2.de" rel="nofollow">https://i2p2.de</a> )
+</li><li> proxychain is for chaining multiple proxies
+</li><li> telnet-ssl is telnet witl ssl support
+</li><li> cryptcat is netcat with encryption support
+</li></ul>
+</li></ul>
+<p><br />
+</p>
+<ul><li> Virtual Private Network stuffs
+</li></ul>
+<pre># apt-get install --no-install-recommends openvpn gadmin-openvpn-client gadmin-openvpn-server n2n vpnc
+</pre>
+<ul><li><ul><li> openvpn, the famous vpn client &amp; server, gadmin-openvpn-{client,server} are graphical utilities
+</li><li> n2n is a peer-to-peer network daemon
+</li><li> vpnc is a cisco-compatible VPN client
+</li></ul>
+</li></ul>
+<p><br />
+</p>
+<ul><li> Crypto
+</li></ul>
+<pre># apt-get install --no-install-recommends outguess steghide 
+</pre>
+<ul><li><ul><li> outguess&nbsp;: "universal steganographic tool"
+</li><li> steghide&nbsp;: a steganographic hiding tool
+</li></ul>
+</li></ul>
+<p><br />
+</p>
+<ul><li> Office, sound &amp; image things
+</li></ul>
+<pre># apt-get install --no-install-recommends abiword xpdf vlc ristretto mtpaint
+</pre>
+<ul><li><ul><li> abiword&nbsp;: AbiWord is a full-featured, efficient word processing application, with plugin support
+</li><li> xpdf&nbsp;: a tiny pdf viewer
+</li><li> vlc&nbsp;: eh, you know..
+</li><li> ristretto&nbsp;: an image viewer
+</li><li> mtpaint&nbsp;: an image manipulator
+</li></ul>
+</li></ul>
+<p><br />
+</p>
+<ul><li> Miscelangelous
+</li></ul>
+<pre># apt-get install --no-install-recommends ddrescue wipe secure-delete
+</pre>
+<ul><li><ul><li> ddrescue is for data recovery
+</li><li> wipe &amp; secure-delete are tools to erase securly your files (and hope they won't be recoverable)
+</li></ul>
+</li></ul>
+<p><br />
+</p>
+<a name="Enforcement" id="Enforcement"></a><h1><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=11" title="Edit section: Enforcement">edit</a>]</span> <span class="mw-headline"> Enforcement </span></h1>
+<p>Miscellangelous possible enforcement. You don't HAVE to implement them. But remember they exists&nbsp;:)
+</p><p>Sources grabbed from the internets:
+</p>
+<ul><li> <a href="https://tails.boum.org/contribute/design/Tor_enforcement/" class="external free" title="https://tails.boum.org/contribute/design/Tor_enforcement/" rel="nofollow">https://tails.boum.org/contribute/design/Tor_enforcement/</a>
+</li></ul>
+<p><br />
+</p>
+<a name="tor_dns" id="tor_dns"></a><h2><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=12" title="Edit section: tor dns">edit</a>]</span> <span class="mw-headline"> tor dns </span></h2>
+<ul><li> Install needed tools
+</li></ul>
+<p>For this to work, you will need to add torproject's official repo - follow the instructions from the official website if you've doubts&nbsp;:) <a href="https://www.torproject.org/docs/debian.html.en" class="external free" title="https://www.torproject.org/docs/debian.html.en" rel="nofollow">https://www.torproject.org/docs/debian.html.en</a>
+</p><p>To do so, add 
+</p>
+<pre>deb <a href="http://deb.torproject.org/torproject.org" class="external free" title="http://deb.torproject.org/torproject.org" rel="nofollow">http://deb.torproject.org/torproject.org</a> &lt;DISTRIBUTION&gt; main
+</pre>
+<p>in your /etc/apt/source.list. PLEASE REPLACE &lt;DISTRIBUTION&gt; BY YOUR RUNNING DEBIAN VERSION. ie: sid OR squeeze OR wheezy OR ...
+</p><p>Then, add the key used to sign the packages
+</p>
+<pre># gpg --keyserver keys.gnupg.net --recv 886DDD89; gpg --export A3C4F0F979CAA22CDBA8F512EE8CBC9E886DDD89 | apt-key add -
+</pre>
+<p>Now update the package list and install needed tools
+</p>
+<pre># apt-get update &amp;&amp; apt-get install pdnsd ttdnsd resolvconf tor tor-geoipdb privoxy torsocks socat --no-install-recommends
+</pre>
+<p>pdnsd will ask you what type of configuration you want. Choose "manual".
+</p><p>One everything is installed, it's time to modify the config files...
+</p>
+<ul><li> Enable Tor internal resolver
+</li></ul>
+<p>Add this in /etc/tor/torrc
+</p>
+<pre>DNSPort 8853
+AutomapHostsOnResolve 1
+AutomapHostsSuffixes .exit,.onion
+</pre>
+<ul><li> Not directly related but, you would also maybe add this in your /etc/tor/torrc
+</li></ul>
+<pre># Try for at most NUM seconds when building circuits. If the circuit isn't
+# open in that time, give up on it. (Default: 1 minute.)
+CircuitBuildTimeout 20
+# Send a padding cell every N seconds to keep firewalls from closing our
+# connections while Tor is not in use.
+KeepalivePeriod 60
+# Force Tor to consider whether to build a new circuit every NUM seconds.
+NewCircuitPeriod 20
+# How many entry guards should we keep at a time?
+NumEntryGuards 8
+</pre>
+<ul><li> Replace /etc/pdnsd.conf content with this:
+</li></ul>
+<pre>global {
+   perm_cache = 2048;
+   cache_dir = "/var/cache/pdnsd";
+   run_as = "pdnsd";
+   server_ip = 127.0.0.1;          
+   status_ctl = on;
+   min_ttl = 15m;
+   max_ttl = 1w;
+   timeout = 120;
+}
+
+# Tor DNS resolver
+server {
+   label = "tor";
+   ip = 127.0.0.1;
+   port = 8853;
+   uptest = none;
+   exclude=".invalid";
+   policy=included;
+   proxy_only = on;
+   lean_query = on;
+}                                                                                                                                      
+# ttdnsd
+server {
+   label = "ttdnsd";
+   ip = 127.0.0.2;
+   port = 53;
+   uptest = none;
+   exclude=".invalid",".exit",".onion";
+   policy=included;
+   proxy_only = on;
+   lean_query = on;
+}
+</pre>
+<ul><li> Edit /etc/default/ttdnsd and make the options look like this
+</li></ul>
+<pre>ADDR_ARG="-b 127.0.0.2"
+PORT_ARG="-p 53"
+</pre>
+<ul><li> Replace the evil google DNS ip by the lovely telecomix one
+</li></ul>
+<pre># sed -i 's/8.8.8.8/91.191.136.152/' /etc/ttdnsd.conf
+</pre>
+<ul><li> Enable pdnsd
+</li></ul>
+<pre># sed -i 's/START_DAEMON=no/START_DAEMON=yes/' /etc/default/pdnsd
+</pre>
+<ul><li> And restart everything
+</li></ul>
+<pre># /etc/init.d/tor reload &amp;&amp; /etc/init.d/pdnsd restart &amp;&amp; /etc/init.d/ttdnsd restart
+</pre>
+<a name="privoxy" id="privoxy"></a><h2><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=13" title="Edit section: privoxy">edit</a>]</span> <span class="mw-headline"> privoxy </span></h2>
+<p>Configure privoxy to handle i2p AND tor connections.
+Add this, somewhere, in /etc/privoxy/config
+</p>
+<pre>forward .i2p localhost:4444
+forward-socks4a / localhost:9050 .
+</pre>
+<p>You may also want to tell privoxy to not store logs, then find and comment the lines
+</p>
+<pre>#logfile logfile
+#debug 1
+</pre>
+<p>To find them easly, you can get their line number using
+</p>
+<pre># grep -nE '^logfile|^debug' /etc/privoxy/config
+</pre>
+<a name="firewall" id="firewall"></a><h2><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=14" title="Edit section: firewall">edit</a>]</span> <span class="mw-headline"> firewall </span></h2>
+<p>Based on the tails' iptables rules
+</p>
+<pre>#!/usr/bin/env sh
+
+### BEGIN INIT INFO
+# Provides: fw
+# Required-Start:
+# Required-Stop:
+# Should-Start:
+# Should-Stop:
+# Default-Start: 2 3 4 5
+# Default-Stop: 0 1 6
+# Short-Description: try to enhance some security
+# Description: small tool to do things
+### END INIT INFO
+
+fw_start() {
+    iptables -F
+    iptables -X
+
+    iptables -P INPUT DROP
+    iptables -P FORWARD DROP
+    iptables -P OUTPUT DROP
+
+    # Established incoming connections are accepted.
+    iptables -A INPUT -m state --state RELATED,ESTABLISHED -j ACCEPT
+
+    # Traffic on the loopback interface is accepted.
+    iptables -A INPUT -i lo -j ACCEPT
+
+    # Established outgoing connections are accepted.
+    iptables -A OUTPUT -m state --state RELATED,ESTABLISHED -j ACCEPT
+
+    # Internal network connections are accepted.
+    iptables -A OUTPUT -d 127.0.0.0/255.0.0.0 -j ACCEPT
+
+    # Local network connections should not go through Tor but DNS shall be
+    # rejected.
+    iptables -N lan
+    iptables -A lan -p TCP --dport domain -j REJECT
+    iptables -A lan -p UDP --dport domain -j REJECT
+    iptables -A lan -j ACCEPT
+
+    # Sort out traffic to local network
+    # Note that we exclude the VirtualAddrNetwork used for .onion:s here.
+    iptables -A OUTPUT -d 192.168.0.0/255.255.0.0 -j lan
+    iptables -A OUTPUT -d 10.0.0.0/255.0.0.0 -j lan
+    iptables -A OUTPUT -d 172.16.0.0/255.240.0.0 -j lan
+
+    # Tor is allowed to do anything it wants to.
+    grep -q debian-tor /etc/passwd &amp;&amp; iptables -A OUTPUT -m owner --uid-owner debian-tor -j ACCEPT
+
+    # i2p is allowed to do anything it wants to.
+    grep -q i2psvc /etc/passwd &amp;&amp; iptables -A OUTPUT -m owner --uid-owner i2psvc -j ACCEPT
+
+    # Everything else is dropped.
+    iptables -A OUTPUT -j REJECT --reject-with icmp-port-unreachable
+
+    # log incomming connection attempts
+    iptables -A INPUT -p tcp -m tcp -m state --state NEW -j LOG --log-prefix "input(tcp) " -m limit --limit 1/minute
+    iptables -A INPUT&nbsp;! -p tcp -j LOG --log-prefix "input(all) " -m limit --limit 1/minute
+
+    # some kernel enhancement
+
+    #&nbsp;; ignore broadcast
+    echo 1 &gt; /proc/sys/net/ipv4/icmp_echo_ignore_broadcasts 
+
+    #&nbsp;; disable forwarding
+    echo 0 &gt; /proc/sys/net/ipv4/ip_forward
+
+    #&nbsp;; enable tcp syn cookie protection
+    echo 1 &gt; /proc/sys/net/ipv4/tcp_syncookies
+ 
+    #&nbsp;; ignore buggus icmp responses
+    echo 1 &gt; /proc/sys/net/ipv4/icmp_ignore_bogus_error_responses
+
+    #&nbsp;; ignore all icmp
+    echo 1 &gt; /proc/sys/net/ipv4/icmp_echo_ignore_all 
+
+    #&nbsp;; ip spoofing protection
+    for f in /proc/sys/net/ipv4/conf/*/rp_filter; do
+      echo 1 &gt; $f
+    done
+
+    # Don't accept or send ICMP redirects.
+    for i in /proc/sys/net/ipv4/conf/*/accept_redirects; do echo 0 &gt; $i; done
+    for i in /proc/sys/net/ipv4/conf/*/send_redirects; do echo 0 &gt; $i; done
+
+    # Disable Source Routed Packets
+    for f in /proc/sys/net/ipv4/conf/*/accept_source_route; do
+      echo 0 &gt; $f
+    done 
+
+    #&nbsp;; Log martian
+    for f in /proc/sys/net/ipv4/conf/*/log_martians; do
+      echo 1 &gt; $f
+    done
+
+    # Disable proxy_arp.
+    for i in /proc/sys/net/ipv4/conf/*/proxy_arp; do echo 0 &gt; $i; done
+
+    # Reduce number of possible SYN Floods
+    echo "512" &gt;/proc/sys/net/ipv4/tcp_max_syn_backlog
+
+}
+
+fw_stop() {
+  iptables -F
+  iptables -t nat -F
+  iptables -t mangle -F
+  iptables -P INPUT DROP
+  iptables -P FORWARD DROP
+  iptables -P OUTPUT DROP
+}
+
+case $1 in
+  start)
+    echo -n "firewall&nbsp;: starting ... "
+    fw_start
+    echo "ok"
+ &nbsp;;;
+  stop)
+    echo -n "firewall: stopping ... "
+    fw_stop
+    echo "ok"
+ &nbsp;;;
+  *)
+    echo "usage: $0 &lt;start|stop&gt;&nbsp;; that's all."
+ &nbsp;;;
+esac
+
+exit 0
+</pre>
+<a name="proxy_environment" id="proxy_environment"></a><h2><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=15" title="Edit section: proxy environment">edit</a>]</span> <span class="mw-headline"> proxy environment </span></h2>
+<p>Add this, as root, in /etc/profile (at the very bottom is a good choice), to make applications (which take care of the system configuration) to auto redirect traffic through your proxy (and then, probably tor/i2p/whatever).
+</p>
+<pre>export http_proxy='<a href="http://127.0.0.1:8118'" class="external free" title="http://127.0.0.1:8118'" rel="nofollow">http://127.0.0.1:8118'</a>
+export https_proxy='<a href="http://127.0.0.1:8118'" class="external free" title="http://127.0.0.1:8118'" rel="nofollow">http://127.0.0.1:8118'</a>
+export ftp_proxy='<a href="http://127.0.0.1:8118'" class="external free" title="http://127.0.0.1:8118'" rel="nofollow">http://127.0.0.1:8118'</a>
+export ftps_proxy='<a href="http://127.0.0.1:8118'" class="external free" title="http://127.0.0.1:8118'" rel="nofollow">http://127.0.0.1:8118'</a>
+export sftp_proxy='<a href="http://127.0.0.1:8118'" class="external free" title="http://127.0.0.1:8118'" rel="nofollow">http://127.0.0.1:8118'</a>
+export HTTP_PROXY='<a href="http://127.0.0.1:8118'" class="external free" title="http://127.0.0.1:8118'" rel="nofollow">http://127.0.0.1:8118'</a>
+export HTTPS_PROXY='<a href="http://127.0.0.1:8118'" class="external free" title="http://127.0.0.1:8118'" rel="nofollow">http://127.0.0.1:8118'</a>
+</pre>
+<p><br />
+</p>
+<a name="random_hostname_on_boot" id="random_hostname_on_boot"></a><h2><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=16" title="Edit section: random hostname on boot">edit</a>]</span> <span class="mw-headline"> random hostname on boot </span></h2>
+<p>Just follow this page: <a href="https://cryptoanarchy.org/wiki/Random_hostname_on_boot" class="external free" title="https://cryptoanarchy.org/wiki/Random_hostname_on_boot" rel="nofollow">https://cryptoanarchy.org/wiki/Random_hostname_on_boot</a>
+</p><p><br />
+</p>
+<a name="random_mac_interfaces" id="random_mac_interfaces"></a><h2><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=17" title="Edit section: random mac interfaces">edit</a>]</span> <span class="mw-headline"> random mac interfaces </span></h2>
+<p>Just follow this page: <a href="https://cryptoanarchy.org/wiki/Random_MAC_when_bringing_the_network_interfaces" class="external free" title="https://cryptoanarchy.org/wiki/Random_MAC_when_bringing_the_network_interfaces" rel="nofollow">https://cryptoanarchy.org/wiki/Random_MAC_when_bringing_the_network_interfaces</a>
+</p><p><br />
+</p>
+<a name="Tips" id="Tips"></a><h1><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=18" title="Edit section: Tips">edit</a>]</span> <span class="mw-headline"> Tips </span></h1>
+<ul><li> to make bash completion working with the packages names, you'll need the ... bash-completion package
+</li></ul>
+<pre># apt-get install --no-install-recommends bash-completion &amp;&amp; source /etc/bash_completion
+</pre>
+<ul><li> remove the loggin daemon
+</li></ul>
+<pre># apt-get remove --purge rsyslog
+</pre>
+<ul><li> remove aptitude &amp; tasksel
+</li></ul>
+<pre># apt-get remove --purge aptitude tasksel tasksel-data
+</pre>
+<ul><li> decrease the number of virtual ttys
+</li></ul>
+<pre># nano /etc/inittab
+</pre>
+<p>find the lines containing "respawn" , and comment some of them. Close &amp; save&nbsp;: ctrl^x y &lt;enter&gt;
+</p>
+<ul><li> use <b>apt-get clean</b> to save disk space (this will erase the .deb from cache)
+</li><li> try to use "<b>--no-install-recommends</b>" to avoid the installation of useless packages (which will "eat" your limited disk space)
+</li><li> read this <a href="http://www.linuxsecurity.com/resource_files/host_security/securing-debian-howto/index.en.html" class="external free" title="http://www.linuxsecurity.com/resource_files/host_security/securing-debian-howto/index.en.html" rel="nofollow">http://www.linuxsecurity.com/resource_files/host_security/securing-debian-howto/index.en.html</a>
+</li></ul>
+<a name="To_Do" id="To_Do"></a><h1><span class="editsection">[<a href="/w/index.php?title=Build_your_own_livething&amp;action=edit&amp;section=19" title="Edit section: To Do">edit</a>]</span> <span class="mw-headline"> To Do </span></h1>
+<ul><li> make it possible to load into RAM (to be able to remove the usb stick and leave to OS working) - probably using "toram" option in grub.conf or something
+</li><li> hidden volume creation (truecrypt)&nbsp;? <a href="https://wiki.archlinux.org/index.php/TrueCrypt" class="external autonumber" title="https://wiki.archlinux.org/index.php/TrueCrypt" rel="nofollow">[6]</a> <a href="http://www.truecrypt.org/downloads" class="external free" title="http://www.truecrypt.org/downloads" rel="nofollow">http://www.truecrypt.org/downloads</a>.
+</li><li> A lot of things&nbsp;!&nbsp;:)
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 20/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:410-0!1!0!!en!2 and timestamp 20121019215649 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Build_your_own_livething">https://cryptoanarchy.org/wiki/Build_your_own_livething</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Build_your_own_livething" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Build_your_own_livething&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Build_your_own_livething&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Build_your_own_livething&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Build_your_own_livething" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Build_your_own_livething" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Build_your_own_livething" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Build_your_own_livething&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Build_your_own_livething&amp;oldid=3835" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 9 June 2012, at 21:16.</li>
+					<li id="viewcount">This page has been accessed 454 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.143 secs. --></body></html>
+1
+
+
+0
+

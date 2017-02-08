@@ -1,0 +1,345 @@
+59d0
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Assembler,Mainframe,Solaris" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Assembler&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Assembler&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Assembler&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Assembler - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Assembler";
+		var wgTitle = "Assembler";
+		var wgAction = "view";
+		var wgArticleId = "362";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 3536;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Assembler skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Assembler</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p>Assembler is a large number of languages for programming microprocessors. There is often one dialect for each single processor release. Assembler for the 80386 processor is not same as for the 80486, there are more words in the 486 language.
+</p><p><font color="red">Warning:</font> This article will take forever before it gets anywhere near completion. The topic requires HUGE amounts of text to be written.
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#x86"><span class="tocnumber">1</span> <span class="toctext">x86</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Introduction"><span class="tocnumber">1.1</span> <span class="toctext">Introduction</span></a></li>
+<li class="toclevel-2"><a href="#x86_is_CISC"><span class="tocnumber">1.2</span> <span class="toctext">x86 is CISC</span></a></li>
+<li class="toclevel-2"><a href="#Real_mode_.2816-bit.29"><span class="tocnumber">1.3</span> <span class="toctext">Real mode (16-bit)</span></a></li>
+<li class="toclevel-2"><a href="#Protected_mode_.2832-bit.29"><span class="tocnumber">1.4</span> <span class="toctext">Protected mode (32-bit)</span></a></li>
+<li class="toclevel-2"><a href="#Long_mode_.2864-bit.29"><span class="tocnumber">1.5</span> <span class="toctext">Long mode (64-bit)</span></a></li>
+<li class="toclevel-2"><a href="#Other_more_esoteric_modes"><span class="tocnumber">1.6</span> <span class="toctext">Other more esoteric modes</span></a></li>
+<li class="toclevel-2"><a href="#How_to_switch_between_modes"><span class="tocnumber">1.7</span> <span class="toctext">How to switch between modes</span></a></li>
+<li class="toclevel-2"><a href="#Virtualization"><span class="tocnumber">1.8</span> <span class="toctext">Virtualization</span></a></li>
+<li class="toclevel-2"><a href="#Trusted_platform_module"><span class="tocnumber">1.9</span> <span class="toctext">Trusted platform module</span></a></li>
+<li class="toclevel-2"><a href="#Example_of_a_simple_operating_system"><span class="tocnumber">1.10</span> <span class="toctext">Example of a simple operating system</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Other_processor_families"><span class="tocnumber">2</span> <span class="toctext">Other processor families</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="x86" id="x86"></a><h2><span class="editsection">[<a href="/w/index.php?title=Assembler&amp;action=edit&amp;section=1" title="Edit section: x86">edit</a>]</span> <span class="mw-headline"> x86 </span></h2>
+<p>x86 is used by PC, and nowadays also Mac computers.
+</p><p>The x86 language with its hundreds of dialects is probably the most used machine language. There are at least five different syntaxes for describing the instructions: gas, yasm, masm, fasm and the now very old and not so often used tasm.
+</p>
+<ul><li> <b>gas</b> is the GNU assembler. Its syntax is reversed and feels like it is built for compilers, not humans.
+</li><li> <b>yasm</b> is a very simple assembler. Its syntax is built for humans. Successor of the nasm assembler. 
+<ul><li> <a href="http://yasm.tortall.net/" class="external text" title="http://yasm.tortall.net/" rel="nofollow">Web page</a>.
+</li></ul>
+</li><li> <b>masm</b> Microsoft assembler. It is a bit confused and is mostly used for writing windows EXE files.
+</li><li> <b>fasm</b> is the fast assembler. It is the only assembler language that has a self-assembling assembler, that i know of.
+<ul><li> <a href="http://flatassembler.net/" class="external text" title="http://flatassembler.net/" rel="nofollow">Web page</a>
+</li></ul>
+</li><li> <b>tasm</b> is an oldskool assembler that was used for demo's and viruses. 
+</li></ul>
+<p>Yasm is the assembler of choice for this tutorial.
+</p>
+<a name="Introduction" id="Introduction"></a><h3><span class="editsection">[<a href="/w/index.php?title=Assembler&amp;action=edit&amp;section=2" title="Edit section: Introduction">edit</a>]</span> <span class="mw-headline"> Introduction </span></h3>
+<p>Understanding by examples. This is yasm syntax. (Go check the web pages for more documentation.)
+</p><p>16-bit real mode code. Only works for 386 and newer processors (since it uses 32-bit registers.) This code might not work if there is an operating system running. It set the cursors position on the terminal, using an old Cathode Ray Tube (CRT) controller chip present on all PC computers (if you run linux, pressing CTRL+ALT+1 gets you into this terminal mode, in most default installations). This code works even today, but the CRT chip has probably often been replaced by BIOS SMM emulation or similar.
+</p>
+<pre>
+set_cursor_pos:
+	; al = x, ah = y
+
+	push eax
+	push ebx
+	push ecx
+	push edx
+
+	xor ebx, ebx
+
+	mov bl, al
+	mov ecx, ebx
+	mov bl, ah
+	mov eax, 80
+	mul bx
+	add eax, ecx			; calculate offset for the crtc
+
+	; eax = ax = y * 25 + x
+
+	mov edx, 0x3D4
+	mov ecx, eax
+	mov al, 0x0F
+	out dx, al
+	mov eax, ecx
+	inc edx
+	out dx, al
+	mov al, 0x0E
+	dec edx
+	out dx, al
+	mov eax, ecx
+	mov al, ah
+	inc edx
+	out dx, al			; send the offset to crtc
+
+	pop edx
+	pop ecx
+	pop ebx
+	pop eax
+	ret
+
+; quick crtc tutorial:
+; index port = 3D4
+; data port = 3D5
+; index 0E = high cursor offset
+; index 0F = low cursor offset
+; 
+; the cursor is set to the coordinates in these two crtc-registers (hi+lo-byte
+; share the offset of y*columns+x, wich points to the cursor.. kinda)
+</pre>
+<a name="x86_is_CISC" id="x86_is_CISC"></a><h3><span class="editsection">[<a href="/w/index.php?title=Assembler&amp;action=edit&amp;section=3" title="Edit section: x86 is CISC">edit</a>]</span> <span class="mw-headline"> x86 is CISC </span></h3>
+<ul><li> Means it has variable opcode length.
+</li><li> Means it is a bit stupid. But everyone use it.
+</li></ul>
+<a name="Real_mode_.2816-bit.29" id="Real_mode_.2816-bit.29"></a><h3><span class="editsection">[<a href="/w/index.php?title=Assembler&amp;action=edit&amp;section=4" title="Edit section: Real mode (16-bit)">edit</a>]</span> <span class="mw-headline"> Real mode (16-bit) </span></h3>
+<ul><li> This is the state the computer enters after a boot, often before the operating system has begun loading
+</li><li> Addressing: 20-bit, with segment and offset
+</li></ul>
+<a name="Protected_mode_.2832-bit.29" id="Protected_mode_.2832-bit.29"></a><h3><span class="editsection">[<a href="/w/index.php?title=Assembler&amp;action=edit&amp;section=5" title="Edit section: Protected mode (32-bit)">edit</a>]</span> <span class="mw-headline"> Protected mode (32-bit) </span></h3>
+<ul><li> A bunch of data structures that is read by the CPU
+</li><li> Offset within a segment may be anything from 0 to 2^32-1 ("4GB segments")
+</li><li> Paging
+<ul><li> W^X
+</li></ul>
+</li><li> Task selectors for machine-aided context switches (was cool when we had 166MHz computers)
+</li><li> Extended interrupt vector table
+</li><li> Rings (ring 0 is operating system mode with full privilege, ring 3 is application program mode. Ring 1 and 2 is almost <i>never</i> used, but has some more privileges than ring 3.)
+</li></ul>
+<a name="Long_mode_.2864-bit.29" id="Long_mode_.2864-bit.29"></a><h3><span class="editsection">[<a href="/w/index.php?title=Assembler&amp;action=edit&amp;section=6" title="Edit section: Long mode (64-bit)">edit</a>]</span> <span class="mw-headline"> Long mode (64-bit) </span></h3>
+<ul><li> No segments, only offsets (Think: a single 16 billion GB large segment)
+</li><li> lots of relative branching (to save space, i guess, otherwise each branch would be at least 9 bytes long)
+</li><li> sysenter table
+</li><li> paging
+</li><li> Gather data here, eventually
+</li></ul>
+<a name="Other_more_esoteric_modes" id="Other_more_esoteric_modes"></a><h3><span class="editsection">[<a href="/w/index.php?title=Assembler&amp;action=edit&amp;section=7" title="Edit section: Other more esoteric modes">edit</a>]</span> <span class="mw-headline"> Other more esoteric modes </span></h3>
+<ul><li> System Management Mode (BIOS uses this to fool the operating system by emulating devices that does not exist)
+</li><li> Unreal mode (used by DOS 4GB extenders)
+</li></ul>
+<a name="How_to_switch_between_modes" id="How_to_switch_between_modes"></a><h3><span class="editsection">[<a href="/w/index.php?title=Assembler&amp;action=edit&amp;section=8" title="Edit section: How to switch between modes">edit</a>]</span> <span class="mw-headline"> How to switch between modes </span></h3>
+<p>put code here.
+</p>
+<a name="Virtualization" id="Virtualization"></a><h3><span class="editsection">[<a href="/w/index.php?title=Assembler&amp;action=edit&amp;section=9" title="Edit section: Virtualization">edit</a>]</span> <span class="mw-headline"> Virtualization </span></h3>
+<ul><li> Gather data here, eventually
+</li></ul>
+<a name="Trusted_platform_module" id="Trusted_platform_module"></a><h3><span class="editsection">[<a href="/w/index.php?title=Assembler&amp;action=edit&amp;section=10" title="Edit section: Trusted platform module">edit</a>]</span> <span class="mw-headline"> Trusted platform module </span></h3>
+<ul><li> Gather data here, eventually
+</li></ul>
+<a name="Example_of_a_simple_operating_system" id="Example_of_a_simple_operating_system"></a><h3><span class="editsection">[<a href="/w/index.php?title=Assembler&amp;action=edit&amp;section=11" title="Edit section: Example of a simple operating system">edit</a>]</span> <span class="mw-headline"> Example of a simple operating system </span></h3>
+<ul><li> modify the SNAFU code
+</li></ul>
+<a name="Other_processor_families" id="Other_processor_families"></a><h2><span class="editsection">[<a href="/w/index.php?title=Assembler&amp;action=edit&amp;section=12" title="Edit section: Other processor families">edit</a>]</span> <span class="mw-headline"> Other processor families </span></h2>
+<ul><li> ARM
+<ul><li> Routers, switches, iPods. Stuff that needs efficient small processors.
+</li><li> Really cute assembler language
+</li></ul>
+</li><li> SPARC and UltraSPARC
+<ul><li> Corporate and scientific machinery. Birthplace of the <a href="/w/index.php?title=Solaris&amp;action=edit&amp;redlink=1" class="new" title="Solaris (page does not exist)">Solaris</a> operating system.
+</li></ul>
+</li><li> MIPS
+<ul><li> Small and energy-efficient architecture, like ARM.
+</li></ul>
+</li><li> Alpha (now dead)
+<ul><li> Shady corporate machines only
+</li></ul>
+</li><li> Itanium
+<ul><li> Executes bundles of three instructions each. Each bundle consists of a 5-bit header specifying type of instruction coding, followed by three 41-bit long opcodes.
+</li><li> CPUs does not automatically try to optimize execution of code, as with other architectures. Instead, it relies heavily on aid from the compiler (or the assembler programmer) to describe how data will be used in the future, in order to avoid accessing data before it has been assigned values.
+</li><li> In other ways its a bit like x86, if one ignores that the code looks really weird
+</li><li> Pretty dead?
+</li></ul>
+</li><li> HC11
+<ul><li> Small industrial processor, 16-bit
+</li></ul>
+</li><li> Z80
+<ul><li> ZiLog, the company owning Z80 was formed as a splinter group from Intel. Z80 had the chance to become the x86 in the late 80ies, but it failed for some reason. Z80 still exist and is one of the most sold processors in all history.
+</li><li> Very much like x86 in its design
+</li></ul>
+</li><li> 6502
+<ul><li> Nintendo 8-bit for NES and with an added 16 Bit mode for the SNES
+</li><li> C64
+</li><li> Apple I and Apple II
+</li></ul>
+</li><li> IBM mainframes has their own assembler language.
+<ul><li> <a href="/wiki/Mainframe" title="Mainframe">Very short example</a>
+</li></ul>
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 17/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:362-0!1!0!!en!2 and timestamp 20121020023615 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Assembler">https://cryptoanarchy.org/wiki/Assembler</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>:&#32;<span dir='ltr'><a href="/wiki/Category:Programming" title="Category:Programming">Programming</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Assembler" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Assembler&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Assembler&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Assembler&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Assembler" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Assembler" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Assembler" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Assembler&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Assembler&amp;oldid=3536" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 24 January 2012, at 17:14.</li>
+					<li id="viewcount">This page has been accessed 318 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.188 secs. --></body><
+7
+/html>
+
+0
+

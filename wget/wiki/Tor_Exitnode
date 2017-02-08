@@ -1,0 +1,411 @@
+6120
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Tor Exitnode" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Tor_Exitnode&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Tor_Exitnode&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Tor_Exitnode&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Tor Exitnode - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Tor_Exitnode";
+		var wgTitle = "Tor Exitnode";
+		var wgAction = "view";
+		var wgArticleId = "439";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 4019;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Tor_Exitnode skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Tor Exitnode</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p><b>Run a tor exit node with Debian</b>
+</p><p>For French see this page [address hasn't already been created]
+</p>
+<a name="Tor_installation_.26.26_configuration" id="Tor_installation_.26.26_configuration"></a><h2><span class="editsection">[<a href="/w/index.php?title=Tor_Exitnode&amp;action=edit&amp;section=1" title="Edit section: Tor installation &amp;&amp; configuration">edit</a>]</span> <span class="mw-headline">Tor installation &amp;&amp; configuration</span></h2>
+<p>Considering you are here, you already know what TOR is. Else you can search on the web and find plenty of docs.
+there are already plenty of tutorials on how to host a TOR relay, we've done this one the shortest and the simplest as possible. Quick and easy to go! 
+This page is for building an Tor Exit node. Keep in mind that it can leads to abuse
+I only put the lines which have to be changed. /!\ the number is the line number coming from vim, it's there for an indication, do NOT add it.
+</p><p>If you have not yet installed TOR you may follow these following install guidelines.
+</p>
+<pre>
+:~$ gpg --keyserver keys.gnupg.net --recv 886DDD89
+</pre>
+<pre>
+:~$ gpg --export A3C4F0F979CAA22CDBA8F512EE8CBC9E886DDD89 | sudo apt-key add -
+</pre>
+<pre>
+:~$ apt-get update
+</pre>
+<pre>
+:~$ apt-get install deb.torproject.org-keyring
+</pre>
+<pre>
+:~$ apt-get install tor
+</pre>
+<p>(more details can be seen there&nbsp;: <a href="https://www.torproject.org/docs/debian.html.en#ubuntu" class="external free" title="https://www.torproject.org/docs/debian.html.en#ubuntu" rel="nofollow">https://www.torproject.org/docs/debian.html.en#ubuntu</a>) Now TOR should be running, You can test it whlie putting your browser on 127.0.0.1:9050 and the go to <a href="https://check.torproject.org/" class="external free" title="https://check.torproject.org/" rel="nofollow">https://check.torproject.org/</a>. (If it's a dedicated server, it's normal that this doesn't work). 
+</p><p>Then we'll edit the configuration file which is  /etc/tor/torrc. I use vim, but you can use any other text editor. 
+</p>
+<pre>
+:~$ vim /etc/tor/torrc
+</pre>
+<p>I'll let the line number to be changed  /!\ to find it quicker but please make sure you don't put the number in your script.
+</p>
+<pre>
+48 RunAsDaemon 1
+</pre>
+<p>To start the process in the background.
+</p>
+<pre>
+83 ORPort 9001
+</pre>
+<p>You can use the port <b>443</b> if you don't have any <b>HTTPS</b> services. It permits people behind a proxy or a firewall to access TOR.
+</p>
+<pre>
+100 Nickname Put_your_relay's_name
+</pre>
+<pre>
+107 RelayBandwidthRate 100 KB  # Throttle traffic to 100KB/s (800Kbps)
+108 RelayBandwidthBurst 200 KB # But allow bursts up to 200KB/s (1600Kbps)
+</pre>
+<p>You can set a limit if you don't want the tor relay to use too much bandwidth.
+</p>
+<pre>
+115 ## Set a maximum of 4 gigabytes each way per period.
+116 #AccountingMax 4 GB
+117 ## Each period starts daily at midnight (AccountingMax is per day)
+118 #AccountingStart day 00:00
+119 ## Each period starts on the 3rd of the month at 15:00 (AccountingMax
+120 ## is per month)
+121 #AccountingStart month 3 15:00
+</pre>
+<p>If you want to a set a limit on the amount of data going through you relay.
+</p>
+<pre>
+126 ContactInfo Random Person &lt;nobody AT example dot com&gt;
+</pre>
+<p>Contact info to be published in the directory, so we can contact you if your relay is misconfigured or something else goes wrong. Google indexes this, so spammers might also collect it.
+</p>
+<pre>
+128 ContactInfo 0xFFFFFFFF Random Person &lt;nobody AT example dot com&gt;
+</pre>
+<p>You might also include your PGP or GPG fingerprint if you have one.
+</p>
+<pre>
+132 DirPort 9030 # what port to advertise for directory connections
+</pre>
+<p>You can use the port <b>80</b> if you don't have any <b>HTTP</b> services. It permits people behind a proxy or a firewall to access TOR.
+</p>
+<pre>
+154 ## A comma-separated list of exit policies. They're considered first
+155 ## to last, and the first match wins. If you want to _replace_
+156 ## the default exit policy, end this with either a reject *:* or an
+157 ## accept *:*. Otherwise, you're _augmenting_ (prepending to) the
+158 ## default exit policy. Leave commented to just use the default, which is
+159 ## described in the man page or at
+160 ## https://www.torproject.org/documentation.html
+161 ##
+162 ## Look at https://www.torproject.org/faq-abuse.html#TypicalAbuses
+163 ## for issues you might encounter if you use the default exit policy.
+164 ##
+165 ## If certain IPs and ports are blocked externally, e.g. by your firewall,
+166 ## you should update your exit policy to reflect this -- otherwise Tor
+167 ## users will be told that those destinations are down.
+168 ##
+169 ## For security, by default Tor rejects connections to private (local)
+170 ## networks, including to your public IP address. See the man page entry
+171 ## for ExitPolicyRejectPrivate if you want to allow &quot;exit enclaving&quot;.
+172 ##
+173 #ExitPolicy accept *:6660-6667,reject *:* # allow irc ports but no more
+174 #ExitPolicy accept *:119 # accept nntp as well as default exit policy
+</pre>
+<p>Please see [<a href="https://blog.torproject.org/running-exit-node|Tips" class="external text" title="https://blog.torproject.org/running-exit-node|Tips" rel="nofollow">for Running an Exit Node with Minimal Harassment</a>]. So if you follow these guidelines you should add to you torrc&nbsp;: 
+</p>
+<pre>
+ExitPolicy accept *:20-23    # FTP, SSH, telnet
+ExitPolicy accept *:43       # WHOIS
+ExitPolicy accept *:53       # DNS
+ExitPolicy accept *:79-81    # finger, HTTP
+ExitPolicy accept *:88       # kerberos
+ExitPolicy accept *:110      # POP3
+ExitPolicy accept *:143      # IMAP
+ExitPolicy accept *:194      # IRC
+ExitPolicy accept *:220      # IMAP3
+ExitPolicy accept *:443      # HTTPS
+ExitPolicy accept *:464-465  # kpasswd, SMTP over SSL
+ExitPolicy accept *:543-544
+ExitPolicy accept *:563      # NNTP over SSL
+ExitPolicy accept *:587      # SMTP
+ExitPolicy accept *:706
+ExitPolicy accept *:749      # kerberos
+ExitPolicy accept *:873      # rsync
+ExitPolicy accept *:902-904
+ExitPolicy accept *:981
+ExitPolicy accept *:989-995  # FTP over SSL, Netnews Administration System, telnets, IMAP over SSL, ircs, POP3 over SSL
+ExitPolicy accept *:1194     # openvpn
+ExitPolicy accept *:1220     # QT Server Admin
+ExitPolicy accept *:1293     # PKT-KRB-IPSec
+ExitPolicy accept *:1500     # VLSI License Manager
+ExitPolicy accept *:1723     # PPTP
+ExitPolicy accept *:1863     # MSNP
+ExitPolicy accept *:2082-2083 # Radius
+ExitPolicy accept *:2086-2087 # GNUnet, ELI
+ExitPolicy accept *:2095-2096 # NBX
+ExitPolicy accept *:3128     # SQUID
+ExitPolicy accept *:3389     # MS WBT
+ExitPolicy accept *:3690     # SVN
+ExitPolicy accept *:4321     # RWHOIS
+ExitPolicy accept *:4643
+ExitPolicy accept *:5050     # MMCC
+ExitPolicy accept *:5190     # ICQ
+ExitPolicy accept *:5222-5223 # XMPP, XMPP over SSL
+ExitPolicy accept *:5900     # VNC
+ExitPolicy accept *:6666-6667 # IRC
+ExitPolicy accept *:6679
+ExitPolicy accept *:6697
+ExitPolicy accept *:8000    # iRDMI
+ExitPolicy accept *:8008
+ExitPolicy accept *:8080    # HTTP Proxies
+ExitPolicy accept *:8087-8088 # Simplify Media SPP Protocol, Radan HTTP
+ExitPolicy accept *:8333    # Bitcoin
+ExitPolicy accept *:8443    # PCsync HTTPS
+ExitPolicy accept *:8888    # HTTP Proxies, NewsEDGE
+ExitPolicy accept *:9418    # git
+ExitPolicy accept *:9999    # distinct
+ExitPolicy accept *:10000   # Network Data Management Protocol
+ExitPolicy accept *:19638
+ExitPolicy reject *:*
+</pre>
+<p>To save the configuration file, just type
+</p>
+<pre>
+:wq
+</pre>
+<p>Now we're going to start TOR.
+</p>
+<pre>
+:~$ /etc/init.d/tor restart
+</pre>
+<p>Let's see what we have in the log
+</p>
+<pre>
+:~$ tail -f /var/log/tor/log
+</pre>
+<p>You should see scroll 
+</p>
+<pre>
+ 13 Jul 05 16:39:12.000 [notice] Tor 0.2.3.18-rc (git-a2015428e4698ff9) opening log file.
+ 14 Jul 05 16:39:12.000 [notice] Parsing GEOIP file /usr/share/tor/geoip.
+ 15 Jul 05 16:39:12.000 [notice] Configured to measure statistics. Look for the *-stats files that will first be written to the data directory in 24 hours from now.
+ 16 Jul 05 16:39:12.000 [notice] No AES engine found; using AES_* functions.
+ 17 Jul 05 16:39:12.000 [notice] This version of OpenSSL has a slow implementation of counter mode; not using it.
+ 18 Jul 05 16:39:13.000 [notice] OpenSSL OpenSSL 0.9.8o 01 Jun 2010 looks like version 0.9.8m or later; I will try SSL_OP to enable renegotiation
+ 19 Jul 05 16:39:13.000 [notice] Your Tor server's identity key fingerprint is 'spécifique à votre serveur'
+ 20 Jul 05 16:39:14.000 [notice] Reloaded microdescriptor cache.  Found 6671 descriptors.
+ 21 Jul 05 16:39:15.000 [notice] I learned some more directory information, but not enough to build a circuit: We have no usable consensus.
+ 22 Jul 05 16:39:15.000 [notice] Guessed our IP address as **.**.**.** (source: **.**.**.**).
+ 23 Jul 05 16:39:16.000 [notice] Bootstrapped 5%: Connecting to directory server.
+ 24 Jul 05 16:39:16.000 [notice] Heartbeat: It seems like we are not in the cached consensus.
+ 25 Jul 05 16:39:16.000 [notice] Heartbeat: Tor's uptime is 0:00 hours, with 2 circuits open. I've sent 0 kB and received 0 kB.
+ 26 Jul 05 16:39:16.000 [notice] Bootstrapped 10%: Finishing handshake with directory server.
+ 27 Jul 05 16:39:16.000 [notice] We weren't able to find support for all of the TLS ciphersuites that we wanted to advertise. This won't hurt security, but it might make your Tor (if 
+......
+ 67 Jul 05 16:39:23.000 [notice] Bootstrapped 80%: Connecting to the Tor network.
+ 68 Jul 05 16:39:24.000 [notice] Bootstrapped 85%: Finishing handshake with first hop.
+ 69 Jul 05 16:39:25.000 [notice] Bootstrapped 90%: Establishing a Tor circuit.
+ 70 Jul 05 16:39:26.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+ 71 Jul 05 16:39:26.000 [notice] Bootstrapped 100%: Done.
+ 72 Jul 05 16:39:26.000 [notice] Now checking whether ORPort **.**.**.**:9001 and DirPort **.**.**.**:9030 are reachable... (this may take up to 20 minutes -- look for log messages indicating success)
+ 73 Jul 05 16:39:28.000 [notice] Self-testing indicates your ORPort is reachable from the outside. Excellent. Publishing server descriptor.
+ 74 Jul 05 16:39:28.000 [notice] Self-testing indicates your DirPort is reachable from the outside. Excellent.
+ 75 Jul 05 16:39:30.000 [notice] Performing bandwidth self-test...done.
+</pre>
+<p>It's mandatory to have this message. 
+</p>
+<pre>
+73 Jul 05 16:39:28.000 [notice] Self-testing indicates your ORPort is reachable from the outside. Excellent. Publishing server descriptor.
+74 Jul 05 16:39:28.000 [notice] Self-testing indicates your DirPort is reachable from the outside. Excellent.
+</pre>
+<p>This shows that your relay works.
+</p><p>Later if you keep watching the log, you should should have every 6 hours a message about how much data went through your tor relay.
+</p>
+<pre>
+  6 Jul 06 22:54:45.000 [notice] Heartbeat: Tor's uptime is 6:00 hours, with ** circuits open. I've sent *.** GB and received *.** GB.
+  7 Jul 07 04:54:45.000 [notice] Heartbeat: Tor's uptime is 12:00 hours, with **circuits open. I've sent *.** GB and received *.** GB.
+</pre>
+<p>(date is not the same, I had restarted my relay between).
+</p><p>To shut down your relay
+</p>
+<pre>
+:~$ /etc/init.d/tor stop
+</pre>
+<p>This will takes 30 seconds to not to break current connections, so please wait those 30 seconds.
+</p><p>If you have any problem, you can ask on #telecomix, #tor or on the OFTC irc #tor
+</p>
+<a name="In_case_of_abuse" id="In_case_of_abuse"></a><h2><span class="editsection">[<a href="/w/index.php?title=Tor_Exitnode&amp;action=edit&amp;section=2" title="Edit section: In case of abuse">edit</a>]</span> <span class="mw-headline">In case of abuse</span></h2>
+<p>The Tor Project has an abuse collection of templates to help you respond to other types of abuse complaints, too. <a href="https://trac.torproject.org/projects/tor/wiki/doc/TorAbuseTemplates" class="external free" title="https://trac.torproject.org/projects/tor/wiki/doc/TorAbuseTemplates" rel="nofollow">https://trac.torproject.org/projects/tor/wiki/doc/TorAbuseTemplates</a>
+</p>
+<a name="Bonus" id="Bonus"></a><h2><span class="editsection">[<a href="/w/index.php?title=Tor_Exitnode&amp;action=edit&amp;section=3" title="Edit section: Bonus">edit</a>]</span> <span class="mw-headline">Bonus</span></h2>
+<p><b>What is Tor Weather?</b>
+</p><p>Tor Weather provides an email notification service to any users who want to monitor the status of a Tor node. Upon subscribing, you can specify what types of alerts you would like to receive. The main purpose of Tor Weather is to notify node operators via email if their node is down for longer than a specified period, but other notification types are available.
+</p><p><b>Why should I subscribe?</b>
+</p><p>Tor Weather is useful to node operators who want to know as soon as their router is down in order to fix the problem. You can also use Tor Weather to notify you when your router is running an out of date version of Tor or when your router has earned you a Tor T-shirt.
+</p><p><b>What if I set my router to hibernate?</b>
+</p><p>You will not receive a Tor Weather report simply because the node you are monitoring is hibernating. However, if a node goes down during a hibernation period, there will likely be some delay (no more than 18 hours) before we recognize the node as down and send a notification.
+</p><p><b>Will I be spammed by Tor Weather reports?</b>
+</p><p>No! You can change your preferences to minimize your Tor Weather email notifications. You can unsubscribe at any time. 
+</p><p>To <b>sign up to TOR weather</b>&nbsp;: <a href="https://weather.torproject.org/subscribe/" class="external free" title="https://weather.torproject.org/subscribe/" rel="nofollow">https://weather.torproject.org/subscribe/</a>
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 73/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:439-0!1!0!!en!2 and timestamp 20121020022741 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Tor_Exitnode">https://cryptoanarchy.org/wiki/Tor_Exitnode</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Tor_Exitnode" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Tor_Exitnode&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Tor_Exitnode&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Tor_Exitnode&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tor_Exitnode" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tor_Exitnode" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tor_Exitnode" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Tor_Exitnode&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Tor_Exitnode&amp;oldid=4019" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 24 July 2012, at 12:13.</li>
+					<li id="viewcount">This page has been accessed 153 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.227 secs. --></body></html>
+
+0
+

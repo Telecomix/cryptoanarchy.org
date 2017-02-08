@@ -1,0 +1,284 @@
+7840
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Tor combined with VPN, SSH or Proxy" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Tor combined with VPN, SSH or Proxy - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Tor_combined_with_VPN,_SSH_or_Proxy";
+		var wgTitle = "Tor combined with VPN, SSH or Proxy";
+		var wgAction = "view";
+		var wgArticleId = "450";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 4032;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Tor_combined_with_VPN_SSH_or_Proxy skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Tor combined with VPN, SSH or Proxy</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p>License: <a href="https://trac.torproject.org/projects/tor/wiki/WikiStart#LegalStuff" class="external free" title="https://trac.torproject.org/projects/tor/wiki/WikiStart#LegalStuff" rel="nofollow">https://trac.torproject.org/projects/tor/wiki/WikiStart#LegalStuff</a> (X11 license)
+</p><p>Mirrors of this page:
+</p>
+<ul><li> <a href="https://trac.torproject.org/projects/tor/wiki/doc/TorPlusVPN" class="external text" title="https://trac.torproject.org/projects/tor/wiki/doc/TorPlusVPN" rel="nofollow">torproject.org wiki</a> &lt;- original / "master". Please add changes to the original so they can spread to the mirrors.
+</li><li> <a href="http://ah5dm66duazqkz6h.onion" class="external text" title="http://ah5dm66duazqkz6h.onion" rel="nofollow">Onion Wiki</a>
+</li><li> <a href="https://cryptoanarchy.org/" class="external text" title="https://cryptoanarchy.org/" rel="nofollow">cryptoanarchy.org Wiki</a>
+</li></ul>
+<p>August 2012
+</p><p>There are many discussions on the Tor Mailing list and spread over many forums about combining Tor with a VPN, SSH and/or a proxy in different variations. X in this article stands for, "either a VPN, SSH or proxy". All different ways to combine Tor with X have different pros and cons.
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#general"><span class="tocnumber">1</span> <span class="toctext">general</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Anonymity_and_Privacy"><span class="tocnumber">1.1</span> <span class="toctext">Anonymity and Privacy</span></a></li>
+<li class="toclevel-2"><a href="#VPN.2FSSH_versus_Proxy"><span class="tocnumber">1.2</span> <span class="toctext">VPN/SSH versus Proxy</span></a></li>
+<li class="toclevel-2"><a href="#VPN_versus_SSH_or_Proxy"><span class="tocnumber">1.3</span> <span class="toctext">VPN versus SSH or Proxy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#you_-.3E_X_-.3E_Tor"><span class="tocnumber">2</span> <span class="toctext">you -&gt; X -&gt; Tor</span></a>
+<ul>
+<li class="toclevel-2"><a href="#you_-.3E_VPN.2FSSH_-.3E_Tor"><span class="tocnumber">2.1</span> <span class="toctext">you -&gt; VPN/SSH -&gt; Tor</span></a></li>
+<li class="toclevel-2"><a href="#you_-.3E_proxy_-.3E_Tor"><span class="tocnumber">2.2</span> <span class="toctext">you -&gt; proxy -&gt; Tor</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#you_-.3E_Tor_-.3E_x"><span class="tocnumber">3</span> <span class="toctext">you -&gt; Tor -&gt; x</span></a>
+<ul>
+<li class="toclevel-2"><a href="#you_-.3E_Tor_-.3E_VPN.2FSSH"><span class="tocnumber">3.1</span> <span class="toctext">you -&gt; Tor -&gt; VPN/SSH</span></a></li>
+<li class="toclevel-2"><a href="#you_-.3E_Tor_-.3E_proxy"><span class="tocnumber">3.2</span> <span class="toctext">you -&gt; Tor -&gt; proxy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#you_-.3E_X_-.3E_Tor_-.3E_X"><span class="tocnumber">4</span> <span class="toctext">you -&gt; X -&gt; Tor -&gt; X</span></a></li>
+<li class="toclevel-1"><a href="#you_-.3E_your_own_.28local.29_VPN_server_-.3E_Tor"><span class="tocnumber">5</span> <span class="toctext">you -&gt; your own (local) VPN server -&gt; Tor</span></a></li>
+<li class="toclevel-1"><a href="#Also_See"><span class="tocnumber">6</span> <span class="toctext">Also See</span></a></li>
+<li class="toclevel-1"><a href="#Practical"><span class="tocnumber">7</span> <span class="toctext">Practical</span></a></li>
+<li class="toclevel-1"><a href="#sources"><span class="tocnumber">8</span> <span class="toctext">sources</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="general" id="general"></a><h1><span class="editsection">[<a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit&amp;section=1" title="Edit section: general">edit</a>]</span> <span class="mw-headline"> general </span></h1>
+<a name="Anonymity_and_Privacy" id="Anonymity_and_Privacy"></a><h2><span class="editsection">[<a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit&amp;section=2" title="Edit section: Anonymity and Privacy">edit</a>]</span> <span class="mw-headline"> Anonymity and Privacy </span></h2>
+<p>You can very well decrease your anonymity by using VPN/SSH in addition to Tor. (Proxies are covered in an extra chapter below.) If you know what you are doing you can increase anonymity, security and privacy.
+</p><p>Most VPN/SSH provider log, there is a money trail, if you can't pay really anonymously. (An adversary is always going to probe the weakest link first...). A VPN/SSH acts either as a permanent entry or as a permanent exit node. This can introduce new risks while solving others. 
+</p><p>Who's your adversary? Against a global adversary with unlimited resources more hops make passive attacks (slightly) harder but active attacks easier as you are providing more attack surface and send out more data that can be used. Against colluding Tor nodes you are safer, against blackhat hackers who target Tor client code you are safer (especially if Tor and VPN run on two different systems). If the VPN/SSH server is adversary controlled you weaken the protection provided by Tor. If the server is trustworthy you can increase the anonymity and/or privacy (depending on set up) provided by Tor.
+</p><p>VPN/SSH can also be used to circumvent Tor censorship (on your end by the ISP or on the service end by blocking known tor exits).
+</p>
+<a name="VPN.2FSSH_versus_Proxy" id="VPN.2FSSH_versus_Proxy"></a><h2><span class="editsection">[<a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit&amp;section=3" title="Edit section: VPN/SSH versus Proxy">edit</a>]</span> <span class="mw-headline"> VPN/SSH versus Proxy </span></h2>
+<p>The connection between you and the VPN/SSH is (in most cases, not all) encrypted.
+</p><p>On the other hand the connection between you and an OpenProxy is unencrypted. An 'SSL proxy' is in most cases only a http proxy which supports the connect method. The connect method was originally designed to allow you to use to connect using SSL to webservers but other fancy things such as connecting to IRC, SSH, etc. are possible as well. Another disadvantage of http(s) proxies is, that some of them, depending on your network setup, even leak your IP through the 'http forwarded for' header. (Such proxies are also so called 'non-anonymous proxies'. While the word anonymous has to be understood with care anyway, a single OpenProxy is much worse than Tor).
+</p><p>Also read <a href="https://trac.torproject.org/projects/tor/wiki/doc/TorFAQ#Arent10proxiesproxychainsbetterthanTorwithonly3hops-proxychainsvsTor" class="external text" title="https://trac.torproject.org/projects/tor/wiki/doc/TorFAQ#Arent10proxiesproxychainsbetterthanTorwithonly3hops-proxychainsvsTor" rel="nofollow">Aren't 10 proxies (proxychains) better than Tor with only 3 hops? - proxychains vs Tor</a>.
+</p>
+<a name="VPN_versus_SSH_or_Proxy" id="VPN_versus_SSH_or_Proxy"></a><h2><span class="editsection">[<a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit&amp;section=4" title="Edit section: VPN versus SSH or Proxy">edit</a>]</span> <span class="mw-headline"> VPN versus SSH or Proxy </span></h2>
+<p>VPN operates on network level. A SSH tunnel can offer a socks5 proxy. Proxies operate on application level. These technical details introduce their own challenges when combining them with Tor.
+</p><p>The problematic thing with many VPN users is, the complicated setup. They connect to the VPN on a machine, which has direct access to the internet.
+</p>
+<ul><li> the VPN user may forget to connect to the VPN first
+</li><li> VPN connection might breaks down and the user continues to use the direct connection, which jumps in
+</li></ul>
+<p>To fix this issue you can get some hints from <a href="https://trac.torproject.org/projects/tor/wiki/doc/TorVPN" class="external text" title="https://trac.torproject.org/projects/tor/wiki/doc/TorVPN" rel="nofollow">TorVPN</a>.
+</p><p>When operating on the application level (using SSH tunnel socks5 or proxies), the problem is that many applications do not honor the proxy settings. Have a look into the <a href="https://trac.torproject.org/projects/tor/wiki/doc/TorifyHOWTO" class="external text" title="https://trac.torproject.org/projects/tor/wiki/doc/TorifyHOWTO" rel="nofollow">Torify HOWTO</a> to get an idea.
+</p><p>The most secure solution to mitigate those issues is to use transparent proxying, which is possible for VPN, SSH and proxies.
+</p>
+<a name="you_-.3E_X_-.3E_Tor" id="you_-.3E_X_-.3E_Tor"></a><h1><span class="editsection">[<a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit&amp;section=5" title="Edit section: you -&amp;gt; X -&amp;gt; Tor">edit</a>]</span> <span class="mw-headline"> you -&gt; X -&gt; Tor </span></h1>
+<p>Some people under some circumstances (country, provider) are forced to use a VPN or a proxy to connect to the internet. Other people want to do that for other reasons, which we will also discuss.
+</p>
+<a name="you_-.3E_VPN.2FSSH_-.3E_Tor" id="you_-.3E_VPN.2FSSH_-.3E_Tor"></a><h2><span class="editsection">[<a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit&amp;section=6" title="Edit section: you -&amp;gt; VPN/SSH -&amp;gt; Tor">edit</a>]</span> <span class="mw-headline"> you -&gt; VPN/SSH -&gt; Tor </span></h2>
+<p>You can route Tor through VPN/SSH services. That prevents your ISP etc from seeing that you're using Tor. Generally, VPNs are more popular than Tor, so you won't stand out as much. SSH tunnels are not so popular.
+</p><p>Once the VPN client has connected, the VPN tunnel will be the machine's default Internet connection, and the Tor Browser Bundle will route through it.
+</p><p>This can be a fine idea, assuming your VPN/SSH provider's network is in fact sufficiently safer than your own network.
+</p><p>Another advantage here is that it prevents Tor from seeing who you are behind the VPN/SSH. So if somebody does manage to break Tor and learn the IP address your traffic is coming from, but your VPN/SSH was actually following through on their promises (they won't watch, they won't remember, and they will somehow magically make it so nobody else is watching either), then you'll be better off.
+</p>
+<a name="you_-.3E_proxy_-.3E_Tor" id="you_-.3E_proxy_-.3E_Tor"></a><h2><span class="editsection">[<a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit&amp;section=7" title="Edit section: you -&amp;gt; proxy -&amp;gt; Tor">edit</a>]</span> <span class="mw-headline"> you -&gt; proxy -&gt; Tor </span></h2>
+<p>This does not prevent your ISP etc from seeing that you're using Tor because the connection between your and the proxy is not encrypted.
+</p><p>Sometimes this prevents Tor from seeing who you are depending on the configuration on the side of the proxy server. So if somebody does manage to break Tor and learn the IP address your traffic is coming from, but your proxy does not log an the attacker didn't see the unencrypted connection between your and the proxy, then you'll be better off.
+</p>
+<a name="you_-.3E_Tor_-.3E_x" id="you_-.3E_Tor_-.3E_x"></a><h1><span class="editsection">[<a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit&amp;section=8" title="Edit section: you -&amp;gt; Tor -&amp;gt; x">edit</a>]</span> <span class="mw-headline"> you -&gt; Tor -&gt; x </span></h1>
+<p>This is generally a really poor plan.
+</p><p>Some people do this to evade Tor bans in many places. (When Tor exit nodes are blacklisted by the remote server.)
+</p><p>(Read first for understanding: <a href="https://trac.torproject.org/projects/tor/wiki/doc/TorFAQ#HowoftendoesTorchangeitspaths" class="external text" title="https://trac.torproject.org/projects/tor/wiki/doc/TorFAQ#HowoftendoesTorchangeitspaths" rel="nofollow">How often does Tor change its paths?</a>.)
+</p><p>Normally Tor switches frequently its path through the network. When you choose a permanent destination X, you give away this advantage, which may have serious repercussions for your anonymity.
+</p>
+<a name="you_-.3E_Tor_-.3E_VPN.2FSSH" id="you_-.3E_Tor_-.3E_VPN.2FSSH"></a><h2><span class="editsection">[<a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit&amp;section=9" title="Edit section: you -&amp;gt; Tor -&amp;gt; VPN/SSH">edit</a>]</span> <span class="mw-headline"> you -&gt; Tor -&gt; VPN/SSH </span></h2>
+<p>You can also route VPN/SSH services through Tor. That hides and secures your Internet activity from Tor exit nodes. Although you are exposed to VPN/SSH exit nodes, you at least get to choose them. If you're using VPN/SSHs in this way, you'll want to pay for them anonymously (cash in the mail [beware of your fingerprint and printer fingerprint], Liberty Reserve, well-laundered Bitcoin, etc).
+</p><p>However, you can't readily do this without using virtual machines. And you'll need to use TCP mode for the VPNs (to route through Tor). In our experience, establishing VPN connections through Tor is chancy, and requires much tweaking.
+</p><p>Even if you pay for them anonymously, you're making a bottleneck where all your traffic goes -- the VPN/SSH can build a profile of everything you do, and over time that will probably be really dangerous.
+</p>
+<a name="you_-.3E_Tor_-.3E_proxy" id="you_-.3E_Tor_-.3E_proxy"></a><h2><span class="editsection">[<a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit&amp;section=10" title="Edit section: you -&amp;gt; Tor -&amp;gt; proxy">edit</a>]</span> <span class="mw-headline"> you -&gt; Tor -&gt; proxy </span></h2>
+<p>You can also route proxy connections through Tor. That does not hide and secure your Internet activity from Tor exit nodes because the connection between the exit node to the proxy is not encrypted, not one, but two parties may log and manipulate your clear traffic now. If you're using proxies in this way, you'll want to pay for them anonymously (cash in the mail [beware of your fingerprint and printer fingerprint], Liberty Reserve, well-laundered Bitcoin, etc) or use free proxies.
+</p><p>On way to do that is proxychains.
+</p><p>Another way would be to use a <a href="https://trac.torproject.org/projects/tor/wiki/doc/TransparentProxy" class="external text" title="https://trac.torproject.org/projects/tor/wiki/doc/TransparentProxy" rel="nofollow">Transparent Proxy</a> and then either <a href="https://trac.torproject.org/projects/tor/wiki/doc/TorifyHOWTO" class="external text" title="https://trac.torproject.org/projects/tor/wiki/doc/TorifyHOWTO" rel="nofollow">proxify</a> (set proxy settings) or <a href="https://trac.torproject.org/projects/tor/wiki/doc/SupportPrograms" class="external text" title="https://trac.torproject.org/projects/tor/wiki/doc/SupportPrograms" rel="nofollow">socksify</a> (use helper applications to force your application to use a proxy) the programs your want to chain inside your Transparent Proxy client machine, see for <a href="https://trac.torproject.org/projects/tor/wiki/doc/SupportPrograms" class="external text" title="https://trac.torproject.org/projects/tor/wiki/doc/SupportPrograms" rel="nofollow">helper applications</a>.
+</p>
+<a name="you_-.3E_X_-.3E_Tor_-.3E_X" id="you_-.3E_X_-.3E_Tor_-.3E_X"></a><h1><span class="editsection">[<a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit&amp;section=11" title="Edit section: you -&amp;gt; X -&amp;gt; Tor -&amp;gt; X">edit</a>]</span> <span class="mw-headline"> you -&gt; X -&gt; Tor -&gt; X </span></h1>
+<p>No research on that yet if that is technically possible. This is because already 'you -&gt; Tor -&gt; X' is a really poor plan (see above).
+</p>
+<a name="you_-.3E_your_own_.28local.29_VPN_server_-.3E_Tor" id="you_-.3E_your_own_.28local.29_VPN_server_-.3E_Tor"></a><h1><span class="editsection">[<a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit&amp;section=12" title="Edit section: you -&amp;gt; your own (local) VPN server -&amp;gt; Tor">edit</a>]</span> <span class="mw-headline"> you -&gt; your own (local) VPN server -&gt; Tor </span></h1>
+<p>This is different from above. You do not have to pay a VPN provider here as you host your own local VPN server. This won't protect you from your ISP of seeing you connect to Tor and this also won't protect you from spying Tor exit servers.
+</p><p>This is done to enforce, that all your traffic routes through Tor without any leaks. Further read: <a href="https://trac.torproject.org/projects/tor/wiki/doc/TorVPN" class="external text" title="https://trac.torproject.org/projects/tor/wiki/doc/TorVPN" rel="nofollow">TorVPN</a>. If you want this, it may unnecessary to use VPN, a simple Tor-Gateway may be easier, for example <a href="https://trac.torproject.org/projects/tor/wiki/doc/TorBOX" class="external text" title="https://trac.torproject.org/projects/tor/wiki/doc/TorBOX" rel="nofollow">TorBOX</a>.
+</p>
+<a name="Also_See" id="Also_See"></a><h1><span class="editsection">[<a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit&amp;section=13" title="Edit section: Also See">edit</a>]</span> <span class="mw-headline"> Also See </span></h1>
+<ul><li> <a href="https://tails.boum.org/forum/Why_do_you_post_contradictory_statements__63___VPN/" class="external text" title="https://tails.boum.org/forum/Why_do_you_post_contradictory_statements__63___VPN/" rel="nofollow">Tails's about VPNs #1</a>
+</li><li> <a href="https://tails.boum.org/todo/vpn_support/" class="external text" title="https://tails.boum.org/todo/vpn_support/" rel="nofollow">Tails's about VPNs #2</a>
+</li></ul>
+<a name="Practical" id="Practical"></a><h1><span class="editsection">[<a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit&amp;section=14" title="Edit section: Practical">edit</a>]</span> <span class="mw-headline"> Practical </span></h1>
+<ul><li> If you still want to combine Tor with a proxy, all combinations are possible using <a href="https://trac.torproject.org/projects/tor/wiki/doc/TorBOX" class="external text" title="https://trac.torproject.org/projects/tor/wiki/doc/TorBOX" rel="nofollow">aos</a> (anonymous general purpose operating system). aos's optional configurations document this.
+</li></ul>
+<a name="sources" id="sources"></a><h1><span class="editsection">[<a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit&amp;section=15" title="Edit section: sources">edit</a>]</span> <span class="mw-headline"> sources </span></h1>
+<ul><li> <a href="https://lists.torproject.org/pipermail/tor-talk/2012-January/022916.htm" class="external free" title="https://lists.torproject.org/pipermail/tor-talk/2012-January/022916.htm" rel="nofollow">https://lists.torproject.org/pipermail/tor-talk/2012-January/022916.htm</a>
+</li><li> <a href="https://lists.torproject.org/pipermail/tor-talk/2012-January/022917.html" class="external free" title="https://lists.torproject.org/pipermail/tor-talk/2012-January/022917.html" rel="nofollow">https://lists.torproject.org/pipermail/tor-talk/2012-January/022917.html</a>
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 16/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:450-0!1!0!!en!2 and timestamp 20121019171553 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Tor_combined_with_VPN,_SSH_or_Proxy">https://cryptoanarchy.org/wiki/Tor_combined_with_VPN,_SSH_or_Proxy</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Tor_combined_with_VPN,_SSH_or_Proxy" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tor_combined_with_VPN,_SSH_or_Proxy" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tor_combined_with_VPN,_SSH_or_Proxy" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tor_combined_with_VPN,_SSH_or_Proxy" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Tor_combined_with_VPN,_SSH_or_Proxy&amp;oldid=4032" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 30 July 2012, at 18:20.</li>
+					<li id="viewcount">This page has been accessed 328 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.134 secs. --></body></htm
+3
+l>
+
+0
+

@@ -1,0 +1,293 @@
+5080
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="CCTV,Linux" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=CCTV&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=CCTV&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=CCTV&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>CCTV - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "CCTV";
+		var wgTitle = "CCTV";
+		var wgAction = "view";
+		var wgArticleId = "387";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 3624;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-CCTV skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">CCTV</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p>Closed Circuit TV. or something. CCTV is another word for <b>surveillance cameras</b> and stuff connected to the cameras, like the monitoring equipment in the room where the guard sits.
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#AXIS_Communications_CCTVs"><span class="tocnumber">1</span> <span class="toctext">AXIS Communications CCTVs</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Hardware"><span class="tocnumber">1.1</span> <span class="toctext">Hardware</span></a></li>
+<li class="toclevel-2"><a href="#Software_.26_development"><span class="tocnumber">1.2</span> <span class="toctext">Software &amp; development</span></a></li>
+<li class="toclevel-2"><a href="#Tutorial"><span class="tocnumber">1.3</span> <span class="toctext">Tutorial</span></a></li>
+<li class="toclevel-2"><a href="#Telnet"><span class="tocnumber">1.4</span> <span class="toctext">Telnet</span></a></li>
+<li class="toclevel-2"><a href="#Video_streaming"><span class="tocnumber">1.5</span> <span class="toctext">Video streaming</span></a></li>
+<li class="toclevel-2"><a href="#Security.3F"><span class="tocnumber">1.6</span> <span class="toctext">Security?</span></a></li>
+<li class="toclevel-2"><a href="#Pictures"><span class="tocnumber">1.7</span> <span class="toctext">Pictures</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="AXIS_Communications_CCTVs" id="AXIS_Communications_CCTVs"></a><h2><span class="editsection">[<a href="/w/index.php?title=CCTV&amp;action=edit&amp;section=1" title="Edit section: AXIS Communications CCTVs">edit</a>]</span> <span class="mw-headline"> AXIS Communications CCTVs </span></h2>
+<p>Modern AXIS communications CCTVs are small embedded <a href="/w/index.php?title=Linux&amp;action=edit&amp;redlink=1" class="new" title="Linux (page does not exist)">linux</a> computers that typically connect to an 10/100 MBit/s ethernet LAN via a cord. They transmit their video streams as RTP or RTSP. The stream is also available through a web page.
+</p>
+<a name="Hardware" id="Hardware"></a><h3><span class="editsection">[<a href="/w/index.php?title=CCTV&amp;action=edit&amp;section=2" title="Edit section: Hardware">edit</a>]</span> <span class="mw-headline"> Hardware </span></h3>
+<ul><li> A camera <i>(duh)</i>
+</li><li> A very small circuit board
+<ul><li> ETRAX CPU (meaning: EVERYTHING needs to be compiled from scratch if you want to add your own programs.)
+</li><li> Compiler for this platform is available through AXIS home page. 
+</li></ul>
+</li><li> At least two flash memories.
+<ul><li> One for storing temporary data (default seems to be that it is mounted as /etc)
+</li><li> One for storing the default configuration
+</li><li> Sometimes it has more flash memories (storing audio files/videos)
+</li></ul>
+</li></ul>
+<a name="Software_.26_development" id="Software_.26_development"></a><h3><span class="editsection">[<a href="/w/index.php?title=CCTV&amp;action=edit&amp;section=3" title="Edit section: Software &amp; development">edit</a>]</span> <span class="mw-headline"> Software &amp; development </span></h3>
+<ul><li> <a href="http://www.sealabs.net/seadog/2007/09/python-for-cris-etrax/" class="external free" title="http://www.sealabs.net/seadog/2007/09/python-for-cris-etrax/" rel="nofollow">http://www.sealabs.net/seadog/2007/09/python-for-cris-etrax/</a>
+</li><li> <a href="http://camera.manualsonline.com/manuals/mfg/axis_communications_1/221_1.html" class="external free" title="http://camera.manualsonline.com/manuals/mfg/axis_communications_1/221_1.html" rel="nofollow">http://camera.manualsonline.com/manuals/mfg/axis_communications_1/221_1.html</a>
+</li><li> <a href="http://developer.axis.com/download/compiler/" class="external free" title="http://developer.axis.com/download/compiler/" rel="nofollow">http://developer.axis.com/download/compiler/</a>
+</li><li> <a href="http://developer.axis.com/old/documentation/old/software/apps/apps-howto.html" class="external free" title="http://developer.axis.com/old/documentation/old/software/apps/apps-howto.html" rel="nofollow">http://developer.axis.com/old/documentation/old/software/apps/apps-howto.html</a>
+</li><li> <a href="ftp://ftp.axis.com/pub/axis/tools/cris/compiler-kit" class="external free" title="ftp://ftp.axis.com/pub/axis/tools/cris/compiler-kit" rel="nofollow">ftp://ftp.axis.com/pub/axis/tools/cris/compiler-kit</a>
+</li><li> <a href="http://developer.axis.com/wiki/doku.php?id=axis:sdk" class="external free" title="http://developer.axis.com/wiki/doku.php?id=axis:sdk" rel="nofollow">http://developer.axis.com/wiki/doku.php?id=axis:sdk</a>
+</li></ul>
+<a name="Tutorial" id="Tutorial"></a><h3><span class="editsection">[<a href="/w/index.php?title=CCTV&amp;action=edit&amp;section=4" title="Edit section: Tutorial">edit</a>]</span> <span class="mw-headline"> Tutorial </span></h3>
+<ol><li> Get your hands on an AXIS surveillance camera. (Please do not pay for it. We dont want to give moneys to the security industry.)
+</li><li> Open the camera up. There is a reset button on the circuit board that will reset the flash memory. Press it for like 20 seconds.
+</li><li> The default IP of the camera is 192.168.0.90.
+</li><li> Default user/password is: root/pass.
+</li><li> By default, the web page is up and running. Log in (<a href="http://192.168.0.90" class="external free" title="http://192.168.0.90" rel="nofollow">http://192.168.0.90</a>).
+<ul><li> If the actual camera in the camera is broken, you can log in via <a href="http://192.168.0.90/operator/basic.shtml" class="external free" title="http://192.168.0.90/operator/basic.shtml" rel="nofollow">http://192.168.0.90/operator/basic.shtml</a>
+</li></ul>
+</li></ol>
+<p>At the web page, you can give the camera a new IP, or make it autoconfig via DHCP.
+</p><p>Open the <b>script editor</b> (in System options-&gt;advanced -- <i>see picture below</i>) and modify /etc/inittab to allow telnet logins. Then reboot the camera.
+</p>
+<a name="Telnet" id="Telnet"></a><h3><span class="editsection">[<a href="/w/index.php?title=CCTV&amp;action=edit&amp;section=5" title="Edit section: Telnet">edit</a>]</span> <span class="mw-headline"> Telnet </span></h3>
+<pre>
+$ telnet 192.168.0.90
+Trying 192.168.0.90...
+Connected to 192.168.0.90.
+Escape character is '^]'.
+
+
+4.30
+Linux 2.4.31 on a cris (16:25:20)
+PANSPECTRONC login: root
+Password: 
+THROUGH THE LOOKING GLASS
+[root@PANSPECTRONC /]11303# cat /proc/cpuinfo 
+processor      &nbsp;: 0
+cpu            &nbsp;: CRIS
+cpu revision   &nbsp;: 11
+cpu model      &nbsp;: ETRAX 100LX v2
+cache size     &nbsp;: 8 kB
+fpu            &nbsp;: no
+mmu            &nbsp;: yes
+mmu DMA bug    &nbsp;: no
+ethernet       &nbsp;: 10/100 Mbps
+token ring     &nbsp;: no
+scsi           &nbsp;: yes
+ata            &nbsp;: yes
+usb            &nbsp;: yes
+bogomips       &nbsp;: 99.73
+[root@PANSPECTRONC /]11303# uname -a
+Linux PANSPECTRONC 2.4.31 #1 Tue Nov 29 11:09:21 CET 2005 cris unknown
+[root@PANSPECTRONC /]11303# mount
+/dev/flash3 on / type cramfs (ro)
+/dev/flash2 on /mnt/flash type jffs2 (rw)
+proc on /proc type proc (rw)
+tmpfs on /var type tmpfs (rw)
+devpts on /dev/pts type devpts (rw)
+tmpfs on /var/cache/recorder type tmpfs (rw)
+[root@PANSPECTRONC /]11303#
+</pre>
+<p>The number ([root@PANSPECTRONC /]<b>11303</b>#) is the PID of the shell. <i>(No idea why it prints that..)</i>
+</p>
+<a name="Video_streaming" id="Video_streaming"></a><h3><span class="editsection">[<a href="/w/index.php?title=CCTV&amp;action=edit&amp;section=6" title="Edit section: Video streaming">edit</a>]</span> <span class="mw-headline"> Video streaming </span></h3>
+<p>If you do not want to ONLY look at the camera through the web interface (the camera can only handle like 2-10 connections), then its possible to capture the RTP stream. You can then re-broadcast the stream to more users than what just the camera alone can handle.
+</p><p><b>Normal video feed:</b>
+</p>
+<pre>
+$ vlc rtsp://root:pass@192.168.0.90:554/mpeg4/media.amp
+</pre> 
+<p><b>Converting the video stream into ASCII, if you are limited to terminal only:</b>
+</p>
+<pre>
+$ cvlc -vout caca rtsp://root:pass@192.168.0.90:554/mpeg4/media.amp
+</pre>
+<p>If the above does not work, google it. The URLs are sometimes a bit different.
+</p>
+<a name="Security.3F" id="Security.3F"></a><h3><span class="editsection">[<a href="/w/index.php?title=CCTV&amp;action=edit&amp;section=7" title="Edit section: Security?">edit</a>]</span> <span class="mw-headline"> Security? </span></h3>
+<ul><li> The camera does not connect back home to AXIS communications unless you tell it to. <b>IT SEEMS.</b>
+</li></ul>
+<a name="Pictures" id="Pictures"></a><h3><span class="editsection">[<a href="/w/index.php?title=CCTV&amp;action=edit&amp;section=8" title="Edit section: Pictures">edit</a>]</span> <span class="mw-headline"> Pictures </span></h3>
+<p><a href="/wiki/File:AXIS-CCTV.png" class="image" title="Image:AXIS-CCTV.png"><img alt="Image:AXIS-CCTV.png" src="/w/images/b/b5/AXIS-CCTV.png" width="1024" height="600" border="0" /></a>
+</p><p>Above is a picture of an AXIS CCTV inside a server closet.
+</p><p><a href="/wiki/File:AXIS-config.png" class="image" title="Image:AXIS-config.png"><img alt="Image:AXIS-config.png" src="/w/images/8/83/AXIS-config.png" width="1024" height="600" border="0" /></a>
+</p><p>Above is how you edit scripts.
+</p><p><a href="/wiki/File:AXIS-ascii.png" class="image" title="Image:AXIS-ascii.png"><img alt="Image:AXIS-ascii.png" src="/w/images/1/1f/AXIS-ascii.png" width="1024" height="600" border="0" /></a>
+</p><p>Above is ASCII mode output of the same picture as above LOL&nbsp;:D
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 18/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:387-0!1!0!!en!2 and timestamp 20121020022713 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/CCTV">https://cryptoanarchy.org/wiki/CCTV</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/CCTV" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:CCTV&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=CCTV&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=CCTV&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=CCTV" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/CCTV" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/CCTV" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=CCTV&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=CCTV&amp;oldid=3624" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 6 March 2012, at 15:10.</li>
+					<li id="viewcount">This page has been accessed 739 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.193 secs. --></body></ht
+4
+ml>
+
+0
+

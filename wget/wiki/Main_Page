@@ -1,0 +1,463 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Main Page,Anonymous Base Station,Anonymous VPN,Anonymous hosting,Authority Netblock Blacklist,BBS gateway,BGP,Backup software,Bitcoin,Blackthrow,Blocklists" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Main_Page&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Main_Page&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Main_Page&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Main_Page";
+		var wgTitle = "Main Page";
+		var wgAction = "view";
+		var wgArticleId = "1";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 4191;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Main_Page skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+<div align=right><b>Hidden service: <a href="http://qdspecqnh2gi4ydo.onion">qdspecqnh2gi4ydo.onion</a></b></div>
+<div align=right><b>Source: <a href="/at-cryptoanarchy.warc.gz">at-cryptoanarchy.warc.gz</a></b></div>
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Main Page</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<div class="floatright"><a href="/wiki/File:Obey.gif" class="image" title="Obey.gif"><img alt="" src="/w/images/c/c4/Obey.gif" width="292" height="224" border="0" /></a></div>
+<p><b>All edits are anonymous. No IP-numbers are saved in the logs.</b>
+<i> ORLLY? -- Quite rly, yes.</i>
+</p><p><a href="http://telecomix.org/telecomix-ca.crt" class="external text" title="http://telecomix.org/telecomix-ca.crt" rel="nofollow">Telecomix root certificate</a>, <a href="http://telecomix.org/telecomix-ca.crt.asc" class="external text" title="http://telecomix.org/telecomix-ca.crt.asc" rel="nofollow">agents signature</a>.
+</p><p>Telecomix Crypto Munitions Bureau is part of <a href="/wiki/Telecomix" title="Telecomix">Telecomix</a>. This wiki is used for discussing technology and philosophy. For other projects, see the <a href="http://werebuild.telecomix.org" class="external text" title="http://werebuild.telecomix.org" rel="nofollow">WeRebuild(Heavily outdated)</a> and the <a href="https://www.bluecabinet.info/wiki/Blue_cabinet" class="external text" title="https://www.bluecabinet.info/wiki/Blue_cabinet" rel="nofollow">Blue Cabinet</a> (monitoring surveillance companies).
+</p><p>If you find anything interesting and want to talk about it (we don't bother with e-mails) join us at <b><a href="irc://irc.telecomix.org" class="external text" title="irc://irc.telecomix.org" rel="nofollow">irc.telecomix.org Port 6667 (6697 for SSL)</a></b>. We can also be reached at <b><a href="https://chat.wnh.me" class="external text" title="https://chat.wnh.me" rel="nofollow">WNH. IRC is irc://irc.wnh.me Port 6667 (6697 SSL). </a></b>
+</p>
+<a name="Telecomix_Crypto_Munitions_Bureau.3F" id="Telecomix_Crypto_Munitions_Bureau.3F"></a><h2><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=1" title="Edit section: Telecomix Crypto Munitions Bureau?">edit</a>]</span> <span class="mw-headline"> Telecomix Crypto Munitions Bureau? </span></h2>
+<p>A decentralized organization without membership. The bureaus goals are described in <a href="/wiki/Request_for_the_deployment_of_a_crypto_munitions_bureau" title="Request for the deployment of a crypto munitions bureau">this paper</a> issued by Cameron. Beyond that, we also do whatever we want. 
+</p>
+<ul><li> <a href="/wiki/Crypto-anarchism" title="Crypto-anarchism" class="mw-redirect">crypto-anarchism</a>
+</li><li> <a href="/wiki/The_Crypto-Anarchists_Cookbook" title="The Crypto-Anarchists Cookbook">The Crypto-Anarchists Cookbook</a>
+</li></ul>
+<a name="News" id="News"></a><h2><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=2" title="Edit section: News">edit</a>]</span> <span class="mw-headline"> News </span></h2>
+<ul><li> <a href="https://cryptoparty.org/wiki/CryptoParty" class="external text" title="https://cryptoparty.org/wiki/CryptoParty" rel="nofollow">Aint No Party Like a Cryptoparty!</a>
+</li><li> <a href="/wiki/TETRA_hacking_is_coming:_OsmocomTETRA" title="TETRA hacking is coming: OsmocomTETRA">TETRA hacking is coming: OsmocomTETRA</a>
+</li><li> Slideshow on hacktivism, encryption, online anonymity, &amp; darknets 101 now up at: <a href="http://scr.bi/yLxMak" class="external free" title="http://scr.bi/yLxMak" rel="nofollow">http://scr.bi/yLxMak</a> (<a href="https://www.scribd.com/doc/78751355/Cryptomorphosis" class="external text" title="https://www.scribd.com/doc/78751355/Cryptomorphosis" rel="nofollow">same with https</a>)
+</li><li> WSJ <a href="http://projects.wsj.com/surveillance-catalog/#/" class="external text" title="http://projects.wsj.com/surveillance-catalog/#/" rel="nofollow">Surveillance Catalog</a> / <a href="http://wikileaks.org/the-spyfiles.html" class="external text" title="http://wikileaks.org/the-spyfiles.html" rel="nofollow">Spy Files</a> aka axis of evil
+</li><li> HTTPS/SSL probably dead: <a href="http://cryptome.org/0005/packet-spy.htm" class="external text" title="http://cryptome.org/0005/packet-spy.htm" rel="nofollow">Deep Packet Spying Breaches Gmail and All Security</a>, also: <a href="http://www.theregister.co.uk/2011/09/19/beast_exploits_paypal_ssl/" class="external text" title="http://www.theregister.co.uk/2011/09/19/beast_exploits_paypal_ssl/" rel="nofollow">Hackers break SSL encryption used by millions of sites</a>.
+</li><li> Added a basic guide to <a href="/wiki/Deploying,_Implementing_and_Using_Cryptographic_Systems" title="Deploying, Implementing and Using Cryptographic Systems">Deploying, Implementing and Using Cryptographic Systems</a>.
+</li><li> <a href="https://research.microsoft.com/en-us/projects/cryptanalysis/aes.aspx" class="external text" title="https://research.microsoft.com/en-us/projects/cryptanalysis/aes.aspx" rel="nofollow">AES weakened by 2 Bits</a>
+</li><li> TCMB <a href="/wiki/Station_7" title="Station 7">Station 7</a> checks in for the first time&nbsp;:)
+</li><li> <a href="/wiki/Older_news" title="Older news">Older news</a>
+</li></ul>
+<a name="Scratchpad.28s.29" id="Scratchpad.28s.29"></a><h2><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=3" title="Edit section: Scratchpad(s)">edit</a>]</span> <span class="mw-headline"> Scratchpad(s) </span></h2>
+<ul><li> <a href="/wiki/Ideas_Scratchpad" title="Ideas Scratchpad">Ideas Scratchpad</a>
+</li><li> <a href="/wiki/MOAR" title="MOAR">MOAR</a>
+</li></ul>
+<a name="Software" id="Software"></a><h2><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=4" title="Edit section: Software">edit</a>]</span> <span class="mw-headline"> Software </span></h2>
+<ul><li>Full communication and storage system
+<ul><li> <a href="/wiki/Freenet" title="Freenet">Freenet</a>
+</li><li> <a href="http://project-byzantium.org/" class="external text" title="http://project-byzantium.org/" rel="nofollow">Project Byzantium</a>
+</li><li> <a href="http://retroshare.sourceforge.net/" class="external text" title="http://retroshare.sourceforge.net/" rel="nofollow">RetroShare: a decentralised communication platform / darknet based on GPG &amp; OpenSSL</a>  Needs moar analyzing(Maybe not safe) Still very much in Beta.
+</li><li> <a href="http://tahoe-lafs.org/" class="external text" title="http://tahoe-lafs.org/" rel="nofollow">Tahoe-LAFS</a> Distributed encrypted file system
+</li></ul>
+</li></ul>
+<ul><li>Encrypted Communication
+<ul><li> <a href="http://www.gnupg.org/" class="external text" title="http://www.gnupg.org/" rel="nofollow">GPG</a> / <a href="http://www.gpgtools.org/" class="external text" title="http://www.gpgtools.org/" rel="nofollow">Mac</a> Encryption for mails, files and more. No forward secrecy!
+</li><li> <a href="http://gpg4browsers.recurity.com/" class="external text" title="http://gpg4browsers.recurity.com/" rel="nofollow">JavaScript GPG</a> for the GMail webinterface
+</li><li> <a href="/wiki/OTR" title="OTR">OTR</a> Extremely IMPORTANT for Instant Messaging - USE THIS
+</li><li> <a href="http://tomb.dyne.org" class="external text" title="http://tomb.dyne.org" rel="nofollow">Tomb</a> strong semi-deniable encryption for the desktop and safe transports
+</li><li> <a href="http://tcpcrypt.org/" class="external text" title="http://tcpcrypt.org/" rel="nofollow">Tcpcrypt</a> a protocol that attempts to encrypt (almost) all of your network traffic.
+</li><li> <a href="http://curvecp.org/" class="external text" title="http://curvecp.org/" rel="nofollow">CurveCP</a> Usable security for the Internet
+</li><li> <a href="/wiki/Crayfish" title="Crayfish">Crayfish</a> Safe IRC shelter server (concept).
+</li><li> <a href="http://code.google.com/p/cryptsetup/" class="external text" title="http://code.google.com/p/cryptsetup/" rel="nofollow">LUKS</a> LUKS is the standard for Linux hard disk encryption.
+</li><li> <a href="http://www.truecrypt.org/" class="external text" title="http://www.truecrypt.org/" rel="nofollow">Truecrypt</a> Disk encryption
+</li><li> <a href="/wiki/Silc" title="Silc">Silc</a>&nbsp;: Secure Internet Live Conferencing&nbsp;: IRC like but much more safer (to be written)  <a href="https://silcnet.org" class="external text" title="https://silcnet.org" rel="nofollow">SILCNET Offical Website</a>
+</li><li> <a href="/wiki/Cryptocat" title="Cryptocat">Cryptocat</a> -- in-browser c(h)atroom with clientside encryption for 2+ chatters. Join Cryptocat-IRC channel: #Cryptocat
+</li><li> <a href="http://enigmail.mozdev.org/" class="external text" title="http://enigmail.mozdev.org/" rel="nofollow">Enigmail</a> OpenPGP add-on for Thunderbird
+</li><li> <a href="http://mumble.sourceforge.net/" class="external text" title="http://mumble.sourceforge.net/" rel="nofollow">Mumble</a>, voice communication like the non-free TeamSpeak, with SSL encryption, good and very simple replacement to Skype (if video is not needed)
+</li><li> <a href="http://anontwi.sourceforge.net/" class="external text" title="http://anontwi.sourceforge.net/" rel="nofollow">Anontwi</a> Shell client to have more privacy on Twitter and identi.ca
+</li></ul>
+</li></ul>
+<ul><li> <a href="/wiki/CCTV" title="CCTV">CCTV</a>
+</li></ul>
+<ul><li> Alternatives to Certificate Authorities
+<ul><li> <a href="http://convergence.io/" class="external text" title="http://convergence.io/" rel="nofollow">Convergence</a> 
+</li><li> <a href="http://perspectives-project.org/" class="external text" title="http://perspectives-project.org/" rel="nofollow">Perspectives</a>
+</li><li> <a href="http://web.monkeysphere.info/" class="external text" title="http://web.monkeysphere.info/" rel="nofollow">Monkeysphere</a>
+</li></ul>
+</li></ul>
+<ul><li> Anonymous General Purpose Operating Systems
+<ul><li> <a href="http://whonix.sf.net" class="external text" title="http://whonix.sf.net" rel="nofollow">Whonix</a>
+</li></ul>
+</li></ul>
+<ul><li>Firewall
+<ul><li> <a href="http://about.psyc.eu/Communism" class="external text" title="http://about.psyc.eu/Communism" rel="nofollow">Communism (known_certs)</a>, a joint project between <a href="http://crypto.telecomix.org" class="external text" title="http://crypto.telecomix.org" rel="nofollow">TCMB</a> and the <a href="http://about.psyc.eu/PSYC" class="external text" title="http://about.psyc.eu/PSYC" rel="nofollow">PSYCs</a>
+</li><li> <a href="/wiki/Iptables" title="Iptables">iptables</a> <font color="grey">(linux firewall)</font>
+</li><li> <a href="/wiki/Authority_Netblock_Blacklist" title="Authority Netblock Blacklist">Authority Netblock Blacklist</a> <font color="grey">(huge blacklist useful if you dont want the authorities to contact you)</font>
+</li><li> <a href="/wiki/Pf" title="Pf">pf</a> <font color="grey">(OpenBSD firewall)</font>
+</li></ul>
+</li></ul>
+<ul><li> Anonymous and Alternative Networks
+<ul><li><a href="/wiki/Telex" title="Telex">Telex</a> <font color="grey">(Telex is a complex and extreamly effective anti-censorship system. WARNING: Still in testing stages, not ready for actual deployment.)</font>
+</li><li> <a href="/wiki/Tor" title="Tor">Tor</a> <font color="grey">(Peer reviewed, understood and very secure anonymity network.)</font>
+</li><li> <a href="/wiki/Tor_combined_with_VPN,_SSH_or_Proxy" title="Tor combined with VPN, SSH or Proxy">Tor combined with VPN, SSH or Proxy</a>
+</li><li> <a href="/wiki/Mobile_Anonymity" title="Mobile Anonymity">Mobile Anonymity</a>
+</li><li> <a href="/wiki/I2P" title="I2P">I2P</a> <font color="grey">(Likely unsafe in extremely dangerous situations, peer review needed)</font>
+<ul><li> <a href="/wiki/OnionCat" title="OnionCat">OnionCat</a> <font color="grey">(Anonymous IPv6 tunneling on top of Tor/I2P.)</font>
+</li></ul>
+</li><li> <a href="/wiki/Cjdns" title="Cjdns">cjdns</a> <font color="grey">(No peer review, early-stage friend-to-friend IPv6 VPN)</font>
+</li><li> <a href="http://netsukuku.freaknet.org/" class="external text" title="http://netsukuku.freaknet.org/" rel="nofollow">Netsukuku</a> - Internet Protocol based alternative to ICANNnet - currently lacks dedicated anonymization mechanism, mainly based on physical WLAN links
+</li></ul>
+</li></ul>
+<ul><li> General-purpose VPN software
+<ul><li> <a href="http://netsniff-ng.org" class="external text" title="http://netsniff-ng.org" rel="nofollow">curvetun</a> <font color="grey">(lightweight multiuser IP tunnel based on elliptic curve cryptography, <a href="https://github.com/gnumaniacs/netsniff-ng/blob/master/Documentation/Curvetun" class="external text" title="https://github.com/gnumaniacs/netsniff-ng/blob/master/Documentation/Curvetun" rel="nofollow">howto</a>)</font>
+</li><li> <a href="/wiki/OpenVPN" title="OpenVPN">OpenVPN</a> <font color="grey">(Direct p2p VPN.)</font> - Lacking peer review
+</li><li> <a href="http://vtun.sourceforge.net/" class="external text" title="http://vtun.sourceforge.net/" rel="nofollow">VTun</a> - Peer review: <a href="http://www.off.net/~jme/vtun_secu.html" class="external text" title="http://www.off.net/~jme/vtun_secu.html" rel="nofollow">no strong security</a>
+</li><li> <a href="/wiki/PPTP" title="PPTP">PPTP</a> <font color="grey">(Knowledge needed to set up a linux computer as an IPREDATOR-router for your entire net.)</font> PPTP is not safe to use
+</li><li> <a href="http://tinc-vpn.org/" class="external text" title="http://tinc-vpn.org/" rel="nofollow">tinc</a>
+</li><li> <a href="http://wiki.ucis.nl/QuickTun" class="external text" title="http://wiki.ucis.nl/QuickTun" rel="nofollow">quicktun</a> - uses <a href="/w/index.php?title=Elliptic_Curves&amp;action=edit&amp;redlink=1" class="new" title="Elliptic Curves (page does not exist)">Elliptic Curves</a>, popular in <a href="https://dn42.net/" class="external text" title="https://dn42.net/" rel="nofollow">dn42</a> community
+</li><li> <a href="/wiki/SSH" title="SSH">SSH</a>
+</li><li> <a href="/wiki/IPSec" title="IPSec">IPSec</a> (for example OpenSWAN)
+</li></ul>
+</li></ul>
+<ul><li> Libraries
+<ul><li> <a href="http://point-at-infinity.org/seccure/" class="external text" title="http://point-at-infinity.org/seccure/" rel="nofollow">SECCURE</a> - Elliptic Curve Crypto
+</li><li> <a href="http://nacl.cr.yp.to/index.html" class="external text" title="http://nacl.cr.yp.to/index.html" rel="nofollow">NaCl - <b>N</b>etworking <b>a</b>nd <b>C</b>ryptography <b>l</b>ibrary</a> - used by quicktun, curvetun, and cjdns
+</li><li> <a href="https://github.com/jech/dht" class="external text" title="https://github.com/jech/dht" rel="nofollow">Kademlia DHT</a> - Kademlia Distributed Hash Table
+</li></ul>
+</li></ul>
+<ul><li> DNS
+<ul><li> <a href="https://github.com/HarryR/ffff-dnsp2p" class="external text" title="https://github.com/HarryR/ffff-dnsp2p" rel="nofollow">ffff-dns</a>
+</li><li> <a href="http://dnscurve.org/" class="external text" title="http://dnscurve.org/" rel="nofollow">DNS Curve</a>
+</li><li> <a href="http://curvedns.on2it.net/" class="external text" title="http://curvedns.on2it.net/" rel="nofollow">DNS Curve Forwarder</a>
+</li><li> <a href="http://shinobi.dempsky.org/~matthew/patches/djbdns-dnscurve-20090602.patch" class="external text" title="http://shinobi.dempsky.org/~matthew/patches/djbdns-dnscurve-20090602.patch" rel="nofollow">DNS Curve Resolver Patch for djbdns</a>
+</li><li> <a href="https://github.com/asdil12/darkdns" class="external text" title="https://github.com/asdil12/darkdns" rel="nofollow">darkdns DHT DNS</a>
+</li></ul>
+</li></ul>
+<ul><li> <a href="/wiki/BGP" title="BGP">BGP</a> - border gateway protocol
+<ul><li> <a href="/w/index.php?title=Quagga&amp;action=edit&amp;redlink=1" class="new" title="Quagga (page does not exist)">Quagga</a> <font color="grey">(all unixes)</font>
+</li><li> <a href="/wiki/OpenBGPD" title="OpenBGPD">OpenBGPD</a> <font color="grey">(*BSD)</font>
+</li><li> <a href="http://bird.network.cz/" class="external text" title="http://bird.network.cz/" rel="nofollow">BIRD</a>
+</li></ul>
+</li></ul>
+<ul><li> Economy &amp; Money
+<ul><li> <a href="/wiki/Bitcoin" title="Bitcoin">Bitcoin</a> - P2P cryptocurrency
+</li><li> <a href="http://www.weidai.com/bmoney.txt" class="external text" title="http://www.weidai.com/bmoney.txt" rel="nofollow">bmoney</a> - specs
+</li><li> <a href="https://github.com/FellowTraveler/Open-Transactions/wiki" class="external text" title="https://github.com/FellowTraveler/Open-Transactions/wiki" rel="nofollow">Open Transactions</a> - untraceable digital cash
+</li></ul>
+</li></ul>
+<ul><li> Virtualization
+<ul><li> <a href="/wiki/XEN" title="XEN">XEN</a>
+</li><li> <a href="/wiki/VirtualBox" title="VirtualBox">VirtualBox</a>
+</li><li> <a href="/wiki/CoLinux" title="CoLinux">CoLinux</a>
+</li><li> <a href="/wiki/LXC" title="LXC">LXC</a> (<a href="http://lxc.sourceforge.net/" class="external autonumber" title="http://lxc.sourceforge.net/" rel="nofollow">[1]</a>)
+</li><li> <a href="http://wiki.qemu.org/" class="external text" title="http://wiki.qemu.org/" rel="nofollow">qemu</a>
+</li></ul>
+</li></ul>
+<ul><li> <a href="/wiki/IPv6" title="IPv6">IPv6</a> <font color="grey">(collection of micro-tutorials)</font>
+<ul><li> <a href="/wiki/IPv6_firewall" title="IPv6 firewall">IPv6 firewall</a>
+</li></ul>
+</li></ul>
+<ul><li> Backup software
+<ul><li> <a href="/wiki/Backup_software" title="Backup software">Backup software</a>
+</li></ul>
+</li></ul>
+<ul><li>SSH
+<ul><li> <a href="/wiki/SSH" title="SSH"> SSH Tunnels</a>
+</li></ul>
+</li></ul>
+<ul><li> Databases
+<ul><li> <a href="/wiki/MySQL" title="MySQL">MySQL</a>
+</li></ul>
+</li></ul>
+<ul><li> Browser
+<ul><li> <a href="/wiki/Recommended_firefox_extensions_for_the_crypto-anarchist" title="Recommended firefox extensions for the crypto-anarchist" class="mw-redirect">Recommended firefox extensions for the crypto-anarchist</a>
+</li></ul>
+</li></ul>
+<ul><li> Sousveillance/Counter Surveillance
+<ul><li> <a href="/wiki/OpenWatch" title="OpenWatch">OpenWatch</a>
+</li></ul>
+</li></ul>
+<ul><li> Sniffing, scanning, hax0ring
+<ul><li> <a href="/wiki/Hax0ring_tools" title="Hax0ring tools">hax0ring tools</a> (backup of original: <a href="https://wiki.archlinux.org/index.php/ArchTrack/oldtools" class="external text" title="https://wiki.archlinux.org/index.php/ArchTrack/oldtools" rel="nofollow">long list of tools</a>)
+</li></ul>
+</li></ul>
+<ul><li> Miscellaneous Scripts
+<ul><li> <a href="/wiki/Random_hostname_on_boot" title="Random hostname on boot">Random hostname on boot</a>
+</li><li> <a href="/wiki/Random_MAC_when_bringing_the_network_interfaces" title="Random MAC when bringing the network interfaces">Random MAC when bringing the network interfaces</a>
+</li><li> <a href="http://netsniff-ng.org" class="external text" title="http://netsniff-ng.org" rel="nofollow">astraceroute</a> Autonomous System trace route and DPI tester
+</li><li> <a href="/wiki/Root_password_recovery" title="Root password recovery">Root password recovery</a>
+</li></ul>
+</li></ul>
+<ul><li> Hardware security
+<ul><li> <a href="http://www.hermann-uwe.de/blog/physical-memory-attacks-via-firewire-dma-part-1-overview-and-mitigation" class="external text" title="http://www.hermann-uwe.de/blog/physical-memory-attacks-via-firewire-dma-part-1-overview-and-mitigation" rel="nofollow">Physical memory attacks via firewire - Overview-and-mitigation</a>
+</li></ul>
+</li></ul>
+<ul><li>Services
+<ul><li> <a href="/wiki/Anonymous_hosting" title="Anonymous hosting">Anonymous hosting</a>
+</li><li> <a href="/wiki/Anonymous_VPN" title="Anonymous VPN">Anonymous VPN</a>
+</li></ul>
+</li></ul>
+<ul><li> LiveCDs
+<ul><li> <a href="http://tails.boum.org/" class="external text" title="http://tails.boum.org/" rel="nofollow">Tails</a> Debian based OS using Tor
+</li><li> <a href="http://dee.su/liberte" class="external text" title="http://dee.su/liberte" rel="nofollow">Liberté Linux</a> Gentoo-based LiveUSB for communication in hostile environments
+</li><li> <a href="http://dynebolic.org" class="external text" title="http://dynebolic.org" rel="nofollow">dyne:bolic</a> 100% free GNU/Linux
+</li><li> <a href="/wiki/Discussion_About_Privacy_And_Anonymity_Kids" title="Discussion About Privacy And Anonymity Kids">Discussion About Privacy And Anonymity Kids</a>
+</li><li> <a href="https://www.haven-project.org/" class="external text" title="https://www.haven-project.org/" rel="nofollow">Haven</a> is a Live operating system based on Ubuntu - RIP (Development discountinued as of v1.3.4)
+</li><li> <a href="http://linuxfreedom.com/byzantium/" class="external text" title="http://linuxfreedom.com/byzantium/" rel="nofollow">Byzantium</a> Secure live CD for emergency situations to communicate and collaborate.
+</li><li> <a href="http://wiki.gitbrew.org/wikibrew/OccupyOS" class="external text" title="http://wiki.gitbrew.org/wikibrew/OccupyOS" rel="nofollow">OccupyOS</a> Secure live CD developed with ease of use and secure, deniable communication in mind.
+</li><li> <a href="http://piratelinux.org/" class="external text" title="http://piratelinux.org/" rel="nofollow">Pirate Linux</a> developed by members of the Canadian Pirate Party.
+</li><li> <a href="/wiki/Build_your_own_livething" title="Build your own livething">Build your own livething</a> using qemu
+</li></ul>
+</li></ul>
+<p>[[Image:Telecomix.png|thumb|200px|The telecomix cluster - <a href="http://werebuild.eu/" class="external text" title="http://werebuild.eu/" rel="nofollow">Wiki</a> - 
+</p>
+<a name="Needed_Software_-_projects" id="Needed_Software_-_projects"></a><h3><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=5" title="Edit section: Needed Software - projects">edit</a>]</span> <span class="mw-headline"> Needed Software - projects </span></h3>
+<p>Software we may need for further projects, still to be found or written
+</p>
+<ul><li> <a href="/wiki/SIP_Software_Modem" title="SIP Software Modem">SIP Software Modem</a> for Dial-Up / BBS projects
+</li><li> <a href="/wiki/BBS_gateway" title="BBS gateway">BBS gateway</a> to give access to web services through low bandwidth connections
+</li></ul>
+<a name="Physical_infrastructure" id="Physical_infrastructure"></a><h3><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=6" title="Edit section: Physical infrastructure">edit</a>]</span> <span class="mw-headline"> Physical infrastructure </span></h3>
+<ul><li> <a href="/wiki/Anonymous_Base_Station" title="Anonymous Base Station">Anonymous Base Station</a>
+</li><li> <a href="/wiki/Blackthrow" title="Blackthrow">Blackthrow</a>
+</li><li> WLAN
+<ul><li> <a href="/w/index.php?title=Long_range_cantennas&amp;action=edit&amp;redlink=1" class="new" title="Long range cantennas (page does not exist)">Long range cantennas</a>
+</li><li> <a href="http://www.engadget.com/2005/11/15/how-to-build-a-wifi-biquad-dish-antenna/" class="external text" title="http://www.engadget.com/2005/11/15/how-to-build-a-wifi-biquad-dish-antenna/" rel="nofollow">Offsite assembly instructions</a>
+</li><li> <a href="http://seattlewireless.net/" class="external text" title="http://seattlewireless.net/" rel="nofollow">Seattle Wireless</a> - many tutorials on hacking antennas and APs.
+</li><li> <a href="http://freifunk.net" class="external text" title="http://freifunk.net" rel="nofollow">Freifunk</a> ("free radio") German mesh network
+</li></ul>
+</li><li> <a href="/wiki/Blocklists" title="Blocklists">Blocklists</a> - firewall all authorities!
+</li><li> <a href="/wiki/OpenWRT" title="OpenWRT">OpenWRT</a>
+</li><li> <a href="/wiki/PirateBox" title="PirateBox">PirateBox</a>
+</li><li> <a href="/w/index.php?title=WiDrop&amp;action=edit&amp;redlink=1" class="new" title="WiDrop (page does not exist)">WiDrop</a>
+</li><li> <a href="/wiki/Trusted_Platform_Module" title="Trusted Platform Module">Trusted Platform Module</a>
+</li></ul>
+<a name="Repository_of_research_articles" id="Repository_of_research_articles"></a><h2><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=7" title="Edit section: Repository of research articles">edit</a>]</span> <span class="mw-headline"> Repository of research articles </span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Qaddafi_the_queen.jpg" class="image" title="Mission: Helping to undermine one authority after the other..."><img alt="" src="/w/images/thumb/1/18/Qaddafi_the_queen.jpg/180px-Qaddafi_the_queen.jpg" width="180" height="142" border="0" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Qaddafi_the_queen.jpg" class="internal" title="Enlarge"><img src="/w/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Mission: Helping to undermine one authority after the other...</div></div></div>Among the tasks given to TCMB by Cameron is to develop and spread knowledge about cryptography and security. So, here it is:
+<a name="Cryptography" id="Cryptography"></a><h3><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=8" title="Edit section: Cryptography">edit</a>]</span> <span class="mw-headline"> Cryptography </span></h3>
+<ul><li> <a href="/w/index.php?title=Algorithms&amp;action=edit&amp;redlink=1" class="new" title="Algorithms (page does not exist)">Algorithms</a>
+</li></ul>
+<a name="Cryptography_for_The_Post-Quantum_Computing_Era" id="Cryptography_for_The_Post-Quantum_Computing_Era"></a><h3><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=9" title="Edit section: Cryptography for The Post-Quantum Computing Era">edit</a>]</span> <span class="mw-headline"> Cryptography for The Post-Quantum Computing Era </span></h3>
+<ul><li> The <a href="/wiki/McEliece" title="McEliece">McEliece</a> cryptosystem is likely secure against <a href="http://en.wikipedia.org/wiki/Shor%27s_algorithm" class="external text" title="http://en.wikipedia.org/wiki/Shor%27s_algorithm" rel="nofollow">Shor's algorithm</a>.
+</li><li> The <a href="/wiki/One_Time_Pad" title="One Time Pad">One Time Pad</a> system is secure against all possible forms of cryptanalysis.
+</li><li> The redundant cryptosystem (partially sketched up, move it here)
+</li><li> <a href="/wiki/Quantum_computer" title="Quantum computer">Quantum computer</a> <font color="grey">(Project for trying to learn how quantum computers works)</font>
+</li><li> <a href="/wiki/Quantum_Hacking" title="Quantum Hacking">Quantum Hacking</a>
+</li></ul>
+<a name="Books.2C_papers_and_logs" id="Books.2C_papers_and_logs"></a><h3><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=10" title="Edit section: Books, papers and logs">edit</a>]</span> <span class="mw-headline"> Books, papers and logs </span></h3>
+<ul><li> <a href="/wiki/Telecomix_Crypto_Munitions_Bureau_-_The_Apocryphal_Machinery_of_Ciphernautics" title="Telecomix Crypto Munitions Bureau - The Apocryphal Machinery of Ciphernautics">Telecomix Crypto Munitions Bureau - The Apocryphal Machinery of Ciphernautics</a> <i>(Collaborative book-writing)</i>
+</li></ul>
+<a name="Further_Links" id="Further_Links"></a><h3><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=11" title="Edit section: Further Links">edit</a>]</span> <span class="mw-headline"> Further Links </span></h3>
+<ul><li> <a href="http://wiki.openrightsgroup.org/wiki/Crypto_Wars" class="external text" title="http://wiki.openrightsgroup.org/wiki/Crypto_Wars" rel="nofollow">Wiki-Article about Crypto Wars by Open Rights Group</a>
+</li><li> <a href="http://www.xs4all.nl/~suelette/underground/underground.txt" class="external text" title="http://www.xs4all.nl/~suelette/underground/underground.txt" rel="nofollow">Underground Book</a>
+</li><li> <a href="http://www.activism.net/cypherpunk/manifesto.html" class="external text" title="http://www.activism.net/cypherpunk/manifesto.html" rel="nofollow">A Cypherpunk's Manifesto</a>, that is nowadays even more relevant
+</li></ul>
+<a name="Meetings_and_seminars" id="Meetings_and_seminars"></a><h3><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=12" title="Edit section: Meetings and seminars">edit</a>]</span> <span class="mw-headline"> Meetings and seminars </span></h3>
+<ul><li> <a href="http://crypto.telecomix.org/2010/05/agent-discussing-acta-in-the-european-parliament/" class="external text" title="http://crypto.telecomix.org/2010/05/agent-discussing-acta-in-the-european-parliament/" rel="nofollow">TCMB agent discussing ACTA in the European Parliament</a>
+</li><li> <a href="http://crypto.telecomix.org/2010/03/tcmb-agents-at-festa-dei-pirati/" class="external text" title="http://crypto.telecomix.org/2010/03/tcmb-agents-at-festa-dei-pirati/" rel="nofollow">Telecomix at Festa Dei Pirati, Italy.</a>
+</li><li> <a href="/wiki/Summer_of_Cipher_Assembly" title="Summer of Cipher Assembly">Summer of Cipher Assembly</a> -- <i>A series of seminars held by TCMB.</i>
+<ul><li> <a href="/wiki/SoCA" title="SoCA" class="mw-redirect">SoCA</a> <i>course material</i>
+</li></ul>
+</li><li> The <a href="/wiki/IT_security_expo" title="IT security expo">IT security expo</a>
+</li><li>  <a href="/wiki/Telecomix_Crypto_Workshop_for_Journalists" title="Telecomix Crypto Workshop for Journalists">Telecomix Crypto Workshop for Journalists</a>
+</li></ul>
+<a name="TCMB_official_documents" id="TCMB_official_documents"></a><h2><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=13" title="Edit section: TCMB official documents">edit</a>]</span> <span class="mw-headline"> TCMB official documents </span></h2>
+<ul><li> <a href="/wiki/Request_for_the_deployment_of_a_crypto_munitions_bureau" title="Request for the deployment of a crypto munitions bureau">Request for the deployment of a crypto munitions bureau</a>
+</li><li> <a href="/wiki/Workers_needed_for_the_Telecomix_Crypto_Munitions_Bureau" title="Workers needed for the Telecomix Crypto Munitions Bureau">Workers needed for the Telecomix Crypto Munitions Bureau</a>
+</li></ul>
+<a name="Interesting_papers.2Fpads" id="Interesting_papers.2Fpads"></a><h2><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=14" title="Edit section: Interesting papers/pads">edit</a>]</span> <span class="mw-headline"> Interesting papers/pads </span></h2>
+<ul><li> <a href="http://www.publications.parliament.uk/pa/ld200910/ldselect/ldeucom/68/6802.htm" class="external text" title="http://www.publications.parliament.uk/pa/ld200910/ldselect/ldeucom/68/6802.htm" rel="nofollow">European Union Committee - Fifth Report: Protecting Europe against large-scale cyber-attacks</a>
+</li><li> <a href="http://typewith.me/npUBn3fEdi" class="external text" title="http://typewith.me/npUBn3fEdi" rel="nofollow">Security and Crypto Pad</a> <i>(unknown purpose)</i>
+</li><li> <a href="http://www.theregister.co.uk/2010/03/16/army_wikileaks/" class="external text" title="http://www.theregister.co.uk/2010/03/16/army_wikileaks/" rel="nofollow">US Army considered attack on Wikileaks</a>
+<ul><li> <a href="http://bit.ly/d1QvC8" class="external text" title="http://bit.ly/d1QvC8" rel="nofollow">The leaked paper (broken)</a>
+</li><li> <a href="http://mirror.wikileaks.info/leak/us-intel-wikileaks.pdf" class="external text" title="http://mirror.wikileaks.info/leak/us-intel-wikileaks.pdf" rel="nofollow">The leaked paper (at mirror.wikileaks)</a>
+</li></ul>
+</li></ul>
+<a name="Software_watch_list" id="Software_watch_list"></a><h2><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=15" title="Edit section: Software watch list">edit</a>]</span> <span class="mw-headline"> Software watch list</span></h2>
+<p>Interesting software that is yet to be investigated.
+</p>
+<ul><li> <a href="https://www.cryptool.org/" class="external text" title="https://www.cryptool.org/" rel="nofollow">CrypTool</a> / <a href="http://jcryptool.sourceforge.net/JCrypTool/Home.html" class="external text" title="http://jcryptool.sourceforge.net/JCrypTool/Home.html" rel="nofollow">JCrypTool</a>: graphical cryptography teaching tool
+</li><li> <a href="http://alpinelinux.org/" class="external text" title="http://alpinelinux.org/" rel="nofollow">AlpineLinux</a> hardened and lightweight Linux distribution for setting up routers / gateways
+</li></ul>
+<a name="Other" id="Other"></a><h2><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=16" title="Edit section: Other">edit</a>]</span> <span class="mw-headline"> Other </span></h2>
+<ul><li> <a href="/wiki/Deep_Packet_Inspection" title="Deep Packet Inspection">Deep Packet Inspection</a>
+</li><li> <a href="/wiki/Phone_numbers_to_some_politicians" title="Phone numbers to some politicians">Phone numbers to some politicians</a>
+</li><li> <a href="http://dev.riseup.net" class="external text" title="http://dev.riseup.net" rel="nofollow">Riseup Labs - cool stuff!</a>
+</li><li> <a href="http://wiki.kartbuilding.net/" class="external text" title="http://wiki.kartbuilding.net/" rel="nofollow">Kartbuilding.net - lots of cool guides on linux software</a>
+</li><li> <a href="/wiki/Fractal" title="Fractal">Fractal</a>
+</li><li> <a href="/wiki/Conversations" title="Conversations">Conversations</a>
+</li><li> <a href="https://help.ubuntu.com/community/EncryptedFilesystemLVMHowto" class="external text" title="https://help.ubuntu.com/community/EncryptedFilesystemLVMHowto" rel="nofollow">Step-by-step guide to setting up LUKS-encrypted LVM with Ubuntu (useful reference)</a>
+</li><li> <a href="/wiki/Haskell" title="Haskell">Haskell</a> <i><font color="grey">-- random notes</font></i>
+</li><li> <a href="http://www.al-qaeda.net/cpunk/" class="external text" title="http://www.al-qaeda.net/cpunk/" rel="nofollow">Cypherpunks list</a>
+</li><li> <a href="http://www.cyber-rights.org/interception/stoa/ic2kreport.htm" class="external text" title="http://www.cyber-rights.org/interception/stoa/ic2kreport.htm" rel="nofollow">Interception Capabilities Report, 2000</a>
+</li><li> <a href="http://www.forbes.com/sites/andygreenberg/2011/11/17/chinas-great-firewall-tests-mysterious-scans-on-encrypted-connections/" class="external text" title="http://www.forbes.com/sites/andygreenberg/2011/11/17/chinas-great-firewall-tests-mysterious-scans-on-encrypted-connections/" rel="nofollow">China's Great Firewall Tests Mysterious Scans On Encrypted Connections</a>
+</li><li> <a href="http://lists.zooko.com/mailman/listinfo/p2p-hackers" class="external text" title="http://lists.zooko.com/mailman/listinfo/p2p-hackers" rel="nofollow">p2p Hackers list</a>
+</li><li> <a href="http://wiki.thc.org/" class="external text" title="http://wiki.thc.org/" rel="nofollow">THC Wiki</a>
+</li><li> <a href="http://en.rsf.org/etats-unis-domestic-reality-does-not-match-02-11-2011,41324.html" class="external text" title="http://en.rsf.org/etats-unis-domestic-reality-does-not-match-02-11-2011,41324.html" rel="nofollow">US and the (broken) freedom of expression</a>
+</li><li> <a href="http://www.infoanarchy.org/en/Main_Page" class="external text" title="http://www.infoanarchy.org/en/Main_Page" rel="nofollow">Infoanarchy Wiki</a>
+</li><li> <a href="http://www.forensicswiki.org/" class="external text" title="http://www.forensicswiki.org/" rel="nofollow">Forensics wiki</a>
+</li><li> <a href="https://code.google.com/p/opendpi/" class="external text" title="https://code.google.com/p/opendpi/" rel="nofollow">OpenDPI, source code of a crappy DPI, that is used in real-world systems</a>
+</li><li> <a href="http://buggedplanet.info/" class="external text" title="http://buggedplanet.info/" rel="nofollow">Buggedplanet - Intel of Vendors of SIGINT/COMINT/LI and supporting Technologies and Systems</a>
+</li><li> <a href="http://ftp.uni-kl.de/CCC/" class="external text" title="http://ftp.uni-kl.de/CCC/" rel="nofollow">CCC conference video archive</a>
+</li><li> <a href="http://wiki.echelon2.org/wiki/Main_Page" class="external text" title="http://wiki.echelon2.org/wiki/Main_Page" rel="nofollow">Project PM</a>
+</li><li> <a href="http://werebuild.telecomix.org/wiki/Blue_cabinet" class="external text" title="http://werebuild.telecomix.org/wiki/Blue_cabinet" rel="nofollow">Blue cabinet</a>
+</li></ul>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Cryptoanarchy.org.png" class="image" title="Cryptoanarchy.org.png"><img alt="" src="/w/images/thumb/9/9b/Cryptoanarchy.org.png/300px-Cryptoanarchy.org.png" width="300" height="343" border="0" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Cryptoanarchy.org.png" class="internal" title="Enlarge"><img src="/w/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div></div>
+<a name="French_tutorials" id="French_tutorials"></a><h2><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=17" title="Edit section: French tutorials">edit</a>]</span> <span class="mw-headline">French tutorials</span></h2>
+<ul><li> <a href="/wiki/Heberger_un_relais_tor" title="Heberger un relais tor">Héberger un relais tor</a>
+</li></ul>
+<a name="English_tutorials" id="English_tutorials"></a><h2><span class="editsection">[<a href="/w/index.php?title=Main_Page&amp;action=edit&amp;section=18" title="Edit section: English tutorials">edit</a>]</span> <span class="mw-headline">English tutorials</span></h2>
+<ul><li><a href="/wiki/Tor_Relay" title="Tor Relay">Host a tor relay</a>
+</li><li><a href="/wiki/Tor_Exitnode" title="Tor Exitnode">Host a tor exit node</a>
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 35/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:1-0!1!0!!en!2 and timestamp 20121019101517 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Main_Page">https://cryptoanarchy.org/wiki/Main_Page</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Main_Page" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk"><a href="/wiki/Talk:Main_Page" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Main_Page&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Main_Page&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Main_Page" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Main_Page" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Main_Page" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Main_Page&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Main_Page&amp;oldid=4191" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 18 October 2012, at 10:13.</li>
+					<li id="viewcount">This page has been accessed 122,225 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.136 secs. --></body><
+7
+/html>
+
+0
+

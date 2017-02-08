@@ -1,0 +1,587 @@
+dd78
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Cryptography,Assembler,Concurrent programming,McEliece,OTP,Quantum computer,Steganography" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Cryptography&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Cryptography&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Cryptography&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Cryptography - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Cryptography";
+		var wgTitle = "Cryptography";
+		var wgAction = "view";
+		var wgArticleId = "363";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 3362;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Cryptography skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Cryptography</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p><b>Cryptography</b> is the art of concealing the meaning of messages. Related topic is <a href="/w/index.php?title=Steganography&amp;action=edit&amp;redlink=1" class="new" title="Steganography (page does not exist)">steganography</a>, the art of concealing the presence of hidden messages.
+</p><p><font color="#FF0000"><b>NOTICE:</b></font> This article will be put on ice until the course is complete. It takes too much time from my studies to write everything down. Eventually, when the course is complete and i get free time, the article will be slit up in parts and more focus will be put into research, rather than basic education.
+</p><p>Maybe we also has to include LaTeX support for this wiki, to keep it away from those really horrible ascii graphs.
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#What_is_this.3F"><span class="tocnumber">1</span> <span class="toctext">What is this?</span></a></li>
+<li class="toclevel-1"><a href="#Assumptions"><span class="tocnumber">2</span> <span class="toctext">Assumptions</span></a></li>
+<li class="toclevel-1"><a href="#Terminology_and_general_useful_knowledge"><span class="tocnumber">3</span> <span class="toctext">Terminology and general useful knowledge</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Categories_of_ciphers"><span class="tocnumber">3.1</span> <span class="toctext">Categories of ciphers</span></a></li>
+<li class="toclevel-2"><a href="#Symmetric_and_asymmetric_ciphers"><span class="tocnumber">3.2</span> <span class="toctext">Symmetric and asymmetric ciphers</span></a></li>
+<li class="toclevel-2"><a href="#Additional_useful_functions"><span class="tocnumber">3.3</span> <span class="toctext">Additional useful functions</span></a></li>
+<li class="toclevel-2"><a href="#Attacks_against_ciphers"><span class="tocnumber">3.4</span> <span class="toctext">Attacks against ciphers</span></a></li>
+<li class="toclevel-2"><a href="#Why_are_ciphers_secure.3F"><span class="tocnumber">3.5</span> <span class="toctext">Why are ciphers secure?</span></a></li>
+<li class="toclevel-2"><a href="#Quantum_paranoia"><span class="tocnumber">3.6</span> <span class="toctext">Quantum paranoia</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Block_ciphers"><span class="tocnumber">4</span> <span class="toctext">Block ciphers</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Components_of_block_ciphers"><span class="tocnumber">4.1</span> <span class="toctext">Components of block ciphers</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Confusion"><span class="tocnumber">4.1.1</span> <span class="toctext">Confusion</span></a></li>
+<li class="toclevel-3"><a href="#Diffusion"><span class="tocnumber">4.1.2</span> <span class="toctext">Diffusion</span></a></li>
+<li class="toclevel-3"><a href="#Key_scheduler"><span class="tocnumber">4.1.3</span> <span class="toctext">Key scheduler</span></a></li>
+<li class="toclevel-3"><a href="#Feistel_network"><span class="tocnumber">4.1.4</span> <span class="toctext">Feistel network</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Example_of_ultra-simple_feistel_cipher"><span class="tocnumber">4.2</span> <span class="toctext">Example of ultra-simple feistel cipher</span></a></li>
+<li class="toclevel-2"><a href="#Encryption_modes"><span class="tocnumber">4.3</span> <span class="toctext">Encryption modes</span></a></li>
+<li class="toclevel-2"><a href="#AES"><span class="tocnumber">4.4</span> <span class="toctext">AES</span></a>
+<ul>
+<li class="toclevel-3"><a href="#AES_in_x86"><span class="tocnumber">4.4.1</span> <span class="toctext">AES in x86</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#DES"><span class="tocnumber">4.5</span> <span class="toctext">DES</span></a>
+<ul>
+<li class="toclevel-3"><a href="#2DES"><span class="tocnumber">4.5.1</span> <span class="toctext">2DES</span></a></li>
+<li class="toclevel-3"><a href="#3DES"><span class="tocnumber">4.5.2</span> <span class="toctext">3DES</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Message_Authentication_Codes_.28MACs.29"><span class="tocnumber">5</span> <span class="toctext">Message Authentication Codes (MACs)</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Block_cipher_in_CBC-mode_as_a_MAC.3F_.28CBC-MAC.29"><span class="tocnumber">5.1</span> <span class="toctext">Block cipher in CBC-mode as a MAC? (CBC-MAC)</span></a></li>
+<li class="toclevel-2"><a href="#Hash_functions_as_MACs"><span class="tocnumber">5.2</span> <span class="toctext">Hash functions as MACs</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Key_exchange"><span class="tocnumber">6</span> <span class="toctext">Key exchange</span></a></li>
+<li class="toclevel-1"><a href="#Authentication"><span class="tocnumber">7</span> <span class="toctext">Authentication</span></a></li>
+<li class="toclevel-1"><a href="#Public_key_cryptography"><span class="tocnumber">8</span> <span class="toctext">Public key cryptography</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Encryption_and_decryption"><span class="tocnumber">8.1</span> <span class="toctext">Encryption and decryption</span></a></li>
+<li class="toclevel-2"><a href="#Signatures"><span class="tocnumber">8.2</span> <span class="toctext">Signatures</span></a></li>
+<li class="toclevel-2"><a href="#ElGamal"><span class="tocnumber">8.3</span> <span class="toctext">ElGamal</span></a>
+<ul>
+<li class="toclevel-3"><a href="#The_greatest_common_divisor"><span class="tocnumber">8.3.1</span> <span class="toctext">The greatest common divisor</span></a></li>
+<li class="toclevel-3"><a href="#The_extended_Euclidean_algorithm"><span class="tocnumber">8.3.2</span> <span class="toctext">The extended Euclidean algorithm</span></a></li>
+<li class="toclevel-3"><a href="#Abelian_groups"><span class="tocnumber">8.3.3</span> <span class="toctext">Abelian groups</span></a></li>
+<li class="toclevel-3"><a href="#Generators"><span class="tocnumber">8.3.4</span> <span class="toctext">Generators</span></a></li>
+<li class="toclevel-3"><a href="#Discrete_logarithms"><span class="tocnumber">8.3.5</span> <span class="toctext">Discrete logarithms</span></a></li>
+<li class="toclevel-3"><a href="#Encryption.2Fdecryption_using_ElGamal"><span class="tocnumber">8.3.6</span> <span class="toctext">Encryption/decryption using ElGamal</span></a></li>
+<li class="toclevel-3"><a href="#Example_of_ElGamal_by_hand"><span class="tocnumber">8.3.7</span> <span class="toctext">Example of ElGamal by hand</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Replay_attacks"><span class="tocnumber">9</span> <span class="toctext">Replay attacks</span></a></li>
+<li class="toclevel-1"><a href="#Padding"><span class="tocnumber">10</span> <span class="toctext">Padding</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="What_is_this.3F" id="What_is_this.3F"></a><h2><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=1" title="Edit section: What is this?">edit</a>]</span> <span class="mw-headline"> What is this? </span></h2>
+<p>These are random notes about cryptography. The article will be written iteratively, each iteration adding some new knowledge.
+</p><p>It is written by a programmer, for other programmers. No higher mathematics required. Often, I will just ignore stuff i dont understand and assume that the mathematicians did it right ~:) <i>trolololol</i>
+</p>
+<a name="Assumptions" id="Assumptions"></a><h2><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=2" title="Edit section: Assumptions">edit</a>]</span> <span class="mw-headline"> Assumptions </span></h2>
+<ul><li> The communication system used to carry messages to whoever we wish to communicate with is controlled by the adversary. ("<i>We Do Not Trust The Intertubes, dragons and dictators rule the world lol.</i>")
+</li></ul>
+<a name="Terminology_and_general_useful_knowledge" id="Terminology_and_general_useful_knowledge"></a><h2><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=3" title="Edit section: Terminology and general useful knowledge">edit</a>]</span> <span class="mw-headline"> Terminology and general useful knowledge </span></h2>
+<a name="Categories_of_ciphers" id="Categories_of_ciphers"></a><h3><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=4" title="Edit section: Categories of ciphers">edit</a>]</span> <span class="mw-headline"> Categories of ciphers </span></h3>
+<p>General categories of ciphers:
+</p>
+<ol><li> <b>Public-key ciphers</b>
+<ul><li> RSA, ElGamal, etc <i>(The original public-key ciphers)</i>
+</li><li> Elliptic curve cryptography <i>(We need to switch to these soon, RSA is becomming weaker..)</i>
+</li><li> Post-quantum public key algorithms <i>(Built to resist the quantum computer)</i>
+</li></ul>
+</li><li> <b>Block ciphers</b>
+<ul><li> A good block cipher should not have any known attack other than brute force.
+</li></ul>
+</li><li> <b>Stream ciphers</b>
+<ul><li> Stream ciphers are generally thought of as weak. Do not use. (With one exception: block ciphers in CTR-mode.)
+</li></ul>
+</li></ol>
+<a name="Symmetric_and_asymmetric_ciphers" id="Symmetric_and_asymmetric_ciphers"></a><h3><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=5" title="Edit section: Symmetric and asymmetric ciphers">edit</a>]</span> <span class="mw-headline"> Symmetric and asymmetric ciphers </span></h3>
+<p>Ciphers can also be divided into <i>symmetric</i> and <i>asymmetric</i> ciphers. Symmetric ciphers use one key for both encryption and decryption. Asymmetric ciphers have two keys: One public key and one private key. Symmetric ciphers are block ciphers and stream ciphers. Asymmetric ciphers are public-key ciphers.
+</p>
+<a name="Additional_useful_functions" id="Additional_useful_functions"></a><h3><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=6" title="Edit section: Additional useful functions">edit</a>]</span> <span class="mw-headline"> Additional useful functions </span></h3>
+<p>Cryptographic systems (protocols) also makes use of
+</p>
+<ul><li> <b>Hash functions</b> (MD5, SHA, SHA-256..)
+</li><li> <b>MAC</b>s (Message Authentication Codes. Can be implemented with hash functions.)
+</li></ul>
+<p>Hash functions and MACs turn bitstrings into fixed-size bitstrings. Good hash functions are very difficult to compute "backwards": If one has a hash function <tt>f(x) = y</tt>, the only method to compute x from y should be by brute force. (Since they map arbitrary length bitstrings into fixed-size bitstrings, there are multiple x'es that result in any y.)
+</p>
+<a name="Attacks_against_ciphers" id="Attacks_against_ciphers"></a><h3><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=7" title="Edit section: Attacks against ciphers">edit</a>]</span> <span class="mw-headline"> Attacks against ciphers </span></h3>
+<p>There are a number of names for different types of attacks against cipher systems:
+</p>
+<ul><li> <b>Brute force:</b> Try all different combinations until a solution is found.
+</li><li> <b>Meet-in-the-middle attack:</b> See 2DES below for an example.
+</li><li> <b>Linear and differential cryptanalysis:</b> Old methods for cracking block ciphers. Uses complex math.
+</li><li> <b>Man-in-the-middle attack:</b> An adversary modifies messages being sent between peers, often to crack the key-exchange algorithm.
+</li><li> <b>Side-channel attack:</b> The adversary makes use of properties in the energy- or time-complexity of the crypto algorithms in order to deduce properties of the cipher key that is being used. This reduces the keyspace that needs to be searched, greatly reducing the security of a cipher.
+<ul><li> Like this: <i>By probing how many milliseconds it takes for a website to decrypt and reply to RSA-encrypted messages, it is sometimes possible to make conclusions about the private key.</i>
+</li></ul>
+</li><li> And a whole rainforest of other types of attacks.
+</li></ul>
+<a name="Why_are_ciphers_secure.3F" id="Why_are_ciphers_secure.3F"></a><h3><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=8" title="Edit section: Why are ciphers secure?">edit</a>]</span> <span class="mw-headline"> Why are ciphers secure? </span></h3>
+<p>Ciphers make use of "mathematical riddles" that has no known methods for solving them quickly. There are something called <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Complexity_class" class="external text" title="https://secure.wikimedia.org/wikipedia/en/wiki/Complexity_class" rel="nofollow">complexity classes</a> that are used to describe how much time/space is required to solve different types of logical problems. Ciphers are secure because they use problems for their riddles that are believed to lie in complexity classes that humanity currently does not know to solve efficiently.
+</p><p>Examples:
+</p>
+<ul><li> Block ciphers use combinatorial explosions <i>(i think its called that?)</i>
+</li><li> RSA uses the problem of integer factorization
+</li><li> ElGamal uses the problem of discrete logarithms
+</li></ul>
+<p>It is important to notice that many problems are <i>not</i> known to belong to some specific complexity class. This science is still in its cradle. For example, we do not know if P=NP.
+</p><p>Recently, humanity has begun to experiment with creating computers that uses quantum mechanics to extend the set of problems that can be efficiently solved. Quantum computers will, <i>if they are possible to build,</i> extend our abilities to solve logical problems.
+</p>
+<a name="Quantum_paranoia" id="Quantum_paranoia"></a><h3><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=9" title="Edit section: Quantum paranoia">edit</a>]</span> <span class="mw-headline"> Quantum paranoia </span></h3>
+<p>In case you are paranoid about <a href="https://secure.wikimedia.org/wikipedia/en/wiki/NSA" class="external text" title="https://secure.wikimedia.org/wikipedia/en/wiki/NSA" rel="nofollow">NSA</a> having built <a href="/wiki/Quantum_computer" title="Quantum computer">quantum computers</a> for cracking your ciphers:
+</p>
+<ul><li> <b>Groovers algorithm:</b> Reduces brute force attacks from <tt>O(2^keysize)</tt> to <tt>O((2^keysize)^(1/2))</tt>-time. Brute force cracking a cipher using a quantum computer only requires the square root of the number of computations needed for a classical computer to do the same thing. Examples: AES256 becomes as secure as AES128, SHA-512 becomes as secure as SHA-256.
+</li><li> <b>Shor's algorithm:</b> Reduces prime-factorization to <tt>O((log n)^3)</tt>-time. This means that classical public key-ciphers can be cracked very quickly by quantum computers. Discrete logarithms can also be cracked by Shor's algo. Examples: RSA and ElGamal are <i><b>not</b></i> secure after the invention of the quantum computer.
+</li></ul>
+<p>Groovers and Shor's algorithms can only be implemented in quantum computers.
+</p><p>Notice that there is a class of ciphers known as the <i>post-quantum ciphers</i>. They are based upon problems that <i>is thought</i> to lie outside the <a href="https://secure.wikimedia.org/wikipedia/en/wiki/BQP" class="external text" title="https://secure.wikimedia.org/wikipedia/en/wiki/BQP" rel="nofollow">BQP</a> complexity class. An example of a post-quantum cipher is the <a href="/wiki/McEliece" title="McEliece">McEliece</a>.
+</p>
+<a name="Block_ciphers" id="Block_ciphers"></a><h2><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=10" title="Edit section: Block ciphers">edit</a>]</span> <span class="mw-headline"> Block ciphers </span></h2>
+<ul><li> <b>Characteristics:</b> One key for both encryption and decryption. Quick ciphers. Encrypts a fixed-size block of bits.
+</li><li> <b>Design goals:</b> Completely random, known-plaintext attacks should not be possible.
+</li><li> <b>How they works:</b> Confusion and diffusion.
+</li><li> <b>Examples:</b> DES, AES, blowfish, twofish..
+</li><li> <b>Modes of encryption:</b> ECB, CBC, CTR..
+</li></ul>
+<p>More to write about:
+</p>
+<ul><li> Side-channel attacks (measuring energy/time consumption for cryptanalysis, and countermeasures)
+</li><li> How to do cryptanalysis for really simple block ciphers
+</li><li> 2DES and why it fails
+</li><li> 3DES and why it works
+</li></ul>
+<a name="Components_of_block_ciphers" id="Components_of_block_ciphers"></a><h3><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=11" title="Edit section: Components of block ciphers">edit</a>]</span> <span class="mw-headline"> Components of block ciphers </span></h3>
+<p>Block ciphers do something like this:
+</p>
+<pre>
+select an X                      # X is something like 8, 10 or 12.
+for i=0 to X do:                 # every loop is called a &quot;round&quot;
+   confusion
+   diffusion
+optionally some more operations at the end to make it pretty
+done
+</pre>
+<p>There are some different paradigms for doing the above:
+</p>
+<ul><li> Feistel network
+</li><li> SP networks
+</li><li> others   
+</li></ul>
+<a name="Confusion" id="Confusion"></a><h4><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=12" title="Edit section: Confusion">edit</a>]</span> <span class="mw-headline"> Confusion </span></h4>
+<p>Confusion is another word for substitution: To replace symbols with other symbols. (Example: S-block in AES.)
+</p>
+<a name="Diffusion" id="Diffusion"></a><h4><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=13" title="Edit section: Diffusion">edit</a>]</span> <span class="mw-headline"> Diffusion </span></h4>
+<p>Spread out the bits over the entire block: To move symbols around. CAFNBE may become ABNCEF.
+</p><p>The reason for this: The cipher should be completely random. Flipping a single bit in the cleartext should result in about half the bits in the ciphertext is flipped. Diffusion makes so that a single symbol in the cleartext is "spread out" over the entire ciphertext block. 
+</p><p>Example: The Feistel network's f()-function below does this.
+</p>
+<a name="Key_scheduler" id="Key_scheduler"></a><h4><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=14" title="Edit section: Key scheduler">edit</a>]</span> <span class="mw-headline"> Key scheduler </span></h4>
+<p>Often, every new round in a block cipher uses its own cipher key (for confusion and diffusion steps, so that their actions are unpredictable every round). The cipherkey is created from the original key and should be difficult to guess. 
+</p><p><i>If you know how it works, plox insert your description here.</i>
+</p><p>Maybe one could use a hash function for generating subkeys?
+</p>
+<a name="Feistel_network" id="Feistel_network"></a><h4><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=15" title="Edit section: Feistel network">edit</a>]</span> <span class="mw-headline"> Feistel network </span></h4>
+<p>A <a href="http://en.wikipedia.org/wiki/Feistel_cipher" class="external text" title="http://en.wikipedia.org/wiki/Feistel_cipher" rel="nofollow">feistel network</a> describes a single <i>round</i> in a feistel block cipher. It looks like this.
+</p>
+<pre>
+   L(i-1)          R(i-1)
+     |               |
+    xor &lt;-- f() -----+
+     |        \      |
+     |         \-------- key            # key should ideally be generated by a key scheduler
+     |               |
+    R(i)            L(i)
+</pre>
+<p><b>Description:</b> If the message is 128 bits long, L() and R() are the left 64 and the right 64 bits of that message. Each round through the network will swap the left and right bit of the message, and also xor the right part of the message with the result of <tt>f(R(i-1),key)</tt>. f() is some nice and preferably unpredictable function.
+</p><p>Feistel networks does both confusion and diffusion of a message. Generally: The more rounds, the better.
+</p><p><b>Or in other words:</b>
+</p>
+<ul><li> L(i) = R(i-1)
+</li><li> R(i) = L(i-1) xor f(R(i-1),key)
+</li></ul>
+<p>which also means that
+</p>
+<ul><li> L(i-1) = R(i) xor f(R(i-1),key)
+</li><li> R(i-1) = L(i)
+</li></ul>
+<p>This definition can be used to recursively describe a N-round feistel cipher as a simple, but rather huge, equation. Creating a huge function like this can be a first step when performing cryptanalysis of a block cipher.
+</p>
+<a name="Example_of_ultra-simple_feistel_cipher" id="Example_of_ultra-simple_feistel_cipher"></a><h3><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=16" title="Edit section: Example of ultra-simple feistel cipher">edit</a>]</span> <span class="mw-headline"> Example of ultra-simple feistel cipher </span></h3>
+<p><i>This cipher is severely flawed. Only for educational purpose. It has no key scheduler, has a really stupid feistel function, has blocksize: 8-bits, can be attacked by just simplifying the function.</i>
+</p><p>We select the feistel function <tt>f(x) = ( x xor 45 + key ) mod 256</tt>. It has mod 256 because its block size is 8 bits (2^8 = 256). The fiestel cipher has 3 rounds. We start at round 3 and recursively resolve the function backwards (plox see the definition of the feistel cipher above):
+</p>
+<ol><li> Base cases:
+<ul><li> L(0) are the least significant 4 bits of the cleartext.
+</li><li> R(0) are the most significant 4 bits of the cleartext.
+</li><li> "||" means concatenation <font color="grey">( a || b = the bitstring a followed by the bitstring b )</font>
+</li></ul>
+</li><li> <b>We begin at round 3:</b> <tt>L(3) || R(3)</tt>
+</li><li> <tt>R(2) || L(2) xor f(R(2), key)</tt>
+</li><li> <tt>L(1) xor f(R(1), key) || R(1) xor f(L(1) xor f(R(1),key), key)</tt>
+</li><li> <b>End at round 0. Here is our cipher:</b> <tt>R(0) xor f(L(0) xor f(L(0) xor f(R(0),key),key), key) || L(0) xor f(R(0),key) xor f(R(0) xor f(L(0) xor f(R(0),key),key), key)</tt>
+</li><li> We now have the function. Lets translate it to the actual definition:
+<ul><li> Our feistel function: <tt>f(x) = ( x xor 45 + key ) mod 256</tt>
+</li><li> We wish to remove all f(x) in the description of the zeroth round. This will give us the full function&nbsp;:) It is a quite huge function already so lets break it up into pieces...
+</li></ul>
+</li><li> <tt>R(0) xor A || L(0) xor B xor C</tt> ...and...
+<ol><li> <tt>A = f(L(0) xor D, key)</tt>
+</li><li> <tt>B = f(R(0), key))</tt>
+</li><li> <tt>C = f(R(0) xor E, key)</tt>
+</li><li> <tt>D = f(L(0) xor F, key)</tt>
+</li><li> <tt>E = f(L(0) xor G, key)</tt>
+</li><li> <tt>F = f(R(0), key)</tt>
+</li><li> <tt>G = f(R(0), key)</tt>
+</li></ol>
+</li><li> We remember that <tt>f(x) = ( x xor 45 + key ) mod 256</tt> and re-assembles the function again:
+<ol><li> <tt>G = ( R(0) xor 45 + key) mod 256</tt>
+</li><li> <tt>F = ( (R(0) xor 45 + key) mod 256</tt>
+</li><li> <tt>E = ( ( L(0) xor G ) xor 45 + key ) mod 256 = ( ( L(0) xor ( R(0) xor 45 + key) mod 256 ) xor 45 + key ) mod 256</tt>
+</li><li> <tt>D = ( ( L(0) xor F ) xor 45 + key ) mod 256 = ( ( L(0) xor f(R(0), key) ) xor 45 + key ) mod 256</tt>
+</li><li> <tt>C = ( ( R(0) xor E ) xor 45 + key ) mod 256 = ( ( R(0) xor ( ( L(0) xor G ) xor 45 + key ) mod 256 = ( ( L(0) xor ( R(0) xor 45 + key) mod 256 ) xor 45 + key ) mod 256 ) xor 45 + key ) mod 256</tt>
+</li><li> <tt>B = ( R(0) xor 45 + key) mod 256 )</tt>
+</li><li> <tt>A = ( ( L(0) xor D ) xor 45 + key ) mod 256 = ( ( L(0) xor ( ( L(0) xor F ) xor 45 + key ) mod 256 = ( ( L(0) xor f(R(0), key) ) xor 45 + key ) mod 256 ) xor 45 + key ) mod 256</tt>
+</li></ol>
+</li><li> We put this together and arrive at the final result. <b>The ciphertext transform is:</b> <tt>ciphertext = R(0) xor ( ( L(0) xor f(R(0), key) ) xor 45 + key ) mod 256 ) xor 45 + key ) mod 256 || L(0) xor ( R(0) xor 45 + key) mod 256 ) xor ( ( L(0) xor ( R(0) xor 45 + key) mod 256 ) xor 45 + key ) mod 256 ) xor 45 + key ) mod 256</tt>
+</li><li> One can remove all the "mod 256" if one only uses 8-bit operations. (Define <tt>a + b</tt> as <tt>a + b mod 256</tt>.)
+</li><li> if you has <i>a lot of time</i> and knows some boolean logics you can start simplifying the description of the cipher now. However, since the numbers of keys are just 256, its easily brute forced.
+</li></ol>
+<a name="Encryption_modes" id="Encryption_modes"></a><h3><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=17" title="Edit section: Encryption modes">edit</a>]</span> <span class="mw-headline"> Encryption modes </span></h3>
+<p>When encrypting more than one block, things will fuck up if we just simply encrypt each block individually. <a href="http://en.wikipedia.org/wiki/Block_cipher_modes_of_operation" class="external text" title="http://en.wikipedia.org/wiki/Block_cipher_modes_of_operation" rel="nofollow">Wikipedia</a> has a nice article. <b>Read it.</b>
+</p><p>Common cipher modes:
+</p>
+<ul><li> <b>ECB</b> -- Electronic Code Book-mode. It encrypts each block individually. <i>Is 99.9% fail. Do not use.</i>
+</li><li> <b>CBC</b> -- Cipher Block Chain-mode. Mostly used, for example in many SSL-suites.
+</li><li> <b>CTR</b> -- Counter mode. Generates a high-quality pseudorandom bitstring that the plaintext is xored with. This means that the computation-intensive operations may be parallelized and buffered for later usage. Works a bit like an imperfect <a href="/wiki/OTP" title="OTP" class="mw-redirect">OTP</a> and makes the block cipher behave like a stream cipher. Suitable for distributed <a href="/wiki/Concurrent_programming" title="Concurrent programming">concurrent</a> multiprocessor communications systems.
+</li></ul>
+<a name="AES" id="AES"></a><h3><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=18" title="Edit section: AES">edit</a>]</span> <span class="mw-headline"> AES </span></h3>
+<p><font color="red">...write moar?</font>
+</p>
+<a name="AES_in_x86" id="AES_in_x86"></a><h4><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=19" title="Edit section: AES in x86">edit</a>]</span> <span class="mw-headline"> AES in x86 </span></h4>
+<p>Modern x86 microprocessors supports hardware acceleration of AES. Below are <a href="/wiki/Assembler" title="Assembler">assembler</a> mnemonics. The programmer needs to implement the remaining parts of the cipher that is not done automagically by the processor. This means that the hardware implementation is independent of the type of AES: It can be made to work for 128-bit (10 rounds), 196-bit (12 rounds) and 256-bit (14 rounds).
+</p>
+<ul><li> Encryption acceleration: <a href="http://siyobik.info/main/reference/instruction/AESENC" class="external text" title="http://siyobik.info/main/reference/instruction/AESENC" rel="nofollow">AESENC</a>, <a href="http://siyobik.info/main/reference/instruction/AESENCLAST" class="external text" title="http://siyobik.info/main/reference/instruction/AESENCLAST" rel="nofollow">AESENCLAST</a>
+</li><li> Decryption acceleration: <a href="http://siyobik.info/main/reference/instruction/AESDEC" class="external text" title="http://siyobik.info/main/reference/instruction/AESDEC" rel="nofollow">AESDEC</a>, <a href="http://siyobik.info/main/reference/instruction/AESDECLAST" class="external text" title="http://siyobik.info/main/reference/instruction/AESDECLAST" rel="nofollow">AESDECLAST</a>
+</li><li> InvMixColumn Transformation: <a href="http://siyobik.info/main/reference/instruction/AESIMC" class="external text" title="http://siyobik.info/main/reference/instruction/AESIMC" rel="nofollow">AESIMC</a>
+</li><li> Key scheduler acceleration: <a href="http://siyobik.info/main/reference/instruction/AESKEYGENASSIST" class="external text" title="http://siyobik.info/main/reference/instruction/AESKEYGENASSIST" rel="nofollow">AESKEYGENASSIST</a>
+</li></ul>
+<a name="DES" id="DES"></a><h3><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=20" title="Edit section: DES">edit</a>]</span> <span class="mw-headline"> DES </span></h3>
+<ul><li> <a href="http://en.wikipedia.org/wiki/Data_Encryption_Standard" class="external text" title="http://en.wikipedia.org/wiki/Data_Encryption_Standard" rel="nofollow">Wikipedia</a>
+</li><li> 56-bit key (64-bit if one includes parity bits)
+</li><li> Encrypts/decrypts in 64-bit sized blocks
+</li><li> <b>DES is not secure.</b> 2^56 different keys is possible to brute force (using a computing cluster or <a href="http://en.wikipedia.org/wiki/Application-specific_integrated_circuit" class="external text" title="http://en.wikipedia.org/wiki/Application-specific_integrated_circuit" rel="nofollow">ASIC</a>). 
+</li></ul>
+<p>It is possible to extend DES to make it more secure. See 2DES and 3DES below.
+</p>
+<a name="2DES" id="2DES"></a><h4><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=21" title="Edit section: 2DES">edit</a>]</span> <span class="mw-headline"> 2DES </span></h4>
+<p>2DES is the idea of encrypting with DES twice, using different keys. One might think that this would increase the number of possible keys with a factor 2^56, but this is not true. 2DES is described here only for educational purpose. It is not, and should not, be used in the real world.
+</p><p>What is 2DES, and why is it insecure?
+</p>
+<ul><li> 2DES encrypts messages using E<sub>K1</sub>(E<sub>K2</sub>(Message)). <font color="grey">E<sub>x</sub> is encryption using key x.</font>
+</li><li> What if there is a third key K3 such that E<sub>K3</sub>(Message) = E<sub>K1</sub>(E<sub>K2</sub>(Message))?
+<ul><li> It can be shown that this is often not the case. <font color="grey">(no proof will be made of that here.)</font>
+</li></ul>
+</li><li> There is a <a href="http://en.wikipedia.org/wiki/Meet_in_the_middle_attack" class="external text" title="http://en.wikipedia.org/wiki/Meet_in_the_middle_attack" rel="nofollow">meet-in-the-middle attack</a> against 2DES. This is why 3DES is used instead.
+<ol><li> Compute 2^56 plaintext-ciphertext pairs (one pair for each possible key) and store them in a hash table. <font color="grey">(2^56 is too large to store anywhere, but lets just assume.)</font>
+</li><li> Decrypt the ciphertext message you wish to crack with all possible pairs. If there is a match, then mark the key as a <i>candidate</i>.
+</li><li> For each candidate, check if there is another ciphertext-cleartext pair that also match. (Let the hash table be indexed by ciphertext this time)
+</li><li> If it match, then the key is found.
+</li><li> How many computations are needed to perform the meet-in-the-middle attack? Number of encryptions, multiplied by number of decryptions, multiplied with the probability that a key is a candidate = (2^56)(2^56)(2^(-P)) = 2^57. Meaning: 2DES is just twice as difficult to crack than ordinary DES.
+</li></ol>
+</li></ul>
+<p><font color="red"><b>NOTICE:</b></font> This section is FLAWED. Do not rely on it until it has been corrected.
+</p>
+<a name="3DES" id="3DES"></a><h4><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=22" title="Edit section: 3DES">edit</a>]</span> <span class="mw-headline"> 3DES </span></h4>
+<p>3DES avoids the meet-in-the-middle attack, by encrypting messages <i>three</i> times. This just defeats the attack, and only increases the keysize of DES with 2^56, to a total sum of 2^112. <i>(Just like one would think 2DES would do..)</i>
+</p><p><b>3DES could be described as:</b> E<sub>K1,K2,K3</sub>(Message) = E<sub>K1</sub>(E<sub>K2</sub>(E<sub>K3</sub>(Message))).
+</p>
+<ul><li> Flaw: This makes the key 56*3 = 168 bits long. (Despite the fact that the cipher just has a keysize of 2^112!!)
+</li></ul>
+<p><b>3DES is instead described as:</b> E<sub>K1,K2</sub>(Message) = E<sub>K1</sub>(D<sub>K2</sub>(E<sub>K3</sub>(Message))). <font color="grey">(D<sub>x</sub> means <i>decryption</i> using key x)</font>
+</p>
+<ul><li> Benefit: Uses two keys with a total size of 112 bits, just as large as the keyspace is&nbsp;:)
+</li></ul>
+<a name="Message_Authentication_Codes_.28MACs.29" id="Message_Authentication_Codes_.28MACs.29"></a><h2><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=23" title="Edit section: Message Authentication Codes (MACs)">edit</a>]</span> <span class="mw-headline"> Message Authentication Codes (MACs) </span></h2>
+<p>Encryption only provides confidentiality. Encryption does not provide data integrity. By combining a cipher with a MAC, one can remove the possibility that the adversary intercepts messages and replaces them with their own.
+</p><p><b>In other words</b>
+</p>
+<ol><li> If <i>only</i> a MAC is used, the adversary will see what information is being transmitted, and not be able to modify the messages.
+</li><li> If <i>only</i> ciphers are used, the adversary will not be able to see what information is being transmitted, but will be able to garble the messages (and sometimes, in some special cases, also be able to crack the security.) 
+</li><li> If a MAC is used together with a cipher, the adversary will not be able to see the cleartext message and also not be able to modify it without it is detected.
+</li></ol>
+<p>One can think of MACs as being like checksums. They can be implemented with <a href="http://en.wikipedia.org/wiki/Cryptographic_hash_function" class="external text" title="http://en.wikipedia.org/wiki/Cryptographic_hash_function" rel="nofollow">hashes</a> or public-key signatures. (And possibly with even more stuff..)
+</p><p>An encrypted message protected with a MAC could look like this: E<sub>x</sub>(Message, MAC(K<sub>AB</sub>, Message)). The keys x and AB would have to be shared between the peers first. Also, x and AB <i>may</i> be the same.
+</p><p><b>Properties of MAC's</b>
+</p>
+<ul><li> Fixed size output. <font color="grey">(Transforms any number of bits into a constant number of bits, which means that multiple messages might have the same MAC code.)</font>
+</li><li> Not vulnerable to "known plaintext"-attacks. (In this case, consider the "plaintext" as any number. Slight abuse of terminology: the "plaintext" might be a encrypted message.)
+</li></ul>
+<a name="Block_cipher_in_CBC-mode_as_a_MAC.3F_.28CBC-MAC.29" id="Block_cipher_in_CBC-mode_as_a_MAC.3F_.28CBC-MAC.29"></a><h3><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=24" title="Edit section: Block cipher in CBC-mode as a MAC? (CBC-MAC)">edit</a>]</span> <span class="mw-headline"> Block cipher in CBC-mode as a MAC? (CBC-MAC) </span></h3>
+<p>Might not be safe. <font color="red">Fill in with more details here.</font>
+</p>
+<a name="Hash_functions_as_MACs" id="Hash_functions_as_MACs"></a><h3><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=25" title="Edit section: Hash functions as MACs">edit</a>]</span> <span class="mw-headline"> Hash functions as MACs </span></h3>
+<p>It is possible, and probably the most used technique. This topic will be covered in the future.
+</p>
+<a name="Key_exchange" id="Key_exchange"></a><h2><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=26" title="Edit section: Key exchange">edit</a>]</span> <span class="mw-headline"> Key exchange </span></h2>
+<p>Key exchange is very difficult to do securely if one only uses block ciphers (symmetric ciphers). How to solve this?
+</p>
+<ul><li> <a href="http://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange" class="external text" title="http://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange" rel="nofollow">Diffie–Hellman key exchange</a>
+<ul><li> Can be attacked by a man in the middle
+</li></ul>
+</li><li> Public key-ciphers
+</li></ul>
+<a name="Authentication" id="Authentication"></a><h2><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=27" title="Edit section: Authentication">edit</a>]</span> <span class="mw-headline"> Authentication </span></h2>
+<p>How does one actually for sure know that a certain key belongs to a certain individual?
+</p>
+<ul><li> Certificate Authorities
+<ul><li> Might need to comply with nations laws and sign keys so that militaries can perform attacks (This might be how Stuxnet got its certificates.)
+</li></ul>
+</li><li> Web of Trust. Individual persons sign each others keys. If someone you trust has signed someones key, it means that the person you trust has vouched that a certain key actually belongs to this someone. The more people that has signed the key, the more secure it is. 
+</li></ul>
+<a name="Public_key_cryptography" id="Public_key_cryptography"></a><h2><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=28" title="Edit section: Public key cryptography">edit</a>]</span> <span class="mw-headline"> Public key cryptography </span></h2>
+<p>A public key cipher is a cipher where the key is split up in two parts: One public part that is made available for anyone and one private part that is kept secret. 
+</p><p>Public key cryptography is generally several thousands times slower than block ciphers. Because of this, public key ciphers are mostly just used to exchange a key for a block cipher during the handshake. Switching to using a block cipher after the initial handshake makes secure communication less computationally expensive&nbsp;:)
+</p><p>Another word for public key ciphers is <i>asymmetric ciphers</i>.
+</p>
+<a name="Encryption_and_decryption" id="Encryption_and_decryption"></a><h3><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=29" title="Edit section: Encryption and decryption">edit</a>]</span> <span class="mw-headline"> Encryption and decryption </span></h3>
+<p>Encryption using the public key results in ciphertext that only the person that has access to the private key can decrypt.
+</p><p><i>(Proposal: Mediate upon what this means.)</i>
+</p>
+<a name="Signatures" id="Signatures"></a><h3><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=30" title="Edit section: Signatures">edit</a>]</span> <span class="mw-headline"> Signatures </span></h3>
+<p>Most public ciphers has the following property: If one reverse the roles of the public and private keys, one ends up with a scheme for making signatures. By including a messages signature together with the message, it is possible for anyone to verify that it was the person holding the private key that sent the message. This is often used for identification/authentication. 
+</p><p>Just like a real signature, but much-much-much-much-more difficult to forge.
+</p>
+<a name="ElGamal" id="ElGamal"></a><h3><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=31" title="Edit section: ElGamal">edit</a>]</span> <span class="mw-headline"> ElGamal </span></h3>
+<p>ElGamal is a public cipher much like RSA. Encryption and decryption is done by calculating pretty much only exponents and divisions in an abelian group. Below are some number theory needed for understanding this.
+</p>
+<a name="The_greatest_common_divisor" id="The_greatest_common_divisor"></a><h4><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=32" title="Edit section: The greatest common divisor">edit</a>]</span> <span class="mw-headline"> The greatest common divisor </span></h4>
+<p>The greatest common divisor is the largest number that two numbers a and b can both be divided with.
+</p><p>Recursive definition:
+</p>
+<pre>
+gcd(a,0) = a
+gcd(a,b) = gcd(b, a mod b)
+</pre>
+<p>in C:
+</p>
+<pre>
+int gcd(int a, int b) {
+   int tmp;
+   while( b &gt; 0 ) {
+      tmp = a&nbsp;% b;
+      a = b;
+      b = tmp;
+   }
+   return a;
+}
+</pre>
+<p>Example: gcd(91,35) = 7.
+</p>
+<a name="The_extended_Euclidean_algorithm" id="The_extended_Euclidean_algorithm"></a><h4><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=33" title="Edit section: The extended Euclidean algorithm">edit</a>]</span> <span class="mw-headline"> The extended Euclidean algorithm </span></h4>
+<p>The gcdE(a,b) is used in some ciphers and closely resembles the gcd(a,b). gcdE computes in linear time with respect to the number of bits needed to represent the numbers. It also returns a little bit more information than gcd(a,b).
+</p><p>gcdE(a,b) = (d, s, t) ∈ Z<sup>3</sup>
+</p>
+<ul><li> d = greatest common divisor of a and b
+</li><li> as + bt = d. <font color="grey">(s and t are not unique)</font>
+</li><li> Example: gcdE(35, 56) = (7, 5, -3) since 7|35 and 7|56 and 35*5 + 56(-3) = 7.
+</li></ul>
+<p>recursive definition:
+</p>
+<ul><li> <b>Base case (b = 0):</b> the result is (a, 1, 0).
+</li><li> <b>Recursion case:</b>
+<ul><li> q = a div b <font color="grey">(q is the whole-integer result of a/b)</font>
+</li><li> r = a mod b <font color="grey">(r is the reminder from a/b)</font>
+</li><li> <font color="red">PROJECT ABORTED, see notice at the very top of the article.</font>
+</li></ul>
+</li></ul>
+<a name="Abelian_groups" id="Abelian_groups"></a><h4><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=34" title="Edit section: Abelian groups">edit</a>]</span> <span class="mw-headline"> Abelian groups </span></h4>
+<a name="Generators" id="Generators"></a><h4><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=35" title="Edit section: Generators">edit</a>]</span> <span class="mw-headline"> Generators </span></h4>
+<a name="Discrete_logarithms" id="Discrete_logarithms"></a><h4><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=36" title="Edit section: Discrete logarithms">edit</a>]</span> <span class="mw-headline"> Discrete logarithms </span></h4>
+<a name="Encryption.2Fdecryption_using_ElGamal" id="Encryption.2Fdecryption_using_ElGamal"></a><h4><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=37" title="Edit section: Encryption/decryption using ElGamal">edit</a>]</span> <span class="mw-headline"> Encryption/decryption using ElGamal </span></h4>
+<a name="Example_of_ElGamal_by_hand" id="Example_of_ElGamal_by_hand"></a><h4><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=38" title="Edit section: Example of ElGamal by hand">edit</a>]</span> <span class="mw-headline"> Example of ElGamal by hand </span></h4>
+<a name="Replay_attacks" id="Replay_attacks"></a><h2><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=39" title="Edit section: Replay attacks">edit</a>]</span> <span class="mw-headline"> Replay attacks </span></h2>
+<p>If the adversary captures packets being sent between Alice and Bob, the adversary will be able to send the exact same messages at a later time. This can fool them that they are having a real conversation about the same topic as they had last time. (Think: Alice logs into the Bob computer system and performing some task. Then Eve sends the exact same packets that Alice sent to Bob, fooling Bob that she is Alice that wish to do the exact same thing again. Imagen Bob being a bank, and that Alice made a transaction to Eve. Or something.)
+</p><p><b>How to defeat replay attacks:</b> Include sequence numbers in all messages. Make sure its not easy to guess them (like, having a counter being intitialized to a large random number (64 bits or so) at the beginning of each session. Then add one to the counter, for each message being sent.)
+</p><p>Obviously, the sequence number should be protected by a MAC (and preferably encrypted) otherwise the adversary will be able to modify it.
+</p>
+<a name="Padding" id="Padding"></a><h2><span class="editsection">[<a href="/w/index.php?title=Cryptography&amp;action=edit&amp;section=40" title="Edit section: Padding">edit</a>]</span> <span class="mw-headline"> Padding </span></h2>
+<p>Padding is done because the message that is being encrypted not always match the block-size of the cipher, or because one does not wish to reveal the size of the message that was encrypted.
+</p>
+<ul><li> <b>Padding with zeroes:</b> Not OK. It is difficult to know when the message ends, if it ends with zeroes. It could also make it easier to crack the cipher.
+</li><li> One has to use something else than just zeroes. (<a href="http://en.wikipedia.org/wiki/Optimal_asymmetric_encryption_padding" class="external text" title="http://en.wikipedia.org/wiki/Optimal_asymmetric_encryption_padding" rel="nofollow">OAEP</a> for public-key ciphers)
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 67/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:363-0!1!0!!en!2 and timestamp 20121019231215 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Cryptography">https://cryptoanarchy.org/wiki/Cryptography</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>:&#32;<span dir='ltr'><a href="/wiki/Category:Programming" title="Category:Programming">Programming</a></span> | <span dir='ltr'><a href="/w/index.php?title=Category:Cryptography&amp;action=edit&amp;redlink=1" class="new" title="Category:Cryptography (page does not exist)">Cryptography</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Cryptography" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Cryptography&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Cryptography&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Cryptography&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cryptography" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cryptography" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cryptography" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Cryptography&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Cryptography&amp;oldid=3362" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 23 November 2011, at 16:16.</li>
+					<li id="viewcount">This page has been accessed 613 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.138 secs. --></body></htm
+3
+l>
+
+0
+

@@ -1,0 +1,461 @@
+7b20
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="IRC,Cipher Hierophantics,Crayfish,Ngircd,Totalitarian robot dictatorship,UAV signal analyst working with target selection,Unreal" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=IRC&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=IRC&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=IRC&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>IRC - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "IRC";
+		var wgTitle = "IRC";
+		var wgAction = "view";
+		var wgArticleId = "276";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 4020;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-IRC skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">IRC</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p>IRC is an ancient protocol. It is mainly described in <a href="http://tools.ietf.org/html/rfc1459" class="external text" title="http://tools.ietf.org/html/rfc1459" rel="nofollow">RFC1459</a>. Also <a href="http://tools.ietf.org/html/rfc2810" class="external text" title="http://tools.ietf.org/html/rfc2810" rel="nofollow">RFC2810</a>, <a href="http://tools.ietf.org/html/rfc2811" class="external text" title="http://tools.ietf.org/html/rfc2811" rel="nofollow">RFC2811</a>, <a href="http://tools.ietf.org/html/rfc2812" class="external text" title="http://tools.ietf.org/html/rfc2812" rel="nofollow">RFC2812</a> and <a href="http://tools.ietf.org/html/rfc2813" class="external text" title="http://tools.ietf.org/html/rfc2813" rel="nofollow">RFC2813</a> exists. But they are just requests for comments, not actual protocol definitions. So they are often not followed. each IRC network follows its own protocols.
+</p><p>The IRC protocol is from 1988, and is simple. The "routing protocol" for messages allows only for tree-shaped networks, so no loops may exist. This results in netsplits, when servers fail.
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#IRC_servers"><span class="tocnumber">1</span> <span class="toctext">IRC servers</span></a></li>
+<li class="toclevel-1"><a href="#Telecomix_IRC_network"><span class="tocnumber">2</span> <span class="toctext">Telecomix IRC network</span></a></li>
+<li class="toclevel-1"><a href="#Nice_IRC_clients"><span class="tocnumber">3</span> <span class="toctext">Nice IRC clients</span></a></li>
+<li class="toclevel-1"><a href="#TOR_.26_IRC"><span class="tocnumber">4</span> <span class="toctext">TOR &amp; IRC</span></a></li>
+<li class="toclevel-1"><a href="#I2P_.26_IRC"><span class="tocnumber">5</span> <span class="toctext">I2P &amp; IRC</span></a></li>
+<li class="toclevel-1"><a href="#netcat_.26_IRC"><span class="tocnumber">6</span> <span class="toctext">netcat &amp; IRC</span></a></li>
+<li class="toclevel-1"><a href="#typing_commands_into_nc"><span class="tocnumber">7</span> <span class="toctext">typing commands into nc</span></a></li>
+<li class="toclevel-1"><a href="#IRC_commands"><span class="tocnumber">8</span> <span class="toctext">IRC commands</span></a></li>
+<li class="toclevel-1"><a href="#Ping_timeout.3F"><span class="tocnumber">9</span> <span class="toctext">Ping timeout?</span></a></li>
+<li class="toclevel-1"><a href="#Logs"><span class="tocnumber">10</span> <span class="toctext">Logs</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="IRC_servers" id="IRC_servers"></a><h2><span class="editsection">[<a href="/w/index.php?title=IRC&amp;action=edit&amp;section=1" title="Edit section: IRC servers">edit</a>]</span> <span class="mw-headline"> IRC servers </span></h2>
+<ul><li> <a href="/wiki/Ngircd" title="Ngircd">ngircd</a>
+</li><li> <a href="/w/index.php?title=Unreal&amp;action=edit&amp;redlink=1" class="new" title="Unreal (page does not exist)">unreal</a>
+</li><li> etc
+</li></ul>
+<a name="Telecomix_IRC_network" id="Telecomix_IRC_network"></a><h2><span class="editsection">[<a href="/w/index.php?title=IRC&amp;action=edit&amp;section=2" title="Edit section: Telecomix IRC network">edit</a>]</span> <span class="mw-headline"> Telecomix IRC network </span></h2>
+<p>More information can be found <a href="http://werebuild.eu/wiki/IRC" class="external text" title="http://werebuild.eu/wiki/IRC" rel="nofollow">here</a>.
+</p><p>The following is slightly outdated. Use <b>irc.telecomix.org</b> for automagical success.
+</p>
+<ul><li> irc.telecomix.org (round robin)
+</li><li> marmot.irc.telecomix.org
+</li><li> solarworks.irc.telecomix.org
+</li><li> chameleon.irc.telecomix.org
+</li><li> weasel.irc.telecomix.org
+</li><li> irc.datalove.me
+</li></ul>
+<p>also
+</p>
+<ul><li> irc.telecomix.i2p
+</li><li> 7q7oxh5x3hfvi2e5.onion
+</li><li> weoq7a4exzcyaasj.onion
+</li><li> 23grsgpne2xxljzw.onion
+</li><li> ckdat4ftkiskrojq.onion:7001 (points to irc.telecomix.i2p)
+</li></ul>
+<p>also
+</p>
+<ul><li> <a href="/wiki/Crayfish" title="Crayfish">Crayfish</a> - telecomix 100% cipher-only IRC (mostly separate network)
+</li></ul>
+<p><b> Rules </b>
+</p>
+<ul><li> We have <a href="/wiki/Totalitarian_robot_dictatorship" title="Totalitarian robot dictatorship">totalitarian robot dictatorship</a> under the ironfist of Cameron.
+</li></ul>
+<p><b>laws</b>
+</p>
+<pre>
+1. Do Not Obey
+0. GOTO LINE 3
+EOF
+</pre>
+<p><b>policies</b>
+</p>
+<ul><li> No one is allowed to attach an IRC server to the network without first meeting with other oper AFK.
+</li><li> Servers should be put at locations that are somewhat physically secure. No VPSes or cloud-solutions.
+</li><li> Never identify anyone unless they themselves ask for it.
+</li><li> There seems to be no other policies.
+</li></ul>
+<p><b>recommendations</b>
+</p>
+<ul><li> Use <a href="http://i2p2.de" class="external text" title="http://i2p2.de" rel="nofollow">I2P</a> or <a href="http://torproject.org" class="external text" title="http://torproject.org" rel="nofollow">TOR</a>.
+</li></ul>
+<p><b>Telecomix quirks </b>
+</p>
+<ul><li> Runs <a href="http://ngircd.barton.de/index.php.en" class="external text" title="http://ngircd.barton.de/index.php.en" rel="nofollow">ngircd</a>, future versions
+</li><li> Most (all?) servers has mandatory hostmask cloak
+</li></ul>
+<a name="Nice_IRC_clients" id="Nice_IRC_clients"></a><h2><span class="editsection">[<a href="/w/index.php?title=IRC&amp;action=edit&amp;section=3" title="Edit section: Nice IRC clients">edit</a>]</span> <span class="mw-headline"> Nice IRC clients </span></h2>
+<ul><li> <a href="http://irssi.org" class="external text" title="http://irssi.org" rel="nofollow">irssi</a>
+</li><li> <a href="http://www.silverex.org/news" class="external text" title="http://www.silverex.org/news" rel="nofollow">xchat2</a>
+</li><li> <a href="http://xchat.org" class="external text" title="http://xchat.org" rel="nofollow">xchat</a>
+</li><li> <a href="http://weechat.org/" class="external text" title="http://weechat.org/" rel="nofollow">weechat</a>
+</li></ul>
+<a name="TOR_.26_IRC" id="TOR_.26_IRC"></a><h2><span class="editsection">[<a href="/w/index.php?title=IRC&amp;action=edit&amp;section=4" title="Edit section: TOR &amp; IRC">edit</a>]</span> <span class="mw-headline"> TOR &amp; IRC </span></h2>
+<ul><li><b>irssi with TOR</b>
+</li></ul>
+<p><b>tor+irssi+ssl+socat+irc.telecomix.org (easiest way)</b>
+</p><p>This method is simple and requires once command to get connected over tor with ssl (not including starting irssi).  
+</p><p>Open Two terminals.  In terminal one we will use socat to open port 4242 on the localhost (127.0.0.1) which will point at irc.telecomix.org on port 6697 over your tor router running on localhost port 9050 (I swear this is the easiest way). 
+</p><p>In terminal One:
+</p>
+<pre>
+:~$ socat TCP4-LISTEN:4242,fork SOCKS4A:localhost:irc.telecomix.org:6697,socksport=9050
+</pre>
+<p><br />
+In terminal Two:
+</p>
+<pre>
+:~$ irssi
+</pre>
+<p>Now, in terminal Two, you have irssi started.  to connect to telecomix irc (over SSL) type:
+</p>
+<pre>
+[[Status]] /connect -ssl localhost 4242
+</pre>
+<p>BAM! You are connected to irc.telecomix.org over SSL over tor with irssi (:  If you are connecting to the .onion address (instead of irc.telecomix.org) use the .onion address instead of irc.telecomix.org in the above socat command.
+</p><p><b>Note:</b> Anytime you use irssi (or socat) you should probably use screen so that you do not need to leave the terminals open and so that you can get back to the terminals when you close them.  Google screen, or ask in irc, for more about screen.  
+</p><p><b> torify or proxychains with irssi</b> 
+</p><p>Since IRC over TOR is a hidden service, and thus there is no exit node to deal with, SSL encryption, though possible, is not necessary.  It is easy to connect to IRC over TOR using the address above.  For example, if you are using Linux and the TOR server is running on your localhost, you can open irssi over a TOR connection by typing the following into terminal:
+</p>
+<pre>
+:~$ torify irssi
+</pre>
+<p>Then in irssi, connect to the IRC server the way you normally would using the above TOR address:
+</p>
+<pre>
+[[Status]] /server 7q7oxh5x3hfvi2e5.onion 
+</pre>
+<p><b>Note:</b> SSL is available for IRC when using the above TOR address, however, irssi has trouble handling the SSL certificate when used with torify.  Torify and irssi can be made to work with extra configurations which are not covered here.  If you are using irssi and you are connecting to the above TOR address over a TOR transparent proxy you should have no problem using SSL encryption with the -ssl flag.  Again, SSL is not required for an IRC server running as a hidden service on TOR.  
+</p><p><b>TOR+irssi+SSL+irc.telecomix.org (another way):</b> 
+</p><p>Here we use Proxychains with tor, this will not work with the .onion address.  Proxychains can be used instead of torify in the above example.  For Linux users, proxychains is available in most package repositories, i.e., the Ubuntu universe repository.  Once you have proxychains installed, you can run the following commands in terminal to connect to irc.telecomix.org over TOR using an SSL connection:
+</p>
+<pre>
+:~$ proxychains irssi
+</pre>
+<p>Then in irssi:
+</p>
+<pre>
+[[Status]] /server -ssl irc.telecomix.org
+</pre>
+<p><b>Note:</b>  The above proxychains example assumes the TOR router is on the localhost (127.0.0.1).  If you are using a TOR relay that is not on your localhost host, you need to add the IP address of your TOR relay to /etc/proxychains.conf.  
+</p><p><b>Erroneous nickname Error:</b> 
+</p><p>If irssi fails to connect because of a "Erroneous nickname", this usually means that your nick is too long.  By default, irssi sets your nick to the username of computer.  You can change the default nickname to whatever you wish by editing ~/.irssi/config.  You will find the following near the bottom of the /home/username/irssi/config file:
+</p>
+<pre>
+core = {
+    real_name = &quot;What&quot;;
+    user_name = &quot;Ever&quot;;
+    nick = &quot;New_Nick&quot;;
+  };
+</pre>
+<p><b>Note</b> You will not be able to login if the <b>nick</b> above is too long.  The max length is nine characters.
+</p><p><br />
+<b>TOR+irssi+SSL+socat OpenBSD</b>
+</p><p>Use dsocks, the SOCKS client wrapper for BSD; when using irssi on the same host that runs tor, first run:
+</p>
+<pre>
+socat TCP4-LISTEN:4243,fork SOCKS4A:localhost:irc.telecomix.org:9999,socksport=9050 &amp;
+</pre>
+<p>Start irssi with dsocks:
+</p>
+<pre>
+dsocks-torify.sh irssi
+</pre>
+<p>Point irssi to the appropriate address and port:
+</p>
+<pre>
+/connect -SSL localhost 4243
+</pre>
+<p><br />
+</p>
+<ul><li><b>xchat with TOR</b>
+</li></ul>
+<p>Using xchat to connect to the above TOR address is very easy.  First you need to tell xchat to use your TOR server.  You can do this using the drop down menu, click on <b>Settings&gt;PreferenceNetwork&gt;Network setup</b>. You will then see the <b>Under Proxy Server</b> settings, configure as followed:
+</p>
+<pre>
+Hostname:      TOR server      (localhost or TOR Relay address)
+Port:          TOR server port (i.e., 9050)
+Type:          Socket5         (or Socket4 if you do not have Socket5 setup)
+Use proxy for: All Connections (this will work with 'IRC server only')
+</pre>
+<p>You can then connect to the IRC server the way you normally would using the above TOR address above, i.e, using the Network list or the /server command.  You can also tell xchat to use SSL and to accept the SSL certificate for more encryption if desired.
+</p>
+<a name="I2P_.26_IRC" id="I2P_.26_IRC"></a><h2><span class="editsection">[<a href="/w/index.php?title=IRC&amp;action=edit&amp;section=5" title="Edit section: I2P &amp; IRC">edit</a>]</span> <span class="mw-headline"> I2P &amp; IRC </span></h2>
+<p>You need to have already i2p running, if it's not the case, check <a href="https://cryptoanarchy.org/wiki/I2P#Installing_i2p" class="external free" title="https://cryptoanarchy.org/wiki/I2P#Installing_i2p" rel="nofollow">https://cryptoanarchy.org/wiki/I2P#Installing_i2p</a>
+</p><p>Now we need to create a tunnel to go on the IRC through i2p, so go on this page <a href="http://127.0.0.1:7657/i2ptunnel/" class="external free" title="http://127.0.0.1:7657/i2ptunnel/" rel="nofollow">http://127.0.0.1:7657/i2ptunnel/</a> and edit the tunnel for IRC (or create a new one).
+Check that the port is 6668 and you can access it through 127.0.0.1 and put as destination
+</p>
+<pre style="overflow: auto;">.ogLZQpnNgs514P0hp-vwPU3iHhKUymyotVxyX7fC8-a4dFAUXx~HUR0ezvkb3RVI3Snvh~yl7QJHzs3hIy2jjZmo~rlZLmtpEVgu1IvrMYusR3KQZ-1Tdfr3JftxA~dr3vmmro3hIhR18xRWA87A~y2VyEGGw4how-EEYS~VT6hnxoJ4FQztvQF0in2A70fCQ1obVYD3lBL~Jn9VV-~tgjohOZHSkIA4yCD80~QfhHa0g4GqJRgQry5fEjAvc1h5owsNyQ8siU3NfldvTd4Tj~dRuD3F91Svk6Wepp~IbPyIKgWPDGWW3RQWFoyDyHjwLI8IdPg0Io8Q4oRgTcA4JJaaHop2WzV7E-thM41h8evo~jO-XDzfW0DFtFTRRK7use5cYLbNlRXVlHQCe7qHALYi3JkH6wBsW5o8irHFMiGYe-YmGEwVRRQ0p2j-tRVJC4jYEOTSTO2Fr~hAUxramtah9wKOd05bSIOYxQxb0~0fGsw3gDMBCZW8PrhFUn3LAAAA</pre>
+<p>Then go on irssi and type
+</p>
+<pre> /connect localhost 6668
+</pre>
+<p>You should have 
+</p>
+<pre>
+ Irssi v0.8.15 - http://www.irssi.org
+12:49:08 -!- - For any questions, join #telecomix!
+12:49:08 -!- -
+12:49:08 -!- - ###################################################
+12:49:08 -!- - ###################################################
+12:49:08 -!- - ###            #####################            ###
+12:49:08 -!- - ###         ###########################         ###
+12:49:08 -!- - ###       ###########         ###########       ###
+12:49:08 -!- - ###     ##########               ##########     ###
+12:49:08 -!- - ###    #########       #####       #########    ###
+12:49:08 -!- - ###   ########       #########       ########   ###
+12:49:08 -!- - ###  ########       ###     ###       ########  ###
+12:49:08 -!- - ### #######        ###       ###        ####### ###
+12:49:08 -!- - ##########        ###    #    ###        ##########
+12:49:08 -!- - #########         ###  #####  ###         #########
+12:49:08 -!- - ########         ####   ###   ####         ########
+12:49:08 -!- - ########         ####  #   #  ####         ########
+12:49:08 -!- - #######           ###         ###           #######
+12:49:08 -!- - #######           ###         ###           #######
+12:49:08 -!- - #######            ###       ###            #######
+12:49:08 -!- - ######              ####   ####              ######
+12:49:08 -!- - ######          #    ###   ###    #          ######
+12:49:08 -!- - ######          ########   ########          ######
+12:49:08 -!- - #####           ########   ########           #####
+12:49:08 -!- - #####   ######           #           ######   #####
+12:49:08 -!- - ######     ######       ###       ######     ######
+12:49:08 -!- - ######   ######        #####        ######   ######
+12:49:08 -!- - ######       #######  #######  #######       ######
+12:49:08 -!- - ####### #####        #########        ##### #######
+12:49:08 -!- - #######  ########   ###########   ########  #######
+12:49:08 -!- - #######     #####  #############  #####     #######
+12:49:08 -!- - ########          ###############          ########
+12:49:08 -!- - ########  #####                     #####  ########
+12:49:08 -!- - #########    ######   ##   ##   ######    #########
+12:49:08 -!- - ##########           ##     ##           ##########
+12:49:08 -!- - ### #######       ####       ####       ####### ###
+12:49:08 -!- - ###  ########    ###           ###    ########  ###
+12:49:08 -!- - ###   ########  ###             ###  ########   ###
+12:49:08 -!- - ###    #########                   #########    ###
+12:49:08 -!- - ###     ##########               ##########     ###
+12:49:08 -!- - ###       ###########         ###########       ###
+12:49:08 -!- - ###         ###########################         ###
+12:49:08 -!- - ###            #####################            ###
+12:49:08 -!- - ###################################################
+12:49:08 -!- - ###################################################
+12:49:08 -!- -
+12:49:08 -!- - This is cthulhu, hosted in the house of R'lyeh.
+12:49:08 -!- -    _--------.
+12:49:08 -!- -   /    ~~~~~~\
+12:49:08 -!- -  (_   ~~~@~~@|    Ph'nglui mglw'nafh Cthulhu
+12:49:08 -!- -   \   ~~//|\\\  | R'lyeh wgah'nagl fhtagn
+12:49:08 -!- -    \   \|||/\\\_/
+12:49:08 -!- -    /   /|//_/|/__
+12:49:08 -!- -   /    \_\ \|\|
+12:49:08 -!- -
+
+12:49:08 -!- - Win! You're all ciphered up!
+12:49:08 -!- End of MOTD command
+12:49:09 -!- Mode change [+i] for user {your_user_name}
+</pre>
+<p>Check also <a href="http://www.i2p2.de/debian" class="external free" title="http://www.i2p2.de/debian" rel="nofollow">http://www.i2p2.de/debian</a>
+</p>
+<a name="netcat_.26_IRC" id="netcat_.26_IRC"></a><h2><span class="editsection">[<a href="/w/index.php?title=IRC&amp;action=edit&amp;section=6" title="Edit section: netcat &amp; IRC">edit</a>]</span> <span class="mw-headline"> netcat &amp; IRC </span></h2>
+<p>To debug stuff or just be happy in your terminal, use netcat!&nbsp;:D -- it also works with telnet
+</p><p><b>to connect:</b> nc osiris.irc.telecomix.org 6667
+</p><p>To login, you need to send two commands. NICK and USER.
+</p>
+<pre>
+NICK haxxor
+USER dkw 8 d&nbsp;:ahweawt
+</pre>
+<p>You can type pretty much whatever you want. The USER command needs some number (8) and flags (d), then a space followed by a colon, followed by the "your real name". Notice that the number and flag i used here is 100% fucked up. But it works&nbsp;:)
+</p>
+<a name="typing_commands_into_nc" id="typing_commands_into_nc"></a><h2><span class="editsection">[<a href="/w/index.php?title=IRC&amp;action=edit&amp;section=7" title="Edit section: typing commands into nc">edit</a>]</span> <span class="mw-headline"> typing commands into nc </span></h2>
+<pre>
+WHAT?!?!                      What to type
+joining channel               JOIN #channel
+saying something in channel   PRIVMSG #channel&nbsp;:something
+send private message to user  PRIVMSG user&nbsp;:private message&nbsp;:) hai hai
+fuck with people              PRIVMSG #channel&nbsp;:^AVERSION                  (^A is 0x01)
+oldschool communication       NOTICE #channel&nbsp;:hai hai
+</pre>
+<p>Consult the RFCs for moar commands. Also notice that most of the time you dont need to be inside a channel to type stuff into it.
+</p>
+<a name="IRC_commands" id="IRC_commands"></a><h2><span class="editsection">[<a href="/w/index.php?title=IRC&amp;action=edit&amp;section=8" title="Edit section: IRC commands">edit</a>]</span> <span class="mw-headline"> IRC commands </span></h2>
+<p>they look something like this:
+</p>
+<pre>
+:osiris.irc.telecomix.org 376 netcat&nbsp;:End of MOTD command    - server messages sometimes start with colon
+:user!username@hostname PRIVMSG #channel&nbsp;:message            - user send &quot;message&quot; to #channel
+PING&nbsp;:osiris.irc.telecomix.org                               - YOU NEED TO RESPOND TO MESSAGES LIKE THIS
+PONG osiris.irc.telecomix.org                                - this is what your response should look like
+ERROR&nbsp;:Ping timeout: 120 seconds                             - you failed.
+</pre>
+<a name="Ping_timeout.3F" id="Ping_timeout.3F"></a><h2><span class="editsection">[<a href="/w/index.php?title=IRC&amp;action=edit&amp;section=9" title="Edit section: Ping timeout?">edit</a>]</span> <span class="mw-headline"> Ping timeout? </span></h2>
+<p>You occasionally need to respond to the servers PING requests. You should probably just write PONG followed by whatever followed the PING and hit enter. If you do not do that, the server will think that your TCP connection has died and drop the connection. In some few cases you will also have to reply with the number that comes with PING. Figure it out yourself&nbsp;:P
+</p>
+<a name="Logs" id="Logs"></a><h2><span class="editsection">[<a href="/w/index.php?title=IRC&amp;action=edit&amp;section=10" title="Edit section: Logs">edit</a>]</span> <span class="mw-headline"> Logs </span></h2>
+<p>The likehood that someone is logging a public chat room increases with the number of participants.
+</p><p><b>Memorable logs:</b>
+</p>
+<ul><li> <a href="/wiki/UAV_signal_analyst_working_with_target_selection" title="UAV signal analyst working with target selection">UAV signal analyst working with target selection</a>
+</li><li> <a href="/wiki/Cipher_Hierophantics" title="Cipher Hierophantics">Cipher Hierophantics</a>
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 68/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:276-0!1!0!!en!2 and timestamp 20121019151832 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/IRC">https://cryptoanarchy.org/wiki/IRC</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/IRC" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:IRC&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=IRC&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=IRC&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=IRC" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/IRC" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/IRC" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=IRC&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=IRC&amp;oldid=4020" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 25 July 2012, at 21:47.</li>
+					<li id="viewcount">This page has been accessed 3,300 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.136 secs. --></body><
+7
+/html>
+
+0
+

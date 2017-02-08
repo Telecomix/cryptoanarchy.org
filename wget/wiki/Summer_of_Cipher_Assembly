@@ -1,0 +1,253 @@
+5240
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Summer of Cipher Assembly,I2P,Svartkast,Tor" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Summer of Cipher Assembly - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Summer_of_Cipher_Assembly";
+		var wgTitle = "Summer of Cipher Assembly";
+		var wgAction = "view";
+		var wgArticleId = "111";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 2468;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Summer_of_Cipher_Assembly skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Summer of Cipher Assembly</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p>A course in how to use cryptography and anonymizing overlay networks to communicate with each other. The course is targeted against people that are not that familiar with computers, but who would perhaps benefit from being able to organize themselves anonymously.
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Where_and_when.3F"><span class="tocnumber">1</span> <span class="toctext">Where and when?</span></a></li>
+<li class="toclevel-1"><a href="#Course_Goals"><span class="tocnumber">2</span> <span class="toctext">Course Goals</span></a></li>
+<li class="toclevel-1"><a href="#Course_plan"><span class="tocnumber">3</span> <span class="toctext">Course plan</span></a></li>
+<li class="toclevel-1"><a href="#NOTICE:_THE_SCHEDULE_BELOW_IS_OBSOLETE.21.21"><span class="tocnumber">4</span> <span class="toctext">NOTICE: THE SCHEDULE BELOW IS OBSOLETE!!</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Part_1_-_Communication_within_a_group"><span class="tocnumber">4.1</span> <span class="toctext">Part 1 - Communication within a group</span></a></li>
+<li class="toclevel-2"><a href="#Part_2_-_Hard_disc_encryption"><span class="tocnumber">4.2</span> <span class="toctext">Part 2 - Hard disc encryption</span></a></li>
+<li class="toclevel-2"><a href="#Part_3_-_Publishing_information_at_the_internets"><span class="tocnumber">4.3</span> <span class="toctext">Part 3 - Publishing information at the internets</span></a></li>
+<li class="toclevel-2"><a href="#Part_4_-_Advanced"><span class="tocnumber">4.4</span> <span class="toctext">Part 4 - Advanced</span></a></li>
+<li class="toclevel-2"><a href="#Further_events"><span class="tocnumber">4.5</span> <span class="toctext">Further events</span></a></li>
+<li class="toclevel-2"><a href="#Fees"><span class="tocnumber">4.6</span> <span class="toctext">Fees</span></a></li>
+<li class="toclevel-2"><a href="#Course_material"><span class="tocnumber">4.7</span> <span class="toctext">Course material</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Where_and_when.3F" id="Where_and_when.3F"></a><h2><span class="editsection">[<a href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;action=edit&amp;section=1" title="Edit section: Where and when?">edit</a>]</span> <span class="mw-headline"> Where and when? </span></h2>
+<ul><li> Gothenburg, 16-17th of June
+</li></ul>
+<a name="Course_Goals" id="Course_Goals"></a><h2><span class="editsection">[<a href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;action=edit&amp;section=2" title="Edit section: Course Goals">edit</a>]</span> <span class="mw-headline">Course Goals</span></h2>
+<p>To have learned the basic skills of computer security, with special attention to cryptography (including basic cryptanalysis), darknets, cipherspace and protection of one's own hardware. The students will achieve the knowledge on how to make sure that information is kept free and without risking oppression from states or corporation.
+</p><p>Specifically, during the course, students will
+</p>
+<ol><li> Understand how <a href="/wiki/I2P" title="I2P">I2P</a> and <a href="/wiki/Tor" title="Tor">Tor</a> works
+</li><li> Learn how to host a web site in the I2P or TOR darknets
+</li><li> Learn how to organize actions, demonstrations, revolutions and parties in secrecy
+</li><li> Get a basic understanding of the possibilities and limits of cryptography and information theory
+</li></ol>
+<a name="Course_plan" id="Course_plan"></a><h2><span class="editsection">[<a href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;action=edit&amp;section=3" title="Edit section: Course plan">edit</a>]</span> <span class="mw-headline"> Course plan </span></h2>
+<p>Updated schedules can be found here:  <a href="http://conference.telecomix.org/" class="external free" title="http://conference.telecomix.org/" rel="nofollow">http://conference.telecomix.org/</a> and on a pad that got lost somewhere in cipherspace. (Decentralized activism rocks!)
+</p>
+<a name="NOTICE:_THE_SCHEDULE_BELOW_IS_OBSOLETE.21.21" id="NOTICE:_THE_SCHEDULE_BELOW_IS_OBSOLETE.21.21"></a><h1><span class="editsection">[<a href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;action=edit&amp;section=4" title="Edit section: NOTICE: THE SCHEDULE BELOW IS OBSOLETE!!">edit</a>]</span> <span class="mw-headline"> NOTICE: THE SCHEDULE BELOW IS OBSOLETE!! </span></h1>
+<p>This one will be updated instead: <a href="http://werebuild.eu/wiki/Conference_Schedule" class="external free" title="http://werebuild.eu/wiki/Conference_Schedule" rel="nofollow">http://werebuild.eu/wiki/Conference_Schedule</a>
+</p><p><s>
+The course will be divided into four parts (unless someone has a better idea.. Discussify on the talk page)
+</p>
+<a name="Part_1_-_Communication_within_a_group" id="Part_1_-_Communication_within_a_group"></a><h3><span class="editsection">[<a href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;action=edit&amp;section=5" title="Edit section: Part 1 - Communication within a group">edit</a>]</span> <span class="mw-headline"> Part 1 - Communication within a group </span></h3>
+<ul><li> Anonymously with I2P and/or TOR
+</li><li> Real time, asynchronous
+</li><li> Goal: The students learn how to set up a forum or a blog at I2P/TOR. The student learns how to use I2P/TOR to browse to hidden websites anonymously.
+</li></ul>
+<a name="Part_2_-_Hard_disc_encryption" id="Part_2_-_Hard_disc_encryption"></a><h3><span class="editsection">[<a href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;action=edit&amp;section=6" title="Edit section: Part 2 - Hard disc encryption">edit</a>]</span> <span class="mw-headline"> Part 2 - Hard disc encryption </span></h3>
+<ul><li> The students learn how to use hard disc encryption to protect their private data in case the computers are stolen.
+</li><li> The students are educated in what type of protection the programs gives them. How does one behave in order not to leak information about oneself?
+</li></ul>
+<a name="Part_3_-_Publishing_information_at_the_internets" id="Part_3_-_Publishing_information_at_the_internets"></a><h3><span class="editsection">[<a href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;action=edit&amp;section=7" title="Edit section: Part 3 - Publishing information at the internets">edit</a>]</span> <span class="mw-headline"> Part 3 - Publishing information at the internets </span></h3>
+<ul><li> How to use TOR to access websites anonymously
+</li><li> What type of information does the proxies forward to the servers? How do you minimize the risk of leaking information?
+</li><li> How to chain proxies to TOR, in order to being able to access web sites that block traffic from TOR exit nodes. (Privoxy chains)
+</li></ul>
+<a name="Part_4_-_Advanced" id="Part_4_-_Advanced"></a><h3><span class="editsection">[<a href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;action=edit&amp;section=8" title="Edit section: Part 4 - Advanced">edit</a>]</span> <span class="mw-headline"> Part 4 - Advanced </span></h3>
+<ul><li> Setting up an e-mail address in I2P, and how to use GPG
+<ul><li> Understanding that if one sends mails to this e-mail from the unanonymized internets will reveal the identity of the sender
+</li></ul>
+</li><li> <a href="/wiki/Svartkast" title="Svartkast" class="mw-redirect">Svartkast</a>
+</li><li> How to crack WLANs
+</li></ul>
+<p></s>
+</p>
+<a name="Further_events" id="Further_events"></a><h2><span class="editsection">[<a href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;action=edit&amp;section=9" title="Edit section: Further events">edit</a>]</span> <span class="mw-headline">Further events</span></h2>
+<p>There will be various activities going in the vicinity of SoCA, including workshops and seminars on more advanced topics, or topics which fall outside the scope of the course itself, such as non-computerised ciphers, one-time pads etc. Also, partying and cipherstep music and lots and lots of datalove.
+</p>
+<a name="Fees" id="Fees"></a><h2><span class="editsection">[<a href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;action=edit&amp;section=10" title="Edit section: Fees">edit</a>]</span> <span class="mw-headline">Fees</span></h2>
+<ul><li> There are no fees, since the Telecomix Crypto Munitions Bureau is a volunteer based Bureau.
+<ul><li> UPDATE: Except if you're an employee sent in the service of a governmental organisation or corporation. In that case the fee is 500 SEK (€50).
+</li></ul>
+</li></ul>
+<a name="Course_material" id="Course_material"></a><h2><span class="editsection">[<a href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;action=edit&amp;section=11" title="Edit section: Course material">edit</a>]</span> <span class="mw-headline"> Course material </span></h2>
+<ul><li> Information and course material will be made available or linked to on this wiki.
+</li><li> CrypTool
+</li><li> The Telecomix Cipher OS (<a href="http://system.telecomix.org/" class="external text" title="http://system.telecomix.org/" rel="nofollow">system.telecomix.org</a>) will contain most if not all of the munitions discussed in the course.
+</li><li> A USB stick containing the system can also be <a href="http://gnutiken.se/telecomix-os-0" class="external text" title="http://gnutiken.se/telecomix-os-0" rel="nofollow">bought from Gnutiken for €19.90</a>.
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 12/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:111-0!1!0!!en!2 and timestamp 20121019103918 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Summer_of_Cipher_Assembly">https://cryptoanarchy.org/wiki/Summer_of_Cipher_Assembly</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>:&#32;<span dir='ltr'><a href="/wiki/Category:Summer_of_Cipher_Assembly" title="Category:Summer of Cipher Assembly">Summer of Cipher Assembly</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Summer_of_Cipher_Assembly" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Summer_of_Cipher_Assembly&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Summer_of_Cipher_Assembly" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Summer_of_Cipher_Assembly" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Summer_of_Cipher_Assembly" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Summer_of_Cipher_Assembly&amp;oldid=2468" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 15 July 2011, at 11:35.</li>
+					<li id="viewcount">This page has been accessed 3,656 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.137 secs. --></body></
+6
+html>
+
+0
+

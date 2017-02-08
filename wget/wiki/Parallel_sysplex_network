@@ -1,0 +1,237 @@
+5638
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Parallel sysplex network,BGP,Chaosbox,Hashcash,I2P,OnionCat,OpenVPN,PPTP,Tor,VirtualBox,XEN" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Parallel_sysplex_network&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Parallel_sysplex_network&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Parallel_sysplex_network&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Parallel sysplex network - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Parallel_sysplex_network";
+		var wgTitle = "Parallel sysplex network";
+		var wgAction = "view";
+		var wgArticleId = "21";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 2467;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Parallel_sysplex_network skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Parallel sysplex network</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p><i>In computing, a Parallel Sysplex is a cluster of IBM mainframes acting together as a single system image with z/OS. Used for disaster recovery, Parallel Sysplex combines data sharing and parallel computing to allow a cluster of up to 32 systems to share a workload for high performance and high availability.</i> -- <a href="http://en.wikipedia.org/wiki/Sysplex" class="external text" title="http://en.wikipedia.org/wiki/Sysplex" rel="nofollow">wikipedia</a>
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Project_status"><span class="tocnumber">1</span> <span class="toctext">Project status</span></a></li>
+<li class="toclevel-1"><a href="#Introduction"><span class="tocnumber">2</span> <span class="toctext">Introduction</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Parallel_sysplex_network"><span class="tocnumber">2.1</span> <span class="toctext">Parallel sysplex network</span></a></li>
+<li class="toclevel-2"><a href="#Trusting_the_sysplex"><span class="tocnumber">2.2</span> <span class="toctext">Trusting the sysplex</span></a></li>
+<li class="toclevel-2"><a href="#Core_protocols_of_the_SYSPLEX"><span class="tocnumber">2.3</span> <span class="toctext">Core protocols of the SYSPLEX</span></a></li>
+<li class="toclevel-2"><a href="#Services"><span class="tocnumber">2.4</span> <span class="toctext">Services</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#TODO"><span class="tocnumber">3</span> <span class="toctext">TODO</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Project_status" id="Project_status"></a><h2><span class="editsection">[<a href="/w/index.php?title=Parallel_sysplex_network&amp;action=edit&amp;section=1" title="Edit section: Project status">edit</a>]</span> <span class="mw-headline"> Project status </span></h2>
+<ul><li> Telecomix Crypto Munitions Bureau has been given the task to set up high speed data havens. <a href="http://crypto.telecomix.org/mission/" class="external text" title="http://crypto.telecomix.org/mission/" rel="nofollow">Full text</a>.
+</li><li> Work is now in progress for setting up an anonymous and secure blogging platform. 
+<ul><li> This will be the first phase of the network. More services will follow shortly thereafter.
+</li></ul>
+</li></ul>
+<a name="Introduction" id="Introduction"></a><h2><span class="editsection">[<a href="/w/index.php?title=Parallel_sysplex_network&amp;action=edit&amp;section=2" title="Edit section: Introduction">edit</a>]</span> <span class="mw-headline"> Introduction </span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Magnificent.jpg" class="image" title="Lets build a virtualization-data haven in teh cipherspace. It will be awesum&nbsp;:D"><img alt="" src="/w/images/thumb/8/89/Magnificent.jpg/300px-Magnificent.jpg" width="300" height="222" border="0" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Magnificent.jpg" class="internal" title="Enlarge"><img src="/w/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Lets build a virtualization-data haven in teh cipherspace. It will be awesum&nbsp;:D</div></div></div>
+<p>The SYSPLEX mirrors the IBM mainframe ideology. Z-series mainframes does not reboot, it is however possible to reboot parts of their operating system. One of the first stuff the mainframe prints out just after waking one of its subsystem to life is a message like "BLABLA SYSTEM XYZ IS NOW ACTIVE IN SYSPLEX ZYX", of course all in CAPS because the mainframes still live in the era of the <a href="http://www.youtube.com/watch?v=06drBN8nlWg" class="external text" title="http://www.youtube.com/watch?v=06drBN8nlWg" rel="nofollow">cold war computing</a>. This is so cool that it needs to be replicated&nbsp;:D
+</p><p>The idea of the SYSPLEX is that it should be some sort of darknet data haven, accessible only though cipherspace. One of the prime goals of the sysplex is that it should work as a cluster of IBM mainframes, except that the environments that execute in it will be virtual <a href="/wiki/Chaosbox" title="Chaosbox">chaosboxes</a>, not corporate business servers. The purpose of the sysplex is to be used by anonymous persons to access free and anonymous computing platforms that are well connected to the various darknets that exists.
+</p>
+<a name="Parallel_sysplex_network" id="Parallel_sysplex_network"></a><h3><span class="editsection">[<a href="/w/index.php?title=Parallel_sysplex_network&amp;action=edit&amp;section=3" title="Edit section: Parallel sysplex network">edit</a>]</span> <span class="mw-headline"> Parallel sysplex network </span></h3>
+<p>All chaosboxen within the sysplex network can connect to all networks without the need for any configuration. The network should already route traffic to AnoNet, DarkNET Conglomeration and to the internets, when there are exit nodes available. Routers in the network that are part of TOR and/or I2P push the IPv6-addresses that <a href="/wiki/OnionCat" title="OnionCat">OnionCat</a> uses. Using TOR or I2P will thus be as simple as to type "ping" or irssi to a server. The connection is automatically encrypted and sent through to the other side, no matter what protocol is used to carry the packets.
+</p><p>People wanting to peer with or help building the sysplex does not need to identify themselves. One can set up a TOR or I2P node and begin exchanging information with the sysplex via OnionCat on top of TOR/I2P. Both the location of the SYSPLEX, and who is accessing it, can easily be hidden.
+</p>
+<a name="Trusting_the_sysplex" id="Trusting_the_sysplex"></a><h3><span class="editsection">[<a href="/w/index.php?title=Parallel_sysplex_network&amp;action=edit&amp;section=4" title="Edit section: Trusting the sysplex">edit</a>]</span> <span class="mw-headline"> Trusting the sysplex </span></h3>
+<p>The operators of the sysplex can of course always open up the chaosboxes they host. Even if a box has hard disc encryption and uses SSH to unlock the cipher after a reboot, it would be possible for an operator to reboot the machine, install a trojan in the unencrypted /boot partition and wait for the user to log in with SSH to unlock the disks' crypto, thus sniffing the password.
+</p><p>However, it is not difficult to connect to the sysplex via I2P or TOR. The anonymity of a chaosbox owner will not be possible to break, unless the owner chooses to do so. It does not matter whether the operators can see the information stored or processed by the nodes, as the owner of the chaosbox is not possible to identify anyway.
+</p>
+<a name="Core_protocols_of_the_SYSPLEX" id="Core_protocols_of_the_SYSPLEX"></a><h3><span class="editsection">[<a href="/w/index.php?title=Parallel_sysplex_network&amp;action=edit&amp;section=5" title="Edit section: Core protocols of the SYSPLEX">edit</a>]</span> <span class="mw-headline"> Core protocols of the SYSPLEX </span></h3>
+<ul><li> <a href="/wiki/VirtualBox" title="VirtualBox">VirtualBox</a> to create the virtual chaosbox machines. We could use <a href="/wiki/XEN" title="XEN">XEN</a> too.
+</li><li> <a href="/wiki/OpenVPN" title="OpenVPN">OpenVPN</a> and/or <a href="/w/index.php?title=IPsec&amp;action=edit&amp;redlink=1" class="new" title="IPsec (page does not exist)">IPsec</a> -- Core P2P pseudonymous VPN protocols (used to build the high-speed data haven islands)
+</li><li> <a href="/wiki/Tor" title="Tor">Tor</a> and <a href="/wiki/I2P" title="I2P">I2P</a> in combination with <a href="/wiki/OnionCat" title="OnionCat">OnionCat</a> - Core decentralized VPN protocols (used to link islands together anonymously)
+</li><li> <a href="/wiki/BGP" title="BGP">BGP</a> The routing protocol, we could perhaps also use other protocols such as RIPng or OSPF.
+</li><li> <a href="/wiki/PPTP" title="PPTP">PPTP</a> can be used, but it is not secure enough. It could be used to send traffic to the internets via IPREDATOR.
+</li></ul>
+<a name="Services" id="Services"></a><h3><span class="editsection">[<a href="/w/index.php?title=Parallel_sysplex_network&amp;action=edit&amp;section=6" title="Edit section: Services">edit</a>]</span> <span class="mw-headline"> Services </span></h3>
+<ul><li> It should be possible to give away virtual machines to just about anyone, so that anyone (even without knowledge of networking) can use the sysplex
+<ul><li> If we use <a href="/wiki/XEN" title="XEN">XEN</a> to do this, we can migrate the machines while they are operating, between different host machines without any downtime. The sysplex nodes thus does not depend on physical hardware. Also see the definition from wikipedia, at the top of this article&nbsp;:)
+<ul><li> Fast-flux virtual machines propagated over cipherspace connections (in this theoretical context considered ultimately secure) would be cool.
+</li></ul>
+</li></ul>
+</li><li> Physical chaosboxen can have hard disc encryption. Installing dropbear on the machines results in that not even the person that has physical access to the box can decrypt the hard disc (unless he dumps and/or sniffs the RAM/CPU or performs other "offline" attacks).
+<ul><li> Which is why we need to have either (as a goal, these are probably too impractical as a start):
+<ul><li> a system for "zero-knowledge" (in lack of better words) computation where only the user has access to the computed results. OR
+</li><li> OR distribution of operations among so many nodes that attacking the virtual machine becomes a practical impossibility
+</li></ul>
+</li></ul>
+</li></ul>
+<a name="TODO" id="TODO"></a><h2><span class="editsection">[<a href="/w/index.php?title=Parallel_sysplex_network&amp;action=edit&amp;section=7" title="Edit section: TODO">edit</a>]</span> <span class="mw-headline"> TODO </span></h2>
+<ol><li> We need to agree on which protocols to use, what virtualization plattform to use and which IP addresses to use.
+</li><li> The first SYSPLEX mainframe node needs to be created. <i>Just fuckin do it.</i>
+</li><li> Create a script that can create new accounts on machines. Perhaps about 10 users can use the same virtual machine.
+</li><li> Create a new cipherspace-only IRC server and a bot which could be used to automatically create new virtual machines, in exchange from <a href="/wiki/Hashcash" title="Hashcash">hashcash</a> collisions or somewhat large primes. The reason to use hashcash in exchange to anonymous virtual machines is that it defends against DoS attacks (otherwise people can just issue commands quickly and fill the job queue with the task of just creating more and more chaos boxes.)
+</li></ol>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 8/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:21-0!1!0!!en!2 and timestamp 20121020022838 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Parallel_sysplex_network">https://cryptoanarchy.org/wiki/Parallel_sysplex_network</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Parallel_sysplex_network" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Parallel_sysplex_network&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Parallel_sysplex_network&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Parallel_sysplex_network&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Parallel_sysplex_network" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Parallel_sysplex_network" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Parallel_sysplex_network" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Parallel_sysplex_network&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Parallel_sysplex_network&amp;oldid=2467" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 15 July 2011, at 11:34.</li>
+					<li id="viewcount">This page has been accessed 1,793 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.192 secs. --></body></html
+2
+>
+
+0
+

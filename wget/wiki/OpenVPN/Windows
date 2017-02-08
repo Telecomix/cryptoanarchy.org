@@ -1,0 +1,245 @@
+4d00
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="OpenVPN/Windows,Windows-openvpn" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=OpenVPN/Windows&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=OpenVPN/Windows&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=OpenVPN/Windows&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>OpenVPN/Windows - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "OpenVPN/Windows";
+		var wgTitle = "OpenVPN/Windows";
+		var wgAction = "view";
+		var wgArticleId = "27";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 3467;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-OpenVPN_Windows skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">OpenVPN/Windows</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Windows_OpenVPN_Tutorial"><span class="tocnumber">1</span> <span class="toctext">Windows OpenVPN Tutorial</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Whachu_tawkin_baat_foo.27.3F_.2F_Introduction"><span class="tocnumber">1.1</span> <span class="toctext">Whachu tawkin baat foo'? / Introduction</span></a></li>
+<li class="toclevel-2"><a href="#Set_us_up_the_bomb_.2F_Installation"><span class="tocnumber">1.2</span> <span class="toctext">Set us up the bomb / Installation</span></a></li>
+<li class="toclevel-2"><a href="#How_do_i_shot_web.3F_.2F_Configuration"><span class="tocnumber">1.3</span> <span class="toctext">How do i shot web? / Configuration</span></a></li>
+<li class="toclevel-2"><a href="#Spray_and_Pray_.2F_Connection"><span class="tocnumber">1.4</span> <span class="toctext">Spray and Pray / Connection</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Windows_OpenVPN_Tutorial" id="Windows_OpenVPN_Tutorial"></a><h1><span class="editsection">[<a href="/w/index.php?title=OpenVPN/Windows&amp;action=edit&amp;section=1" title="Edit section: Windows OpenVPN Tutorial">edit</a>]</span> <span class="mw-headline"> Windows OpenVPN Tutorial </span></h1>
+<a name="Whachu_tawkin_baat_foo.27.3F_.2F_Introduction" id="Whachu_tawkin_baat_foo.27.3F_.2F_Introduction"></a><h2><span class="editsection">[<a href="/w/index.php?title=OpenVPN/Windows&amp;action=edit&amp;section=2" title="Edit section: Whachu tawkin baat foo&#39;? / Introduction">edit</a>]</span> <span class="mw-headline"> Whachu tawkin baat foo'? / Introduction </span></h2>
+<p>This tutorial assumes you are running a Windows XP system. I am sure the process is fairly similar for Vista / Windows 7 but may require different versions of OpenVPN GUI, or a slightly different installation procedure. Windows 7 users: install the latest OpenVPN GUI package with administrator rights and in Vista Service Pack 2 compatibility mode. Make sure before launching the client that it will run in Vista SP2 mode and with administrator privileges. Version 2.1.1 has been tested as working with Windows 7 64 bit and <a href="http://openvpn.net/index.php/open-source/downloads.html" class="external text" title="http://openvpn.net/index.php/open-source/downloads.html" rel="nofollow">is available here</a>
+</p><p>In essence "Danger! Here be dragons!" ...etc
+</p>
+<a name="Set_us_up_the_bomb_.2F_Installation" id="Set_us_up_the_bomb_.2F_Installation"></a><h2><span class="editsection">[<a href="/w/index.php?title=OpenVPN/Windows&amp;action=edit&amp;section=3" title="Edit section: Set us up the bomb / Installation">edit</a>]</span> <span class="mw-headline"> Set us up the bomb / Installation </span></h2>
+<p>Firstly you'll need to grab the latest copy of OpenVPN GUI <a href="http://openvpn.se/download.html" class="external text" title="http://openvpn.se/download.html" rel="nofollow">from here</a>. Be sure to download the installation with the Tap Drivers, the top link at the time of writing.
+</p><p>This application is by far the simplest (and pwettiest) way of running OpenVPN under windows. 
+</p><p>Next, run it and install it wherever you want, it doesn't matter as long as you know where it is. 
+</p><p>For the sake of simplicity you might as well tick all the boxes during installation just so you have everything, should you realize you need it later (you probably won't, but a couple of kilobytes extra isn't going to dent your harddrive too badly, unless you're still in the 90's, in which case i lol in you general direction).
+</p><p>The installer will throw up a complaint about unsigned drivers when trying to install the TAP interface, be sure to click 'Install anyway / Continue / Allow' (I can't remember the exact wording). Just be sure to let it install them, your computer won't blow up, I promise.
+</p><p>After the installer has finished installing, that generally means the installation is complete.
+</p><p>Proceed to high five the nearest person or animal and continue to the next step of this tutorial.
+</p>
+<a name="How_do_i_shot_web.3F_.2F_Configuration" id="How_do_i_shot_web.3F_.2F_Configuration"></a><h2><span class="editsection">[<a href="/w/index.php?title=OpenVPN/Windows&amp;action=edit&amp;section=4" title="Edit section: How do i shot web? / Configuration">edit</a>]</span> <span class="mw-headline"> How do i shot web? / Configuration </span></h2>
+<ul><li> <a href="/wiki/Windows-openvpn" title="Windows-openvpn">Windows-openvpn</a> -- Example config file that works with one of the <font face="Monospace">Telecomix Crypto Munitions Beurau</font> servers.
+</li></ul>
+<p>Assuming all went well and nothing blew up (it wasn't the TAP drivers, really) then you can now run OpenVPN GUI and should get a rather retro and ugly looking network icon in your system tray (bottom right).
+</p><p>If this eye sore of an application is going to be of any use, you'll need:
+</p>
+<ul><li> A server to connect to,
+</li><li> Certificates
+</li><li> A Client config file
+</li></ul>
+<p>In most cases you should be provided with these things from the kind person / faceless corporation providing you with access to their OpenVPN server.
+</p>
+<ul><li> <b>WinD0ze Pr0 note</b> - Snobby linux users looking down upon you for using a 'n00bish' operating system may accidently provide you with a client config ending in the extension '.conf'. Since we are running windows, OpenVPN GUI and don't like having to type 2 pages worth of commands to get things done, this needs to be changed to '.ovpn' to work for us.
+</li></ul>
+<p>Typically you should receive three certificates in the form of: 'ca.crt', '(username).crt' and '(username).key'. Keep these stored securely, don't allow anyone access to these files. They are 'you'. Seriously, DO NOT LET THEM ANYONE ACCESS THESE FILES.
+</p><p>Store these anywhere (safe and private), but be sure to check the client config file. The config will tell OpenVPN GUI where to look for these files, and so it must point the program to the right place for the connection to made.
+</p><p>Look for these lines in the config:
+</p>
+<pre>
+cert \blabla\newfolder\gayporn\ca.crt
+key \blabla\newfolder\gayporn\lol.key
+ca  \blabla\newfolder\gayporn\lol.crt
+</pre>
+<p>Obviously don't look for those specfic locations, but be sure that they match where your certificates actually are, and the names of the files on your harddrive.
+</p>
+<ul><li> Since openvpn is elitest and hates us poor Windows users, be sure to use double black slashes for folder indication, and also to include the entire directory in speech marks (i.e. "C:\\Program Files\\.." etc) otherwise it will not work.
+</li></ul>
+<p>Also have a look for this line in the config:
+</p>
+<pre>
+dev (something goes here)
+</pre>
+<p>Whatever is after that line is the name of the adapter the config is looking for, be sure to rename the tap adapter made during installation to match this.
+</p><p>To do this go:
+</p><p><b>Start -&gt; Control Panel -&gt; Network Connections</b>
+</p><p>And it should be called 'Local Area Connection 2' or something similar, and will be disconnected. Confirm this is the right one by holding the mouse over the icon, if it's the one we're after it will display 'TAP-Win32 Adapter V8' or something very similar (perhaps suffixed with #2 or so).
+</p><p>Then rename this adapter to match the line in the config you were sent.
+</p><p>And to the last step you may now proceed padawn, either the easiest or perhaps the most headaching of the entire tutorial.
+</p>
+<a name="Spray_and_Pray_.2F_Connection" id="Spray_and_Pray_.2F_Connection"></a><h2><span class="editsection">[<a href="/w/index.php?title=OpenVPN/Windows&amp;action=edit&amp;section=5" title="Edit section: Spray and Pray / Connection">edit</a>]</span> <span class="mw-headline"> Spray and Pray / Connection </span></h2>
+<p>After double checking your config, making sure it points to the certificates correctly, and nothing is on fire, you can now make a connection. Right click the tray icon, find the name of your client config in the pop-up menu, then roll over it and click connect.
+</p><p>Now pray that everything works, and if god loves you, you should have connected succesfully and be met with a popup in the lower right about your tap interface being assigned to an IP.
+</p><p>Confirm this by googling 'what is my ip' and clicking on of the top links, and comparing your IP against your usual IP.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 13/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:27-0!1!0!!en!2 and timestamp 20121020023031 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/OpenVPN/Windows">https://cryptoanarchy.org/wiki/OpenVPN/Windows</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/OpenVPN/Windows" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:OpenVPN/Windows&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=OpenVPN/Windows&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=OpenVPN/Windows&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=OpenVPN/Windows" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/OpenVPN/Windows" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/OpenVPN/Windows" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=OpenVPN/Windows&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=OpenVPN/Windows&amp;oldid=3467" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 7 January 2012, at 20:45.</li>
+					<li id="viewcount">This page has been accessed 1,261 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.133 secs. --></body></
+6
+html>
+
+0
+

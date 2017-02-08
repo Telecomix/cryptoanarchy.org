@@ -1,0 +1,469 @@
+6cc8
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Cjdns/How to install cjdns" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Cjdns/How_to_install_cjdns&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Cjdns/How_to_install_cjdns&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Cjdns/How_to_install_cjdns&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Cjdns/How to install cjdns - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Cjdns/How_to_install_cjdns";
+		var wgTitle = "Cjdns/How to install cjdns";
+		var wgAction = "view";
+		var wgArticleId = "457";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 4141;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Cjdns_How_to_install_cjdns skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Cjdns/How to install cjdns</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p>The following tutorial is intend to teach you how to: 
+</p>
+<ol><li>install cjdns
+</li><li>connect to a node
+</li><li>enable people to connect to your node
+</li></ol>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Setup"><span class="tocnumber">1</span> <span class="toctext">Setup</span></a></li>
+<li class="toclevel-1"><a href="#The_.28EASY.29_way_to_install_cjdns_.28Debian.2FUbuntu.29"><span class="tocnumber">2</span> <span class="toctext">The (EASY) way to install cjdns (Debian/Ubuntu)</span></a></li>
+<li class="toclevel-1"><a href="#Config_file"><span class="tocnumber">3</span> <span class="toctext">Config file</span></a></li>
+<li class="toclevel-1"><a href="#Specific_installation"><span class="tocnumber">4</span> <span class="toctext">Specific installation</span></a></li>
+<li class="toclevel-1"><a href="#Hosting_a_node"><span class="tocnumber">5</span> <span class="toctext">Hosting a node</span></a></li>
+<li class="toclevel-1"><a href="#Can_I_haz_hostname_plz_.3F"><span class="tocnumber">6</span> <span class="toctext">Can I haz hostname plz&nbsp;?</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Setup" id="Setup"></a><h2><span class="editsection">[<a href="/w/index.php?title=Cjdns/How_to_install_cjdns&amp;action=edit&amp;section=1" title="Edit section: Setup">edit</a>]</span> <span class="mw-headline"> Setup </span></h2>
+<ol><li>install dependencies
+</li><li> download cjdns from git
+</li><li> compile it
+</li><li> run the binary you just compiled and follow the instructions
+</li></ol>
+<pre>
+~:$ sudo apt-get install cmake git build-essential
+</pre>
+<p><b>Ubuntu (10.04-12.04):</b> To install cjdns on Ubuntu:
+</p>
+<pre>
+:~$ cd /opt/
+
+:~/opt$ sudo git clone https://github.com/cjdelisle/cjdns.git cjdns
+</pre>
+<p>go into cjdns folder and compile software:
+</p>
+<pre>
+:~/opt$ cd cjdns
+
+:~/opt/cjdns$ sudo ./do
+</pre>
+<p>generate configuration file:
+</p>
+<pre>
+:~/opt/cjdns$ sudo ./cjdroute --genconf &gt;&gt; cjdroute.conf
+</pre>
+<p>Now open cjroute.conf with your favorite text editor and add the cjdns nodes that you wish to connect with.  See below for an example:
+</p>
+<a name="The_.28EASY.29_way_to_install_cjdns_.28Debian.2FUbuntu.29" id="The_.28EASY.29_way_to_install_cjdns_.28Debian.2FUbuntu.29"></a><h2><span class="editsection">[<a href="/w/index.php?title=Cjdns/How_to_install_cjdns&amp;action=edit&amp;section=2" title="Edit section: The (EASY) way to install cjdns (Debian/Ubuntu)">edit</a>]</span> <span class="mw-headline"> The (EASY) way to install cjdns (Debian/Ubuntu) </span></h2>
+<p>Here is an init script, <a href="https://gist.github.com/3435341" class="external text" title="https://gist.github.com/3435341" rel="nofollow">hyperboria</a>, that you can use to start,stop,restart,status,install and uninstall the <a href="https://github.com/cjdelisle/cjdns/blob/a7350a4d6ec064f71eeb026dd4a83b235b299512/README.md" class="external text" title="https://github.com/cjdelisle/cjdns/blob/a7350a4d6ec064f71eeb026dd4a83b235b299512/README.md" rel="nofollow">cjdns</a>.  This script is for debian/ubuntu and could be made to work with other Linux distributions.  This script has been tested on a vanilla install of debian/ubuntu and works, just run it and GO!.
+</p><p>Features of the script:
+</p>
+<ul><li> <b>start</b>: start cjdns.
+</li><li> <b>stop</b>: stop cjdns.
+</li><li> <b>restart</b>: restart cjdns and flush logs ( this will save last 100 lines of logs).
+</li><li> <b>status</b>: check to see if cjdns is running.
+</li><li> <b>flush</b>: flush all but last 100 lines of logs.
+</li><li> <b>update</b>: upgrade to the latest version of cjdns (this will stop cjdns while it upgrades).
+</li><li> <b>install</b>: install cjdns.
+</li><li> <b>delete</b>: uninstall cjdns.
+</li></ul>
+<p><br />
+To install cjdns, open terminal, download the hyperboria script and create a symbolic link to /etc/init.d/cjdns.  I usually save the script in ~/scripts/cjdns_init_script/:
+</p>
+<pre>
+:~$ git clone git://gist.github.com/3435341.git cjdns_init_script
+:~$ cd cjdns_init_script 
+:~$ sudo ln -s /path/to/script/hyperboria.sh /etc/init.d/cjdns
+:~$ sudo chmod +x /etc/init.d/cjdns 
+</pre>
+<p>You can edit the script parameters to your liking or leave the default settings. Now it is time to install cjdns.  Type the following into terminal:
+</p>
+<pre>
+:~$ sudo /etc/init.d/cjdns install
+</pre>
+<p>The install script will create a cjdns folder in /opt/, a cjdroute.conf file in /etc/ and a log file in /var/log/cjdns/.  During the installation you will be prompted to add peers (which is optional, you can do this during installation or after installation).  Once you add some peers (come to the irc channel for more information or use your own peers) you can start up cjdns by typing the following into terminal:
+</p>
+<pre>
+:~$ sudo /etc/init.d/cjdns start
+</pre>
+<p>You should then see the tun0 interface, with your own personal ipv6 address: inet-addr: fc00::/8 something).
+</p>
+<pre>
+:~$ sudo /etc/init.d/cjdns start|stop|restart|status|flush|update|install|delete
+</pre>
+<p>If you want to completely uninstall cjdns, the script will also delete cjdns for you, you simply need to run the following in terminal:
+</p>
+<pre>
+:~$ sudo /etc/init.d/cjdns delete
+</pre>
+<p>This will delete /opt/cjdns/ and /var/log/cjdns/.  The delete function of the script does not delete /etc/cjdroute.conf, nor the symbolic link, /etc/init.d/cjdns, because you might want to use that later.  To delete those as well simply type the following into terminal:
+</p>
+<pre>
+:~$ sudo rm /etc/init.d/cjdns /etc/cjdroute.conf
+</pre>
+<p><br />
+Thats it! Hope this helps and WELCOME TO TCXNET!! \o/&nbsp;!!
+</p>
+<a name="Config_file" id="Config_file"></a><h2><span class="editsection">[<a href="/w/index.php?title=Cjdns/How_to_install_cjdns&amp;action=edit&amp;section=3" title="Edit section: Config file">edit</a>]</span> <span class="mw-headline"> Config file </span></h2>
+<p>In the config file, there is a part that looks something like this:
+</p>
+<pre>
+            // Nodes to connect to.
+            &quot;connectTo&quot;:
+            {
+                // Add connection credentials here to join the network
+                // Ask somebody who is already connected.
+            }
+        }
+    },
+
+</pre>
+<p><b>change it to</b> (this works as of 2012-07-23)
+</p>
+<pre>
+            // Nodes to connect to.
+            &quot;connectTo&quot;:
+            {
+                // Add connection credentials here to join the network
+                // Ask somebody who is already connected.
+
+                &quot;96.126.112.124:10000&quot;:
+                {  
+                    &quot;password&quot;: &quot;null&quot;,
+                    &quot;authType&quot;: 1,
+                    &quot;trust&quot;: 9000,
+                    &quot;publicKey&quot;:&quot;7zy1gb9bw4xp82kjvh66w01jdgh6y3lk7cfnl0pgb0xnn26b2jn0.k&quot;
+                }
+
+                &quot;173.255.219.67:10000&quot;:
+                {  
+                    &quot;password&quot;: &quot;null&quot;,
+                    &quot;authType&quot;: 1,
+                    &quot;trust&quot;: 9000,
+                    &quot;publicKey&quot;: &quot;lj52930v1vmg3jqyb399us501svntt499bvgk0c1fud4pmy42gj0.k&quot;
+                }
+
+
+                &quot;199.180.252.227:19071&quot;:
+                {
+		    &quot;password&quot;: &quot;public_JFh4rX0R1jm6a7eKWCzD&quot;,
+                    &quot;publicKey&quot;: &quot;425bcpr9ns0jpuh9ffx1lbbktkd3tpln16jzs9sgbjdkvfg25zv0.k&quot;
+                }
+
+
+                &quot;87.208.234.24:28078&quot;:
+                {
+                    &quot;password&quot;:&quot;freedomnetsrai9yah4Kic5Kojah5que4xoCh&quot;,
+                    &quot;authType&quot;:1,
+                    &quot;trust&quot;: 9000,
+                    &quot;publicKey&quot;:&quot;qb426vh42usw995jy60ll6rtslguv1ylpvwp44ymzky6f0u5qvq0.k&quot;
+                }
+
+	        //Dan's Florida Xen VPS - IPv6: fcd6:b2a5:e3cc:d78d:fc69:a90f:4bf7:4a02
+                &quot;199.83.100.24:41902&quot;:
+                {
+                    &quot;password&quot;: &quot;znuhtpf005705tp8snzbywynm6&quot;,
+                    &quot;publicKey&quot;: &quot;xltnfur6xh2n36g79y1qpht910c13sq7lb049662x7trfx3gf190.k&quot;
+                }
+                //Dan's OpenVZ SeaNode - IPv6: fc99:02f4:7795:c86c:36bd:63ae:cf49:d459
+                &quot;74.221.208.153:25521&quot;:
+                {
+                    &quot;password&quot;: &quot;jljwnfutfpt1nz3yjsj0dscpf7&quot;,
+                    &quot;publicKey&quot;: &quot;8hgr62ylugxjyyhxkz254qtz60p781kbswmhhywtbb5rpzc5lxj0.k&quot;
+                }
+
+            }
+        }
+    },
+</pre>
+<p><b>You do not need to</b> do anything more. But if you want to, you could setup your computer to listen for incoming connections, if you want others to be able to initiate peering with you. Just read the config file and figure it out for yourself&nbsp;:P 
+</p><p><b>Also, maybe you want</b> to find some real friends that you know in person, and peer with them directly. This will make the network more decentralized, faster and more secure.
+</p><p>To start cjdns:
+</p>
+<pre>
+:~/opt/cjdns$ sudo ./cjdroute &lt; cjdroute.conf &gt; cjdroute.log
+</pre>
+<p>If all goes well, you should be able to look at ifconfig in terminal and see a virtual network interface, i.e., tun0:
+</p>
+<pre>
+:~/opt/cjdns$ ifconfig
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet6 addr: fdce:4421:51dd:5156:c53a:1z74:4n2c:11e5/8 Scope:Global
+          UP POINTOPOINT RUNNING  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:2 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:500 
+          RX bytes:0 (0.0 B)  TX bytes:152 (152.0 B)
+</pre>
+<p>You can use ping6 to ping your ipv6 address via terminal:
+</p>
+<pre>
+:~/opt/cjdns$ ping6 -I tun0 fdce:4421:51dd:5156:c53a:1z74:4n2c:11e5
+PING fdce:4421:51dd:5156:c53a:1z74:4n2c:11e5(fdce:4421:51dd:5156:c53a:1z74:4n2c:11e5) from fdce:4421:51dd:5156:c53a:1z74:4n2c:11e5 tun0: 56 data bytes
+64 bytes from fdce:4421:51dd:5156:c53a:1z74:4n2c:11e5: icmp_seq=1 ttl=64 time=0.055 ms
+64 bytes from fdce:4421:51dd:5156:c53a:1z74:4n2c:11e5: icmp_seq=2 ttl=64 time=0.067 ms
+</pre>
+<p>If you have used the above configuration for cjdroute.conf you should be able to connect to the cjdns IRC server fc3a:2804:615a:b34f:abfe:c7d5:65d6:f50c #hyperboria.
+</p>
+<a name="Specific_installation" id="Specific_installation"></a><h2><span class="editsection">[<a href="/w/index.php?title=Cjdns/How_to_install_cjdns&amp;action=edit&amp;section=4" title="Edit section: Specific installation">edit</a>]</span> <span class="mw-headline">Specific installation</span></h2>
+<p>On a Raspberry Pi, IPv6 is not load by default, so if you do
+</p>
+<pre>
+:~/opt/cjdns$ ifconfig
+</pre>
+<p>You'll have something like that&nbsp;:
+</p>
+<pre>
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          UP POINTOPOINT RUNNING  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:2 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:500 
+          RX bytes:0 (0.0 B)  TX bytes:152 (152.0 B)
+</pre>
+<p>To load IPv6
+</p>
+<pre>
+modprobe ipv6
+</pre>
+<a name="Hosting_a_node" id="Hosting_a_node"></a><h2><span class="editsection">[<a href="/w/index.php?title=Cjdns/How_to_install_cjdns&amp;action=edit&amp;section=5" title="Edit section: Hosting a node">edit</a>]</span> <span class="mw-headline">Hosting a node</span></h2>
+<p>I will use 192.168.1.213 as my IP address. If people to have access to this machine from the Internet you should use your Public IP address. You will need to use port forwarding on your router/switch if you are behind a NAT. So, look for this section in the cjdroute.conf file. Note: the port number may vary:
+<span style="text-decoration: underline;"><font color="red">But, <b>☢ DO NOT CHANGE PORTS ☢ ←.</b></font></span>
+</p>
+<pre>
+        /* These are your connection credentials
+           for people connecting to you with your default password.
+           adding more passwords for different users is advisable
+           so that leaks can be isolated.
+ 
+            &quot;your.external.ip.goes.here:37400&quot;:
+            {
+                &quot;password&quot;: &quot;a234234sdjflskrwerjlaskjfd&quot;,
+                &quot;publicKey&quot;: &quot;jsalkdjf0asfasjfadf0sfafdkj234lk23j4asfdasfsad0afdas.k&quot;
+            }
+</pre>
+<p>Replace your "your.external.ip.goes.here" with your IP address. In my case I will change it to this:
+</p>
+<pre>
+            &quot;192.168.1.213:31913&quot;:
+            {
+ 
+                &quot;password&quot;: &quot;a234234sdjflskrwerjlaskjfd&quot;,
+                &quot;publicKey&quot;: &quot;jsalkdjf0asfasjfadf0sfafdkj234lk23j4asfdasfsad0afdas.k&quot;
+            }
+</pre> 
+<p>Save and close cjdroute.conf and restart cjdns.  Now others will be able to connect to your cjdns peer by adding the above peer info to the interface section of cjdroute.conf, for example I am also running cjdns on my laptop.  I am going to add the above peer I just created to my laptop's cjdroute.conf file, it will look like this:
+</p>
+<pre> 
+        // Nodes to connect to.
+        &quot;connectTo&quot;:
+        {
+            // Add connection credentials here to join the network
+            // Ask somebody who is already connected.
+ 
+            //cjdns debian box on my local network
+            &quot;192.168.1.213:37400&quot;:
+            {
+                &quot;password&quot;: &quot;rv1qwpf82820xwxkjcjyl239v0&quot;,
+                &quot;publicKey&quot;: &quot;467f8rvjyxnx7x8phb3s4zp8ubq7cuthhbbttrxjdnx2b3fw5m50.k&quot;
+            }
+ 
+        }
+</pre>
+<p><b>Please read that</b>
+</p>
+<pre>
+    // WARNING: Currently there is no key derivation done on the password field,
+    //          DO NOT USE A PASSWORD HERE use something which is truly random and
+    //          cannot be guessed.
+    // Including a username in the beginning of the password string is encouraged
+    // to aid in remembering which users are who.
+</pre>
+<p>Now when I start cjdns on my laptop, my laptop will be part of the same cjdns network.
+</p><p>Note: if you want a private network, and you do not want to be connected to any public peers, simply do not include the public peers mentioned above.  Also, people will not be able to connect to your peer over the Internet (ipv4) Without the password and publicKey above.
+</p><p>If you're behind a NAT, it's okay to put in cjdroute.conf the IP lan, but make sure, that when you give the info to someone, you give the WAN IP otherwise he won't be able to connect to your node. And don't forget to setup port forwarding for UDP on the port (for instance there, it would be 37400).
+</p>
+<a name="Can_I_haz_hostname_plz_.3F" id="Can_I_haz_hostname_plz_.3F"></a><h2><span class="editsection">[<a href="/w/index.php?title=Cjdns/How_to_install_cjdns&amp;action=edit&amp;section=6" title="Edit section: Can I haz hostname plz&nbsp;?">edit</a>]</span> <span class="mw-headline">Can I haz hostname plz&nbsp;?</span></h2>
+<p>Note: It is important to note with the current version of cjdns above, you can only use IP addresses in your configuration file under interfaces.  There is a patch that is being tested that allows you to use domain names in the configuration file.  THIS IS STILL BEING TESTED and the patch has NOT been accepted by the main developers of cjdns yet.  If you would like to test this, you can get the software here <a href="https://github.com/cyisfor/cjdns" class="external free" title="https://github.com/cyisfor/cjdns" rel="nofollow">https://github.com/cyisfor/cjdns</a> and it will allow you to added peers using domain name, i.e., 
+</p>
+<pre>
+          //Domain name point at peer
+            &quot;uwb.example1.com:10050&quot;:
+            {
+                &quot;password&quot;: &quot;null&quot;,
+                &quot;publicKey&quot;: &quot;sfaslfkj234rr7qvjsz6hs1ljckvzfkwkv64mtuvnz9px1yq9c0.k&quot;,
+            }
+ 
+          //Domain name point at peer
+          &quot;verge.example2.tm:6323&quot;:
+          {
+                &quot;password&quot;: &quot;dk349jdk3buhrtc4wbk8sv230&quot;,
+                &quot;publicKey&quot;: &quot;lhjs0njqddkeid0dl32bbyp2mksmyzf5l34dkd03ksy78y1dj130.k&quot;
+          }
+</pre>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 78/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:457-0!1!0!!en!2 and timestamp 20121020023025 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Cjdns/How_to_install_cjdns">https://cryptoanarchy.org/wiki/Cjdns/How_to_install_cjdns</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Cjdns/How_to_install_cjdns" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Cjdns/How_to_install_cjdns&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Cjdns/How_to_install_cjdns&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Cjdns/How_to_install_cjdns&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cjdns/How_to_install_cjdns" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cjdns/How_to_install_cjdns" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cjdns/How_to_install_cjdns" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Cjdns/How_to_install_cjdns&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Cjdns/How_to_install_cjdns&amp;oldid=4141" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 2 September 2012, at 13:18.</li>
+					<li id="viewcount">This page has been accessed 210 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.220 secs. --></body></h
+5
+tml>
+
+0
+

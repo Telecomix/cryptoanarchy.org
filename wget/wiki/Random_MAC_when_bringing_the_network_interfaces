@@ -1,0 +1,405 @@
+5398
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Random MAC when bringing the network interfaces,Update Sept 9, 2012:" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Random_MAC_when_bringing_the_network_interfaces&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Random_MAC_when_bringing_the_network_interfaces&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Random_MAC_when_bringing_the_network_interfaces&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Random MAC when bringing the network interfaces - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Random_MAC_when_bringing_the_network_interfaces";
+		var wgTitle = "Random MAC when bringing the network interfaces";
+		var wgAction = "view";
+		var wgArticleId = "137";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 4168;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Random_MAC_when_bringing_the_network_interfaces skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Random MAC when bringing the network interfaces</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p>This script has been working for me on Ubuntu 9.04.
+When "networking" is restarted - or started, such as when the system is -
+it attempts to change the MAC address of all interfaces.
+It currently does not have any error detection, but as I haven't had any problems with it, I haven't needed it either.
+Please visit our IRC channel if you are having problems with it.
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#.2Fetc.2Finit.d.2Fnetworking"><span class="tocnumber">1</span> <span class="toctext">/etc/init.d/networking</span></a></li>
+<li class="toclevel-1"><a href="#if-pre-up.d"><span class="tocnumber">2</span> <span class="toctext">if-pre-up.d</span></a></li>
+<li class="toclevel-1"><a href="#rc.multi"><span class="tocnumber">3</span> <span class="toctext">rc.multi</span></a></li>
+<li class="toclevel-1"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1"><a href="#.2Fetc.2Finit.d.2Fmacchanger.sh"><span class="tocnumber">5</span> <span class="toctext">/etc/init.d/macchanger.sh</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name=".2Fetc.2Finit.d.2Fnetworking" id=".2Fetc.2Finit.d.2Fnetworking"></a><h2><span class="editsection">[<a href="/w/index.php?title=Random_MAC_when_bringing_the_network_interfaces&amp;action=edit&amp;section=1" title="Edit section: /etc/init.d/networking">edit</a>]</span> <span class="mw-headline">/etc/init.d/networking</span></h2>
+<pre>
+#!/bin/sh -e
+### BEGIN INIT INFO
+# Provides:          networking
+# Required-Start:    mountkernfs ifupdown $local_fs
+# Required-Stop:     ifupdown $local_fs
+# Default-Start:     S
+# Default-Stop:      0 6
+# Short-Description: Raise network interfaces.
+### END INIT INFO
+## INSTALL:
+# sudo cp networking.sh /etc/init.d/networking
+
+PATH=&quot;/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin&quot;
+
+[ -x /sbin/ifup ] || exit 0
+
+. /lib/lsb/init-functions
+
+# helper function to set the usplash timeout. https://launchpad.net/bugs/21617
+usplash_timeout () {
+	TIMEOUT=$1
+	if [ -x /sbin/usplash_write ]; then
+	    /sbin/usplash_write &quot;TIMEOUT $TIMEOUT&quot; || true
+	fi
+}
+
+random_mac_for_interface(){
+       interface=$1
+       MACCC=`perl -e '@x=map(sprintf(&quot;%02x&quot;,$_), map(int(rand($_)), 00,255,255,255,255,255));print @x,&quot;\n&quot;'`
+       log_action_begin_msg Setting MAC address $MACCC for interface $interface
+       ifconfig $interface hw ether $MACCC 2&gt;/dev/null || true
+}
+
+process_options() {
+    [ -e /etc/network/options ] || return 0
+    log_warning_msg &quot;/etc/network/options still exists and it will be IGNORED! Read README.Debian of netbase.&quot;
+}
+
+check_network_file_systems() {
+    [ -e /proc/mounts ] || return 0
+
+    exec 9&lt;&amp;0 &lt; /proc/mounts
+    while read DEV MTPT FSTYPE REST; do
+	case $DEV in
+	/dev/nbd*|/dev/nd[a-z]*|/dev/etherd/e*)
+	    log_warning_msg &quot;not deconfiguring network interfaces: network devices still mounted.&quot;
+	    exit 0
+	   &nbsp;;;
+	esac
+	case $FSTYPE in
+	nfs|nfs4|smbfs|ncp|ncpfs|cifs|coda|ocfs2|gfs|pvfs|pvfs2|fuse.httpfs|fuse.curlftpfs)
+	    log_warning_msg &quot;not deconfiguring network interfaces: network file systems still mounted.&quot;
+	    exit 0
+	   &nbsp;;;
+	esac
+    done
+    exec 0&lt;&amp;9 9&lt;&amp;-
+}
+
+case &quot;$1&quot; in
+start)
+	process_options
+
+	log_action_begin_msg &quot;Configuring network interfaces&quot;
+	usplash_timeout 120
+	for interface in `ifconfig -a -s | egrep -v &quot;^(lo|Iface)&quot; | cut -f 1 -d&quot; &quot;`; do
+		random_mac_for_interface $interface
+	done
+	if [ &quot;$VERBOSE&quot;&nbsp;!= no ]; then
+	    if ifup -a; then
+		log_action_end_msg $?
+	    else
+		log_action_end_msg $?
+	    fi
+	else
+	    if ifup -a &gt;/dev/null 2&gt;&amp;1; then
+		log_action_end_msg $?
+	    else
+		log_action_end_msg $?
+	    fi
+	fi
+	usplash_timeout 15
+	;;
+
+stop)
+	check_network_file_systems
+
+	log_action_begin_msg &quot;Deconfiguring network interfaces&quot;
+	if [ &quot;$VERBOSE&quot;&nbsp;!= no ]; then
+	    if ifdown -a --exclude=lo; then
+		log_action_end_msg $?
+	    else
+		log_action_end_msg $?
+	    fi
+	else
+	    if ifdown -a --exclude=lo &gt;/dev/null 2&gt;/dev/null; then
+		log_action_end_msg $?
+	    else
+		log_action_end_msg $?
+	    fi
+	fi
+	;;
+
+force-reload|restart)
+	process_options
+
+	log_action_begin_msg &quot;Reconfiguring network interfaces&quot;
+	ifdown -a --exclude=lo || true
+	for interface in `ifconfig -a -s | egrep -v &quot;^(lo|Iface)&quot; | cut -f 1 -d&quot; &quot;`; do
+		random_mac_for_interface $interface
+	done
+	if ifup -a --exclude=lo; then
+	    log_action_end_msg $?
+	else
+	    log_action_end_msg $?
+	fi
+	;;
+
+*)
+	echo &quot;Usage: /etc/init.d/networking {start|stop|restart|force-reload}&quot;
+	exit 1
+	;;
+esac
+
+exit 0
+</pre>
+<a name="if-pre-up.d" id="if-pre-up.d"></a><h2><span class="editsection">[<a href="/w/index.php?title=Random_MAC_when_bringing_the_network_interfaces&amp;action=edit&amp;section=2" title="Edit section: if-pre-up.d">edit</a>]</span> <span class="mw-headline">if-pre-up.d</span></h2>
+<p>This has not been tested, so if you try it, please remove this notice if it works. If it doesn't work, you could try to fix it or just remove the entire section if it's made of aids and fail.
+</p><p>Download this list of vendors and their MAC address prefixes and save somewhere: <a href="http://standards.ieee.org/regauth/oui/oui.txt" class="external free" title="http://standards.ieee.org/regauth/oui/oui.txt" rel="nofollow">http://standards.ieee.org/regauth/oui/oui.txt</a>
+</p><p>Create a file in /etc/network/if-pre-up.d/ with this content, and fix the path to oui.txt
+</p>
+<pre>
+#!/bin/bash
+	for interface in `ifconfig -a -s | egrep -v &quot;^(lo|Iface)&quot; | cut -f 1 -d&quot; &quot;`; do
+ifconfig $interface hw ether $(grep -Eo '^[0-9A-F]{6}' /path/to/oui.txt | shuf -n 1)$(hexdump -n3 -e'3/1 &quot;%02X&quot;' /dev/urandom)
+	done
+</pre>
+<a name="rc.multi" id="rc.multi"></a><h2><span class="editsection">[<a href="/w/index.php?title=Random_MAC_when_bringing_the_network_interfaces&amp;action=edit&amp;section=3" title="Edit section: rc.multi">edit</a>]</span> <span class="mw-headline">rc.multi</span></h2>
+<p>This has been tested on Arch.
+</p><p>Fetch macchanger
+</p>
+<pre>
+pacman -S macchanger
+</pre>
+<p>Add this above the #Start Daemons loop
+</p>
+<pre>
+macchanger -r eth0
+</pre>
+<p>Change eth0 to any interface you want to have spoofed
+</p>
+<a name="See_also" id="See_also"></a><h2><span class="editsection">[<a href="/w/index.php?title=Random_MAC_when_bringing_the_network_interfaces&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a>]</span> <span class="mw-headline">See also</span></h2>
+<p><a href="http://www.alobbs.com/macchanger" class="external free" title="http://www.alobbs.com/macchanger" rel="nofollow">http://www.alobbs.com/macchanger</a> (macchanger sucks because it uses a pseudo-random number generator that is seeded with the current unix timestamp - if you call macchanger -r twice within the same second, it will assign the same MAC address to the two different NICs, causing all sorts of trouble. Also, it's easily replaced by the perl script above)
+</p><p><br />
+</p>
+<a name=".2Fetc.2Finit.d.2Fmacchanger.sh" id=".2Fetc.2Finit.d.2Fmacchanger.sh"></a><h2><span class="editsection">[<a href="/w/index.php?title=Random_MAC_when_bringing_the_network_interfaces&amp;action=edit&amp;section=5" title="Edit section: /etc/init.d/macchanger.sh">edit</a>]</span> <span class="mw-headline">/etc/init.d/macchanger.sh</span></h2>
+<p>I have not seen any of the problems described above but that may be because they only occur when fully random values are used to replace the MAC.  I use the -e setting to just replace the ending.  This results in different MACs for my eth0 and wlan0 interfaces.
+</p><p>An advantage to this script is that it does not require changing any other script installed by the system.
+</p><p>Tested on Debian Wheezy.
+</p><p><i><b><a href="/w/index.php?title=Update_Sept_9,_2012:&amp;action=edit&amp;redlink=1" class="new" title="Update Sept 9, 2012: (page does not exist)">Update Sept 9, 2012:</a></b>  Small change to the Required-Start parameter because of changes in Debian Wheezy.  If you're using this script or one based on it and you updated it, you will need to run update-rc.d to make sure the new file is called at the right time.</i> 
+</p>
+<pre>
+#!/bin/sh
+### BEGIN INIT INFO
+# Provides:            macchanger
+# Required-Start:      mountall-bootclean
+# Required-Stop:
+# X-Start-Before:      networking
+# Should-Start:        glibc
+# Default-Start:       S
+# Default-Stop:        
+# Short-Description:   Randomize the wlan0 and eth0 mac addresses.
+# Description:         Randomize the wlan0 and eth0 mac addresses.  
+### END INIT INFO
+#
+# Written by Someone
+#
+## INSTALLING
+# sudo cp macchanger.sh /etc/init.d/macchanger.sh
+# sudo chmod u+x /etc/init.d/macchanger.sh
+# sudo update-rc.d macchanger.sh start defaults
+
+
+
+PATH=/sbin:/bin
+
+. /lib/init/vars.sh
+. /lib/lsb/init-functions
+
+do_start () {
+    /usr/bin/macchanger -e wlan0
+    /usr/bin/macchanger -e eth0
+    exit 0
+}
+
+case &quot;$1&quot; in
+    start|&quot;&quot;)
+        do_start
+       &nbsp;;;
+    restart|reload|force-reload)
+        echo &quot;Error: argument '$1' not supported.&quot; &gt;&amp;2
+        exit 3
+       &nbsp;;;
+    stop)
+        # No-Op
+       &nbsp;;;
+    *)
+        echo &quot;Usage: macchanger.sh [start|stop]&quot; &gt;&amp;2
+        exit 3
+       &nbsp;;;
+esac
+</pre>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 21/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:137-0!1!0!!en!2 and timestamp 20121020022724 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Random_MAC_when_bringing_the_network_interfaces">https://cryptoanarchy.org/wiki/Random_MAC_when_bringing_the_network_interfaces</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Random_MAC_when_bringing_the_network_interfaces" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Random_MAC_when_bringing_the_network_interfaces&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Random_MAC_when_bringing_the_network_interfaces&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Random_MAC_when_bringing_the_network_interfaces&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Random_MAC_when_bringing_the_network_interfaces" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Random_MAC_when_bringing_the_network_interfaces" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Random_MAC_when_bringing_the_network_interfaces" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Random_MAC_when_bringing_the_network_interfaces&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Random_MAC_when_bringing_the_network_interfaces&amp;oldid=4168" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 20 September 2012, at 01:46.</li>
+					<li id="viewcount">This page has been accessed 3,023 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.170 secs. --></body></h
+5
+tml>
+
+0
+

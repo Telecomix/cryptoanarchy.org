@@ -1,0 +1,690 @@
+cde8
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Iptables,NAT,Pf" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Iptables&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Iptables&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Iptables&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Iptables - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Iptables";
+		var wgTitle = "Iptables";
+		var wgAction = "view";
+		var wgArticleId = "5";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 4188;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Iptables skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Iptables</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p><b>iptables</b> is the default firewall for linux since some years back. If you do not like iptables, consider switching to OpenBSDs <a href="/wiki/Pf" title="Pf">pf</a>. It is better at being paranoid&nbsp;:)
+</p><p>I translated this tutorial from swedish to english just for your pleasure. It took quite some time. If you want to, please do copy it. You do not have to give any form of attribution or anything, it is released into public domain. If you feel like contributing, you are welcome! Just edit the page&nbsp;:D
+</p><p>This tutorial does not go into the any deepths (at all) about the various iptables commands. Instead of just repeating what the man-page says, it describes the basic stuff that gets you going. To properly understand how iptables works, you <i>will</i> need to have a look in the man-page.
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#TODO"><span class="tocnumber">1</span> <span class="toctext">TODO</span></a></li>
+<li class="toclevel-1"><a href="#Tables"><span class="tocnumber">2</span> <span class="toctext">Tables</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Think_of_it_like_this"><span class="tocnumber">2.1</span> <span class="toctext">Think of it like this</span></a></li>
+<li class="toclevel-2"><a href="#A_nice.2C_handy_ASCII_graph_of_all_tables_and_their_default_chains"><span class="tocnumber">2.2</span> <span class="toctext">A nice, handy ASCII graph of all tables and their default chains</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#How_to_create_your_own_rules"><span class="tocnumber">3</span> <span class="toctext">How to create your own rules</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Flushing_chains"><span class="tocnumber">3.1</span> <span class="toctext">Flushing chains</span></a></li>
+<li class="toclevel-2"><a href="#Jump_to_chains"><span class="tocnumber">3.2</span> <span class="toctext">Jump to chains</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#How_to_create_your_own_chains"><span class="tocnumber">4</span> <span class="toctext">How to create your own chains</span></a></li>
+<li class="toclevel-1"><a href="#How_to_fight_against_firewalls"><span class="tocnumber">5</span> <span class="toctext">How to fight against firewalls</span></a></li>
+<li class="toclevel-1"><a href="#How_to_fight_against_nmap"><span class="tocnumber">6</span> <span class="toctext">How to fight against nmap</span></a></li>
+<li class="toclevel-1"><a href="#Example"><span class="tocnumber">7</span> <span class="toctext">Example</span></a>
+<ul>
+<li class="toclevel-2"><a href="#A_simple_firewall_that_only_accepts_SSH_and_HTTP_traffic"><span class="tocnumber">7.1</span> <span class="toctext">A simple firewall that only accepts SSH and HTTP traffic</span></a></li>
+<li class="toclevel-2"><a href="#Router_for_3_networks_-_One_physical_and_two_VPNs"><span class="tocnumber">7.2</span> <span class="toctext">Router for 3 networks - One physical and two VPNs</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="TODO" id="TODO"></a><h2><span class="editsection">[<a href="/w/index.php?title=Iptables&amp;action=edit&amp;section=1" title="Edit section: TODO">edit</a>]</span> <span class="mw-headline"> TODO </span></h2>
+<p>This tutorial needs to be updated. If you have any knowledge with the following, you could help&nbsp;:D
+</p>
+<ol><li> More info on how to avoid giving away information about what type of computers are running behind the firewalls/routers. <a href="http://web.archive.org/web/20101223090933/http://www.openbsd.org/faq/pf/scrub.html" class="external text" title="http://web.archive.org/web/20101223090933/http://www.openbsd.org/faq/pf/scrub.html" rel="nofollow">Scrubbing packets</a> like in OpenBSD. Helps to avoid losing anonymity in a darknet.
+</li><li> ...more information needs to be gathered in general. Is this tutorial good enough?
+</li><li> more info on <b>ip</b> and other iptables-related programs/commands
+</li></ol>
+<a name="Tables" id="Tables"></a><h2><span class="editsection">[<a href="/w/index.php?title=Iptables&amp;action=edit&amp;section=2" title="Edit section: Tables">edit</a>]</span> <span class="mw-headline"> Tables </span></h2>
+<p>All packets that enters or leaves your computer goes through a lot of tables, where decisions about what to do with the packets are made. There are five tables: PREROUTING, INPUT, OUTPUT, FORWARD and POSTROUTING. Each table contains chains that in turn contains rules. A rule could for example be to drop the packet, or to rewrite its content. Rewriting the content of a packet is rather good if you want to handle <a href="/wiki/NAT" title="NAT">NAT</a>.
+</p><p><b>Tables</b> contains <b>chains</b>, that contains <b>rules</b>. When a packet enters a table, each rule in each chain inside the table is executed. Inside every one of the tables there are a few default chains, that always exists. For example: When a packet enters the PREROUTING chain, the rules in the "raw" chain is executed first, then the rules in the "mangle" table, then the rules in "nat" chain. When a packet has finished going through a table, the kernel decides what to do next. It might be sent to yet another table, sent to a program that is running on the computer, or fed to an virtual or physical network interface.
+</p><p>You can manufacture your own chains and write rules that sends packets to different chains. Only your imagination will stop you&nbsp;:)
+</p>
+<a name="Think_of_it_like_this" id="Think_of_it_like_this"></a><h3><span class="editsection">[<a href="/w/index.php?title=Iptables&amp;action=edit&amp;section=3" title="Edit section: Think of it like this">edit</a>]</span> <span class="mw-headline"> Think of it like this </span></h3>
+<ul><li> <b>Tables are programs</b> that contains functions. There exists only five tables in your computer, and you can not change this (without editing the kernel source code).
+</li><li> <b>Chains are the functions</b>, that your tables consists of. You can create your own functions and populate them with rules if you want to. Actually, you will <i>need</i> to create your own chains sometimes, if you want to do anything slightly else than the default stuff. There are a few chains that always exists, but they are empty by default.
+</li><li> <b>Rules are the building blocks</b>, if-cases, stuff that changes the packets content, stuff that drops packets and so on. You can call and GOTO subroutines (chains) with the rules.
+</li></ul>
+<p>If you add your own chains that contains your own rules, you will need to call or GOTO them from the existing default chains. Your own chains are not part of any of the tables, they exists outside of them. Think of your own chains like libraries that needs to be linked. More information about this later.
+</p>
+<a name="A_nice.2C_handy_ASCII_graph_of_all_tables_and_their_default_chains" id="A_nice.2C_handy_ASCII_graph_of_all_tables_and_their_default_chains"></a><h3><span class="editsection">[<a href="/w/index.php?title=Iptables&amp;action=edit&amp;section=4" title="Edit section: A nice, handy ASCII graph of all tables and their default chains">edit</a>]</span> <span class="mw-headline"> A nice, handy ASCII graph of all tables and their default chains </span></h3>
+<pre>
+
+         { network }   &lt;---------------------- packets enter your computer via a
+              |                                physical or virtual interface
+              | (PREROUTING)                   *nom nom nom nom*
+             raw
+              |
+            mangle
+              |
+             nat
+              |
+ { kernel decides which table should be used }   &lt;---- if the packet has destination equals to any
+              /        \                               of the computers own IP-addresses, it will
+  (FORWARD)  /          \  (INPUT)                     be sent to the INPUT table. Otherwise it is
+        mangle         mangle                          sent to the FORWARD table, assuming that
+          |              |                             net.ipv4.conf.*.forwarding = 1, otherwise
+        filter         filter                          it should be dropped.
+          |              |
+          |         { program }   &lt;----------- Programs that run on the computer AND is listening on
+          |              |                     the destination protocol AND port of arriving packets
+          |             raw  (OUTPUT)          from the INPUT chain will be fed with them. Programs
+          |              |                     running on your computer poops their packets out at
+          |            mangle                  the OUTPUT table.
+          |              |
+          |             nat                    
+          |              |                     
+          |            filter                    legend:
+           \             /                          (X) -&gt; X is a table
+            \           /                           {X} -&gt; X is something obvious
+  { the packet is put in POSTROUTING }               X  -&gt; X is a chain
+                |
+              mangle (POSTROUTING)
+                |
+               nat                              The packet is ejected by some network interface. It
+                |                               could mean that the packet is put on a physical network
+           { network }   &lt;--------------------- or that it is sent by a virtual network interface to a
+                                                real network interface (in which case it could *again*
+                                                enter the PREROUTING table.)
+</pre>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a href="/wiki/File:Linux-poster.jpg" class="image" title=":)"><img alt="" src="/w/images/thumb/4/46/Linux-poster.jpg/400px-Linux-poster.jpg" width="400" height="320" border="0" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Linux-poster.jpg" class="internal" title="Enlarge"><img src="/w/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>:)</div></div></div>By creating your own chains and populating the existing ones with rules that calls them, you can change how packets flow through you machine. For example, you could make special rules for packets that come from a certain network and keep them in a special chain.
+<a name="How_to_create_your_own_rules" id="How_to_create_your_own_rules"></a><h2><span class="editsection">[<a href="/w/index.php?title=Iptables&amp;action=edit&amp;section=5" title="Edit section: How to create your own rules">edit</a>]</span> <span class="mw-headline"> How to create your own rules </span></h2>
+<p>We will only have a look at the most basic stuff here. When you have understood this, you can have a look at the man-page, to learn more. There are lots and lots of different words you can use to define your rules. Normally, you append rules to the chains, with -A. Example:
+</p>
+<pre>iptables -A INPUT (exchange this parenthesis with your rule)</pre>
+<p>By default iptables will put the rule in the correct chain automagically. If you want to be specific of which chain you want your rule to enter, you can specify it with -t. In the case of adding rules to the <i>nat</i> chain inside the PREROUTING table, you could type something like
+</p>
+<pre>
+iptables -A PREROUTING -t nat (Your SNAT rule here)
+</pre>
+<p>Remember that your rules are <i>appended</i> to the chains, that is: <i>If you append a rule, it will be the last one in the chain</i>. Do not forget to flush (-F) the chain before you start adding stuff to it. If there are rules in the chain and you add stuff to the bottom of it, your rules might not be executed at all. I have got stuck on debugging that several times.
+</p>
+<a name="Flushing_chains" id="Flushing_chains"></a><h3><span class="editsection">[<a href="/w/index.php?title=Iptables&amp;action=edit&amp;section=6" title="Edit section: Flushing chains">edit</a>]</span> <span class="mw-headline"> Flushing chains </span></h3>
+<p>You can flush chains by using -F. Flushing a chain removes all rules in it.
+</p>
+<pre>
+iptables -F INPUT
+</pre>
+<p>This flushes the INPUT table. Or does it? Unfortunatly, they never mention this in the man page, but this actually only flushes the default chain in the INPUT table. All other chains are left untouched. You will need to specify the chains you want to flush explicitly.
+</p>
+<pre>
+iptables -F PREROUTING -t raw
+</pre>
+<p>Unless you type this, the raw chain will still keep its content after the PREROUTING table has been flushed. The reason is that the raw chain is not the default chain. I have forgotten about this a few times. It will not tell you what is wrong, it will just silently stop working.
+</p><p>If you add stuff to non-default chains, make sure that your script also contains the flushing of the same non-default chains in the beginning. Otherwise, it <i>will</i> fuck up.
+</p>
+<a name="Jump_to_chains" id="Jump_to_chains"></a><h3><span class="editsection">[<a href="/w/index.php?title=Iptables&amp;action=edit&amp;section=7" title="Edit section: Jump to chains">edit</a>]</span> <span class="mw-headline"> Jump to chains </span></h3>
+<p>With -j you can create rules that calls your very own special chain, where the packet can be manipulated or examined. Examples:
+</p>
+<pre>
+iptables -A INPUT -p udp -j hello                  Jump to the chain named &quot;hello&quot;
+iptables -A INPUT -p tcp -dport 22 -j DROP         Drops (&quot;jump to DROP&quot;) all packets going to the TCP protocol, port 22 (ssh)
+iptables -A INPUT -p icmp -j ACCEPT                Sends the packet to the next table. (&quot;Jump to ACCEPT&quot;)
+</pre>
+<p>Jumping to ACCEPT does <i>not</i> mean that you will do not drop the packet at some later point. Jumping to ACCEPT in the PREROUTING table instead means that the packet is sent to the INPUT or FORWARD table (depending on its destination address.)
+</p><p>Ok, so we have seen that it is possible to jump to our own chains, and that some predefined chains such as DROP and ACCEPT also exists. I do not think it is possible to redefine DROP and ACCEPT by flushing them and then filling them with new rules, but I am not sure.
+</p>
+<a name="How_to_create_your_own_chains" id="How_to_create_your_own_chains"></a><h2><span class="editsection">[<a href="/w/index.php?title=Iptables&amp;action=edit&amp;section=8" title="Edit section: How to create your own chains">edit</a>]</span> <span class="mw-headline"> How to create your own chains </span></h2>
+<p>Create a new chain with the name cloudmachine
+</p>
+<pre>
+iptables -N cloudmachine
+</pre>
+<p>Example of how to create and populate a chain that drops packets with a destination equals to any of the <a href="http://www.faqs.org/rfcs/rfc1918.html" class="external text" title="http://www.faqs.org/rfcs/rfc1918.html" rel="nofollow">RFC1918</a> addresses.
+</p>
+<pre>
+iptables -N test_src
+iptables -A test_src -s 10.0.0.0/8 -j DROP
+iptables -A test_src -s 172.16.0.0/12 -j DROP
+iptables -A test_src -s 192.168.0.0/16 -j DROP
+</pre>
+<p>At some other chains, in some of the tables, you need to call your chain to check that they have valid destination addresses:
+</p>
+<pre>
+iptables -A FORWARD -t filter -j test_src
+iptables -A INPUT -t filter -j test_src
+</pre>
+<p>This will append rules to the filter chains in the FORWARD and INPUT tables that calls our chain that checks for invalid addresses.
+</p>
+<a name="How_to_fight_against_firewalls" id="How_to_fight_against_firewalls"></a><h2><span class="editsection">[<a href="/w/index.php?title=Iptables&amp;action=edit&amp;section=9" title="Edit section: How to fight against firewalls">edit</a>]</span> <span class="mw-headline"> How to fight against firewalls </span></h2>
+<p>A simple tool to use is <b>nmap</b>. (apt-get install nmap)
+</p><p>Assume that the computer you want to test is <i>192.168.0.4</i>.
+</p>
+<pre>
+nmap 192.168.0.4                 connect()-scan, performs lots of ordinary TCP handshakes with the good old chap. Nothing but the most
+                                   obvious information can be gathered.
+
+nmap -sS 192.168.0.4             SYN-scan, performs the first part of the TCP handshake, but does not finish it.
+                                   It was used back in the old days when computers only were aware of completed handshakes. It could also 
+                                   be used to flood a computers memory with new sessions. This no longer applies.
+                                   The target answers with a SYN+ACK if the port is open, otherwise it does something else. For example,
+                                   it could reply with a RST or nothing at all if the port is closed.
+
+nmap -sA 192.168.0.4             ACK-scan, can be used to decide if the firewall guarding the machine is aware of states or not. Cheap,
+                                   crappy or misconfigured routers are not aware of states. The default behaviour is to reply with a RST
+                                   if an ACK packet is arriving. (ACK packets are the last part of a TCP handshake, which is rather
+                                   strange to receive on its own.) If a computer answers with RST packets from an ACK scan, we know that
+                                   the port is unguarded, or guarded by a flawed firewall. It also means that the potentially flawed
+                                   firewall is letting through traffic at that port, which means that we can begin to guess what type of
+                                   rules the firewall has been configured with. Which services runs on the computers, even though we can
+                                   not access them (yet)?
+                                   DANGER: It is easy to by accident configure iptables to allow for an ACK scan. &quot;-m --state NEW&quot; (a rule
+                                   that matches states equals to &quot;NEW&quot;) does in fact say that packets belong to the state NEW even if they
+                                   have not been preceded by SYN-packets. You will specifically need to tell iptables to NOT accept NEW
+                                   packets that do not have the SYN-flag set to avoid letting ACK-scans through. See the examples below
+                                   for how to do this.
+
+nmap -sS --scanflags PSHSYN 192.168.0.4
+                                 Glue your own packets together with whatever flags you wish. You can check if the target replies to wierd
+                                   formations such as SYN+RST and how it handles them. 
+                                   Possible flags are: CWR (Congestion Window Reduced), ECN (echo), URG (Urgent), ACK (Acknowledge),
+                                   PSH (Push), RST (Reset), SYN (Synchronize), FIN (Finish), ECE (ECE-Echo), NS (Nouce Sum),
+                                   ECT (ECN-Capapable Transport), CE (Congestion Experienced). Write them together without any spaces.
+                                   Example: --scanflags ECNURGACKPSHRSTSYNFIN
+                                   (CWR, ECN, ECE, ECT and CE are used for congestion avoidance, that is to tell the TCP protocol about
+                                   how much bandwidth is available at any given moment. Most operating systems ignore them, it seems.)
+
+                                   People does not really agree with me here, but I really think that it is BAD if non-standard packets
+                                   are allowed to pass the firewall. If you wish to scrub away all wierd stuff from your connection, I
+                                   would recommend using OpenBSDs pf. Linux iptables is happy with many of the combinations of the flags
+                                   that I would call wierd.
+</pre>
+<p><b>Heretic note:</b> It is probably more important that your programs is not exploitable, than that your firewall is PERFECT. However, if you are building a firewall to protect yourself at a darknet, you can not really afford to give away any information about yourself. If you can, please consider blocking and dropping <i><b>everything</b></i> that you have not carefully thought through in advance. <i>The information your firewall gives away can seriously harm your anonymity in a darknet.</i>
+</p>
+<a name="How_to_fight_against_nmap" id="How_to_fight_against_nmap"></a><h2><span class="editsection">[<a href="/w/index.php?title=Iptables&amp;action=edit&amp;section=10" title="Edit section: How to fight against nmap">edit</a>]</span> <span class="mw-headline">How to fight against nmap</span></h2>
+<p><b>I.  Do not allow access to any service that you do not absolutely positively have to:</b>  If you only need to offer that service occassionaly to a few trusted individuals then consider installing <a href="http://www.cipherdyne.org/fwknop/" class="external text" title="http://www.cipherdyne.org/fwknop/" rel="nofollow">FWKNOP (Firewall Knock Operator)</a> or one of the other port knocking solutions to keep the service hidden behind the firewall until the trusted user requests it.  And then it's only accessible by the user that requested it for a limited time.  
+</p><p>For the services you do have to leave open, when you complete your firewall script run <a href="http://cipherdyne.org/fwsnort/" class="external text" title="http://cipherdyne.org/fwsnort/" rel="nofollow">fwsnort</a> to convert Snort rules to iptables rules for any open service.  This can mean that even if they can use nmap to see that you offer a service that when they try to exploit it, you may be able to block them (assuming a Snort rule has been written for the exploit).  
+</p><p><b>II. Invalid State:</b>  The majority of nmap's TCP scans are seen as being in an invalid state by iptables and can be blocked by a few simple rules near the beginning of your firewall script.
+</p>
+<pre>
+iptables -A INPUT -m state --state INVALID -p TCP -j LOG --log-prefix &quot;Invalid TCP Reject: &quot;
+iptables -A INPUT -m state --state INVALID -p TCP -j REJECT --reject-with tcp-reset
+</pre>
+<p><b>III. ICMP Flooding: </b>  (near the beginning of your firewall script)
+</p>
+<pre> 
+iptables -A INPUT -p icmp -m icmp --icmp-type 8 -m limit --limit 1/s --limit-burst 1 -j ACCEPT
+iptables -A INPUT -p icmp -m icmp --icmp-type 8 -m limit --limit 1/s -j LOG --log-prefix &quot;ICMP Flood Drop: &quot;
+iptables -A INPUT -p icmp -m icmp --icmp-type 8 -j DROP
+</pre>
+<p>This means that your system will only accept a single ping request per second so people will be able to confirm that they can communicate with it but will not be able to ping flood it.
+</p><p><b>IV. TCP SYN Flooding: </b>  (near the beginning of your firewall script)
+</p>
+<pre>
+iptables -N synfld
+
+# For a server, these limits may be preferable.
+#iptables -A synfld -p TCP -m limit --limit 8/s --limit-burst 16 -j RETURN
+#iptables -A synfld -p TCP -m limit --limit 30/s --limit-burst 90 -j RETURN
+
+# For a workstation with limited publicly accessible services, this limit may
+# be more desirable.
+iptables -A synfld -p TCP -m limit --limit 1/s --limit-burst 1 -j RETURN
+
+iptables -A synfld -p TCP -j LOG --log-prefix &quot;SYN Flood Reject: &quot;
+iptables -A synfld -p TCP -j REJECT --reject-with tcp-reset
+
+iptables -A INPUT -p TCP --syn -j synfld
+</pre>
+<p>It is difficult for iptables to differentiate between valid SYN packets that start a new session and SYN Floods.  The 'invalid' checks above will not prevent them.  What we can do is monitor the frequency that they attempt to connect.  To do so, we use the 'synfld' chain to limit the number of TCP sessions allowed to connect within any given second to something reasonable.  If you're lucky, anyone using nmap to scan you system will have scanned enough closed ports that by the time they reach an open service that they will be rejected for going over the flood limits.  
+</p><p>However, these rules will not protect you from targeted scans.  If you have a certain port open and they are scanning for just that port, it will be exposed.  If this is a concern, then you may wish to consider if using a port knocking solution like FWKNOP is appropriate for your needs.
+</p><p>For flood protection, we use a seperate chain that ends in RETURN rather than ACCEPT so that any packet that reaches the end of the chain is subject to any rules that follow and isn't simply accepted.  
+</p><p><b>V. Reject rather than Drop:</b>  While it is common to configure iptables to DROP any session that we don't want to allow, that is often interpreted (correctly or not) as a open or filtered port by nmap.  On the other hand, if we add the following rules near the end of our script:
+</p>
+<pre>
+iptables -A INPUT -p TCP -j REJECT --reject-with tcp-reset
+iptables -A INPUT -p UDP -j REJECT --reject-with icmp-port-unreachable
+iptables -A INPUT -j REJECT --reject-with icmp-proto-unreachable
+iptables -A INPUT -j DROP
+</pre>
+<p>For nmap's TCP and UDP scans that get passed the invalid and flood rules, all ports will be reported as closed.
+</p><p>For nmap's protocol scans, they will be able to see that our system responds to TCP, UDP and ICMP but nothing else.
+</p><p>And the final DROP rule is there for paranoia that something could slip past the other three.
+</p>
+<a name="Example" id="Example"></a><h2><span class="editsection">[<a href="/w/index.php?title=Iptables&amp;action=edit&amp;section=11" title="Edit section: Example">edit</a>]</span> <span class="mw-headline"> Example </span></h2>
+<a name="A_simple_firewall_that_only_accepts_SSH_and_HTTP_traffic" id="A_simple_firewall_that_only_accepts_SSH_and_HTTP_traffic"></a><h3><span class="editsection">[<a href="/w/index.php?title=Iptables&amp;action=edit&amp;section=12" title="Edit section: A simple firewall that only accepts SSH and HTTP traffic">edit</a>]</span> <span class="mw-headline"> A simple firewall that only accepts SSH and HTTP traffic </span></h3>
+<p>This is just about how small an iptables script can get, without losing any security. It will let you do whatever you want on the internets. It will silently drop almost all connections to your computer, except for inbound SSH and HTTP traffic. If you experience problems with this, you could try to change the ICMP rules to something that smells less of paranoid fascism.
+</p><p><b>Properties:</b>
+</p>
+<ul><li> You are allowed to initiate all types of connections to others
+</li><li> Others are only allowed to initiate SSH and HTTP sessions to your computer, everything else will be silently dropped
+</li><li> Almost no ICMP-packets are accepted. This can result in longer waiting times, before your programs realize that services are offline. You can change this in the script, I made some notes in the script about different ICMP-types you can allow.
+</li><li> This iptables script will not make your computer forward any traffic. The script is intended for a server, not a router.
+</li><li> It does let through strange packets to your SSH/HTTP-daemons. SYN+URG, SYN+PSH are allowed. I think that most people consider this perfectly OK. These flags ARE useful sometimes (sending <a href="http://en.wikipedia.org/wiki/Out_of_band" class="external text" title="http://en.wikipedia.org/wiki/Out_of_band" rel="nofollow">OOB</a> data). Anyways, I am not sure that there is any simple way to clean them away.
+</li></ul>
+<pre>
+#!/bin/sh
+
+# module to track the state of connections
+modprobe ip_conntrack
+
+# load the iptables active FTP module, requires ip_conntrack 
+# (makes linux kernel aware of how the insanely old ftp protocol works. 
+# ftp was designed for an intertubes without NAT, before RFC1631 came along in 1994.)
+modprobe ip_conntrack_ftp
+
+# sets somewhat sane sysctl stuff
+sysctl -w net.ipv4.conf.all.forwarding=0           # we are not a router
+#sysctl -w net.ipv4.conf.all.mc_forwarding=0        # do not propagate multicasts  (not supported since some version, i guess.)
+sysctl -w net.ipv4.conf.all.rp_filter=1            # drop all packets that the kernel think are spoofed
+sysctl -w net.ipv4.icmp_echo_ignore_broadcasts=1   # avoid being part of smurf attacks
+sysctl -w net.ipv4.conf.all.accept_source_route=0  # uncomment this if you have a complex network with multiple routers&nbsp;;)
+sysctl -w net.ipv4.tcp_syncookies=1                # saves some memory if syn-flooded
+
+# sets default policy DROP for everything not explicitly allowed.
+iptables -P INPUT DROP
+iptables -P FORWARD DROP
+# your programs are allowed to talk with the internets by default.
+iptables -P OUTPUT ACCEPT
+
+# drop everything that has to do with IPv6
+ip6tables -P INPUT DROP
+ip6tables -P FORWARD DROP
+ip6tables -P OUTPUT ACCEPT             # accept that your own computer sends IPv6 packets to others
+
+# flush all previous firewall rules.
+iptables -F
+# nulls all counters, eg. how many packets eth0 has sent, et.c.
+iptables -Z
+
+# accept all incoming traffic to the loopback interface
+# you should be allowed to talk with yourself&nbsp;:d
+iptables -A INPUT -i lo -j ACCEPT
+ip6tables -A INPUT -i lo -j ACCEPT  # accepts incomming IPv6 packets only at loopback interface (::1), se ip6tables default above
+
+# setting ICMP rules...
+# uncomment stuff if you think you need them. they could make life easier.
+# uncommenting stuff marked with X could make life easier without loosing almost any security at all.
+iptables -A INPUT --protocol icmp --icmp-type 0/0 -j ACCEPT  # echo reply (you want to be able to ping others)
+#iptables -A INPUT --protocol icmp --icmp-type 3/0 -j ACCEPT  # network unreachable                          X
+#iptables -A INPUT --protocol icmp --icmp-type 3/1 -j ACCEPT  # host unreachable                             X
+#iptables -A INPUT --protocol icmp --icmp-type 3/2 -j ACCEPT  # protocol unreachable                         X
+#iptables -A INPUT --protocol icmp --icmp-type 3/3 -j ACCEPT  # port unreachable                             X
+#iptables -A INPUT --protocol icmp --icmp-type 4/0 -j ACCEPT  # source quench (source runs out of bandwidth) X
+#iptables -A INPUT --protocol icmp --icmp-type 5 -j ACCEPT  # router redirects etc, be careful &amp; see sysctl above
+#iptables -A INPUT --protocol icmp --icmp-type 8/0 -j ACCEPT  # echo request (respond to ping?)
+#iptables -A INPUT --protocol icmp --icmp-type 30/0 -j ACCEPT  # traceroute (use tcptraceroute instead?)
+# the rest of the ICMP types/codes could be ignored, i think&nbsp;;)
+
+# avoid the *feature* of &quot;--state NEW&quot; that allows NEW TCP packets with SYN=0 to pass (see the text about ACK-scans above)
+iptables -A INPUT -p tcp&nbsp;! --syn -m state --state NEW -j DROP
+
+# accepts initializing, eg. SYN, connections to port 22 and 80.
+iptables -A INPUT --protocol tcp --destination-port 22 -m state --state NEW -j ACCEPT
+iptables -A INPUT --protocol tcp --destination-port 80 -m state --state NEW -j ACCEPT
+
+# accepts all traffic that is part of some session. eg. you created it or it is part of an
+# already established connection to your SSH or HTTP servers.
+iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+
+# do not forget to update your firewall script if you add more services&nbsp;:b
+</pre>
+<a name="Router_for_3_networks_-_One_physical_and_two_VPNs" id="Router_for_3_networks_-_One_physical_and_two_VPNs"></a><h3><span class="editsection">[<a href="/w/index.php?title=Iptables&amp;action=edit&amp;section=13" title="Edit section: Router for 3 networks - One physical and two VPNs">edit</a>]</span> <span class="mw-headline"> Router for 3 networks - One physical and two VPNs </span></h3>
+<p>This is an example of a little bit more complicated script, based on the previous one. There are three interfaces on the router: One hardware-interface (int_if, for <i>internal interface</i>, using the device ZZZ. Replace it with something like "eth0") and two software-interfaces named ext_if (think of it as the main VPN tunnel), and darknet_if (interface connecting to another VPN-tunnel, used to connect to some darknet.) The router is a computer that is located on a physical LAN, where it is used to route traffic to the internets via the main VPN-tunnel (ext_if), and to a closed VPN-network (darknet_if.) The darknet connected to darknet_if has a DHCP server that allocates addresses to the users. The DHCP server runs on the router for which this script is supposed to be executed on. All packets going out to the internets is routed and SNATed through the ext_if. All traffic from the internets is silently dropped unless they are part of an session that anyone from the inside has already established. There is a few exceptions to this rule; it should be possible to initate traffic to server_0 and server_1 from the outside.
+</p><p><b>Note:</b> I do not trust this script, but it kind of works&nbsp;:) It needs more attention. Maybe it is not possible to write good rules for iptables about this&nbsp;:/
+</p><p><b>Map of the networks</b>
+</p>
+<pre>
+   lan --- router --- darknet
+              |
+          internets (via VPN)
+</pre>
+<p><b>The script</b>
+</p>
+<pre>
+#!/bin/sh
+
+# sets some constants (obviously, you should change these!)
+ext_if=&quot;XXX&quot;
+ext_ip=&quot;a.b.c.d&quot;
+darknet_if=&quot;YYY&quot;
+int_if=&quot;ZZZ&quot;
+int_ip=&quot;e.f.g.h&quot;
+server_0=&quot;i.j.k.l&quot;
+server_1=&quot;m.n.o.p&quot;
+
+#------------------ initialization -----------------
+
+# load some modules for state keeping
+modprobe ip_conntrack        # keep track of connections
+modprobe ip_conntrack_ftp    # keep special track of TCP sessions
+modprobe ip_conntrack_irc    # and you want to be able to IRC also&nbsp;:)
+
+# sets somewhat sane sysctl stuff
+sysctl -w net.ipv4.conf.all.forwarding=1           # we are a router
+sysctl -w net.ipv4.conf.all.mc_forwarding=0        # do not propagate multicasts
+sysctl -w net.ipv4.conf.all.rp_filter=1            # drop all packets that the kernel think are spoofed
+sysctl -w net.ipv4.icmp_echo_ignore_broadcasts=1   # avoid being part of smurf attacks
+sysctl -w net.ipv4.conf.all.accept_source_route=0  # think twice before setting this to 1
+sysctl -w net.ipv4.tcp_syncookies=1                # saves some memory if syn-flooded
+
+
+#------------------ policy &amp; sane defaults -----------------
+
+# sets default policy DROP for everything not explicitly allowed.
+iptables -P INPUT DROP
+iptables -P FORWARD DROP
+# your programs are allowed to talk with the internets by default.
+iptables -P OUTPUT ACCEPT
+
+# drop everything that has to do with IPv6
+ip6tables -P INPUT DROP
+ip6tables -P FORWARD DROP
+ip6tables -P OUTPUT DROP
+
+# flush all previous firewall rules. notice that we have to flush the nat chains explicitly.
+# this is because flushing only applies to the default chain otherwise. note to linux developers:
+# it is not just a matter of RTFM always, perhaps you should try to Write The Fucking Manual&nbsp;!!!
+iptables -F
+iptables -F PREROUTING -t nat
+iptables -F INPUT
+iptables -F FORWARD
+iptables -F OUTPUT
+iptables -F POSTROUTING -t nat
+
+# nulls all counters, eg. how many packets eth0 has sent, et.c.
+iptables -Z
+
+
+#------------------ prerouting rules ------------------
+
+# redirect $ext_ip port 22,80 -&gt; $server_0
+
+# port 22 and 80 to server_0
+iptables -t nat -A PREROUTING --in-interface $ext_if --destination $ext_ip \
+   -p tcp --destination-port 22 -j DNAT --to-destination $server_0
+iptables -t nat -A PREROUTING --in-interface $ext_if --destination $ext_ip \
+   -p tcp --destination-port 80 -j DNAT --to-destination $server_0
+
+# port 7777, 8080, 8081 to server_1
+iptables -t nat -A PREROUTING --in-interface $ext_if --destination $ext_ip \
+   -p tcp --destination-port 7777 -j DNAT --to-destination $server_1:22
+iptables -t nat -A PREROUTING --in-interface $ext_if --destination $ext_ip \
+   -p tcp --destination-port 8080 -j DNAT --to-destination $server_1
+iptables -t nat -A PREROUTING --in-interface $ext_if --destination $ext_ip \
+   -p tcp --destination-port 8081 -j DNAT --to-destination $server_1
+
+
+#------------------ user defined chains -----------------
+
+echo logDROP
+iptables -X logDROP
+iptables -N logDROP
+iptables -A logDROP -j LOG
+iptables -A logDROP -j DROP
+
+echo noSpoof
+
+iptables -X noSpoof       # delete the chain if it already exists
+# noSpoof drops packets comming from strange addresses
+iptables -N noSpoof
+iptables -A noSpoof --source 10.0.0.0/8     -i $ext_if -j logDROP
+iptables -A noSpoof --source 172.16.0.0/12  -i $ext_if -j logDROP
+iptables -A noSpoof --source 192.168.0.0/16 -i $ext_if -j logDROP
+iptables -A noSpoof --source 127.0.0.0/8   &nbsp;! -i lo    -j logDROP  # probably pointless
+
+# it is kind of important to have noSpoof FIRST in our chains please&nbsp;:)
+iptables -A INPUT   -j noSpoof
+iptables -A FORWARD -j noSpoof
+
+
+#------------------ obvious loopback rules --------------------
+
+# accept all incoming traffic to the loopback interface
+# you should be allowed to talk with yourself&nbsp;:d
+iptables -A INPUT -i lo -j ACCEPT
+
+
+#------------------ incoming icmp rules -----------------
+
+echo icmp
+
+# setting ICMP rules...
+# uncomment stuff if you think you need them. they could make life easier.
+# uncommenting stuff marked with X could make life easier without loosing almost any security at all.
+iptables -A INPUT --protocol icmp --icmp-type 0/0 -j ACCEPT  # echo reply (you want to be able to ping)
+#iptables -A INPUT --protocol icmp --icmp-type 3/0 -j ACCEPT  # network unreachable                          X
+#iptables -A INPUT --protocol icmp --icmp-type 3/1 -j ACCEPT  # host unreachable                             X
+#iptables -A INPUT --protocol icmp --icmp-type 3/2 -j ACCEPT  # protocol unreachable                         X
+#iptables -A INPUT --protocol icmp --icmp-type 3/3 -j ACCEPT  # port unreachable                             X
+#iptables -A INPUT --protocol icmp --icmp-type 4/0 -j ACCEPT  # source quench (source runs out of bandwidth) X
+#iptables -A INPUT --protocol icmp --icmp-type 5 -j ACCEPT  # router redirects etc, be careful &amp; see sysctl above
+#iptables -A INPUT --protocol icmp --icmp-type 8/0 -j ACCEPT  # echo request (respond to ping?)
+#iptables -A INPUT --protocol icmp --icmp-type 30/0 -j ACCEPT  # traceroute (use tcptraceroute instead?)
+# the rest of the ICMP types/codes could be ignored, i think&nbsp;;)
+
+
+#------------------ incoming tcp rules -----------------
+
+echo tcp
+
+# drop incomming NEW TCP packets that that does not have the SYN flag
+iptables -A INPUT -p tcp&nbsp;! --syn -m state --state NEW -j DROP
+
+# accepts initializing, eg. SYN, connections to port 22 (SSH).
+iptables -A INPUT --protocol tcp --destination-port 22 -m state --state NEW -j ACCEPT
+
+# accepts all traffic that is part of some session.
+iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+
+
+#------------------ forwarding rules -----------------
+
+echo forward
+
+# *all* LAN traffic is allowed out to internets (this rule needs to be first in the chain if you should be able to send spoofed and crazy packets)
+iptables -A FORWARD -i $int_if -j ACCEPT
+
+# drop NEW TCP packets that does not have the SYN-flag set
+iptables -A FORWARD -p tcp&nbsp;! --syn -m state --state NEW -j DROP
+
+# accepts initializing, eg. SYN, connections to port 22 and 80 to server_0.
+iptables -A FORWARD --protocol tcp --destination-port 22 --destination $server_0 -m state --state NEW -j ACCEPT
+iptables -A FORWARD --protocol tcp --destination-port 80 --destination $server_0 -m state --state NEW -j ACCEPT
+
+# accepts initializing, eg. SYN, connections to port 22, 8080, 8081 to server_1
+iptables -A FORWARD --protocol tcp --destination-port 22 --destination $server_1 -m state --state NEW -j ACCEPT
+iptables -A FORWARD --protocol tcp --destination-port 8080 --destination $server_1 -m state --state NEW -j ACCEPT
+iptables -A FORWARD --protocol tcp --destination-port 8081 --destination $server_1 -m state --state NEW -j ACCEPT
+
+# and accpet packets belonging to already existing sessions are allowed into the LAN and the darknet
+iptables -A FORWARD -m state --state ESTABLISHED,RELATED -i $ext_if -j ACCEPT
+iptables -A FORWARD -m state --state ESTABLISHED,RELATED -i $darknet_if -j ACCEPT
+
+
+#------------------ postrouting rules -----------------
+
+echo postrouting
+
+# always randomize the ports that are used when SNATing
+iptables -A POSTROUTING -t nat -o $ext_if --protocol tcp -j SNAT --to-source $ext_ip:1024-65335 --random
+iptables -A POSTROUTING -t nat -o $ext_if --protocol udp -j SNAT --to-source $ext_ip:1024-65335 --random
+iptables -A POSTROUTING -t nat -o $ext_if -j SNAT --to-source $ext_ip --random
+
+# you can uncomment this block if you want to, it will make all traffic from the *outside* appear as it
+# originated from the router itself. it might be useful if the server_0 and server_1 computers are not using
+# the router this script is intended for as gateway. (think about the logs!)
+#iptables -A POSTROUTING -t nat -o $int_if --protocol tcp -j SNAT --to-source $int_ip:1024-65335 --random
+#iptables -A POSTROUTING -t nat -o $int_if --protocol udp -j SNAT --to-source $int_ip:1024-65335 --random
+#iptables -A POSTROUTING -t nat -o $int_if -j SNAT --to-source $int_ip --random
+
+# because the darknet_if is configured with DHCP or whatever, we need to use MASQUERADE instead of SNAT, which
+# is a bit lame unfortunately.
+iptables -A POSTROUTING -t nat -o $darknet_if -j MASQUERADE --random
+</pre>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 65/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:5-0!1!0!!en!2 and timestamp 20121020022713 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Iptables">https://cryptoanarchy.org/wiki/Iptables</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>:&#32;<span dir='ltr'><a href="/w/index.php?title=Category:HOWTO&amp;action=edit&amp;redlink=1" class="new" title="Category:HOWTO (page does not exist)">HOWTO</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Iptables" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk"><a href="/wiki/Talk:Iptables" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Iptables&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Iptables&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Iptables" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Iptables" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Iptables" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Iptables&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Iptables&amp;oldid=4188" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 5 October 2012, at 02:16.</li>
+					<li id="viewcount">This page has been accessed 4,104 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.289 secs. --></body></html>
+1
+
+
+0
+

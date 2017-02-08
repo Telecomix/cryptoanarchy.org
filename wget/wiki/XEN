@@ -1,0 +1,324 @@
+57d8
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="XEN" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=XEN&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=XEN&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=XEN&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>XEN - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "XEN";
+		var wgTitle = "XEN";
+		var wgAction = "view";
+		var wgArticleId = "17";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 1161;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-XEN skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">XEN</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p>XEN is a paravirtualizer, meaning that the guests kernels will often need to be modified to run on it. Paravirtualizing is a tiny bit faster than ordinary virtualization.
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Setup"><span class="tocnumber">1</span> <span class="toctext">Setup</span></a></li>
+<li class="toclevel-1"><a href="#issues"><span class="tocnumber">2</span> <span class="toctext">issues</span></a>
+<ul>
+<li class="toclevel-2"><a href="#you_want_guests_to_start_when_the_xen_hosts_boots_up"><span class="tocnumber">2.1</span> <span class="toctext">you want guests to start when the xen hosts boots up</span></a></li>
+<li class="toclevel-2"><a href="#.2Fdev.2Floop_runs_out_after_4_virtual_guests"><span class="tocnumber">2.2</span> <span class="toctext">/dev/loop runs out after 4 virtual guests</span></a></li>
+<li class="toclevel-2"><a href="#terminal_fuckup_at_login"><span class="tocnumber">2.3</span> <span class="toctext">terminal fuckup at login</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Regular_usage"><span class="tocnumber">3</span> <span class="toctext">Regular usage</span></a></li>
+<li class="toclevel-1"><a href="#Virtual_networks"><span class="tocnumber">4</span> <span class="toctext">Virtual networks</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Default_looks_something_like_this"><span class="tocnumber">4.1</span> <span class="toctext">Default looks something like this</span></a>
+<ul>
+<li class="toclevel-3"><a href="#This_is_a_real_example_from_legion."><span class="tocnumber">4.1.1</span> <span class="toctext">This is a real example from legion.</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Adding_more_virtual_OSI2-networks"><span class="tocnumber">4.2</span> <span class="toctext">Adding more virtual OSI2-networks</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Setup" id="Setup"></a><h2><span class="editsection">[<a href="/w/index.php?title=XEN&amp;action=edit&amp;section=1" title="Edit section: Setup">edit</a>]</span> <span class="mw-headline"> Setup </span></h2>
+<p>This is for someone who wants to install xen 3 on an apt-friendly operating system such as Debian GNU/Linux. 
+</p>
+<ol><li> You need to modify your kernel
+<ul><li> aptitude install xen-..something xen-tools (For example: linux-image-X-xen-amd64 linux-modules-X-xen-amd6 xen-hypervisor-X-amd64 xen-shell xen-tools xen-utils-X xen-utils-common xenstore-utils. <i>Replace all X with something sane.</i>)
+</li><li> reboot
+<ul><li> if it fails, boot with your old kernel and fix the problem
+</li></ul>
+</li></ul>
+</li><li> goto /etc/xen/ and edit the xen-config.cfg file
+<ul><li> it should say (network-script network-<b>bridge</b>) instead of (network-script network-<b>dummy</b>) if you want networking to exist.. READ THE COMMENTS for more info.
+</li></ul>
+</li><li> You need to create a domU (= virtualized host, the operating system that runs on the real hardware is called dom0.)
+<ol><li> type "man xen-create-image" and read how the /etc/xen-tools/xen-tools.cfg file should be written. _you need to understand this_.
+</li><li> edit your /etc/xen-tools/xen-tools.cfg file
+</li><li> xen-create-image --hostname meh --ip 10.0.0.128 --gateway 10.0.0.1 --netmask 255.255.255.0 --broadcast 10.0.0.255 --memory 512M --passwd --size 10G -fs ext2
+<ul><li> <i>..will create a computer with hostname meh, ip 10.0.0.128, RAM=512M, hdd=10G with ext2 file system (read the man page for more info on how to tweak.)</i>
+</li><li> enter the root password when you are prompted for it
+</li></ul>
+</li><li> goto /etc/xen/
+</li><li> add <b>extra = 'xencons=tty'</b> to the bottom of /etc/xen/meh.cfg <i>(meh is the hostname)</i>
+</li><li> xm create meh.cfg
+</li><li> xm console meh
+</li><li> install udev at the machine and reboot it ("aptitude install udev")
+<ul><li> Might need to <tt>echo "none            /dev/pts      devpts    defaults        0   0" &gt;&gt; /etc/fstab</tt> also.
+</li></ul>
+</li><li> ssh to it
+</li></ol>
+</li><li> done.
+</li></ol>
+<p>(I guess I have missed something in some config file, going in afterwards and chaning stuff seems strange.)
+</p>
+<a name="issues" id="issues"></a><h2><span class="editsection">[<a href="/w/index.php?title=XEN&amp;action=edit&amp;section=2" title="Edit section: issues">edit</a>]</span> <span class="mw-headline"> issues </span></h2>
+<p><i>Fixes for random problems i encountered..</i>
+</p>
+<a name="you_want_guests_to_start_when_the_xen_hosts_boots_up" id="you_want_guests_to_start_when_the_xen_hosts_boots_up"></a><h3><span class="editsection">[<a href="/w/index.php?title=XEN&amp;action=edit&amp;section=3" title="Edit section: you want guests to start when the xen hosts boots up">edit</a>]</span> <span class="mw-headline"> you want guests to start when the xen hosts boots up </span></h3>
+<p>Put symbolic links to the guests startup scripts in /etc/xen/auto/, you might need to create the directory.
+</p><p>ln -s /etc/xen/domU-name.cfg /etc/xen/auto/domU-name
+</p>
+<a name=".2Fdev.2Floop_runs_out_after_4_virtual_guests" id=".2Fdev.2Floop_runs_out_after_4_virtual_guests"></a><h3><span class="editsection">[<a href="/w/index.php?title=XEN&amp;action=edit&amp;section=4" title="Edit section: /dev/loop runs out after 4 virtual guests">edit</a>]</span> <span class="mw-headline"> /dev/loop runs out after 4 virtual guests </span></h3>
+<p>in debian: create the file /etc/modprobe.d/local-loop if it does not exists, then add "options loop max_loop=256" to the bottom of the file. <i>(lets hope it works, i have not restarted the xen host yet..... Edit: It did work XD)</i>
+</p><p>to fix the problem without reboots, put this in a file and run it:
+</p>
+<pre>
+#!/bin/bash
+for ((i=8;i&lt;255;i++)); do
+  [ -e /dev/loop$i ] || mknod -m 0600 /dev/loop$i b 7 $i
+done
+</pre>
+<a name="terminal_fuckup_at_login" id="terminal_fuckup_at_login"></a><h3><span class="editsection">[<a href="/w/index.php?title=XEN&amp;action=edit&amp;section=5" title="Edit section: terminal fuckup at login">edit</a>]</span> <span class="mw-headline"> terminal fuckup at login </span></h3>
+<p>IFF it fails because it complains about stty not existing, or something similiar:
+</p>
+<ol><li> xm shutdown meh
+</li><li> edit /etc/xen/meh.cfg, add <b>extra = 'xencons=tty'</b> to the bottom of the file.
+</li><li> mount -o loop /path/to/your/disk/disk.img (default: /home/xen/domains/meh/disk.img)
+</li><li> vim /mnt/etc/fstab
+<ul><li> add "none /dev/pts devpts defaults 0 0" to the file, without the "
+</li></ul>
+</li><li> mkdir /dev/pts <i>(sometimes the installer forgets to create this directory?)</i>
+</li><li> umount /mnt
+</li><li> cd /etc/xen/; xm create meh.cfg; xm console meh
+<ul><li> <i>xm console meh brings you inside the domU/guest..</i>
+</li></ul>
+</li><li> aptitude install udev <i>(this is really important if you want ssh to work..)</i>
+</li><li> DONE. Now, you should be able to log into it with ssh too.
+</li></ol>
+<a name="Regular_usage" id="Regular_usage"></a><h2><span class="editsection">[<a href="/w/index.php?title=XEN&amp;action=edit&amp;section=6" title="Edit section: Regular usage">edit</a>]</span> <span class="mw-headline"> Regular usage </span></h2>
+<ul><li> xm list --- shows what virtual machines are running
+</li><li> xm shutdown meh --- shuts down machine meh
+</li><li> xm destroy meh --- pulls the power plug for machine meh, shuts it down immediately
+</li><li> xm create meh.cfg --- starts the machine described in ./meh.cfg (domU scripts are located in /etc/xen/, go there first.)
+</li><li> xm console meh --- gives you a console to machine meh (detaching from that console is rather difficult. use ssh if you can.)
+</li><li> xmtop --- lists virtual machines, their CPU-usage and networking info.
+</li><li> ...
+</li></ul>
+<a name="Virtual_networks" id="Virtual_networks"></a><h2><span class="editsection">[<a href="/w/index.php?title=XEN&amp;action=edit&amp;section=7" title="Edit section: Virtual networks">edit</a>]</span> <span class="mw-headline"> Virtual networks </span></h2>
+<p>By default, xen does not provide any networking. By changing that as described above, all machines will be connected to a virtual ethernet bridge (ie. all guests are connected to a virtual switch inside your machine.)
+</p>
+<a name="Default_looks_something_like_this" id="Default_looks_something_like_this"></a><h3><span class="editsection">[<a href="/w/index.php?title=XEN&amp;action=edit&amp;section=8" title="Edit section: Default looks something like this">edit</a>]</span> <span class="mw-headline"> Default looks something like this </span></h3>
+<p>(Default does <i>not</i> look like this, but I assume that you changed to the configuration described above.. The real default is a desolate place, where only the host machine is connected to any network.)
+</p>
+<pre>
+peth0 &lt;--&gt; veth0
+             |
+             +-- host machine
+             |
+             +-- virtual machine 0
+             |
+             +-- virtual machine 1
+             |
+             +-- virtual machine 2
+             |
+           (etc)
+</pre>
+<p>All machines, <i>including the host</i> (dom0) is connected to the virtual bridge. But the host has control over peth0, veth0, and all the virtual machines interfaces, vifX.Y. (where X is machine ID and Y is its ethY that the guest will see. vif5.3 is virtual machine 5's eth3 interface, as seen by the host.)
+</p>
+<a name="This_is_a_real_example_from_legion." id="This_is_a_real_example_from_legion."></a><h4><span class="editsection">[<a href="/w/index.php?title=XEN&amp;action=edit&amp;section=9" title="Edit section: This is a real example from legion.">edit</a>]</span> <span class="mw-headline"> This is a real example from legion. </span></h4>
+<p>brctl is a program for handling OSI2-networking in linux. <i>It shows the ASCII graph just above as seen from the host machine.</i>
+</p>
+<pre>
+# brctl show
+bridge name	bridge id		STP enabled	interfaces
+eth0		8000.0023545e6a18	no		peth0
+							vif10.0
+							vif11.0
+							vif18.0
+							vif21.0
+							vif47.0
+							vif51.0
+							vif52.0
+							vif54.0
+							vif56.0
+</pre>
+<a name="Adding_more_virtual_OSI2-networks" id="Adding_more_virtual_OSI2-networks"></a><h3><span class="editsection">[<a href="/w/index.php?title=XEN&amp;action=edit&amp;section=10" title="Edit section: Adding more virtual OSI2-networks">edit</a>]</span> <span class="mw-headline"> Adding more virtual OSI2-networks </span></h3>
+<ul><li> <a href="http://wiki.xensource.com/xenwiki/XenNetworking" class="external text" title="http://wiki.xensource.com/xenwiki/XenNetworking" rel="nofollow">XenNetworking howto</a>
+</li><li> <a href="http://www.debian-administration.org/articles/360" class="external text" title="http://www.debian-administration.org/articles/360" rel="nofollow">someones cute description</a>
+</li></ul>
+<p>It is possible to set up NAT, routing and bridging networks with the default scripts. I have only tried bridging.. And when I open the script it is filled with <i>very</i> complex stuff. One almost has to master the program <b>sed</b> to know what it does, it seems.
+</p><p>I need to learn:
+</p>
+<ol><li> moar sed (again!)
+</li><li> brctl (omg, just found this program. can be used to create virtual bridges on the fly. bridges are used to handle OSI2-layer networking and operates on ethernet frames. like a switch. linux bridging supports STP, the <i>spanning tree protocol</i>, so it is compatible with other hardware equipment.)
+</li></ol>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 20/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:17-0!1!0!!en!2 and timestamp 20121019200652 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/XEN">https://cryptoanarchy.org/wiki/XEN</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/XEN" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:XEN&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=XEN&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=XEN&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=XEN" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/XEN" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/XEN" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=XEN&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=XEN&amp;oldid=1161" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 28 September 2010, at 22:27.</li>
+					<li id="viewcount">This page has been accessed 1,915 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.135 secs. --></body></ht
+4
+ml>
+
+0
+

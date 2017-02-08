@@ -1,0 +1,239 @@
+4c70
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Erlang,Asynchronous,Evaluation,Gen event,Gen fsm,Gen server,Haskell,Supervisor,Synchronous,Worker patterns" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Erlang&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Erlang&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Erlang&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Erlang - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Erlang";
+		var wgTitle = "Erlang";
+		var wgAction = "view";
+		var wgArticleId = "277";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 3271;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Erlang skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Erlang</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<div class="floatright"><a href="/wiki/File:Hierarchy.png" class="image" title="Hierarchy.png"><img alt="" src="/w/images/d/d3/Hierarchy.png" width="300" height="300" border="0" /></a></div>Erlang is a nice programming language.
+<p><i><b>If <a href="/wiki/Haskell" title="Haskell">haskell</a> is elvish, then erlang is like robotish.</b></i>
+</p><p>Erlang was originally invented at Ericsson for programming telephone switches. It is nowadays used to program any form of computer system that needs to be highly concurrent and reliable. Web servers, XMPP chat servers, high-freequency trading algorithms and telephone switches can all be programmed using Erlang.
+</p><p>Erlang has built in support for easily creating clusters of servers. Processes in one node can communicate with processes in other nodes using ordinary message passing. This is a key feature for building insanely reliable systems that can literary survive hellfires and earthquakes. This follows the <a href="/wiki/Worker_patterns" title="Worker patterns">erlang cybernetic theory</a>: If a subsystem located at one node goes down, it will immediately be detected and another node will replace it before anyone notice. There is a backside to this: Erlang assumes that all nodes in the cluster is trusted (<font color="grey"><i>a stereotypic behavior for a megacorporation that hides its vital telephone switches in nuclear-proof bunkers</i></font>) and because of that, there is <i>absolutely no security at all</i> between the nodes in the cluster. The cluster very much behaves like a single computer. If one node is compromised, all are compromised.
+</p><p>It is possible to "somewhat easily" define less privileged communication channels between nodes in order to maintain a cluster of untrusted nodes.
+</p><p>View the cult movie <i><b>Erlang, the movie</b></i> for a presentation of the language?
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Short_description_of_Erlang"><span class="tocnumber">1</span> <span class="toctext">Short description of Erlang</span></a></li>
+<li class="toclevel-1"><a href="#Learn_erlang_from_basics"><span class="tocnumber">2</span> <span class="toctext">Learn erlang from basics</span></a></li>
+<li class="toclevel-1"><a href="#Coding"><span class="tocnumber">3</span> <span class="toctext">Coding</span></a>
+<ul>
+<li class="toclevel-2"><a href="#IDE.3F"><span class="tocnumber">3.1</span> <span class="toctext">IDE?</span></a></li>
+<li class="toclevel-2"><a href="#behaviours"><span class="tocnumber">3.2</span> <span class="toctext">behaviours</span></a></li>
+<li class="toclevel-2"><a href="#releases"><span class="tocnumber">3.3</span> <span class="toctext">releases</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sources"><span class="tocnumber">4</span> <span class="toctext">Sources</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Short_description_of_Erlang" id="Short_description_of_Erlang"></a><h2><span class="editsection">[<a href="/w/index.php?title=Erlang&amp;action=edit&amp;section=1" title="Edit section: Short description of Erlang">edit</a>]</span> <span class="mw-headline"> Short description of Erlang </span></h2>
+<ul><li> Functional, <a href="/wiki/Evaluation" title="Evaluation">strict evaluation</a> (no infinite arrays)
+</li><li> Erlang rapes type theory - a function is allowed to return any value of any type.
+</li><li> Made for concurrency
+<ul><li> Almost everything is a process!!
+</li><li> Processes does not share state -- <i>(Theory: see <a href="/wiki/Synchronous" title="Synchronous">synchronous</a> vs. <a href="/wiki/Asynchronous" title="Asynchronous">asynchronous</a>)</i>
+</li><li> Everything is sent as messages between processes
+</li></ul>
+</li><li> Standard library is OTP (<a href="http://en.wikipedia.org/wiki/Open_Telecom_Platform" class="external text" title="http://en.wikipedia.org/wiki/Open_Telecom_Platform" rel="nofollow">Open Telecom Platform</a>)
+</li><li> Erlang is built for { getting projects completed in time + concurrency + realiability }
+</li></ul>
+<a name="Learn_erlang_from_basics" id="Learn_erlang_from_basics"></a><h2><span class="editsection">[<a href="/w/index.php?title=Erlang&amp;action=edit&amp;section=2" title="Edit section: Learn erlang from basics">edit</a>]</span> <span class="mw-headline"> Learn erlang from basics </span></h2>
+<p>Go and check <b><a href="http://learnyousomeerlang.com/" class="external text" title="http://learnyousomeerlang.com/" rel="nofollow">Learn You Some Erlang For Great Good!!</a></b>.
+</p>
+<a name="Coding" id="Coding"></a><h2><span class="editsection">[<a href="/w/index.php?title=Erlang&amp;action=edit&amp;section=3" title="Edit section: Coding">edit</a>]</span> <span class="mw-headline"> Coding </span></h2>
+<p>Everything in erlang is built up of modules, just like java programs is built from classes. Modules very often describes processes that can be run within the system. Essentially, you will spend your time building processes that sends lots and lots of messages to each others. (Read wikipedia about the <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Actor_model" class="external text" title="https://secure.wikimedia.org/wikipedia/en/wiki/Actor_model" rel="nofollow">Actor model</a> if you wish.)
+</p><p>The <b>Open Telecom Platform</b> is a set of modules that comes with erlang. It is possible to write code that does not use OTP, but it is not recommended. OTP contains code for helping you more easily creating systems that can recover from failure, make clusters and also allows you to update code while it is running. This is probably the reason why you picked this programming language.
+</p>
+<a name="IDE.3F" id="IDE.3F"></a><h3><span class="editsection">[<a href="/w/index.php?title=Erlang&amp;action=edit&amp;section=4" title="Edit section: IDE?">edit</a>]</span> <span class="mw-headline"> IDE? </span></h3>
+<ul><li> erlang-mode for Emacs.
+</li></ul>
+<ul><li> <a href="http://erlide.org" class="external text" title="http://erlide.org" rel="nofollow">Erlide</a> - Eclispe plugin. It is functioning well and has some advanced features like integrated debugger, content assist, semantic highlighting, navigation support and Wrangler integration.
+</li></ul>
+<a name="behaviours" id="behaviours"></a><h3><span class="editsection">[<a href="/w/index.php?title=Erlang&amp;action=edit&amp;section=5" title="Edit section: behaviours">edit</a>]</span> <span class="mw-headline"> behaviours </span></h3>
+<p><b>libraries</b>
+</p>
+<ul><li> A module that contains a number of functions (that it exports), and nothing else. (Not a behaviour per se.)
+</li></ul>
+<p><b><a href="/wiki/Worker_patterns" title="Worker patterns">worker patterns</a></b>
+</p>
+<ul><li> <a href="/wiki/Gen_server" title="Gen server">gen_server</a> - <i>sends/receives messages and has a state</i>
+</li><li> <a href="/wiki/Gen_fsm" title="Gen fsm">gen_fsm</a> - <i>finite state machines</i>
+</li><li> <a href="/wiki/Gen_event" title="Gen event">gen_event</a> - <i>reacts on larger system events, like errors</i>
+</li></ul>
+<p><b>control structure patterns</b>
+</p>
+<ul><li> <a href="/wiki/Supervisor" title="Supervisor">supervisor</a> - <i>disaster recovery</i>
+</li></ul>
+<a name="releases" id="releases"></a><h3><span class="editsection">[<a href="/w/index.php?title=Erlang&amp;action=edit&amp;section=6" title="Edit section: releases">edit</a>]</span> <span class="mw-headline"> releases </span></h3>
+<ul><li> coding bureaucracy!! - <i>makes it simple to manage software updates and keep track of dependencies</i>
+</li></ul>
+<a name="Sources" id="Sources"></a><h2><span class="editsection">[<a href="/w/index.php?title=Erlang&amp;action=edit&amp;section=7" title="Edit section: Sources">edit</a>]</span> <span class="mw-headline"> Sources </span></h2>
+<ul><li> <a href="http://www.erlang.org/doc/design_principles/des_princ.html" class="external text" title="http://www.erlang.org/doc/design_principles/des_princ.html" rel="nofollow">Erlang design principles</a>
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 9/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:277-0!1!0!!en!2 and timestamp 20121020023518 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Erlang">https://cryptoanarchy.org/wiki/Erlang</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>:&#32;<span dir='ltr'><a href="/wiki/Category:Erlang" title="Category:Erlang">Erlang</a></span> | <span dir='ltr'><a href="/wiki/Category:Programming" title="Category:Programming">Programming</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Erlang" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Erlang&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Erlang&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Erlang&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Erlang" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Erlang" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Erlang" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Erlang&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Erlang&amp;oldid=3271" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 2 November 2011, at 21:08.</li>
+					<li id="viewcount">This page has been accessed 1,962 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.194 secs. --></body></html>
+
+0
+

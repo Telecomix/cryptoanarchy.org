@@ -1,0 +1,233 @@
+1e31
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="IPv6 firewall,IPv6,Iptables,Onioncat,OpenVPN" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=IPv6_firewall&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=IPv6_firewall&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=IPv6_firewall&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>IPv6 firewall - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "IPv6_firewall";
+		var wgTitle = "IPv6 firewall";
+		var wgAction = "view";
+		var wgArticleId = "123";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 3460;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-IPv6_firewall skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">IPv6 firewall</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p><a href="/wiki/IPv6" title="IPv6">IPv6</a> firewalling in Linux is probably most often accessed/modified with <b>ip6tables</b>. You can copy parts of the following script that you like to your own firewall script. If you do not know how to set up firewalls in linux, TCMB recommend that you read <a href="/wiki/Iptables" title="Iptables">iptables</a>.
+</p>
+<ul><li> <i>-i tun+</i> means that all TUN interface are affected by the rule. If you also use tun interfaces for other tasks, such as <a href="/wiki/OpenVPN" title="OpenVPN">OpenVPN</a>, you might need to limit this to just the tun interfaces that <a href="/wiki/Onioncat" title="Onioncat" class="mw-redirect">onioncat</a> uses. 
+</li></ul>
+<pre>
+# set default policy to drop all packets that are not explicitly wanted
+ip6tables -P INPUT DROP
+ip6tables -P FORWARD DROP
+ip6tables -P OUTPUT ACCEPT
+
+# flush and clean all rules in default chains
+ip6tables -F
+ip6tables -Z
+
+# accept everything that is sent to ipv6 loopback (allows talking with yourself)
+ip6tables -A INPUT -i lo -j ACCEPT
+
+# enables forwarding packets between the I2P and TOR onioncat networks 
+# (you also need to uncomment the sysctl at the top)
+#ip6tables -A FORWARD -i tun+ -d fd87:d87e:eb43::/48 -j ACCEPT
+#ip6tables -A FORWARD -i tun+ -d fd60:db4d:ddb5::/48 -j ACCEPT
+
+# allow icmp traffic to reach you (ping and more)
+ip6tables -A INPUT -i tun0 --protocol ipv6-icmp -j ACCEPT
+ip6tables -A INPUT -i tun1 --protocol ipv6-icmp -j ACCEPT
+
+# only allow well formed TCP handshakes
+ip6tables -A INPUT -p tcp&nbsp;! --syn -m state --state NEW -j DROP
+
+# Allow people to access SSH via the onioncat interfaces
+ip6tables -A INPUT -i tun+ --protocol tcp --destination-port 22 -m state --state NEW -j ACCEPT
+
+# Allow people to send I2P traffic via the OnionCat interfaces, on top of I2P and TOR.
+ip6tables -A INPUT -i tun+ --protocol udp --destination-port 8887 -j ACCEPT
+ip6tables -A INPUT -i tun+ --protocol tcp --destination-port 8887 -m state --state NEW -j ACCEPT
+
+# Allow packets that belong to sessions that has already been created to access the computers programs
+ip6tables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+
+# sysctl -w net.ipv6.conf.all.forwarding=1    (if you like to allow forwarding ipv6 over onioncat to darknets)
+</pre>
+<a name="netcat6" id="netcat6"></a><h2><span class="editsection">[<a href="/w/index.php?title=IPv6_firewall&amp;action=edit&amp;section=1" title="Edit section: netcat6">edit</a>]</span> <span class="mw-headline"> netcat6 </span></h2>
+<p>You can use netcat6 as a very simple ipv6 scanner. The one-liner below will search through the first 1024 ports of an ipv6 address. (Do not forget to <i>chmod u+x</i> it)
+</p>
+<pre>
+#!/bin/sh
+for((i=0;i!=10
+1bb5
+24;i++)) do nc6 $1 $i --idle-timeout=2; done
+</pre>
+<ul><li> <b>example:</b> ./scan fd87:d87e:eb43:fb6c:b535:1c3b:3567:485a
+<ul><li> Assumes the scripts name is <i>scan</i>
+</li></ul>
+</li><li> debian/ubuntu install: apt-get install netcat6
+</li></ul>
+<a name="TODO" id="TODO"></a><h2><span class="editsection">[<a href="/w/index.php?title=IPv6_firewall&amp;action=edit&amp;section=2" title="Edit section: TODO">edit</a>]</span> <span class="mw-headline"> TODO </span></h2>
+<ul><li> Is linux firewalls by default secured against strange packets? <i>I do not think so.</i> TCMB needs to explore how to setup rules for <a href="http://en.wikipedia.org/wiki/IPv6#Extension_header" class="external text" title="http://en.wikipedia.org/wiki/IPv6#Extension_header" rel="nofollow">extension headers</a> and differentiate between <a href="http://en.wikipedia.org/wiki/ICMPv6" class="external text" title="http://en.wikipedia.org/wiki/ICMPv6" rel="nofollow">ICMP packets</a>.
+</li><li> More research needs to be done on firewall fingerprinting.
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 9/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:123-0!1!0!!en!2 and timestamp 20121020022721 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/IPv6_firewall">https://cryptoanarchy.org/wiki/IPv6_firewall</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/IPv6_firewall" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:IPv6_firewall&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=IPv6_firewall&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=IPv6_firewall&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=IPv6_firewall" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/IPv6_firewall" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/IPv6_firewall" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=IPv6_firewall&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=IPv6_firewall&amp;oldid=3460" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 4 January 2012, at 17:07.</li>
+					<li id="viewcount">This page has been accessed 2,566 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.154 secs. --></body></html>
+
+0
+

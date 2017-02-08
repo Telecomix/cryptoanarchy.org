@@ -1,0 +1,293 @@
+5a20
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="The Crypto-Anarchists Cookbook" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=The_Crypto-Anarchists_Cookbook&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=The_Crypto-Anarchists_Cookbook&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=The_Crypto-Anarchists_Cookbook&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>The Crypto-Anarchists Cookbook - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "The_Crypto-Anarchists_Cookbook";
+		var wgTitle = "The Crypto-Anarchists Cookbook";
+		var wgAction = "view";
+		var wgArticleId = "361";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 3534;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-The_Crypto-Anarchists_Cookbook skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">The Crypto-Anarchists Cookbook</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Pea_soup"><span class="tocnumber">1</span> <span class="toctext">Pea soup</span></a></li>
+<li class="toclevel-1"><a href="#PanNcakes"><span class="tocnumber">2</span> <span class="toctext">PanNcakes</span></a></li>
+<li class="toclevel-1"><a href="#Random_Kaos_Soup"><span class="tocnumber">3</span> <span class="toctext">Random Kaos Soup</span></a></li>
+<li class="toclevel-1"><a href="#Dining_Crypto-Anarchists"><span class="tocnumber">4</span> <span class="toctext">Dining Crypto-Anarchists</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Proof_of_Dining_Room"><span class="tocnumber">4.1</span> <span class="toctext">Proof of Dining Room</span></a></li>
+<li class="toclevel-2"><a href="#Proof_of_Asymmetric_Crypto-Anarchist"><span class="tocnumber">4.2</span> <span class="toctext">Proof of Asymmetric Crypto-Anarchist</span></a></li>
+<li class="toclevel-2"><a href="#Proof_of_The_Infinite_Number_of_Random_Crypto-Anarchists"><span class="tocnumber">4.3</span> <span class="toctext">Proof of The Infinite Number of Random Crypto-Anarchists</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Pea_soup" id="Pea_soup"></a><h3><span class="editsection">[<a href="/w/index.php?title=The_Crypto-Anarchists_Cookbook&amp;action=edit&amp;section=1" title="Edit section: Pea soup">edit</a>]</span> <span class="mw-headline"> Pea soup </span></h3>
+<p>Cooking time: O(1)
+</p><p>one day before
+</p>
+<ol><li> Put all the peas in water (add more water than you think is suitable)
+</li><li> Wait one day for the peas to get normal again
+</li></ol>
+<p>then
+</p>
+<ol><li> Get a huge cauldron
+</li><li> Put water, salt and peas into the cauldron and boil it
+</li><li> Optional: Add diced bodyparts into cauldron
+</li><li> Wait about an hour, one-and-a-half hour or so..
+</li><li> Remove the bubbles on top of the boiling water
+</li><li> Cut a leek, onions, broth, thymus and optionally at most 2<sup>32</sup>-1 items of anything else you wish and put into the water
+</li><li> Boil it until you think it is complete (30 minutes?)
+</li><li> Eat
+</li></ol>
+<p>Note: It tastes <i>wonderful</i> the first day, while it is hot. If you put it in the refrigurator and eats it several days later it will not taste very good at all.
+</p>
+<a name="PanNcakes" id="PanNcakes"></a><h3><span class="editsection">[<a href="/w/index.php?title=The_Crypto-Anarchists_Cookbook&amp;action=edit&amp;section=2" title="Edit section: PanNcakes">edit</a>]</span> <span class="mw-headline"> PanNcakes </span></h3>
+<p>Cooking time: O(N) when number of eggs approach infinity
+</p>
+<ol><li> Select an N from the natural numbers
+</li><li> Get a large bowl, an empty stack (a dish) and a pan
+</li><li> Select one and only one of the following lines to execute:
+<ul><li> Put N eggs, 2N deciliters of milk and N deciliters of flour into the bowl
+</li><li> Put 3N eggs, 7N deciliters of milk and 5N deciliters of flour into the bowl
+</li></ul>
+</li><li> Put salt into the bowl
+</li><li> Mix the content of the bowl
+</li><li> Until the bowl is empty do:
+<ol><li> Pour some of the content of the bowl into the pan
+</li><li> Wait until the content of the pan no longer is liquid
+</li><li> Flip the panncake and fry the other side
+</li><li> Push panncake
+</li></ol>
+</li><li> Eat
+</li></ol>
+<a name="Random_Kaos_Soup" id="Random_Kaos_Soup"></a><h3><span class="editsection">[<a href="/w/index.php?title=The_Crypto-Anarchists_Cookbook&amp;action=edit&amp;section=3" title="Edit section: Random Kaos Soup">edit</a>]</span> <span class="mw-headline"> Random Kaos Soup </span></h3>
+<p>Cooking time: O(n log n) when lim items -&gt; infinity.
+</p>
+<ol><li> Boil water
+</li><li> Add salt and spice
+</li><li> Select any number of delicious items
+</li><li> Sort the items into how hard they are (hardness = boiling time)
+</li><li> Let P be the passed time since this line was last evaluated, T be the estimated boiling time of the hardest item, and T<sub>i</sub> be the estimated boiling time of item I.
+</li><li> Until all items are in the boiling water do:
+<ol><li> Get the hardest item I remaining and optionally cut it into pieces
+</li><li> Wait until T - (T<sub>i</sub> + P) is less than or equal to zero
+</li><li> Add item I into the boiling water
+</li></ol>
+</li><li> Wait until you think it is OK to eat
+</li><li> Eat
+</li></ol>
+<a name="Dining_Crypto-Anarchists" id="Dining_Crypto-Anarchists"></a><h3><span class="editsection">[<a href="/w/index.php?title=The_Crypto-Anarchists_Cookbook&amp;action=edit&amp;section=4" title="Edit section: Dining Crypto-Anarchists">edit</a>]</span> <span class="mw-headline"> Dining Crypto-Anarchists </span></h3>
+<p><b>Scenario:</b> A group of crypto-anarchists wish to eat the food from a common bowl. There are N forks and N crypto-anarchists. They sit in a circle around a table so that crypto-anarchist I's left fork is the crypto-anarchist (I+1 modulo N)s right fork. Each crypto-anarchist can only eat from the bowl if they have two forks. Each crypto-anarchist performs the following task:
+</p>
+<ol><li> think
+</li><li> try to grab two forks, one at a time
+</li><li> eat
+</li><li> return the forks, and then go thinking again
+</li></ol>
+<p><b>Constraints:</b>
+</p>
+<ul><li> At most one crypto-anarchist may hold a fork.
+</li><li> If a crypto-anarchist tries to pick up a fork that is not on the table, she will be confused and wait until the fork is there and then grab it.
+</li><li> A crypto-anarchist starves if she is confused for all eternity.
+</li><li> It is assumed that a crypto-anarchist will finish eating once she has begun.
+</li></ul>
+<p><b>Problem description:</b>
+Describe a protocol and optional additional environment settings for avoiding starvation. In particular: In which order should the crypto-anarchists pick up the forks so that it is guaranteed that there is no possibility of starvation?
+</p><p><i>Below follows a set of such solutions, called proofs.</i>
+</p>
+<a name="Proof_of_Dining_Room" id="Proof_of_Dining_Room"></a><h4><span class="editsection">[<a href="/w/index.php?title=The_Crypto-Anarchists_Cookbook&amp;action=edit&amp;section=5" title="Edit section: Proof of Dining Room">edit</a>]</span> <span class="mw-headline"> Proof of Dining Room </span></h4>
+<p><b>Solution:</b> We introduce the concept of a dining room. K crypto-anarchists can be in the room at any time. If more than K crypto-anarchists wish to be in the room, they will form a queue outside the room. When a crypto-anarchist leaves the room, if there are any crypto-anarchists standing in queue, the first crypto-anarchist in the queue will enter the room. We also decide that each crypto-anarchist will try to grab the left fork first.
+</p><p><b>Proof:</b>
+</p>
+<ol><li> If a crypto-anarchist is confused from trying to grab the left fork, it means that the crypto-anarchist to the left has successfully grabbed her right fork, and thus also the left fork, since they all tries to grab the left fork first. This means that the crypto-anarchist is eating or is just about to begin eating. This in turn, means that the crypto-anarchist holding the fork will soon let go of it. Thus, eventually each crypto-anarchist will have her left fork.
+</li><li> If a crypto-anarchist is confused from trying to grab her right fork, it means that the crypto-anarchist to the right has successfully grabbed her left fork. If we (because we wish to make a proof by contradiction) assume that the crypto-anarchist to the right is forever confused from never being able to also pick up her right fork, this means that the crypto-anarchist two seats to the right is also forever confused from having to wait at her right fork, and so on. Since there are only at most K crypto-anarchists in the room, this means that for crypto-anarchist K-1, the crypto-anarchist to the right is not in the room, and can thus not hold any forks. So, eventually, the crypto-anarchist will also have her right fork.
+</li><li> A hungry crypto-anarchist standing in queue to enter the room will not starve, since all crypto-anarchists in the room will eventually have their forks as shown above, then eat, and then leave the room.
+</li></ol>
+<p>Cases 1-3 covers all possibilities of starvation.
+</p>
+<a name="Proof_of_Asymmetric_Crypto-Anarchist" id="Proof_of_Asymmetric_Crypto-Anarchist"></a><h4><span class="editsection">[<a href="/w/index.php?title=The_Crypto-Anarchists_Cookbook&amp;action=edit&amp;section=6" title="Edit section: Proof of Asymmetric Crypto-Anarchist">edit</a>]</span> <span class="mw-headline"> Proof of Asymmetric Crypto-Anarchist </span></h4>
+<p><b>Solution:</b> Any crypto-anarchist sitting on the first chair will grab her right fork first. Every other crypto-anarchist will try to grab their left forks first.
+</p><p><b>Proof:</b>
+</p>
+<ol><li> If the crypto-anarchist is confused from trying to grab her left fork, it means that the crypto-anarchist to the left has successfully grabbed her right fork. If we assume that the crypto-anarchist to the left is also confused, then it means that the crypto-anarchist two seats to the left is also confused, and so on. Since the crypto-anarchists sit in a ring, someone will be sitting to the left of the first crypto-anarchist. Only If the crypto-anarchist sitting besides the first crypto-anarchist is forever confused, then everyone starves.
+</li><li> The same applies to the right hand side.
+</li><li> A crypto-anarchist sitting besides the first crypto-anarchist is confused from trying to grab a fork that the first crypto-anarchist has taken. That the first crypto-anarchist has taken the fork means that she holds both forks, since she tried to grab the other fork first. If the first crypto-anarchist holds two forks, then she is about to eat, or is eating. This means she will eventually be finished eating.
+</li><li> If the first crypto-anarchist is confused from trying to grab any of her two forks, then the other crypto-anarchist will soon return her forks, since that crypto-anarchist hold both forks (like case 3, but opposite).
+</li></ol>
+<p>This means that no starvation may occur.
+</p>
+<a name="Proof_of_The_Infinite_Number_of_Random_Crypto-Anarchists" id="Proof_of_The_Infinite_Number_of_Random_Crypto-Anarchists"></a><h4><span class="editsection">[<a href="/w/index.php?title=The_Crypto-Anarchists_Cookbook&amp;action=edit&amp;section=7" title="Edit section: Proof of The Infinite Number of Random Crypto-Anarchists">edit</a>]</span> <span class="mw-headline"> Proof of The Infinite Number of Random Crypto-Anarchists </span></h4>
+<p><b>Solution:</b> An infinite number of crypto-anarchists sit at the table. Each one will grab with equal probability the left or the right fork first.
+</p><p><b>Proof</b>
+</p>
+<ul><li> The probability that everyone will try to grab the left fork at the same time is lim x -&gt; infinity, (1/2)^x = 0. The same applies to the right fork.
+</li><li> If the crypto-anarchist is confused from grabbing the left fork, then for her to starve, the only possibility is that every other crypto-anarchist is also forever confused from grabbing the left fork. The same applies to the right fork. This possibility is zero, as shown in the previous bullet.
+</li></ul>
+<p>Thus, no one will starve.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 8/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:361-0!1!0!!en!2 and timestamp 20121019212955 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/The_Crypto-Anarchists_Cookbook">https://cryptoanarchy.org/wiki/The_Crypto-Anarchists_Cookbook</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>:&#32;<span dir='ltr'><a href="/wiki/Category:Programming" title="Category:Programming">Programming</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/The_Crypto-Anarchists_Cookbook" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:The_Crypto-Anarchists_Cookbook&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=The_Crypto-Anarchists_Cookbook&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=The_Crypto-Anarchists_Cookbook&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The_Crypto-Anarchists_Cookbook" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Crypto-Anarchists_Cookbook" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Crypto-Anarchists_Cookbook" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=The_Crypto-Anarchists_Cookbook&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=The_Crypto-Anarchists_Cookbook&amp;oldid=3534" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 23 January 2012, at 15:31.</li>
+					<li id="viewcount">This page has been accessed 3,864 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.142 secs. --></body></htm
+3
+l>
+
+0
+

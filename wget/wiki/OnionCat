@@ -1,0 +1,277 @@
+5528
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="OnionCat,Garlicat-clienttunnel,Garlicat-servertunnel,IPv6 firewall,NAT,The cryptoanarchy.i2p&#039;s gcat destination string" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=OnionCat&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=OnionCat&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=OnionCat&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>OnionCat - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "OnionCat";
+		var wgTitle = "OnionCat";
+		var wgAction = "view";
+		var wgArticleId = "59";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 3449;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-OnionCat skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">OnionCat</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a href="/wiki/File:Onioncat.jpg" class="image" title="Onioncat, VPN software for the ultra-paranoid."><img alt="" src="/w/images/thumb/8/8c/Onioncat.jpg/400px-Onioncat.jpg" width="400" height="502" border="0" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Onioncat.jpg" class="internal" title="Enlarge"><img src="/w/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Onioncat, VPN software for the ultra-paranoid.</div></div></div>OnionCat/GarliCat is a piece of software that can be used to create TUN interfaces on top of I2P/TOR. This means that you can send IPv6 traffic over I2P/TOR. There are really two programs, but they share almost all code. Garlicat is for I2P, OnionCat is for TOR.
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#SIMPLE_explanation"><span class="tocnumber">1</span> <span class="toctext">SIMPLE explanation</span></a></li>
+<li class="toclevel-1"><a href="#TOR_and_OnionCat"><span class="tocnumber">2</span> <span class="toctext">TOR and OnionCat</span></a></li>
+<li class="toclevel-1"><a href="#I2P_and_GarliCat"><span class="tocnumber">3</span> <span class="toctext">I2P and GarliCat</span></a></li>
+<li class="toclevel-1"><a href="#Finding_others"><span class="tocnumber">4</span> <span class="toctext">Finding others</span></a></li>
+<li class="toclevel-1"><a href="#Networks"><span class="tocnumber">5</span> <span class="toctext">Networks</span></a></li>
+<li class="toclevel-1"><a href="#Web_site"><span class="tocnumber">6</span> <span class="toctext">Web site</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="SIMPLE_explanation" id="SIMPLE_explanation"></a><h2><span class="editsection">[<a href="/w/index.php?title=OnionCat&amp;action=edit&amp;section=1" title="Edit section: SIMPLE explanation">edit</a>]</span> <span class="mw-headline"> SIMPLE explanation </span></h2>
+<p>Very short: OnionCat together with TOR or I2P will give you <i>anonymous</i> and secure VPN. It is very slow but you are able to send IPv6 packets to other people that also use OnionCat anonymously.
+</p><p>OnionCat lets you use TOR/I2P as a virtual network interface. You can send any type of traffic on top of these networks with the help of OnionCat&nbsp;:)
+</p><p>A TUN interface is a type of virtual network interface for unix boxes. It allows the most basic protocols to traverse the I2P/TOR networks. (It is possible to set up TAP interfaces too, in which case you can also send other types of packets, and pretend that you are on the same physical local network. Albeit, a very <i>very</i> slow network.)
+</p><p>With OnionCat on top of TOR/I2P you will see ping times between 2 to 30 seconds, default is perhaps 5-10 seconds. The delay is varies from second to second, even within the same tunnel. Interactive protocols (telnet/SSH) are <i>much</i> more painful than bulk sends (sending files).
+</p>
+<a name="TOR_and_OnionCat" id="TOR_and_OnionCat"></a><h2><span class="editsection">[<a href="/w/index.php?title=OnionCat&amp;action=edit&amp;section=2" title="Edit section: TOR and OnionCat">edit</a>]</span> <span class="mw-headline"> TOR and OnionCat </span></h2>
+<p>Read the <a href="http://www.cypherpunk.at/onioncat/wiki/Configuration" class="external text" title="http://www.cypherpunk.at/onioncat/wiki/Configuration" rel="nofollow">Onioncat-HOWTO</a>.
+</p><p><b>0. Install ocat</b>
+</p>
+<ol><li> <a href="http://www.cypherpunk.at/ocat/download/Source/0.2.0/unofficial" class="external text" title="http://www.cypherpunk.at/ocat/download/Source/0.2.0/unofficial" rel="nofollow">Download onioncat</a>.
+</li><li> Put it in a directory and untar it. (<i>tar xvfz ./onioncat-X.X.X.rXXX.tar.gz</i>)
+</li><li> type <tt>./configure</tt>
+</li><li> type <tt>make</tt>
+</li><li> type <tt>make install</tt> <b>(</b><tt>make uninstall</tt> will remove it.<b>)</b>
+</li></ol>
+<p><b>1. Create a hidden service</b>
+</p>
+<ul><li> Open /etc/tor/torrc and modify the script a bit:
+</li></ul>
+<pre>
+HiddenServiceDir /etc/tor/ocat/
+HiddenServicePort 8060 127.0.0.1:8060
+</pre>
+<p><b>2. Create the directory /etc/tor/ocat</b>
+</p>
+<ol><li> mkdir /etc/tor/ocat
+</li><li> chown the dir to the user that runs TOR (in debian it is <i>debian-tor</i>. <b>(</b>You can type <tt>ps aux | grep tor</tt> to find out which user is running TOR if you do not know.<b>)</b>
+</li></ol>
+<p><b>3. Find the hostname of your hidden service</b>
+</p>
+<ol><li> run or restart tor.
+</li><li> cat /etc/tor/ocat/hostname
+</li><li> For example: <i>c4cryzqdjns2i3je.onion</i>
+</li></ol>
+<p><b>4. Start ocat</b>
+</p>
+<ul><li> ocat c4cryzqdjns2i3je.onion
+</li><li> replace <i>c4cryzqdjns2i3je.onion</i> with your own hidden service destination&nbsp;:p
+</li><li> ocat will now create a new TUN interface and let you send traffic via it. Ocat will drop its privileges after it has created the TUN interface, so there is little chance that an exploit will give it root access&nbsp;:)
+</li></ul>
+<p><b>5. Final nodes.</b>
+</p>
+<ul><li> Consider setting up an <a href="/wiki/IPv6_firewall" title="IPv6 firewall">IPv6 firewall</a>.
+</li><li> Done.
+</li></ul>
+<a name="I2P_and_GarliCat" id="I2P_and_GarliCat"></a><h2><span class="editsection">[<a href="/w/index.php?title=OnionCat&amp;action=edit&amp;section=3" title="Edit section: I2P and GarliCat">edit</a>]</span> <span class="mw-headline"> I2P and GarliCat </span></h2>
+<p>Read the <a href="http://www.cypherpunk.at/onioncat/browser/trunk/i2p/Garlicat-HOWTO" class="external text" title="http://www.cypherpunk.at/onioncat/browser/trunk/i2p/Garlicat-HOWTO" rel="nofollow">Garlicat-HOWTO</a>.
+</p>
+<ol><li> <a href="http://www.cypherpunk.at/ocat/download/Source/0.2.0/unofficial" class="external text" title="http://www.cypherpunk.at/ocat/download/Source/0.2.0/unofficial" rel="nofollow">Download onioncat</a>.
+</li><li> Put it in a directory and untar it. (<i>tar xvfz ./onioncat-X.X.X.rXXX.tar.gz</i>)
+</li><li> type <tt>./configure</tt>
+</li><li> type <tt>make</tt>
+</li><li> type <tt>make install</tt> <b>(</b><tt>make uninstall</tt> will remove it.<b>)</b>
+</li><li> Create an I2P server tunnel. See <a href="/wiki/Garlicat-servertunnel" title="Garlicat-servertunnel">screenshot</a>.
+</li><li> Create an I2P client tunnel. See <a href="/wiki/Garlicat-clienttunnel" title="Garlicat-clienttunnel">screenshot</a>.
+</li><li> Copy your b32 destination string, and truncate it.
+<ul><li> <b>Example:</b> If it is <tt>mbtzuz7xirr6w5ai4irks7fopjyc5urkghk5ugl7mu37mplxuznq.b32.i2p</tt> then your truncated string is <tt>mbtzuz7xirr6w5ai.oc.b32.i2p</tt>. (just take the first 16 characters and add <tt>.oc.b32.i2p</tt> to it.)
+</li></ul>
+</li><li> type <tt>gcat yourdestination.oc.b32.i2p</tt>. It will create a new interface at your computer. You need to do this as root. After it has set up the TUN interface, it will drop its privileges and become the user <i>nobody</i>.
+</li><li> Configure your <a href="/wiki/IPv6_firewall" title="IPv6 firewall">IPv6 firewall</a>.
+</li><li> Addresses to web pages inside this network will for example be: <a href="http://fd60:db4d:ddb5:6067:9a67:f744:63eb:7408" class="external free" title="http://fd60:db4d:ddb5:6067:9a67:f744:63eb:7408" rel="nofollow">http://fd60:db4d:ddb5:6067:9a67:f744:63eb:7408</a>
+</li></ol>
+<p><b>Notice:</b>
+</p>
+<ul><li> TORs control socket is on port 9051. You will either have to change that in the /etc/tor/torrc file, or change the port that GarliCat uses (use the -t option)
+</li><li> You need to know the destination strings of the people you want to connect to. this is a bit failed, but i guess i can accept it <i>for a while</i>. It needs to be changed&nbsp;:D
+</li></ul>
+<a name="Finding_others" id="Finding_others"></a><h2><span class="editsection">[<a href="/w/index.php?title=OnionCat&amp;action=edit&amp;section=4" title="Edit section: Finding others">edit</a>]</span> <span class="mw-headline"> Finding others </span></h2>
+<ul><li> <tt>gcat -i mbtzuz7xirr6w5ai.oc.b32.i2p</tt> --- returns fd60:db4d:ddb5:6067:9a67:f744:63eb:7408
+<ul><li> You also need to add the destination strings of the onioncat nodes you wish to connect to your SusiDNS. Here is <a href="/wiki/The_cryptoanarchy.i2p%27s_gcat_destination_string" title="The cryptoanarchy.i2p&#39;s gcat destination string">the cryptoanarchy.i2p's gcat destination string</a>.
+</li><li> ping6 fd60:db4d:ddb5:6067:9a67:f744:63eb:7408
+</li></ul>
+</li><li> <tt>gcat -i SOME_OC_B32_STRING</tt> --- returns the IPv6 address of SOME_OC_B32_STRING destination.
+</li><li> ask people in chat channels&nbsp;:)?
+</li><li> try <i>man ocat</i>
+</li></ul>
+<a name="Networks" id="Networks"></a><h2><span class="editsection">[<a href="/w/index.php?title=OnionCat&amp;action=edit&amp;section=5" title="Edit section: Networks">edit</a>]</span> <span class="mw-headline"> Networks </span></h2>
+<ul><li> <b>fd87:d87e:eb43::/48</b> is TOR
+</li><li> <b>fd60:db4d:ddb5::/48</b> is I2P
+</li></ul>
+<p>(Linux does not have support for <a href="/wiki/NAT" title="NAT">NAT</a> with IPv6 so this is somewhat limiting, in case you wish to relay packets from TOR to I2P via OnionCat. This is what the Linux kernel/net developers say about adding this functionality --&gt; <i><b>Quote:</b> "Only over my dead body. We will never implement ipv6-to-ipv6 network address translation..."</i> If both the endpoints use their respective routers it will work though... meh.)
+</p>
+<a name="Web_site" id="Web_site"></a><h2><span class="editsection">[<a href="/w/index.php?title=OnionCat&amp;action=edit&amp;section=6" title="Edit section: Web site">edit</a>]</span> <span class="mw-headline"> Web site </span></h2>
+<ul><li> <a href="http://www.cypherpunk.at/onioncat/" class="external text" title="http://www.cypherpunk.at/onioncat/" rel="nofollow">Official site at cypherpunk.at</a>
+<ul><li> <a href="http://www.cypherpunk.at/onioncat/browser/trunk/i2p/Garlicat-HOWTO" class="external text" title="http://www.cypherpunk.at/onioncat/browser/trunk/i2p/Garlicat-HOWTO" rel="nofollow">HOWTO setup I2P with GarliCat</a>
+</li><li> <a href="http://www.cypherpunk.at/onioncat/wiki/Security" class="external text" title="http://www.cypherpunk.at/onioncat/wiki/Security" rel="nofollow">Text about the security of OnionCat</a> - READ IT
+</li></ul>
+</li><li> <a href="http://japcn2nmte7ghnl3llew3p2qpkkz5bwxofgyzfenkex5oui3q45a.b32.i2p/onioncat" class="external text" title="http://japcn2nmte7ghnl3llew3p2qpkkz5bwxofgyzfenkex5oui3q45a.b32.i2p/onioncat" rel="nofollow">I2P mirror</a>
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 10/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:59-0!1!0!!en!2 and timestamp 20121019155749 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/OnionCat">https://cryptoanarchy.org/wiki/OnionCat</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/OnionCat" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:OnionCat&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=OnionCat&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=OnionCat&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=OnionCat" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/OnionCat" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/OnionCat" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=OnionCat&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=OnionCat&amp;oldid=3449" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 4 January 2012, at 07:49.</li>
+					<li id="viewcount">This page has been accessed 7,109 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.134 secs. --></body></htm
+3
+l>
+
+0
+

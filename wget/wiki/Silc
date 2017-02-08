@@ -1,0 +1,216 @@
+50c0
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Silc" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Silc&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Silc&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Silc&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Silc - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Silc";
+		var wgTitle = "Silc";
+		var wgAction = "view";
+		var wgArticleId = "374";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 3431;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Silc skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Silc</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p><i>SILC (Secure Internet Live Conferencing protocol)'</i> is a protocol that provides secure synchronus conferencing services (very much like IRC) over the internet. <a href="http://www.linux.com/articles/20748" class="external text" title="http://www.linux.com/articles/20748" rel="nofollow">SILC, a new generation secure chat protocol - Linux.com</a>. It's a dead project, adopt him&nbsp;!
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Components"><span class="tocnumber">1</span> <span class="toctext">Components</span></a></li>
+<li class="toclevel-1"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1"><a href="#Security"><span class="tocnumber">3</span> <span class="toctext">Security</span></a></li>
+<li class="toclevel-1"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1"><a href="#SILC_networks"><span class="tocnumber">5</span> <span class="toctext">SILC networks</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Components" id="Components"></a><h2><span class="editsection">[<a href="/w/index.php?title=Silc&amp;action=edit&amp;section=1" title="Edit section: Components">edit</a>]</span> <span class="mw-headline"> Components </span></h2>
+<p>The SILC protocol can be divided in three main parts: <b>SILC Key Exchange</b> (SKE) protocol, <b>SILC Authentication protocol</b> and <b>SILC Packet protocol</b>.  SILC protocol additionally defines SILC Commands that are used to manage the SILC session.  SILC provides channels (groups), nicknames, private messages, and other common features.  However, SILC nicknames, in contrast to many other protocols (<i>e.g.</i> IRC), are not unique; a user is able to use any nickname, even if one is already in use.  The real identification in the protocol is performed by unique Client ID (<a href="http://www.silcnet.org/general/about/features.php" class="external text" title="http://www.silcnet.org/general/about/features.php" rel="nofollow">SILC features</a>). The SILC protocol uses this to overcome nickname collision, a problem present in many other protocols. All messages sent in a SILC network are binary, allowing them to contain any type of data, including text, video, audio, and other multimedia data.
+The SKE protocol is used to establish session key and other security parameters for protecting the SILC Packet protocol. The SKE itself is based on the Diffie-Hellman key exchange algorithm (a form of aymmetric cryptography) and the exchange is protected with digital signatures. The SILC Authentication protocol is performed after successful SKE protocol execution to authenticate a client and/or a server.  The authentication may be based on passphrase or on digital signatures, and if successful gives access to the relevant SILC network. The SILC Packet protocol is intended to be a secure binary packet protocol, assuring that the content of each packet (consisting of a packet header and packet payload) is secured and authenticated.  The packets are secured using algorithms based on symmetric cryptography and authenticated by using Message Authentication Code algorithm, HMAC.
+</p><p>SILC channels (groups) are protected by using symmetric channel keys. It is optionally possible to digitally sign all channel messages. It is also possible to protect messages with a privately-generated channel key that has been previously agreed upon by channel members. Private messages between users in a SILC network are protected with session keys. It is, however, possible to execute SKE protocol between two users and use the generated key to protect private messages. Private messages may be optionally digitally signed. When messages are secured with key material generated with the SKE protocol or previously agreed upon key material (for example, passphrases) SILC provides security even when the SILC server may be compromised.
+</p>
+<a name="History" id="History"></a><h2><span class="editsection">[<a href="/w/index.php?title=Silc&amp;action=edit&amp;section=2" title="Edit section: History">edit</a>]</span> <span class="mw-headline">History</span></h2>
+<p>SILC was designed by Pekka Riikonen between 1996 and 1999 and first released in public in summer 2000 (<a href="http://www.silcnet.org/general/history.php" class="external text" title="http://www.silcnet.org/general/history.php" rel="nofollow">SILC history</a>). A client and a server were written.  Protocol specifications were proposed, but ultimately request for publication was denied in June 2004 by IESG.(<a href="https://datatracker.ietf.org/doc/draft-riikonen-silc-spec/history/" class="external autonumber" title="https://datatracker.ietf.org/doc/draft-riikonen-silc-spec/history/" rel="nofollow">[1]</a>) and no RFC has been published to date.  
+</p><p>At present time, there are several clients, the most advanced being the official SILC client and an irssi plugin.  SILC protocol is also integrated to the popular Pidgin instant messaging client.  Other GUI clients are Silky and Colloquy. The Silky client was put on hold and abandoned on the 18th of July 2007, due to inactivity for several years (<a href="http://sourceforge.net/forum/forum.php?forum_id=717434" class="external text" title="http://sourceforge.net/forum/forum.php?forum_id=717434" rel="nofollow">SourceForge.net: project closed</a>). The latest news on the Silky website was that the client was to be completely rewritten.
+</p><p>As of 2008, three SILC protocol implementations have been written&nbsp;: <a href="http://silcnet.org/community/links/" class="external autonumber" title="http://silcnet.org/community/links/" rel="nofollow">[2]</a>.
+Most SILC clients use libsilc, part of the SILC Toolkit.
+The SILC Toolkit is dual-licensed and distributed under both the GNU General Public License (GPL) and the revised BSD license<a href="http://silcnet.org/software/developers/toolkit/licensing.php" class="external autonumber" title="http://silcnet.org/software/developers/toolkit/licensing.php" rel="nofollow">[3]</a>.
+</p>
+<a name="Security" id="Security"></a><h2><span class="editsection">[<a href="/w/index.php?title=Silc&amp;action=edit&amp;section=3" title="Edit section: Security">edit</a>]</span> <span class="mw-headline">Security</span></h2>
+<p>As described in the SILC FAQ, chats are secured through the generation of symmetric encryption keys. These keys have to be generated somewhere, and this occurs on the server.  This means that chats might be compromised, if the server itself is compromised.  This is just a version of the Man in the Middle attack. The solution offered is that chat members generate their own public-private keypair for asymmetric encryption.  The private key is shared only by the chat members, and this is done out of band.  The public key is used to encrypt messages into the channel. This approach is still open to compromise, if one of the members of the chat should have their private key compromised, or if they should share the key with another, without agreement of the group.
+</p>
+<a name="External_links" id="External_links"></a><h2><span class="editsection">[<a href="/w/index.php?title=Silc&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a>]</span> <span class="mw-headline"> External links </span></h2>
+<ul><li> <a href="http://www.silcnet.org" class="external text" title="http://www.silcnet.org" rel="nofollow">The SILC Project</a>
+</li><li> <a href="http://silky.sf.net" class="external text" title="http://silky.sf.net" rel="nofollow">Silky, GUI SILC client</a>
+</li><li> <a href="http://brokenpipe.de/hp/wiki.cgi/SilcImproved" class="external text" title="http://brokenpipe.de/hp/wiki.cgi/SilcImproved" rel="nofollow">Silc Improved, minimalistic SILC client using FIFOs</a>
+</li><li> <a href="http://brokenpipe.de/hp/wiki.cgi/KopeteSilc" class="external text" title="http://brokenpipe.de/hp/wiki.cgi/KopeteSilc" rel="nofollow">Kopete SILC Plugin</a>
+</li><li> <a href="http://sourceforge.net/projects/ede/" class="external text" title="http://sourceforge.net/projects/ede/" rel="nofollow">Silsa, GUI SILC Client, part of Equinox Desktop Environment (EDE)</a>
+</li></ul>
+<a name="SILC_networks" id="SILC_networks"></a><h2><span class="editsection">[<a href="/w/index.php?title=Silc&amp;action=edit&amp;section=5" title="Edit section: SILC networks">edit</a>]</span> <span class="mw-headline"> SILC networks </span></h2>
+<ul><li> <a href="http://silc.silcnet.org" class="external text" title="http://silc.silcnet.org" rel="nofollow">(official)</a>
+</li><li> <a href="https://www.dg-sc.org/silc/doku.php" class="external text" title="https://www.dg-sc.org/silc/doku.php" rel="nofollow">French SILC network with a wiki about SILC</a>
+</li><li> <a href="http://www.so36.net" class="external text" title="http://www.so36.net" rel="nofollow">has a small SILC network available for free use</a>
+</li><li> <a href="http://www.compsec.net" class="external text" title="http://www.compsec.net" rel="nofollow">Encrypted Public SILC Network</a>
+</li><li> <a href="http://www.InterActivist.net" class="external text" title="http://www.InterActivist.net" rel="nofollow">secure activist communications network</a>
+</li><li> <a href="http://silc.org.ua" class="external text" title="http://silc.org.ua" rel="nofollow">small, public Ukrainian SILC network</a>
+</li><li> <a href="https://www.geeknet.fr/services/silc" class="external text" title="https://www.geeknet.fr/services/silc" rel="nofollow">small, public and anonymous french SILC network</a>
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 6/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:374-0!1!0!!en!2 and timestamp 20121020022712 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Silc">https://cryptoanarchy.org/wiki/Silc</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Silc" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Silc&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Silc&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Silc&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Silc" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Silc" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Silc" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Silc&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Silc&amp;oldid=3431" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 31 December 2011, at 16:26.</li>
+					<li id="viewcount">This page has been accessed 467 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.176 secs. --></body></html>
+
+0
+

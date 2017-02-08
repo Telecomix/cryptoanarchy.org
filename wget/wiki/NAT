@@ -1,0 +1,242 @@
+4f28
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="NAT,Onioncat" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=NAT&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=NAT&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=NAT&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>NAT - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "NAT";
+		var wgTitle = "NAT";
+		var wgAction = "view";
+		var wgArticleId = "188";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 2683;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-NAT skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">NAT</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p><b>Network Address Translation (NAT)</b> is a technique that fucked up the internets back in <a href="http://www.faqs.org/rfcs/rfc1631.html" class="external text" title="http://www.faqs.org/rfcs/rfc1631.html" rel="nofollow">May, 1994</a>. Before 1994 all computers at the internets had their own IP address, but after 1994 computers began to share IP addresses. The reason is that we dont have enough IPv4 addresses for everyone to have their own address.
+</p><p>IPv6 does not support NAT, all computers are expected to have their own publicly reachable IP address(es). NATing can be a good thing if one tries to connect to networks that are not reachable through the internets (such as the <a href="/wiki/Onioncat" title="Onioncat" class="mw-redirect">onioncat</a>-addresses), which creates other types of problems however.
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#How_does_NAT_work.3F"><span class="tocnumber">1</span> <span class="toctext">How does NAT work?</span></a></li>
+<li class="toclevel-1"><a href="#Symmetric_.2F_asymmetric_NAT.3F"><span class="tocnumber">2</span> <span class="toctext">Symmetric / asymmetric NAT?</span></a></li>
+<li class="toclevel-1"><a href="#Typical_scenario_example"><span class="tocnumber">3</span> <span class="toctext">Typical scenario example</span></a></li>
+<li class="toclevel-1"><a href="#Why_would_the_router_want_to_change_the_source_port.3F.3F"><span class="tocnumber">4</span> <span class="toctext">Why would the router want to change the source port??</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="How_does_NAT_work.3F" id="How_does_NAT_work.3F"></a><h2><span class="editsection">[<a href="/w/index.php?title=NAT&amp;action=edit&amp;section=1" title="Edit section: How does NAT work?">edit</a>]</span> <span class="mw-headline"> How does NAT work? </span></h2>
+<p>The typical scenario is that a router sits at the edge of a network. The router has one IP address and all the computers within the network typically has addresses within 192.168.0.0/16, 172.16.0.0/12 or 10.0.0.0/8 (those are <a href="http://www.faqs.org/rfcs/rfc1918.html" class="external text" title="http://www.faqs.org/rfcs/rfc1918.html" rel="nofollow">RFC1918</a>-addresses, used for LANs.) 
+</p><p>Every time any one of the computers within the LAN tries to connect to something outside the LAN it will connect to it as usual, and dont care about if there is any router or not between them. The router however replaces the unroutable RFC1918-address of the computer with its own public IP address, but does not tell the computer inside the network about it. When the server that the computer inside the LAN connected to replies, it will reply to the <i>routers external IP address</i>, not to the IP address of the computer inside the LAN. When the packets arrive from the server to the router, the router will remember who originally sent the request to the server, and route the packets to that computer instead.
+</p><p>This means that the entire network will look as if it only is one single computer.
+</p><p>This also means that servers that are inside the LAN is not reachable for anywhere at the intertubes, unless you <a href="http://portforward.com/" class="external text" title="http://portforward.com/" rel="nofollow">poke a hole in your router</a>.
+</p>
+<a name="Symmetric_.2F_asymmetric_NAT.3F" id="Symmetric_.2F_asymmetric_NAT.3F"></a><h2><span class="editsection">[<a href="/w/index.php?title=NAT&amp;action=edit&amp;section=2" title="Edit section: Symmetric / asymmetric NAT?">edit</a>]</span> <span class="mw-headline"> Symmetric / asymmetric NAT? </span></h2>
+<p>There are multiple types of NAT. <a href="http://en.wikipedia.org/wiki/NAT#Types_of_NAT" class="external text" title="http://en.wikipedia.org/wiki/NAT#Types_of_NAT" rel="nofollow">Wikipedia has an article about it</a>, ofc. It is generally rather difficult to figure out what type of NAT you have, but it does not really matter unless you only has access to stone-age-equipment from the mid-90ies, or really crappy hardware routers.
+</p>
+<a name="Typical_scenario_example" id="Typical_scenario_example"></a><h2><span class="editsection">[<a href="/w/index.php?title=NAT&amp;action=edit&amp;section=3" title="Edit section: Typical scenario example">edit</a>]</span> <span class="mw-headline"> Typical scenario example </span></h2>
+<ul><li> A single router with lots of slots for ordinary ethernet-cables delivers internets to lots of computers within a LAN.
+</li><li> The router has one public IP address. <b>1.2.3.4.</b>
+</li><li> The computers at the LAN has IP addresses in the range of 192.168.1.2 - 254. (network is 192.168.1.0/24)
+</li></ul>
+<p>One of the computers (192.168.1.4) in the LAN connect to the website <i><a href="http://google.com" class="external free" title="http://google.com" rel="nofollow">http://google.com</a></i>.
+</p>
+<pre>
+  (internets)
+       |
+       |
+    1.2.3.4
+    ROUTER
+    192.168.1.1
+       |
+       |
+    192.168.1.4
+    some computer
+</pre>
+<p><b>This is what could happen:</b> (most likely, but exact behaviour differs from router to router)
+</p>
+<ol><li> 192.168.1.4 sends a packet to google.com.
+<ul><li> the client computer uses TCP <b>source port 19239</b> when it connect to google.com. (19239 can be any number. often its a random number, but for simplicity we will just assume it uses 19239.)
+</li></ul>
+</li><li> the packet passes in at the router (192.168.1.1).
+</li><li> If the source port 19239 is not used by any other computer behind the NAT
+<ul><li> <b>THEN</b>: the router marks TCP port 19239 as used by 192.168.1.4 for connections to google.com.
+</li><li> <b>ELSE</b>: the router selects another TCP port to be used by 192.168.1.4 for connections to google.com.
+</li><li> and then the router replaces the clients IP address with its own public IP address (192.168.1.4 is replaces with 1.2.3.4)
+</li></ul>
+</li><li> then the router sends the packet further towards google.com. <b>it will thus look as if the router connects to google.com.</b>
+</li></ol>
+<p>When google.com receives the packet, it replies to it.
+</p>
+<ol><li> google.com sends the reply-packet to 1.2.3.4 TCP port (19239 <b>or</b> something else, depending on if the source port was used by another client in the network or not)
+</li><li> the packet enters the router at 1.2.3.4.
+</li><li> the router notice that its a reply from google.com to source port 19239 (or something else) and that it <i>therefore</i> is supposed to be forwarded to the client computer 192.168.1.4 source port 19239. the client computer "owns" this TCP source port because it used it to connect to google.com.
+</li><li> The router replaces 1.2.3.4 with 192.168.1.4 because it was that computer who made the connection to google in the first place and sends it to the internal network. <b>IF</b> the router had to replace the source address with something else because that source address was already used, it also replaces the source address of the packet before it forwards it (otherwise the client will not understand that google is replying to it).
+</li><li> the packet enter the client computer, 192.168.1.4, TCP source port 19239. <b>From the clients side, it looks as if google.com is replying directly to it, even though it is using a LAN-only IP address that is normally not routable at the internets.</b>
+</li></ol>
+<a name="Why_would_the_router_want_to_change_the_source_port.3F.3F" id="Why_would_the_router_want_to_change_the_source_port.3F.3F"></a><h2><span class="editsection">[<a href="/w/index.php?title=NAT&amp;action=edit&amp;section=4" title="Edit section: Why would the router want to change the source port??">edit</a>]</span> <span class="mw-headline"> Why would the router want to change the source port?? </span></h2>
+<ol><li> If some other client computer has already used that source port for connecting to some website/server/whatever, then some other computer can not expect to use the very same source port. The router would be confused and not know which LAN computer to forward the packets to.
+</li><li> <b>However, there are ofc multiple solutions to this problem:</b> As long as the router is able to keep track of who connected to what, and handle the servers replies correctly, it does not really matter how the router handles NAT.
+</li></ol>
+<p>Some routers always replace the clients source ports with randomly chosen ones. Randomizing as many fields as possible in the TCP packets are probably the best choice, some operating systems leak unnecessary info about themselves through their outbound connections. For example, its often possible to see if you are using windows/linux/solaris/whatever by looking at differences in the TCP stack, and how the packets look like. For example, OpenBSD by default comes with a file /etc/pf.os that contains fingerprints for different operating system, that could be used to deny windows users access to servers. It is generally not a good idea to leak info about yourself if you want to stay anonymous, so please think about this. (If you are using cryptoanarchy.org as a proxy/VPN this is handled automatically for all outbound connections.)
+</p><p>Most routers however (probably) behaves as described above.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 8/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:188-0!1!0!!en!2 and timestamp 20121020022918 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/NAT">https://cryptoanarchy.org/wiki/NAT</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/NAT" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:NAT&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=NAT&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=NAT&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=NAT" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/NAT" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/NAT" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=NAT&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=NAT&amp;oldid=2683" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 14 September 2011, at 23:27.</li>
+					<li id="viewcount">This page has been accessed 1,252 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.187 secs. --></body></ht
+4
+ml>
+
+0
+

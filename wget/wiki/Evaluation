@@ -1,0 +1,238 @@
+56e0
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Evaluation,Haskell,Monad" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Evaluation&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Evaluation&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Evaluation&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Evaluation - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Evaluation";
+		var wgTitle = "Evaluation";
+		var wgAction = "view";
+		var wgArticleId = "318";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 4163;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Evaluation skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Evaluation</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p><b>Evaluation</b>, what is it?
+</p>
+<a name="Evaluation_vs._computation" id="Evaluation_vs._computation"></a><h2><span class="editsection">[<a href="/w/index.php?title=Evaluation&amp;action=edit&amp;section=1" title="Edit section: Evaluation vs. computation">edit</a>]</span> <span class="mw-headline"> Evaluation vs. computation </span></h2>
+<p>Evaluation can be thought of as "reducing an expression to its meaning" while computation can be thought of as "calculating numbers". This is how most functional programming literature describes it.
+</p>
+<a name="Strict_evaluation" id="Strict_evaluation"></a><h2><span class="editsection">[<a href="/w/index.php?title=Evaluation&amp;action=edit&amp;section=2" title="Edit section: Strict evaluation">edit</a>]</span> <span class="mw-headline"> Strict evaluation </span></h2>
+<p>Strict evaluation means that the program will evaluate the expressions it is composed of <i>at once</i>. This is how most "normal" programming languages do it.
+</p><p><b>Example:</b>
+</p>
+<pre>function A:
+  B = 3
+  X = B + 4
+  return X
+</pre>
+<p>This function will always do the same thing. It will assign the value 3 to B and then add 4 to it and store the result in X, before returning X to the caller. 
+</p><p>Unless the function is simplified by an effective compiler <i>at compile time</i>, the calculations will always be done, despite that they <i>always</i> add up to 7. An effective compiler would reduce all references of the function to the constant 7.
+</p>
+<a name="Lazy_evaluation" id="Lazy_evaluation"></a><h2><span class="editsection">[<a href="/w/index.php?title=Evaluation&amp;action=edit&amp;section=3" title="Edit section: Lazy evaluation">edit</a>]</span> <span class="mw-headline"> Lazy evaluation </span></h2>
+<p>If strict evaluation means that all and every expression is computed at once, lazy evaluation means that only those expressions that are actually needed are computed.
+</p><p>As a computer program is running, it is thought to be making computations. Not so with lazy evaluation. Instead, as the computer program runs, it stores the expressions that it is supposed to execute in a dataset. The set of computations described is not computed until they are needed, <i>which might never happen.</i> This is called lazy evaluation.
+</p><p>In <a href="/wiki/Haskell" title="Haskell">haskell</a>, functions only perform any work if "someone" demands to see the result. Writing a function call will by itself just add expressions to its dataset. "Someone" demanding to see the result usually means that a decision has to be made to choose a branch / course-of-action depending on the shape/value of the function result, and only then will the expression in the dataset actually be evaluated (by demanding it) (and then caching the result). The "someone" can be any (possibly) other function, which calls the first, and whose result is in turn demanded; the demanding could also happen because the program needs to decide what to communicate to the external world / Operating System. This communication with the OS is (always) done by using the <i>I/O-<a href="/wiki/Monad" title="Monad">monad</a></i> (possibly hidden behind a higher abstraction layer, if you want).
+</p><p>An expression that has been evaluated does not have to be evaluated again: <i>Purely functional programming languages that does not allow <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Side_effect_%28computer_science%29" class="external text" title="https://secure.wikimedia.org/wikipedia/en/wiki/Side_effect_%28computer_science%29" rel="nofollow">side-effects</a> will never change their variables once they are set to a value. This means that the value of an expression, once it has its variables defined, never change. We can store the value of the evaluated expression in our dataset for future use. Instead of evaluating the expression one time too much, the value of the expression can just be fetched from the dataset.</i> (The previous four sentences are important.)
+</p><p>Lazy evaluation makes it possible to create languages that can express more complex thoughts in less words. This is just a random statement that probably can not be proven to be true, but it often seems to be true.
+</p><p>Among the more exotic effects of lazy evaluation is the possibility of describing infinity. Lazy evaluation for example makes it possible to define lists of infinite length (such as "the list of all prime numbers"), and have functions operate on them. When the result is needed, only the entries in the infinite list that are needed are used.
+</p><p><br />
+</p><p><b>Example:</b>
+</p>
+<pre>function_A:
+  B = 3
+  X = B + 4
+  return X
+</pre>
+<p>This function will <font color="red">not</font> always do the same thing. The first time the function is evaluated, it will evaluate B to 3, evaluate X to 7 and finally evaluate function_A to 7. The second time there is a reference to function_A, the value is already known and stored in the dataset. The function becomes equal to the constant 7, and never again has to be evaluated.
+</p><p>The evaluation of function_A can happen at compile time, in which case the whole function is replaced with the constant 7 and never evaluates.
+</p><p><b>Example:</b>
+</p>
+<pre>function_B(Y):
+  B = 3
+  X = Y + B + 4
+  return X
+</pre>
+<p>This function evaluate to <tt>Y+7</tt>. After it has been evaluated, every time function_B is used, it will be <i>replaced</i> with the expression Y+7. The entire function can be reduced to this statement at compile time.
+</p>
+<a name="Criticism_of_lazy_evaluation" id="Criticism_of_lazy_evaluation"></a><h3><span class="editsection">[<a href="/w/index.php?title=Evaluation&amp;action=edit&amp;section=4" title="Edit section: Criticism of lazy evaluation">edit</a>]</span> <span class="mw-headline"> Criticism of lazy evaluation </span></h3>
+<p>Some random arguments...
+</p>
+<a name="Higher_order_functions" id="Higher_order_functions"></a><h3><span class="editsection">[<a href="/w/index.php?title=Evaluation&amp;action=edit&amp;section=5" title="Edit section: Higher order functions">edit</a>]</span> <span class="mw-headline"> Higher order functions </span></h3>
+<p>Higher order functions are functions that accept functions as parameters <b>and</b> functions that evaluates to functions. One can think of higher order functions as code that reads and writes code.
+</p><p>Higher order functions are not limited to languages with lazy evaluation. But with lazy evaluation, higher order functions can be reduced and simplified at run time so that they do not consume as much time to evaluate (this is not always true). This makes it possible to write somewhat efficient code that is <i><b>very</b></i> abstract. Way beyond what can be done with object orientation. This comes at the cost of making programs a bit more difficult to debug.
+</p>
+<a name="What_about_space_and_time-complexity.3F" id="What_about_space_and_time-complexity.3F"></a><h3><span class="editsection">[<a href="/w/index.php?title=Evaluation&amp;action=edit&amp;section=6" title="Edit section: What about space and time-complexity?">edit</a>]</span> <span class="mw-headline"> What about space and time-complexity? </span></h3>
+<p>One might think that this would greatly speed up evaluation, but it is not always the case. Storing the values of expressions in a dataset requires the program to make a lot of references to RAM. It also becomes a little bit more difficult to analyze how much resources a program will use because of this feature. A program that makes a lot of distinct and unique computations would use up a lot of RAM. Some (most?) programs however benefit from this, especially if they are redoing the same evaluations over and over again.
+</p><p>This means that <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Space_complexity" class="external text" title="https://secure.wikimedia.org/wikipedia/en/wiki/Space_complexity" rel="nofollow">space complexity</a> becomes a "problem" for programs that traditionally would only require analysis of their <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Time_complexity" class="external text" title="https://secure.wikimedia.org/wikipedia/en/wiki/Time_complexity" rel="nofollow">time complexity</a>.
+</p>
+<a name="Abstract_thought_vs._menial_labor.3F" id="Abstract_thought_vs._menial_labor.3F"></a><h3><span class="editsection">[<a href="/w/index.php?title=Evaluation&amp;action=edit&amp;section=7" title="Edit section: Abstract thought vs. menial labor?">edit</a>]</span> <span class="mw-headline"> Abstract thought vs. menial labor? </span></h3>
+<p>Heavily CPU-bound problems are not suited for lazily evaluated functional programming languages. While this might change with better compilers and/or interpreters, at the time of writing, these languages are better suited for abstract logic. These types of languages are used to simulate quantum computers, make <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Automated_theorem_proving" class="external text" title="https://secure.wikimedia.org/wikipedia/en/wiki/Automated_theorem_proving" rel="nofollow">automated theorem provers</a>, AI research and programs that solve  problems that would be difficult to describe in other programming languages.
+</p>
+<a name="Is_your_life_worth_something.3F" id="Is_your_life_worth_something.3F"></a><h3><span class="editsection">[<a href="/w/index.php?title=Evaluation&amp;action=edit&amp;section=8" title="Edit section: Is your life worth something?">edit</a>]</span> <span class="mw-headline"> Is your life worth something? </span></h3>
+<p>A benefit to lazily evaluated languages is that the programmers need to spend less time <i>typing</i> the software and more time <i>thinking</i> about software. Programs written in functional languages are often very short, and <i>very</i> high level. The lazy functionalist argument goes like this: "<i>It is more fun to think about what to type, than to type what I has already thought.</i>" and if asked about the speed of the programs, they would reply "<i>So what if my program takes twice the amount of time to finish, moores law says that in 1.5 years, the computer will be twice as fast. My time is more important than that of my computers time. Also consider that O(2) is a constant, which means that this is a compiler issue. Also, note that I usually do not detect the difference between 14 microseconds and 28 microseconds, so who cares if it takes twice the time.</i>"
+</p>
+<a name=".3F.3F" id=".3F.3F"></a><h3><span class="editsection">[<a href="/w/index.php?title=Evaluation&amp;action=edit&amp;section=9" title="Edit section:&nbsp;??">edit</a>]</span> <span class="mw-headline">&nbsp;?? </span></h3>
+<p>Lazily evaluated languages is either future-tech <b>or</b> some stupid academic nerd-rage going on, serving no purpose but to make our code even more bloated. Decide for yourself.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 11/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:318-0!1!0!!en!2 and timestamp 20121020004407 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Evaluation">https://cryptoanarchy.org/wiki/Evaluation</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>:&#32;<span dir='ltr'><a href="/wiki/Category:Erlang" title="Category:Erlang">Erlang</a></span> | <span dir='ltr'><a href="/wiki/Category:Haskell" class="mw-redirect" title="Category:Haskell">Haskell</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Evaluation" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Evaluation&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Evaluation&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Evaluation&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Evaluation" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Evaluation" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Evaluation" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Evaluation&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Evaluation&amp;oldid=4163" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 19 September 2012, at 14:38.</li>
+					<li id="viewcount">This page has been accessed 1,435 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.142 secs. --></body></htm
+3
+l>
+
+0
+

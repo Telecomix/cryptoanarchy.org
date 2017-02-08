@@ -1,0 +1,1056 @@
+fff8
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Concurrent programming,Erlang" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Concurrent_programming&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Concurrent_programming&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Concurrent_programming&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Concurrent programming - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Concurrent_programming";
+		var wgTitle = "Concurrent programming";
+		var wgAction = "view";
+		var wgArticleId = "359";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 3156;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Concurrent_programming skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Concurrent programming</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p>These are notes for <b>Concurrent Programming, TDA381, Chalmers.</b>
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Words"><span class="tocnumber">1</span> <span class="toctext">Words</span></a>
+<ul>
+<li class="toclevel-2"><a href="#.28Weak.29_Fairness"><span class="tocnumber">1.1</span> <span class="toctext">(Weak) Fairness</span></a></li>
+<li class="toclevel-2"><a href="#Other_types_of_fairness"><span class="tocnumber">1.2</span> <span class="toctext">Other types of fairness</span></a></li>
+<li class="toclevel-2"><a href="#Scenario"><span class="tocnumber">1.3</span> <span class="toctext">Scenario</span></a></li>
+<li class="toclevel-2"><a href="#Interleaving"><span class="tocnumber">1.4</span> <span class="toctext">Interleaving</span></a></li>
+<li class="toclevel-2"><a href="#Context_switch"><span class="tocnumber">1.5</span> <span class="toctext">Context switch</span></a></li>
+<li class="toclevel-2"><a href="#Atomic_operation"><span class="tocnumber">1.6</span> <span class="toctext">Atomic operation</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Atomic_hardware_operations"><span class="tocnumber">1.6.1</span> <span class="toctext">Atomic hardware operations</span></a></li>
+<li class="toclevel-3"><a href="#Atomic_high-level_operations"><span class="tocnumber">1.6.2</span> <span class="toctext">Atomic high-level operations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Test-and-set"><span class="tocnumber">1.7</span> <span class="toctext">Test-and-set</span></a></li>
+<li class="toclevel-2"><a href="#Fetch-and-add"><span class="tocnumber">1.8</span> <span class="toctext">Fetch-and-add</span></a></li>
+<li class="toclevel-2"><a href="#Compare-and-swap"><span class="tocnumber">1.9</span> <span class="toctext">Compare-and-swap</span></a></li>
+<li class="toclevel-2"><a href="#Dining_philosopers"><span class="tocnumber">1.10</span> <span class="toctext">Dining philosopers</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Proof_of_Dining_Room"><span class="tocnumber">1.10.1</span> <span class="toctext">Proof of Dining Room</span></a></li>
+<li class="toclevel-3"><a href="#Proof_of_Asymmetric_Philosopher"><span class="tocnumber">1.10.2</span> <span class="toctext">Proof of Asymmetric Philosopher</span></a></li>
+<li class="toclevel-3"><a href="#Proof_of_The_Infinite_Number_of_Random_Philosophers"><span class="tocnumber">1.10.3</span> <span class="toctext">Proof of The Infinite Number of Random Philosophers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Deadlock"><span class="tocnumber">1.11</span> <span class="toctext">Deadlock</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Livelock"><span class="tocnumber">1.11.1</span> <span class="toctext">Livelock</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Starvation"><span class="tocnumber">1.12</span> <span class="toctext">Starvation</span></a></li>
+<li class="toclevel-2"><a href="#Liveness_property"><span class="tocnumber">1.13</span> <span class="toctext">Liveness property</span></a></li>
+<li class="toclevel-2"><a href="#Safety_property"><span class="tocnumber">1.14</span> <span class="toctext">Safety property</span></a></li>
+<li class="toclevel-2"><a href="#State_diagram"><span class="tocnumber">1.15</span> <span class="toctext">State diagram</span></a></li>
+<li class="toclevel-2"><a href="#Process_barrier"><span class="tocnumber">1.16</span> <span class="toctext">Process barrier</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Dekkers_algorithm"><span class="tocnumber">2</span> <span class="toctext">Dekkers algorithm</span></a></li>
+<li class="toclevel-1"><a href="#Temporal_logics"><span class="tocnumber">3</span> <span class="toctext">Temporal logics</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Instruction_pointers_.28.22control_pointers.22.29"><span class="tocnumber">3.1</span> <span class="toctext">Instruction pointers ("control pointers")</span></a></li>
+<li class="toclevel-2"><a href="#Leads_to"><span class="tocnumber">3.2</span> <span class="toctext">Leads to</span></a></li>
+<li class="toclevel-2"><a href="#Equivalence"><span class="tocnumber">3.3</span> <span class="toctext">Equivalence</span></a></li>
+<li class="toclevel-2"><a href="#Always"><span class="tocnumber">3.4</span> <span class="toctext">Always</span></a></li>
+<li class="toclevel-2"><a href="#Eventually"><span class="tocnumber">3.5</span> <span class="toctext">Eventually</span></a></li>
+<li class="toclevel-2"><a href="#How_to_prove_mutual_exclusion"><span class="tocnumber">3.6</span> <span class="toctext">How to prove mutual exclusion</span></a></li>
+<li class="toclevel-2"><a href="#Mutual_exclusion_proof_of_simple_stupid_algorithm"><span class="tocnumber">3.7</span> <span class="toctext">Mutual exclusion proof of simple stupid algorithm</span></a></li>
+<li class="toclevel-2"><a href="#Mutual_exclusion_proof_of_Dekkers_algorithm"><span class="tocnumber">3.8</span> <span class="toctext">Mutual exclusion proof of Dekkers algorithm</span></a></li>
+<li class="toclevel-2"><a href="#Progress"><span class="tocnumber">3.9</span> <span class="toctext">Progress</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Reasoning_about_progress"><span class="tocnumber">3.9.1</span> <span class="toctext">Reasoning about progress</span></a></li>
+<li class="toclevel-3"><a href="#Assumptions"><span class="tocnumber">3.9.2</span> <span class="toctext">Assumptions</span></a></li>
+<li class="toclevel-3"><a href="#Dekkers_algorithm_is_free_from_starvation"><span class="tocnumber">3.9.3</span> <span class="toctext">Dekkers algorithm is free from starvation</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Semaphores"><span class="tocnumber">4</span> <span class="toctext">Semaphores</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Binary_semaphore"><span class="tocnumber">4.1</span> <span class="toctext">Binary semaphore</span></a></li>
+<li class="toclevel-2"><a href="#Strong_semaphore"><span class="tocnumber">4.2</span> <span class="toctext">Strong semaphore</span></a></li>
+<li class="toclevel-2"><a href="#Busy-wait_semaphore"><span class="tocnumber">4.3</span> <span class="toctext">Busy-wait semaphore</span></a></li>
+<li class="toclevel-2"><a href="#Proving_mutual_exclusion_for_semaphores"><span class="tocnumber">4.4</span> <span class="toctext">Proving mutual exclusion for semaphores</span></a></li>
+<li class="toclevel-2"><a href="#Split_semaphores"><span class="tocnumber">4.5</span> <span class="toctext">Split semaphores</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Monitors"><span class="tocnumber">5</span> <span class="toctext">Monitors</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Condition_variables"><span class="tocnumber">5.1</span> <span class="toctext">Condition variables</span></a></li>
+<li class="toclevel-2"><a href="#Protected_objects"><span class="tocnumber">5.2</span> <span class="toctext">Protected objects</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Channels"><span class="tocnumber">6</span> <span class="toctext">Channels</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Synchronicity"><span class="tocnumber">6.1</span> <span class="toctext">Synchronicity</span></a></li>
+<li class="toclevel-2"><a href="#Addressing_the_messages"><span class="tocnumber">6.2</span> <span class="toctext">Addressing the messages</span></a></li>
+<li class="toclevel-2"><a href="#How_channels_works"><span class="tocnumber">6.3</span> <span class="toctext">How channels works</span></a></li>
+<li class="toclevel-2"><a href="#Selective_input"><span class="tocnumber">6.4</span> <span class="toctext">Selective input</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Pseudocode_example"><span class="tocnumber">6.4.1</span> <span class="toctext">Pseudocode example</span></a></li>
+<li class="toclevel-3"><a href="#Erlang_example"><span class="tocnumber">6.4.2</span> <span class="toctext">Erlang example</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Spaces_.2F_Linda"><span class="tocnumber">7</span> <span class="toctext">Spaces / Linda</span></a>
+<ul>
+<li class="toclevel-2"><a href="#API"><span class="tocnumber">7.1</span> <span class="toctext">API</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Random_codes"><span class="tocnumber">8</span> <span class="toctext">Random codes</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Implementing_a_binary_semaphore_using_erlang_message_passing"><span class="tocnumber">8.1</span> <span class="toctext">Implementing a binary semaphore using erlang message passing</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Words" id="Words"></a><h2><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=1" title="Edit section: Words">edit</a>]</span> <span class="mw-headline"> Words </span></h2>
+<a name=".28Weak.29_Fairness" id=".28Weak.29_Fairness"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=2" title="Edit section: (Weak) Fairness">edit</a>]</span> <span class="mw-headline"> (Weak) Fairness </span></h3>
+<p>Weak fairness is that if a statement is continually available for execution, it will eventually execute.
+</p><p>"A scenario is (weakly) fair if at any state in the scenario, a statement that is continually enabled eventually appears in the scenario."
+</p>
+<a name="Other_types_of_fairness" id="Other_types_of_fairness"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=3" title="Edit section: Other types of fairness">edit</a>]</span> <span class="mw-headline"> Other types of fairness </span></h3>
+<p>This is included for the sake of completeness of definition of fairness. Not part of exam AFAIK.
+</p><p>A process gets its turn...
+</p>
+<ul><li> always (<b>unconditional fairness</b>)
+</li><li> if it is enabled inﬁnitely often (<b>strong fairness</b>)
+</li><li> if it is continuously enabled from some point on (<b>weak fairness</b>)
+</li></ul>
+<p><b>Teacher footnote:</b> <i>"But you should be aware that there is a whole forest of fairness definitions, and all kinds of related topologies, etc.  I'm not sure how much of all that makes any sense in practical languages.  The above three are a good start."</i>
+</p>
+<a name="Scenario" id="Scenario"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=4" title="Edit section: Scenario">edit</a>]</span> <span class="mw-headline"> Scenario </span></h3>
+<p>A scenario is an example of how a group of processes executes their statements. 
+</p>
+<ul><li> Example: Can be used to show how a process never is allowed to execute its statement (non-fairness)
+</li></ul>
+<a name="Interleaving" id="Interleaving"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=5" title="Edit section: Interleaving">edit</a>]</span> <span class="mw-headline"> Interleaving </span></h3>
+<p>Processes statements are picked for execution.
+</p>
+<ul><li> <b>uniprocessor systems:</b> via context switches
+<ul><li> thousands of statements from process P, then thousands from process Q, etc
+</li></ul>
+</li><li> <b>multiprocessor systems:</b> each processor executes statements from their processes. Individual statements from multiple processes may be interleaved arbitrary
+</li><li> It is safest to <i>never</i> assume anything about how many statements each process will do until interleaving takes place. <i>Always assume that the next statement may be from another process.</i>
+</li></ul>
+<a name="Context_switch" id="Context_switch"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=6" title="Edit section: Context switch">edit</a>]</span> <span class="mw-headline"> Context switch </span></h3>
+<p>Meaning: The operating systems scheduler switches to another process. May also be performed internally by a virtual machines scheduler, such as in <a href="/wiki/Erlang" title="Erlang">erlang</a> and Java.
+</p>
+<a name="Atomic_operation" id="Atomic_operation"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=7" title="Edit section: Atomic operation">edit</a>]</span> <span class="mw-headline"> Atomic operation </span></h3>
+<p>An operation that executes without any interleaving. The whole operation is executed "at once", as a single step.
+</p>
+<a name="Atomic_hardware_operations" id="Atomic_hardware_operations"></a><h4><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=8" title="Edit section: Atomic hardware operations">edit</a>]</span> <span class="mw-headline"> Atomic hardware operations </span></h4>
+<ul><li> Store and load from memory are atomic (Dekkers algorithm uses this)
+</li><li> Fetch-and-add
+</li><li> Test-and-set
+</li><li> compare-and-swap
+</li></ul>
+<a name="Atomic_high-level_operations" id="Atomic_high-level_operations"></a><h4><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=9" title="Edit section: Atomic high-level operations">edit</a>]</span> <span class="mw-headline"> Atomic high-level operations </span></h4>
+<ul><li> Examples: Semaphores, monitors
+</li><li> High level atomic operations will make the code run slowly, sometimes.
+</li></ul>
+<a name="Test-and-set" id="Test-and-set"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=10" title="Edit section: Test-and-set">edit</a>]</span> <span class="mw-headline"> Test-and-set </span></h3>
+<p>Is an atomic operation that can be implemented in hardware. Usually as a mnemonic for the assembler programmer.
+</p><p>Pseudocode description:
+</p>
+<pre>
+test-and-set(common, local)
+   local &lt;- common
+   common &lt;- 1
+   return local
+</pre>
+<p>Not as powerful as compare-and-swap, or fetch-and-add. (Difficulties with N-processes-locks.)
+</p>
+<a name="Fetch-and-add" id="Fetch-and-add"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=11" title="Edit section: Fetch-and-add">edit</a>]</span> <span class="mw-headline"> Fetch-and-add </span></h3>
+<p>Is an atomic operation that can be implemented in hardware. Usually as a mnemonic for the assembler programmer.
+</p><p>Pseudocode description:
+</p>
+<pre>
+fetch-and-add(common, local)
+   local &lt;- common
+   temp &lt;- common
+   common &lt;- temp + 1
+   return local
+</pre>
+<ul><li> Can more easily be used for N-processor locks than test-and-set.
+</li><li> XADD since i486
+</li></ul>
+<a name="Compare-and-swap" id="Compare-and-swap"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=12" title="Edit section: Compare-and-swap">edit</a>]</span> <span class="mw-headline"> Compare-and-swap </span></h3>
+<p>Is an atomic operation that can be implemented in hardware. Usually as a mnemonic for the assembler programmer.
+</p><p>Compares a variable, and if it is set to a specific value, it is changed to another value. Otherwise nothing happens.
+</p><p>Pseudocode description:
+</p>
+<pre>
+compare-and-swap(variable, oldval, newval)
+   temp &lt;- variable
+   if variable = oldval
+      variable &lt;- newval
+   return temp
+</pre>
+<ul><li> Can more easily be used for N-processor locks than test-and-set.
+</li><li> CMPXCHG8B, CMPXCHG16B since the pentium processors, responsible for the <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Pentium_F00F_bug" class="external text" title="https://secure.wikimedia.org/wikipedia/en/wiki/Pentium_F00F_bug" rel="nofollow">0xF00FC7C8 bug</a>
+</li></ul>
+<a name="Dining_philosopers" id="Dining_philosopers"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=13" title="Edit section: Dining philosopers">edit</a>]</span> <span class="mw-headline"> Dining philosopers </span></h3>
+<p>A group of philosophers wish to eat a bowl of spaghetti. There are N forks and N philosophers. They sit in a circle around a table so that philosopher I's left fork is the philosopher (I+1 modulo N)s right fork. Each philosopher can only eat from the bowl if they have two forks. A philosopher may only perform the following tasks:
+</p>
+<ol><li> think <font color="grey"><i>(NCS)</i></font>
+</li><li> try to grab two forks, one at a time <font color="grey"><i>(semaphores or whatever)</i></font>
+<ul><li> At most one philosopher may hold a fork
+</li><li> If a philosopher tries to pick up a fork that is not on the table, she will be confused <font color="grey"><i>(blocked)</i></font> and wait until the fork is there and then grab it
+</li></ul>
+</li><li> eat <font color="grey"><i>(CS)</i></font>
+</li><li> return the forks, and then go thinking again
+</li></ol>
+<p><b>Problem:</b> In which order should the philosophers pick up the forks so that it is guaranteed that there is no possibility of starvation? Philosophers never starve unless they are confused for all eternity.
+</p><p><b>Solutions to the problem:</b>
+</p>
+<ul><li> Introduce the notion that they have to enter the dining room first, one at a time.
+</li><li> Introduce asymmetry in the protocol for grabbing forks. If each philosopher tries to grabs the right fork first, except the last philosopher which instead tries to grab the left fork, it is possible to solve the problem.
+</li><li> Removing one philosopher from the table, leaving one seat empty.
+</li><li> Have the philosophers actions be ruled by randomness and make probabilistic proof.
+</li></ul>
+<p>Note: <i>There is also a proof that there can be at most one philosopher holding a fork.</i>
+</p>
+<a name="Proof_of_Dining_Room" id="Proof_of_Dining_Room"></a><h4><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=14" title="Edit section: Proof of Dining Room">edit</a>]</span> <span class="mw-headline"> Proof of Dining Room </span></h4>
+<p><b>Solution:</b> K philosophers can be in the room at any time. If more than K philosophers wish to be in the room, they will form a queue outside the room <font color="grey">(obviously, the dining room is something like a strong semaphore)</font>. When a philosopher leaves the room, if there are any philosophers standing in queue, the first philosopher in the queue will enter the room. We also decide that each philosopher will try to grab the left fork first.
+</p><p><b>Proof:</b>
+</p>
+<ol><li> If a philosopher is confused from trying to grab the left fork, it means that the philosopher to the left has successfully grabbed her right fork, and thus also the left fork, since they all tries to grab the left fork first. This means that the philosopher is eating or is just about to begin eating. This in turn, means that the philosopher holding the fork will soon let go of it. Thus, eventually each philosopher will have her left fork.
+</li><li> If a philosopher is confused from trying to grab her right fork, it means that the philosopher to the right has successfully grabbed her left fork. If we (because we wish to make a proof by contradiction) assume that the philosopher to the right is forever confused from never being able to also pick up her right fork, this means that the philosopher two seats to the right is also confused from having to wait at her right fork, and so on. Since there are only at most K philosophers in the room, this means that for philosopher K-1, the philosopher to the right is not in the room, and can thus not hold any forks. So, eventually, the philosopher will also have her right fork.
+</li><li> A hungry philosopher standing in queue to enter the room will not starve, since all philosophers in the room will eventually have their forks as shown above, then eat, and then leave the room.
+</li></ol>
+<p>Cases 1-3 covers all possibilities of starvation.
+</p>
+<a name="Proof_of_Asymmetric_Philosopher" id="Proof_of_Asymmetric_Philosopher"></a><h4><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=15" title="Edit section: Proof of Asymmetric Philosopher">edit</a>]</span> <span class="mw-headline"> Proof of Asymmetric Philosopher </span></h4>
+<p><b>Solution:</b> Any philosopher sitting on the first chair will grab her right fork first. Every other philosopher will try to grab their left forks first.
+</p><p><b>Proof:</b>
+</p>
+<ol><li> If the philosopher is confused from trying to grab her left fork, it means that the philosopher to the left has successfully grabbed her right fork. If we assume that the philosopher to the left is also confused, then it means that the philosopher two seats to the left is also confused, and so on. Since the philosophers sit in a ring, someone will be sitting to the left of the first philosopher. Only If the philosopher sitting besides the first philosopher is forever confused, then everyone starves.
+</li><li> The same applies to the right hand side.
+</li><li> A philosopher sitting besides the first philosopher is confused from trying to grab a fork that the first philosopher has taken. That the first philosopher has taken the fork means that she holds both forks, since she tried to grab the other fork first. If the first philosopher holds two forks, then she is about to eat, or is eating. This means she will eventually be finished eating.
+</li><li> If the first philosopher is confused from trying to grab any of her two forks, then the other philosopher will soon return her forks, since that philosopher hold both forks (like case 3, but opposite).
+</li></ol>
+<p>Lemma 1 and 2 combined with proof 3 and 4 suggest the conclusion that no starvation may occur.
+</p><p>The Empty Seat-proof is similar: The first philosopher never confuses anyone, since she is never at the table.
+</p>
+<a name="Proof_of_The_Infinite_Number_of_Random_Philosophers" id="Proof_of_The_Infinite_Number_of_Random_Philosophers"></a><h4><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=16" title="Edit section: Proof of The Infinite Number of Random Philosophers">edit</a>]</span> <span class="mw-headline"> Proof of The Infinite Number of Random Philosophers </span></h4>
+<p><b>Solution:</b> An infinite number of philosophers sit at the table. Each one will grab with equal probability the left or the right fork first.
+</p><p><b>Proof</b>
+</p>
+<ul><li> The probability that everyone will try to grab the left fork at once is lim x -&gt; infinity, (1/2)^x = 0. The same applies to the right fork.
+</li><li> If the philosopher is confused from grabbing the left fork, then for her to starve, the only possibility is that every other philosopher is also confused from grabbing the left fork. The same applies to the right fork.
+</li></ul>
+<p>Thus, no one will starve.
+</p>
+<a name="Deadlock" id="Deadlock"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=17" title="Edit section: Deadlock">edit</a>]</span> <span class="mw-headline"> Deadlock </span></h3>
+<p>When two or more processes have blocked/locked themselves against each other. 
+</p><p>Example: Two semaphores S1 and S2 are needed to to perform action A. S1 is held by process P, S2 is held by process Q. Neither one of them will let go of any semaphore. Both gets blocked by the others semaphore.
+</p>
+<a name="Livelock" id="Livelock"></a><h4><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=18" title="Edit section: Livelock">edit</a>]</span> <span class="mw-headline"> Livelock </span></h4>
+<p>A livelock is when two or more processes is locked in a loop where no useful computation is performed. Similar to deadlock, but the processes are running/ready.
+</p>
+<a name="Starvation" id="Starvation"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=19" title="Edit section: Starvation">edit</a>]</span> <span class="mw-headline"> Starvation </span></h3>
+<p>A process never gets to use a resource it needs.
+</p>
+<ul><li> This may happen because of unfair interleaving.
+</li><li> Result from liveness property failures.
+</li></ul>
+<a name="Liveness_property" id="Liveness_property"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=20" title="Edit section: Liveness property">edit</a>]</span> <span class="mw-headline"> Liveness property </span></h3>
+<p><b>A condition that must eventually come true.</b>
+</p><p>Examples
+</p>
+<ul><li> A train leaving from station A will <i>eventually</i> arrive at station B. (Meaning it will not get stuck forever somewhere.)
+</li><li> <i>Eventually</i>, process P will enter the critical section. (Liveness property as guard against starvation.)
+</li></ul>
+<a name="Safety_property" id="Safety_property"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=21" title="Edit section: Safety property">edit</a>]</span> <span class="mw-headline"> Safety property </span></h3>
+<p><b>A condition that is always true.</b>
+</p><p>Examples
+</p>
+<ul><li> It is <i>always</i> true that train A and B never smash into each others.
+</li><li> It is <i>always</i> true that only one process is in the critical section.
+</li></ul>
+<a name="State_diagram" id="State_diagram"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=22" title="Edit section: State diagram">edit</a>]</span> <span class="mw-headline"> State diagram </span></h3>
+<p>A diagram over states that a program with all its processes can be in.
+</p>
+<ul><li> Used by humans when the number of states a program can be in is small.
+</li><li> Used by machines ("model checkers") to check that a program is free from concurrency failure. (Does liveness and safety properties hold true in all states?)
+</li></ul>
+<a name="Process_barrier" id="Process_barrier"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=23" title="Edit section: Process barrier">edit</a>]</span> <span class="mw-headline"> Process barrier </span></h3>
+<p>A process barrier is a code construct that receives processes and keeps them blocked until all the processes have arrived at the process barrier. The processes are then unblocked and continue.
+</p><p>Implementation using two general semaphores for an N-process barrier:
+</p>
+<ul><li> Mergesort as example
+</li></ul>
+<pre>
+Variables
+   integer array A
+   general semaphore S &lt;- (0, {empty_set})
+   general semaphore P &lt;- (0, {empty_set})
+
+Process N
+   sort Nth part of A
+   signal(S)
+   wait(P)
+
+Process merger
+   Integer I
+   for I from 0 to N do         # wait until everyone has &quot;signaled that they are complete&quot;
+      wait(S)
+   for I from 0 to N do         # &quot;signal to everyone&quot; that they can continue
+      signal(P)
+   merge all parts of A
+</pre>
+<a name="Dekkers_algorithm" id="Dekkers_algorithm"></a><h2><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=24" title="Edit section: Dekkers algorithm">edit</a>]</span> <span class="mw-headline"> Dekkers algorithm </span></h2>
+<p>So fundamental it has its own section in this article.
+</p>
+<ul><li> Only uses load/store to memory as atomic operations
+</li><li> Guarantees mutual exclusion, free from starvation, free from deadlock
+</li><li> Only works for two processes
+</li><li> Advantage: Does not need test-and-set and is therefor highly portable between different languages and machine architectures.
+</li><li> Disandvantage: Uses busy waiting instead of process suspension which suggests minimal time should be used within the CS.
+</li></ul>
+<pre>
+Variables
+   boolean wantp &lt;- false, wantq &lt;- false
+   integer turn &lt;- 1
+
+Process P
+   NCS                                        # non-critical section (progress assumption does not hold)
+   wantp &lt;- true                              # signal that we want to enter
+   while wantq                                # while the other process also wish to enter, do
+      if turn = 2                                 # if it is Qs turn to be in the CS
+         wantp &lt;- false                               # then let Q enter CS
+         await turn = 1                               # and wait for our turn
+         wantp &lt;- true                                # when it is our turn, we wish to enter CS!
+   CS                                         # critical section
+   turn &lt;- 2                                  # &quot;its your turn now!&quot;
+   wantp &lt;- false                             # we dont want to be in the critical section
+
+Process Q
+   NCS
+   wantq &lt;- true                              # pre-protocol
+   while wantp                                #
+      if turn = 1                             #
+         wantq &lt;- false                       # all of this..
+         await turn = 2                       # is pre-protocol..
+         wantq &lt;- true                        #
+   CS
+   turn &lt;- 1                                  # post-protocol
+   wantq &lt;- false                             #
+</pre>
+<ul><li> Omitted the <i>loop forever</i>
+</li></ul>
+<a name="Temporal_logics" id="Temporal_logics"></a><h2><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=25" title="Edit section: Temporal logics">edit</a>]</span> <span class="mw-headline"> Temporal logics </span></h2>
+<p><a href="https://secure.wikimedia.org/wikipedia/en/wiki/Linear_temporal_logic" class="external text" title="https://secure.wikimedia.org/wikipedia/en/wiki/Linear_temporal_logic" rel="nofollow">Temporal logics</a> is used to reason about programs as they execute. More specific, it deals with logic when variables change their values (as a result of program execution.)
+</p><p><b>Four methods to prove things</b>
+</p>
+<ol><li> A scenario <i><font color="grey">(can only be used to show that something specific may happen)</font></i>
+</li><li> State diagrams <i><font color="grey">(can be used by humans for simple proofs, by enumeration of all possible states)</font></i>
+</li><li> Simple logic proofs of mutual exclusion <i><font color="grey">(shown below)</font></i>
+</li><li> Proofs using temporal logics for liveness and safety properties <i><font color="grey">(..)</font></i>
+</li></ol>
+<p><b>Stuff that can be reasoned about:</b>
+</p>
+<ul><li> Mutual exclusion
+</li><li> Liveness properties
+</li><li> Safety properties
+</li><li> Progress
+</li></ul>
+<p><b>General receipt for success:</b>
+</p>
+<ol><li> Identify the invariants
+</li><li> Build lemmas from the invariants
+</li><li> Use the lemmas to make proofs
+<ul><li> Often, by assuming the opposite is true and arriving at a paradox/contradiction
+</li><li> One can also try proof by induction (show base case (n low, typically 0 or 1) is true, show that assuming case n holds then case n+1 also holds, by induction you have your proof!)
+</li></ul>
+</li></ol>
+<a name="Instruction_pointers_.28.22control_pointers.22.29" id="Instruction_pointers_.28.22control_pointers.22.29"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=26" title="Edit section: Instruction pointers (&quot;control pointers&quot;)">edit</a>]</span> <span class="mw-headline"> Instruction pointers ("control pointers") </span></h3>
+<ul><li> <b>p4</b> means "process P is at statement 4"
+</li><li> <b>p6..12</b> is shorthand for p6 OR p7 OR p8 OR ... OR p12
+<ul><li> Alternatively: Process P is at any of the lines 6 to 12.
+</li></ul>
+</li></ul>
+<a name="Leads_to" id="Leads_to"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=27" title="Edit section: Leads to">edit</a>]</span> <span class="mw-headline"> Leads to </span></h3>
+<p>Operator symbol: -&gt;
+</p><p><b>Truth diagram:</b>
+</p>
+<pre>
+   A   B   |   A -&gt; B
+  ---------+------------
+   F   F   |     T
+   F   T   |     T
+   T   F   |     F
+   T   T   |     T
+</pre>
+<a name="Equivalence" id="Equivalence"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=28" title="Edit section: Equivalence">edit</a>]</span> <span class="mw-headline"> Equivalence </span></h3>
+<p>Operator symbol: &lt;-&gt;
+</p>
+<ul><li> not (A and B) &lt;-&gt; (not A or not B) <i><font color="grey">this is DeMorgan's law</font></i>
+</li><li> Equivalence has the same truth diagram as XNOR <font color="grey">(non-equivalence is XOR)</font>
+</li></ul>
+<a name="Always" id="Always"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=29" title="Edit section: Always">edit</a>]</span> <span class="mw-headline"> Always </span></h3>
+<p>The always operator is the <i>box</i>. []
+</p><p>Meaning: Always, <i>from now on</i>, X is true. (Meaning of "from now on" -&gt; See example 4 below)
+</p><p>Examples:
+</p>
+<ol><li> Always not ( P4 and Q4 ) <i><font color="gray">It is never true that both P and Q is at statement 4 (the critical section)</font></i>
+</li><li> Always #CS &lt;= 1 <i><font color="gray">(It is always true that at most one process is in the critical section)</font></i>
+</li><li> Always (p2 -&gt; eventually P4) <i><font color="gray">(Always when we reach P2, we will eventually reach P4)</font></i>
+</li><li> p2 -&gt; Eventually always p5 <i><font color="gray">(If program P reaches statement 2 it will eventually forever stay in statement 5.. quite useless, it is just an example.)</font></i>
+</li></ol>
+<a name="Eventually" id="Eventually"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=30" title="Edit section: Eventually">edit</a>]</span> <span class="mw-headline"> Eventually </span></h3>
+<p>The eventually operator is the <i>diamond</i>. &lt;&gt;
+</p><p>Examples:
+</p>
+<ul><li> Eventually P4 <i><font color="gray">Eventually process P will come to statement 4</font></i>
+</li></ul>
+<a name="How_to_prove_mutual_exclusion" id="How_to_prove_mutual_exclusion"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=31" title="Edit section: How to prove mutual exclusion">edit</a>]</span> <span class="mw-headline"> How to prove mutual exclusion </span></h3>
+<ol><li> Identify invariants
+</li><li> Assume that more than two (or N) processes are in the critical section
+</li><li> Identify how this can happen
+</li><li> Show how this would lead to a contradiction
+</li></ol>
+<a name="Mutual_exclusion_proof_of_simple_stupid_algorithm" id="Mutual_exclusion_proof_of_simple_stupid_algorithm"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=32" title="Edit section: Mutual exclusion proof of simple stupid algorithm">edit</a>]</span> <span class="mw-headline"> Mutual exclusion proof of simple stupid algorithm </span></h3>
+<p>We will ONLY prove that mutual exclusion holds. Not that it is free from deadlocks (<i>this is actually a livelock?</i>).
+</p><p><b>Code:</b>
+</p>
+<pre>
+Variables
+   boolean wantp &lt;- false, wantq &lt;- false
+
+Process P:
+   loop forever
+1      NCS
+2      wantp &lt;- true
+3      await wantq = false
+4      CS
+5      wantp &lt;- false
+
+Process Q:
+   loop forever
+1      NCS
+2      wantq &lt;- true
+3      await wantp = false
+4      CS
+5      wantq &lt;- false
+</pre>
+<p><b>Invariants</b>
+</p>
+<ul><li> p3..5 &lt;-&gt; wantp
+</li><li> q3..5 &lt;-&gt; wantq
+</li></ul>
+<p><b>Theorem: always not (p4 AND q4)</b>
+</p>
+<ol><li> Assume <b>p4 AND q4</b>, we wish to show that this leads to a contradiction
+</li><li> What statements can make it true?
+<ul><li> Successfully executing p3 when q4
+</li><li> Successfully executing q4 when p4
+</li></ul>
+</li><li> <i>await wantq = false</i> (p3) can only progress iff q4 AND not wantq
+</li><li> This violates the invariant <i>q3..5 &lt;-&gt; wantq</i>
+</li><li> The same is true for Q, but opposite
+</li><li> Proof completed
+</li></ol>
+<a name="Mutual_exclusion_proof_of_Dekkers_algorithm" id="Mutual_exclusion_proof_of_Dekkers_algorithm"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=33" title="Edit section: Mutual exclusion proof of Dekkers algorithm">edit</a>]</span> <span class="mw-headline"> Mutual exclusion proof of Dekkers algorithm </span></h3>
+<p>We wish to prove that Dekkers algorithm guarantees mutual exclusion. At most one process is in CS at any time.
+</p><p><b>Code:</b>
+</p>
+<pre>
+Variables
+   boolean wantp &lt;- false, wantq &lt;- false
+   integer turn &lt;- 1
+
+Process P:
+   loop forever
+1      NCS
+2      wantp &lt;- true
+3      while wantq
+4         if turn = 2
+5            wantp &lt;- false
+6            await turn = 1
+7            wantp &lt;- true
+8      CS
+9      turn &lt;- 2
+10     wantp &lt;- false
+
+Process Q:
+      same as process P but opposite
+</pre>
+<p>Each labeled line is an atomic statement, except NCS and CS.
+</p><p><b>Invariants</b> (these are always true)
+</p>
+<ol><li> turn = 1 OR turn = 2
+</li><li> <b>p3..5 OR p8..10 &lt;-&gt; wantp</b>
+</li><li> <b>q3..5 OR q8..10 &lt;-&gt; wantq</b>
+</li><li> p5..6 OR q7 -&gt; turn = 2
+</li><li> q5..6 OR p7 -&gt; turn = 1
+</li></ol>
+<p><b>Theorem: always not ( p8 AND q8 )</b>
+</p>
+<ol><li> Assume <b>p8 AND q8</b>, we wish to show that this leads to a contradiction
+</li><li> What can make this happen?
+<ol><li> p3 AND q8 AND ( NOT wantq )
+<ul><li> Contradicts invariant 3
+</li></ul>
+</li><li> q3 AND p8 AND ( NOT wantp )
+<ul><li> Contradicts invariant 2
+</li></ul>
+</li></ol>
+</li><li> Both possibilities has been disproved as illogical, thus the proof is complete
+</li></ol>
+<a name="Progress" id="Progress"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=34" title="Edit section: Progress">edit</a>]</span> <span class="mw-headline"> Progress </span></h3>
+<p>Progress is that a program will <i>eventually</i> reach a certain statement.
+</p><p><b>Why reason about progress?</b>
+</p>
+<ul><li> To prove liveness properties
+<ul><li> Prove that the program is free from starvation
+</li></ul>
+</li><li> To prove safety properties(?)
+</li></ul>
+<p><b>Progress through ordinary code:</b>
+</p>
+<ul><li> Assignment statements always gets evaluated, <i>eventually</i>
+</li><li> Critical sections (CS) are assumed to be free of errors, a process in a CS always leaves it, <i>eventually</i>.
+</li><li> Non-critical sections (NCS) are <b>NOT</b> assumed to be free of errors. A process in a NCS might never leave the NCS.
+</li></ul>
+<p><b>Progress through control statements:</b>
+In the example below, it does not hold that <i>p1 AND A = 1 -&gt; eventually p2</i>. This is because Q might change A at any time. 
+</p><p>Only at transitions between statements in the program are the variables checked, so even if it is true that <i>p1 AND A = 1</i>, it does not mean that it will be true at the instant of transition. Q could have been interleaved and changed the variable A before the transition.
+</p>
+<pre>
+Variables
+   A &lt;- 0
+
+Process P
+   loop forever
+1      if A = 1
+2         print &quot;hello&quot;
+3      else
+4         print &quot;world&quot;
+
+Process Q
+   loop forever
+1      A &lt;- 0
+2      A &lt;- 1
+</pre>
+<p>Unless one can prove that <i>p1 -&gt; A = 1</i>, one can <b>NOT</b> make any assumptions on how the program will branch.
+</p><p>This is probably true however: <i>p1 AND always A = 1 -&gt; eventually p2</i>
+</p>
+<a name="Reasoning_about_progress" id="Reasoning_about_progress"></a><h4><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=35" title="Edit section: Reasoning about progress">edit</a>]</span> <span class="mw-headline"> Reasoning about progress </span></h4>
+<p>We will use the <i>always</i> and the <i>eventually</i> operators.
+</p><p><b>Stuff like</b>
+</p>
+<ol><li> Always A -&gt; eventually B
+</li><li> Eventually, always A.
+</li><li> The two lines above when combined makes B true, <i>eventually.</i>
+</li></ol>
+<ul><li> <font color="grey">(Do not forget the truth diagram of the -&gt; operator.)</font>
+</li></ul>
+<p><b>Why?</b>
+</p>
+<ul><li> By adding always and eventually to our expressions and making assumptions, we can reason somewhat like this: "<i>If those variables <u>always</u> are set to these values, what happens then?</i>"
+</li></ul>
+<a name="Assumptions" id="Assumptions"></a><h4><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=36" title="Edit section: Assumptions">edit</a>]</span> <span class="mw-headline"> Assumptions </span></h4>
+<p>Make assumptions that some things are always true (despite the fact they will not always be true) and then use those assumptions to prove things. <font color="grey">(This section does not prove things, it just shows an example of assumption.)</font>
+</p>
+<pre>
+Variables
+   boolean B &lt;- false
+   integer I &lt;- 3
+
+Process Q
+   loop forever
+1     if not B
+2        print &quot;changing it back!&quot;
+3        B &lt;- true
+4        I &lt;- 3
+
+Process P
+   loop forever
+1     NCS
+2     await B
+3        I &lt;- 4
+4        B &lt;- false
+</pre>
+<ul><li> Assume that processes eventually leave the NCS <font color="grey">(not true, but assume)</font>
+</li></ul>
+<p><b>Lemma:</b> always B -&gt; eventually I = 4
+</p>
+<ol><li> P leaves the NCS by assumption
+</li><li> if B is always true, P pass through the await statement and then assigns 4 to I
+</li></ol>
+<p><b>Lemma:</b> always not B -&gt; eventually I = 3
+</p>
+<ol><li> Q will enter the if-clause and assigns 3 to I
+</li></ol>
+<p><font color="grey">(Again, remember the truth diagram of the -&gt; operator)</font>
+</p>
+<a name="Dekkers_algorithm_is_free_from_starvation" id="Dekkers_algorithm_is_free_from_starvation"></a><h4><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=37" title="Edit section: Dekkers algorithm is free from starvation">edit</a>]</span> <span class="mw-headline"> Dekkers algorithm is free from starvation </span></h4>
+<p>Page 82.
+</p>
+<a name="Semaphores" id="Semaphores"></a><h2><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=38" title="Edit section: Semaphores">edit</a>]</span> <span class="mw-headline"> Semaphores </span></h2>
+<p>Semaphores are very crude constructs for limiting the number of processes that may use a shared resource at once. Semaphores has two operations: signal and wait.
+</p><p>Semaphores are initialized with two values:
+</p>
+<ul><li> S.V = How many can use the semaphore at once
+</li><li> S.L = The processes that is blocked on the semaphore
+</li></ul>
+<pre>
+Wait(S)
+   if S.V &gt; 0
+      S.V &lt;- S.V - 1
+   else
+      add this process to S.L
+      process.state &lt;- blocked
+
+Signal(S)
+   if S.L is empty
+      S.V &lt;- S.V + 1
+   else
+      remove a random process from S.L                   # strong semaphores use queues, not sets
+      process.stare &lt;- ready
+</pre>
+<a name="Binary_semaphore" id="Binary_semaphore"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=39" title="Edit section: Binary semaphore">edit</a>]</span> <span class="mw-headline"> Binary semaphore </span></h3>
+<p>Also called <i>mutex</i>
+</p>
+<ul><li> Initialized to S &lt;- (1, empty_set)
+</li><li> Undefined behavior if signal is called when S.V = 1
+</li></ul>
+<a name="Strong_semaphore" id="Strong_semaphore"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=40" title="Edit section: Strong semaphore">edit</a>]</span> <span class="mw-headline"> Strong semaphore </span></h3>
+<p>A semaphore that has a queue of processes that waits for it to become free. Can if used correctly guarantee freedom of starvation.
+</p><p>Compare with ordinary semaphores.
+</p>
+<a name="Busy-wait_semaphore" id="Busy-wait_semaphore"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=41" title="Edit section: Busy-wait semaphore">edit</a>]</span> <span class="mw-headline"> Busy-wait semaphore </span></h3>
+<p>Also called a <i>spinlock</i>.
+</p><p>Pseudocode definition:
+</p>
+<pre>
+wait(s)
+   await s &gt; 0          # while loop
+   s &lt;- s - 1
+
+signal(s)
+   s &lt;- s + 1
+</pre>
+<ul><li> Does not guarantee freedom from starvation (if scheduler is unfair, and also if one wish to be STRICT with the temporal logics)
+</li><li> Useful when each process has its own CPU, or when contention is low.
+</li><li> (Used in Linux kernel when it is known that a critical section will very-very-very soon be OK to enter.)
+</li></ul>
+<a name="Proving_mutual_exclusion_for_semaphores" id="Proving_mutual_exclusion_for_semaphores"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=42" title="Edit section: Proving mutual exclusion for semaphores">edit</a>]</span> <span class="mw-headline"> Proving mutual exclusion for semaphores </span></h3>
+<p><b>Semaphore invariants:</b> If a semaphore S is initialized as <i>S = (K, empty_set)</i> then
+</p>
+<ul><li> S.V &gt;= 0
+</li><li> S.V = K + #signal(S) - #wait(S)
+</li></ul>
+<p>Page 112 - 113: Proof of mutual exclusion. (READ)
+</p><p><font color="red">Add more details here</font>
+</p>
+<a name="Split_semaphores" id="Split_semaphores"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=43" title="Edit section: Split semaphores">edit</a>]</span> <span class="mw-headline"> Split semaphores </span></h3>
+<p>If two semaphores work in tandem so that the following holds true
+</p><p>S1.V + S2.V = N
+</p><p>Then the semaphores are called <b>a split semaphore</b>.
+</p><p>See 118-119: <b>Bounded buffer.</b>
+</p>
+<ul><li> two semaphores: NotFull and NotEmpty.
+</li><li> NotFull.V + NotEmpty.V = N <i><font color="grey">N is the size of the buffer</font></i>
+</li></ul>
+<pre>
+Variables
+   Semaphore NotFull = (N, empty_set)
+   Semaphore NotEmpty = (0, empty_set)
+   a buffer
+
+Process producer
+   loop forever
+       wait(NotFull)
+       put item on buffer
+       signal(NotEmpty)
+
+Process consumer
+    loop forever
+       wait(NotEmpty)
+       remove one item from buffer
+       signal(NotFull)
+</pre>
+<p>In the code above, at most N items may be placed on the buffer before <i>producer</i> will be blocked by NotFull. When the buffer size reaches zero, <i>consumer</i> will block on NotEmpty.
+</p><p>(Asynchronous communication channel created using a split semaphore.)
+</p>
+<a name="Monitors" id="Monitors"></a><h2><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=44" title="Edit section: Monitors">edit</a>]</span> <span class="mw-headline"> Monitors </span></h2>
+<p>Monitors are synchronized objects (perfect for object oriented languages) for which the following is true
+</p>
+<ul><li> Only one process at a time may use any of the monitors methods
+</li><li> Only one process at a time may change the monitors fields (variables)
+</li></ul>
+<p>Also
+</p>
+<ul><li> Always [p 146 principles of conc dist prog ben-ari] the monitors fields are private, non-accessible from the outside.
+</li><li> Monitors will block processes trying to access them if there is another process currently using the monitor.
+</li></ul>
+<p>Queues for blocked processes?
+</p>
+<ul><li> Some monitors store their blocked processes in queues (just as strong semaphores do)
+</li><li> Others do not. Depending on implementation, <i>starvation might be a problem.</i>
+</li><li> The book pretty much assumes that monitors has queues for storing blocked processes, after stating the above.
+</li></ul>
+<a name="Condition_variables" id="Condition_variables"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=45" title="Edit section: Condition variables">edit</a>]</span> <span class="mw-headline"> Condition variables </span></h3>
+<p>Condition variables will be evaluated as part of deciding if the monitor should block a process or not. 
+</p><p><b>WaitC(condition variable)</b>
+</p>
+<ol><li> Puts the caller into a FIFO-queue
+</li><li> unlocks the monitors lock, allowing other processes to enter
+</li></ol>
+<p><b>SingalC(condition variable)</b>
+</p>
+<ol><li> If the FIFO-queue is not empty:
+<ol><li> The first process on the queue is unblocked (and removed from the queue)
+</li></ol>
+</li></ol>
+<p>WaitC(cond) and SingalC(cond) may be used inside monitors to handle blocking and unblocking of processes that enters them. Compare with how protected objects handle this (see below).
+</p>
+<a name="Protected_objects" id="Protected_objects"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=46" title="Edit section: Protected objects">edit</a>]</span> <span class="mw-headline"> Protected objects </span></h3>
+<p>Protected objects are like monitors but
+</p>
+<ul><li> Has queues for storing blocked processes <i>(Is this always true in all implementations???)</i>
+</li><li> Has <b>guards</b> at their function clauses that will block processes if these guards does not evaluate as true.
+<ul><li> Avoids the usage of waitC and signalC in monitors
+</li></ul>
+</li></ul>
+<pre>
+protected object Vaab_And_Solvo
+   enumeration RobotType &lt;- { Vaab | Solvo }
+
+   integer vaabs &lt;- 0
+   integer solvos &lt;- 0
+   set of ProcessTypes working_robots
+
+   #### robots enter the repair house ###                  # these are guards
+   operation enter(ProcessType P, RobotType RT) when ( solvos &lt; 2*vaabs-1 ) and \
+                                                        ( vaabs &lt; 2*solvos-1 ) and \
+                                                        ( vaabs + solvos &lt;= 20 )
+      working_robots &lt;- worker_robots union {P}
+      if RT = Vaab
+         vaabs &lt;- vaabs + 1
+      else
+         solvos &lt;- solvos + 1
+
+   #### robots leave the repair house ####
+   operation leave(ProcessType P, RobotType RT) when ( solvos = vaabs ) OR \
+                                                    ( ( solvos-1 &lt; 2*vaabs ) and \
+                                                    ( vaabs-1 &lt; 2*solvos ) )
+      working_robots &lt;- working_robots - {P}
+      if RT = Vaab
+         vaabs &lt;- vaabs - 1
+      else
+         solvos &lt;- solvos -1
+</pre>
+<p>Above is solution to question 4 at <a href="http://www.cse.chalmers.se/edu/year/2012/course/TDA381_Concurrent_Programming/exam/2002-10-sol.pdf" class="external text" title="http://www.cse.chalmers.se/edu/year/2012/course/TDA381_Concurrent_Programming/exam/2002-10-sol.pdf" rel="nofollow">exam 021025</a>, using a protected object instead of a monitor.
+</p>
+<a name="Channels" id="Channels"></a><h2><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=47" title="Edit section: Channels">edit</a>]</span> <span class="mw-headline"> Channels </span></h2>
+<a name="Synchronicity" id="Synchronicity"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=48" title="Edit section: Synchronicity">edit</a>]</span> <span class="mw-headline"> Synchronicity </span></h3>
+<ul><li> Synchronous message passing = a zero-sized buffer is used. Both processes that communicate must synchronize their send and receive operations.
+</li><li> Asynchronous message passing = a buffer is used to store the messages. The receiving process can read received messages a while after they have been received. <i><font color="grey">(Blocking if the buffer gets filled up, or if the buffer becomes empty.)</font></i>
+</li></ul>
+<a name="Addressing_the_messages" id="Addressing_the_messages"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=49" title="Edit section: Addressing the messages">edit</a>]</span> <span class="mw-headline"> Addressing the messages </span></h3>
+<p>When sending messages over a channel, one can select different solutions for addressing.
+</p>
+<ul><li> anonymous sender (receiver can not reply, unless sender sent a reply channel)
+</li><li> via intermediate (registered processes in <a href="/wiki/Erlang" title="Erlang">erlang</a>: sending to an atom instead of a Pid)
+</li><li> probably simplest to default include the senders ID in all messages
+</li></ul>
+<p>(This is probably not on the exam, but maybe it is interesting.)
+</p>
+<a name="How_channels_works" id="How_channels_works"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=50" title="Edit section: How channels works">edit</a>]</span> <span class="mw-headline"> How channels works </span></h3>
+<ul><li> Channels are typed (just like in JR)
+</li><li> Channels may be sent through channels (Example: "Here, reply via this one when you are done.")
+</li></ul>
+<a name="Selective_input" id="Selective_input"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=51" title="Edit section: Selective input">edit</a>]</span> <span class="mw-headline"> Selective input </span></h3>
+<ul><li> inni and [] in JR.
+</li></ul>
+<a name="Pseudocode_example" id="Pseudocode_example"></a><h4><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=52" title="Edit section: Pseudocode example">edit</a>]</span> <span class="mw-headline"> Pseudocode example </span></h4>
+<ul><li> A =&gt; B means "receive message from channel A and store the message in B" (make sure they has correct type)
+</li><li> A &lt;= B means "send B on channel A"
+</li><li> either, or, or.. is selective receive
+</li></ul>
+<pre>
+Variables
+   channel ch1 of integer
+   channel ch2 of boolean
+   channel ch3 of (integer, channel of (integer, boolean))
+
+   integer i &lt;- 0
+   integer j
+   boolean b &lt;- false
+   boolean c
+   channel external_channel of (integer, boolean)
+
+Process P
+   loop forever
+      either
+         ch1 =&gt; j 
+         i &lt;- i + j
+      or
+         ch2 =&gt; c
+         if c
+            b &lt;- not b
+      or
+         ch3 =&gt; (j, external_channel)
+            i &lt;- i + j
+            external_channel &lt;= (i, b)
+</pre>
+<p>Explanation: When someone sends a message to ch3 they receive the integers and boolean states that has been previously stored (ch1 and ch2 modulates the process fields i and b). <i>Just a result from random doodling!&nbsp;:P</i>
+</p><p>This is an example of anonymous sender, using a reply channel to get the results.
+</p>
+<a name="Erlang_example" id="Erlang_example"></a><h4><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=53" title="Edit section: Erlang example">edit</a>]</span> <span class="mw-headline"> Erlang example </span></h4>
+<pre>
+       ...
+       receive 
+          {From, output, Msg} -&gt; do something
+          {From, kaos}        -&gt; do something
+          {_, Random, other}  -&gt; do something
+       end;
+       ...
+</pre>
+<p>Channels are not typed per se. Atoms, assigned variables, wildcards and the general structure of the message is used instead.
+</p>
+<a name="Spaces_.2F_Linda" id="Spaces_.2F_Linda"></a><h2><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=54" title="Edit section: Spaces / Linda">edit</a>]</span> <span class="mw-headline"> Spaces / Linda </span></h2>
+<p>Spaces are used as a form of message passing between processes. Processes can send message to other processes, that at a much later time starts running and receives the messages.
+</p>
+<ul><li> A message is a typed tuple of some sort
+</li><li> <font color="red">Just like in lab3.</font> (Except Erlang ignores much of the type-thingies.)
+</li></ul>
+<a name="API" id="API"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=55" title="Edit section: API">edit</a>]</span> <span class="mw-headline"> API </span></h3>
+<ul><li> <b>postnote/out()</b>
+<ul><li> Stores a tuple in the space.
+</li></ul>
+</li><li> <b>removenote/in()</b>
+<ul><li> Might block!!!
+</li><li> Receives a tuple from the tuplespace. The types need to match the asked-for tuple's types, with possible "any"-wildcards.
+</li></ul>
+</li><li> <b>readnote/rd()</b>
+<ul><li> Same as removenote except it does not remove the tuple, it just copies it.
+</li></ul>
+</li></ul>
+<p>It feels like its a bit pointless to describe how it works in more detail. We all know it already.
+</p>
+<a name="Random_codes" id="Random_codes"></a><h2><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=56" title="Edit section: Random codes">edit</a>]</span> <span class="mw-headline"> Random codes </span></h2>
+<p>Just random code examples...
+</p>
+<a name="Implementing_a_binary_semaphore_using_erlang_message_passing" id="Implementing_a_binary_semaphore_using_erlang_message_passing"></a><h3><span class="editsection">[<a href="/w/index.php?title=Concurrent_programming&amp;action=edit&amp;section=57" title="Edit section: Implementing a binary semaphore using erlang message passing">edit</a>]</span> <span class="mw-headline"> Implementing a binary semaphore using erlang message passing </span></h3>
+<ul><li> Like exam 021025 question 2, except uses erlang message passing instead of a protected object.
+</li><li> By accident made it a strong binary semaphore&nbsp;:d
+</li></ul>
+<pre>
+-module(binsem).
+-export([new/0, signal/1, wait/1]).
+
+new() -&gt;
+   spawn_link(fun() -&gt; semaphoreProgram(true, []) end).
+
+signal(S) -&gt;
+   Ref = make_ref(),
+   S&nbsp;! {self(), Ref, signal},
+   receive
+      Ref -&gt;
+         ok
+   end.
+
+wait(S) -&gt;
+   Ref = make_ref(),
+   S&nbsp;! {self(), Ref, wait},
+   receive
+      Ref -&gt;
+         ok
+   end.
+
+unblockProcess([]) -&gt;
+   [];
+unblockProcess([{From, Ref}|Blocked]) -&gt;
+   From&nbsp;! Ref,
+   Blocked.
+
+semaphoreProgram(Boolean, BlockedProcesses) -&gt;
+   receive
+      {From, Ref, signal} -&gt;
+         From&nbsp;! Ref,
+         semaphoreProgram(true, unblockProcess(BlockedProcesses));
+      {From, Ref, wait} -&gt;
+         if Boolean == false -&gt;
+            semaphoreProgram(false, lists:append(BlockedProcesses,{From, Ref}) );
+         true -&gt;
+            From&nbsp;! Ref,
+            semaphoreProgram(false, BlockedProcesses)
+         end;
+      stop -&gt;
+            ok
+   end.
+</pre>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 133/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:359-0!1!0!!en!2 and timestamp 20121020023616 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Concurrent_programming">https://cryptoanarchy.org/wiki/Concurrent_programming</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>:&#32;<span dir='ltr'><a href="/wiki/Category:Programming" title="Category:Programming">Programming</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Concurrent_programming" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Tal
+1488
+k:Concurrent_programming&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Concurrent_programming&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Concurrent_programming&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Concurrent_programming" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Concurrent_programming" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Concurrent_programming" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Concurrent_programming&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Concurrent_programming&amp;oldid=3156" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 23 October 2011, at 11:15.</li>
+					<li id="viewcount">This page has been accessed 1,030 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.389 secs. --></body></html>
+
+0
+

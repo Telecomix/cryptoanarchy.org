@@ -1,0 +1,388 @@
+8d78
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="OpenVPN example 0,Build-ca example terminal output,IPv6,Iptables,OpenVPN example 0 - linux client iptables,OpenVPN example of build-key,OpenVPN example of build-key-server,OpenVPN example of creating a Diffie-Hellman prime,Original vars file,Squatting prefixes,Vars file after editing" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=OpenVPN_example_0&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=OpenVPN_example_0&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=OpenVPN_example_0&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>OpenVPN example 0 - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "OpenVPN_example_0";
+		var wgTitle = "OpenVPN example 0";
+		var wgAction = "view";
+		var wgArticleId = "8";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 1784;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-OpenVPN_example_0 skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">OpenVPN example 0</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p>From this example, we will create a server that accepts connections from multiple clients. All clients that connect will be put inside a virtual network (172.16.1.0/24) and be able to talk to each other. The OpenVPN server works as a switch for the network, all traffic goes through it. The clients will be assigned their IPv4 addresses enumerating from 172.16.1.2 to 172.16.1.254. The first client that connects will be named 172.16.1.2, the second client that connects will be named 172.16.1.3, and so on. This is good if you want to connect lots of people to your darknet without having to care about who is who. (You will need to use another network than 172.16.1.0/24 if you want to allow for more than 253 users at the same time.)
+</p><p>Plz consider <a href="/wiki/Squatting_prefixes" title="Squatting prefixes">squatting IPv4 addresses</a> from military organizations you dislike.
+</p><p>If you are going to peer with another operator/ISP, then consider using separate tunnels just for them. See <a href="/w/index.php?title=OpenVPN_example_1&amp;action=edit&amp;redlink=1" class="new" title="OpenVPN example 1 (page does not exist)">OpenVPN example 1</a> for an example on how to do just that. It will be somewhat difficult to route your traffic between peers that constantly change their IP-numbers.
+</p><p>Only people that has received crypto keys from you are able to log in. You need to create a new pair of client keys for each user that wants in.
+</p><p>Also, consider using <a href="/wiki/IPv6" title="IPv6">IPv6</a> instead. Please experiment with IPv6 + OpenVPN and write a tutorial!&nbsp;:)
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Everything_in_this_article:_Really.2C_really_quick"><span class="tocnumber">1</span> <span class="toctext">Everything in this article: Really, really quick</span></a></li>
+<li class="toclevel-1"><a href="#Setting_up_the_PKI"><span class="tocnumber">2</span> <span class="toctext">Setting up the PKI</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Creating_a_key_for_a_server.2C_using_your_CA"><span class="tocnumber">2.1</span> <span class="toctext">Creating a key for a server, using your CA</span></a></li>
+<li class="toclevel-2"><a href="#Creating_a_key_for_a_client.2C_using_your_CA"><span class="tocnumber">2.2</span> <span class="toctext">Creating a key for a client, using your CA</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Distributing_the_files_you_created_in_..2Fkeys"><span class="tocnumber">3</span> <span class="toctext">Distributing the files you created in ./keys</span></a></li>
+<li class="toclevel-1"><a href="#Config_files"><span class="tocnumber">4</span> <span class="toctext">Config files</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Server_setup"><span class="tocnumber">4.1</span> <span class="toctext">Server setup</span></a></li>
+<li class="toclevel-2"><a href="#Client_setup"><span class="tocnumber">4.2</span> <span class="toctext">Client setup</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Everything_in_this_article:_Really.2C_really_quick" id="Everything_in_this_article:_Really.2C_really_quick"></a><h2><span class="editsection">[<a href="/w/index.php?title=OpenVPN_example_0&amp;action=edit&amp;section=1" title="Edit section: Everything in this article: Really, really quick">edit</a>]</span> <span class="mw-headline"> Everything in this article: Really, really quick </span></h2>
+<ol><li> cd to /usr/share/doc/openvpn/examples/easy-rsa/2.0 (or wherever you have these files installed.)
+</li><li> Copy everything in this directory (step 1) to some safe place. Make sure that you will not loose any of the files you create in the following steps:
+</li><li> Edit the vars file so that it looks something <a href="/wiki/Vars_file_after_editing" title="Vars file after editing">like this</a>.
+</li><li> "<tt>source ./vars</tt>" <b>or</b> "<tt>. ./vars</tt>"
+</li><li> "<tt>./clean-all</tt>"
+</li><li> "<tt>./build-ca</tt>", and just keep hitting enter for every question
+</li><li> "<tt>./build-dh</tt>" and compile yourself a cup of tea
+</li><li> "<tt>./build-key-server servername</tt>", and just keep hitting enter for every question
+</li><li> "<tt>./build-key clientname</tt>", and just keep hitting enter for every question
+</li><li> Distribute the files that the client and the server wants. You will find the files in ./keys/
+<ul><li> The server needs: ca.crt, servername.crt, servername.key, dh2048.pem
+</li><li> The client needs: ca.crt, clientname.crt, clientname.key
+</li></ul>
+</li><li> Write the config files (see below for examples)
+</li><li> Consider setting up firewalls and having the OpenVPN-daemons start at bootup
+<ul><li> See <a href="/w/index.php?title=OpenVPN_example_0_-_iptables_rules&amp;action=edit&amp;redlink=1" class="new" title="OpenVPN example 0 - iptables rules (page does not exist)">OpenVPN example 0 - iptables rules</a>, and see below for automatic bootup scripts.
+</li></ul>
+</li><li> Start the server and the client, verify that it works. Have a look at the log-files ("<tt>tail -f ./logfile</tt>")
+</li><li> <b>Done.</b>
+</li></ol>
+<p>If you want to let more clients connect to the server, repeat step 9 and distribute the new files to the person that is about to connect to you. Or just do the following:
+</p>
+<ul><li> "<tt>./build-key new_clientname</tt>", and just keep hitting enter for every question
+</li><li> Send the new user these files: ca.crt, new_clientname.crt, new_clientname.key
+</li><li> Tell your friend to write a config file (see below), or write it yourself and include it with the other files.
+</li><li> Try to convince your friend to set up some good firewall. See <a href="/wiki/OpenVPN_example_0_-_linux_client_iptables" title="OpenVPN example 0 - linux client iptables">OpenVPN example 0 - linux client iptables</a> for an example script.
+</li><li> <b>Done.</b>
+</li></ul>
+<p>These steps are described in more detail below. The <font color="green"><b>green</b></font> text shows what part is being described. Do not forget that the .key-files are secret. A key-file (private key) should never ever be shown to anyone else but the guy that needs it.
+</p>
+<a name="Setting_up_the_PKI" id="Setting_up_the_PKI"></a><h2><span class="editsection">[<a href="/w/index.php?title=OpenVPN_example_0&amp;action=edit&amp;section=2" title="Edit section: Setting up the PKI">edit</a>]</span> <span class="mw-headline"> Setting up the PKI </span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a href="/wiki/File:Pu.jpg" class="image" title="Picture unrelated"><img alt="" src="/w/images/thumb/3/35/Pu.jpg/400px-Pu.jpg" width="400" height="300" border="0" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pu.jpg" class="internal" title="Enlarge"><img src="/w/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Picture unrelated</div></div></div><font color="green"><b>(step 1-7)</b></font> I was using a separate computer for building and containing and handling the PKI-scripts. You might also want to do the same; To contain all the important scripts and files on one computer, and only send the required files to the computers that are involved in the VPN-tunnel. It is up to you. Anyways:
+<ol><li> If you have installed OpenVPN, there will be some sample config files and scripts for generating a Public Key Infrastructure in: /usr/share/doc/openvpn/examples/easy-rsa/2.0 or something similiar. The path depends on your operating system.
+</li><li> cd this location. Make a copy of everything and place it somewhere safe. Use the copy instead of the original files, it would be rather tiresome if you destroyed them. For example, you could copy the files to your home directory. Make sure that the files are readable only by you.
+</li><li> Edit the vars file inside your copy. The only things you really need to change is the organizational stuff at the bottom of the file, but it might also feel a bit more secure to change <tt>export KEY_SIZE=1024</tt> to something else. Using 2048- or 4096-bit RSA might be better for you. The vars-file originally looks <a href="/wiki/Original_vars_file" title="Original vars file">like this</a>, but you need to change it so it looks something <a href="/wiki/Vars_file_after_editing" title="Vars file after editing">like this</a>.
+</li><li> Source the vars-file. You could either type "<tt>source ./vars</tt>" or "<tt>. ./vars</tt>".
+</li><li> Type <tt>./clean-all</tt> to remove the examples in the ./keys-directory. You are just about to replace them with your own, real keys.
+</li><li> Type <tt>./build-ca</tt>. A lot of text will swoosh through your terminal and then you will be asked to accept the information you just entered into the vars-file. It could look a bit <a href="/wiki/Build-ca_example_terminal_output" title="Build-ca example terminal output">like this</a>.
+</li><li> After you have built you own Certificate Authority (build-<i>ca</i>), there will be some files in the ./keys-directory. ca.crt is your certificate, a file that <i>everyone</i> that should trust you needs to have. Distribute it to as many people you like. The file ca.key on the other hand is your most valuable secret now, it is your CAs private key. Do never, ever, let anyone see this file. Your security depends on it. The file serial <i>seems</i> to be used to keep track of how many certificates you have signed. Save everything in the keys-directory to some secure location.
+</li><li> You also need to create some parameters for the <a href="http://en.wikipedia.org/wiki/Diffie-Hellman" class="external text" title="http://en.wikipedia.org/wiki/Diffie-Hellman" rel="nofollow">Diffie-Hellman</a> key exchange. Just type <tt>./build-dh</tt>. It will look something <a href="/wiki/OpenVPN_example_of_creating_a_Diffie-Hellman_prime" title="OpenVPN example of creating a Diffie-Hellman prime">like this</a> on your console, and result in one file named dh2048.pem inside ./keys. This file is not secret.
+</li></ol>
+<p>You are now done with building you CA. Secure the files and think about saving them on some location where nobody will ever look.
+</p><p>The next step is to create and sign keys for the infrastructure you want to build. We will create one key for a server, and one key for a client. You can create as many server-keys and client-keys as you want. Just repeat the steps below as many times you want&nbsp;:)
+</p>
+<a name="Creating_a_key_for_a_server.2C_using_your_CA" id="Creating_a_key_for_a_server.2C_using_your_CA"></a><h3><span class="editsection">[<a href="/w/index.php?title=OpenVPN_example_0&amp;action=edit&amp;section=3" title="Edit section: Creating a key for a server, using your CA">edit</a>]</span> <span class="mw-headline"> Creating a key for a server, using your CA </span></h3>
+<p><font color="green"><b>(step 8)</b></font> Essentially, you only need to type one single thing on your terminal. Everything else is done automatically. You need to have the CA-files (ca.crt and ca.key) in your ./keys directory before you issue this command. This is because you are just about to sign the servers keys with your CA. Without a CA, there is nothing to sign the keys with. Anyways, the only thing you need to type is:
+</p><p><b><tt>./build-key-server pool-is-closed</tt></b>
+</p><p>And then just press enter on every single question that you are asked. The only time you need to press something else than enter is at the very end, when you are asked if you want to commit the changed. At that point, press <i>y</i>, as in Yes.
+</p><p>The whole thing will look <a href="/wiki/OpenVPN_example_of_build-key-server" title="OpenVPN example of build-key-server">like this</a>, when viewed on the console.
+</p><p>There will now be some new files in the ./keys-directory. The only ones that you need to care about are pool-is-closed.crt, pool-is-closed.csr and pool-is-closed.key. The file pool-is-closed.key is the private key for the server, and should never ever be exposed to anyone else but you and the server owner (which will often be you?)
+</p>
+<a name="Creating_a_key_for_a_client.2C_using_your_CA" id="Creating_a_key_for_a_client.2C_using_your_CA"></a><h3><span class="editsection">[<a href="/w/index.php?title=OpenVPN_example_0&amp;action=edit&amp;section=4" title="Edit section: Creating a key for a client, using your CA">edit</a>]</span> <span class="mw-headline"> Creating a key for a client, using your CA </span></h3>
+<p><font color="green"><b>(step 9)</b></font> This is equally easy as creating a server-key. Just type the following on the console:
+</p><p><b><tt>./build-key client0</tt></b>
+</p><p>And hit enter on every single question, except the last two, where you press y. It might look something <a href="/wiki/OpenVPN_example_of_build-key" title="OpenVPN example of build-key">like this</a>.
+</p><p>There will now be some more files in the ./keys directory. client0.crt, client0.csr and client0.key. Only the file named client0.key is secret. Give it to the person that is about to connect to your VPN server&nbsp;:)
+</p>
+<a name="Distributing_the_files_you_created_in_..2Fkeys" id="Distributing_the_files_you_created_in_..2Fkeys"></a><h2><span class="editsection">[<a href="/w/index.php?title=OpenVPN_example_0&amp;action=edit&amp;section=5" title="Edit section: Distributing the files you created in ./keys">edit</a>]</span> <span class="mw-headline"> Distributing the files you created in ./keys </span></h2>
+<p><font color="green"><b>(step 10)</b></font> Now, you have created one certificate authority and two pairs of keys. One pair of keys for the OpenVPN-server, and one pair of keys for the client that is going to connect to the server.
+</p>
+<ol><li> All parties needs to have the ca.crt file, if they should be able to evaluate if the keys have been signed by your certificate authority or not. It does not matter who has access to this file, you could put it on a public web server if you want.
+</li><li> All servers needs to have a dh2048.pem file. This file is used for the diffie-hellman key exchange, so if you want the servers and clients to be able to exchange encryption keys with each other, they need this file. dh2048.pem is not secret. In fact, the vast majority of security protocols use a publicly known prime for the exchange, but OpenVPN lets us generate our own prime. Why not.
+</li><li> Distribute all .crt-files (certificates) to all parties, or at least to the ones that needs them. The certificates are not secret, they are just pieces of information that verifies that the client or server is trusted by the certificate authority.
+</li><li> Distribute all .key-files (private keys) to the people that need them. The private keys are secret. No one but the owner of the file should possess these files. Consider erasing (or <tt>shred</tt>'ing) them after giving them away. pool-is-closed.key should be put inside the server, and client0.key should be given to the user that is going to connect to the server.
+</li><li> Even though the certificate files are not secret per se, you might consider limiting the amount of information you spread about yourself to an absolute minimum. A digital certificate is a file that says that someone is trusting someone else, which obviously is interesting to outsiders that wants to map a social network. Or whatever. Use your brain.
+</li></ol>
+<p>Mkay. Distribute the files to the servers/people that needs them.
+</p><p>For example, the server needs the following files: ca.crt, pool-is-closed.crt, pool-is-closed.key and dh2048.pem. The client0 needs ca.crt, client0.crt and client0.key. They can trust each others keys because they are signed by the certificate authority. This is nice, as this denies others the possibilities to perform MITM-attacks. The dh2048.pem-file that the server(s) need to have can be just about any prime of 2048-bit length, but you should use the file you created for yourself.
+</p><p>Now, you need to write yourself some config files&nbsp;:)
+</p>
+<a name="Config_files" id="Config_files"></a><h2><span class="editsection">[<a href="/w/index.php?title=OpenVPN_example_0&amp;action=edit&amp;section=6" title="Edit section: Config files">edit</a>]</span> <span class="mw-headline"> Config files </span></h2>
+<p><font color="green"><b>(the rest of the article covers steps 11-13)</b></font> Each server and each client needs their own config file. Below are two config files that you can use if you want the server to be able to have multiple clients connecting to it simultaneously.
+</p><p>The scripts below has these properties:
+</p>
+<ul><li> The server will listen to the public IPv4-address 1.2.3.4, port 23999, protocol UDP.
+</li><li> The clients connect to the server (this is always the case)
+</li><li> When a client connects to the server, it will dynamically receive an IPv4 address in a virtual network named 172.16.1.0/24. The servers tap-pool interface will have the address 172.16.1.1. The first client that connects will receive the address 172.16.1.2, the second client that connects will receive the address 172.16.1.3, and so on. This is OK if you do not care about who is who, and just want to allow people to connect to you. If you on the other hand want to peer with someone to route traffic through their connections, consider using some other setup. (See <a href="/w/index.php?title=OpenVPN_Example_1&amp;action=edit&amp;redlink=1" class="new" title="OpenVPN Example 1 (page does not exist)">OpenVPN Example 1</a>, for example.)
+</li></ul>
+<a name="Server_setup" id="Server_setup"></a><h3><span class="editsection">[<a href="/w/index.php?title=OpenVPN_example_0&amp;action=edit&amp;section=7" title="Edit section: Server setup">edit</a>]</span> <span class="mw-headline"> Server setup </span></h3>
+<p>Put all the files you need in the directory /etc/openvpn/pool-is-closed/. The files you need are: ca.crt, pool-is-closed.crt, pool-is-closed.key and dh2048.pem. Then put the script below in the directory, name it whatever you want. For simplicity, I am assuming that you named it meh.conf.
+</p>
+<pre>
+dev tap-pool-is-closed
+# if you are using OpenBSD, comment out the line just above and uncomment the following:
+# dev tun0
+# dev-type tap 
+
+local 1.2.3.4 
+port 32999
+proto udp
+
+keepalive 3 20
+mode server
+
+server 172.16.1.0 255.255.255.0
+
+ca /etc/openvpn/pool-is-closed/ca.crt
+cert /etc/openvpn/pool-is-closed/pool-is-closed.crt
+key /etc/openvpn/pool-is-closed/pool-is-closed.key
+dh /etc/openvpn/pool-is-closed/dh2048.pem
+
+# client-to-client allow clients to talk directly with each other without having to go through your firewall settings.
+# Your OpenVPN server will behave like a switch for all packets that are sent through it.
+client-to-client
+
+# use nice encryption and compress all traffic
+cipher AES-256-CBC
+comp-lzo
+
+# The following will result in OpenVPN going to a chroot jail and dropping its privileges, which is good if you do not
+# trust the software to be bug-free.
+user nobody
+group nogroup # exchange with &quot;nobody&quot; if you are using OpenBSD
+
+# If the OpenVPN daemon does not run as root, because it is running as user nobody, group nobody and need to reload its
+# files it will not be allowed to do so. The following will make OpenVPN not forget the contents (or file handles) of the
+# files if it ever needs to reload or restart the connections. Unless you keep the two lines below, it will just hang.
+persist-key
+persist-tun
+
+# write nice logs and stuff to some defined files
+status /etc/openvpn/pool-is-closed/status
+log /etc/openvpn/pool-is-closed/log
+
+verb 3        # verbosity 3
+mute 3        # do not log more than three identical messages after each other (saves some disc space)
+</pre>
+<p>You can run it by typing: 
+</p><p><b><tt>openvpn --config /etc/openvpn/pool-is-closed/meh.conf --daemon</tt></b>
+</p><p>This will create a tap interface named tap-pool-is-closed. You can see it if you type <tt>ifconfig</tt>. If something goes wrong, which it will most likely do the first time you are doing this, you can see what caused it by typing <tt>cat /etc/openvpn/pool-is-closed/log</tt>. To see the log in real time as it grows, type <tt>tail -f /etc/openvpn/pool-is-closed/log</tt>.
+</p><p><b>Do not forget to setup firewall rules for this interface.</b> See the article <a href="/w/index.php?title=OpenVPN_example_0_-_iptables_rules&amp;action=edit&amp;redlink=1" class="new" title="OpenVPN example 0 - iptables rules (page does not exist)">OpenVPN example 0 - iptables rules</a> for an example of how to do just exactly this. For a generic tutorial on linux firewalls, see <a href="/wiki/Iptables" title="Iptables">iptables</a>.
+</p><p>You will most likely want to have this OpenVPN daemon start automatically when your computer starts. If you are using debian or ubuntu, you can put the script below inside /etc/rc2.d/. Name the script something like S99OpenVPN-pool-is-closed, to have it start last in the boot sequence. (If you want to create firewall rules that automatically include your OpenVPN-servers tunnel interface you will have to name your script something else, such as S9<b>8</b>OpenVPN-pool-is-closed, and have your firewall script named S99firewall, or something. I do not think the firewall can handle interfaces that does not yet exist, so the firewall needs to be started <i>after</i> the OpenVPN-server.)
+</p><p>script to automatically have the OpenVPN server start at bootup:
+</p>
+<pre>
+#!/bin/sh
+openvpn --config /etc/openvpn/pool-is-closed/meh.conf --daemon
+</pre>
+<a name="Client_setup" id="Client_setup"></a><h3><span class="editsection">[<a href="/w/index.php?title=OpenVPN_example_0&amp;action=edit&amp;section=8" title="Edit section: Client setup">edit</a>]</span> <span class="mw-headline"> Client setup </span></h3>
+<p>The person that runs the client should be given the following files: ca.crt, client0.crt and client0.key. Put all of the files in /etc/openvpn/client0/ (or just about anywhere you want.) I am assuming for simplicity that the client config file is named meh.conf. To start the OpenVPN connection, type:
+</p><p><b><tt>openvpn --config /etc/openvpn/client0/meh.conf --daemon</tt></b>
+</p><p>This will create a new interface named tap0 on your computer, which you will need to write firewall rules for, unless you are a daredevil. See <a href="/wiki/Iptables" title="Iptables">iptables</a> for a tutorial on linux firewalls.
+</p>
+<pre>
+dev tap0
+# if you are using OpenBSD, comment out the line just above and uncomment the following:
+# dev tun0
+# dev-type tap 
+
+remote 1.2.3.4 32999        # needs to be the same as the servers listening port
+nobind
+proto udp
+
+keepalive 5 30
+
+client
+
+cert /etc/openvpn/client0/client0.crt   # YOU NEED TO CHANGE THE PATH TO THESE FILES&nbsp;:)
+key /etc/openvpn/client0/client0.key
+ca /etc/openvpn/client0/ca.crt
+
+remote-cert-tls server
+
+# use nice encryption and compress all traffic (this needs to be the same as the server!)
+cipher AES-256-CBC
+comp-lzo
+
+# The following will result in OpenVPN going to a chroot jail and dropping its privileges, which is good if you do not
+# trust the software to be bug-free.
+user nobody
+group nogroup        # nobody if you are using OpenBSD
+
+# If the OpenVPN daemon does not run as root, because it is running as user nobody, group nobody and need to reload its
+# files it will not be allowed to do so. The following will make OpenVPN not forget the contents (or file handles) of the
+# files if it ever needs to reload or restart the connections. Unless you keep the two lines below, it will just hang.
+persist-key
+persist-tun
+
+# write nice logs and stuff to some defined files
+writepid /etc/openvpn/client0/pid         # CHANGE PATH AND NAMES HERE TOO&nbsp;:P
+status /etc/openvpn/client0/status
+log-append /etc/openvpn/client0/log
+
+verb 3    # verbosity 3
+mute 3    # do not print out more than tree identical messages to the log.
+</pre>
+<p>If you want to route <i>everything</i> through the client VPN-tunnel, type <b><tt>ip route del default; ip route add default 172.16.1.1</tt></b>. I strongly suggest that you write yourself some good firewall script. See <a href="/wiki/OpenVPN_example_0_-_linux_client_iptables" title="OpenVPN example 0 - linux client iptables">OpenVPN example 0 - linux client iptables</a> for an example of how to do just exactly this.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 24/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:8-0!1!0!!en!2 and timestamp 20121020023030 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/OpenVPN_example_0">https://cryptoanarchy.org/wiki/OpenVPN_example_0</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>:&#32;<span dir='ltr'><a href="/w/index.php?title=Category:HOWTO&amp;action=edit&amp;redlink=1" class="new" title="Category:HOWTO (page does not exist)">HOWTO</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/OpenVPN_example_0" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:OpenVPN_example_0&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=OpenVPN_example_0&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=OpenVPN_example_0&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=OpenVPN_example_0" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/OpenVPN_example_0" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/OpenVPN_example_0" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=OpenVPN_example_0&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=OpenVPN_example_0&amp;oldid=1784" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 7 March 2011, at 02:40.</li>
+					<li id="viewcount">This page has been accessed 1,441 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.247 secs. --></body></html
+2
+>
+
+0
+

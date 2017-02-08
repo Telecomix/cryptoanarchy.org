@@ -1,0 +1,378 @@
+5338
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Gen server,Asynchronous,Synchronous,Worker patterns" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Gen_server&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Gen_server&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Gen_server&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Gen server - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Gen_server";
+		var wgTitle = "Gen server";
+		var wgAction = "view";
+		var wgArticleId = "311";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 2411;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Gen_server skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Gen server</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p><b>gen_server</b> is used to create <a href="/wiki/Worker_patterns" title="Worker patterns">worker processes</a> that
+</p>
+<ul><li> <b>(optional)</b> Communicates with a group of client processes
+</li><li> <b>(optional)</b> Maintains a state
+</li><li> Performs computations
+</li><li> Replies to messages
+</li></ul>
+<p><br />
+</p>
+<a name="How_it_works" id="How_it_works"></a><h2><span class="editsection">[<a href="/w/index.php?title=Gen_server&amp;action=edit&amp;section=1" title="Edit section: How it works">edit</a>]</span> <span class="mw-headline"> How it works </span></h2>
+<p>There is one module in the OTP that is named <b>gen_server</b> that simplifies the creation and handling of <b>servers</b>.
+</p><p>Your code implements the gen_server "behaviour" (one form of <i>worker pattern</i>).
+</p><p>Others can then easily send messages to your server using the gen_server API.
+</p>
+<a name="API_mapping_between_gen_server_and_your_code" id="API_mapping_between_gen_server_and_your_code"></a><h3><span class="editsection">[<a href="/w/index.php?title=Gen_server&amp;action=edit&amp;section=2" title="Edit section: API mapping between gen_server and your code">edit</a>]</span> <span class="mw-headline"> API mapping between gen_server and your code </span></h3>
+<pre>
+
+GEN_SERVER       YOUR CODE            MOAR??
+
+start_link()     init()               starts &amp; attach your server to a supervisor
+start()          init()               starts your server in stand-alone mode
+call()           handle_call()        send/handle synchronous message
+multi_call()     handle_call()            send message to multiple servers at once
+cast()           handle_cast()        send/handle asynchronous message
+abcast()         handle_cast()            send message to multiple servers at once
+reply()          ---                  used to avoid handle_info() in handle_call()
+enter_loop()     ---                  turns a non-server to a gen_server-server
+---              handle_info()        informs your code of timeouts / nonstandard messages
+
+</pre>
+<p>Generally, other code will call <b>gen_server:call()</b> or <b>gen_server:cast()</b> when they want to communicate with your server. Thus, <b>handle_call()</b> and <b>handle_cast()</b> is where the shit happens.
+</p>
+<a name="gen_server_API" id="gen_server_API"></a><h2><span class="editsection">[<a href="/w/index.php?title=Gen_server&amp;action=edit&amp;section=3" title="Edit section: gen_server API">edit</a>]</span> <span class="mw-headline"> gen_server API </span></h2>
+<p>This is the interface that the gen_server-module has.
+</p><p>The API is described in detail at <a href="http://erldocs.com/R14B02/stdlib/gen_server.html#handle_info/2" class="external text" title="http://erldocs.com/R14B02/stdlib/gen_server.html#handle_info/2" rel="nofollow">erldocs.org</a>.
+</p>
+<ol><li> gen_server:<b>start_link/3</b> - attaches a gen_server to a supervision tree. Optionally registers the name of the gen_server module.
+<ul><li> Will call <font color="green">MODULE:init</font> and wait until it completes before returning
+</li><li> Returns: <font color="brown">{ok,Pid}</font> or <font color="brown">ignore</font> or <font color="brown">{error,Error}</font>
+</li><li> Can optionally register a name for the gen_server, so that it can receive messages from <b>multi_call</b> or <b>abcast</b>
+</li></ul>
+</li><li> gen_server:<b>start/3-4</b> - creates a standalone gen_server <i>(not part of supervision tree)</i>
+<ul><li> Works very much like <b>start_link</b>
+</li></ul>
+</li><li> gen_server:<b>call/2-3</b> - sends <a href="/wiki/Synchronous" title="Synchronous">synchronous</a> message to gen_server module.
+<ul><li> Will call <font color="green">MODULE:handle_call</font>
+</li><li> Returns: whatever your code returns (can be any erlang term)
+</li></ul>
+</li><li> gen_server:<b>multi_call/2-4</b> - sends <a href="/wiki/Synchronous" title="Synchronous">synchronous</a> message to <b>a group</b> of gen_servers
+<ul><li> Will call <font color="green">MODULE:handle_call</font>
+</li><li> Returns: a list of {Node, Reply}. One entry for each reply.
+</li><li> Can send message to ALL gen_servers registered under a name at ALL nodes in a cluster, or to all gen_servers registered under a name in a specified set of nodes in the cluster
+</li></ul>
+</li><li> gen_server:<b>cast/2</b> - sends <a href="/wiki/Asynchronous" title="Asynchronous">asynchronous</a> message to a gen_server
+<ul><li> Will call <font color="green">MODULE:handle_cast</font>
+</li><li> Returns: <font color="brown">ok</font> <i>(the reply might come at a later time, or not at all.)</i>
+</li></ul>
+</li><li> gen_server:<b>abcast/2-3</b> - sends <a href="/wiki/Asynchronous" title="Asynchronous">asynchronous</a> messages to <b>a group</b> of gen_servers
+<ul><li> Will call <font color="green">MODULE:handle_cast</font>
+</li><li> Returns: <font color="brown">ok</font> <i>(the replies might come at a later time, or not at all.)</i>
+</li><li> Can send message to ALL gen_servers registered under a name at ALL nodes in a cluster, or to all gen_servers registered under a name in a specified set of nodes in the cluster
+</li></ul>
+</li><li> gen_server:<b>reply/2</b> - should be used to avoid timeouts, see handle_info()
+<ul><li> used to reply to a <b>call</b> or <b>multi_call</b> if the reply should be sent <i>before</i> <b>MODULE:handle_call</b> is complete.
+</li><li> Returns: the return value of this function should be ignored.
+</li></ul>
+</li><li> gen_server:<b>enter_loop/3-5</b> - turns a non-gen_server process into a gen_server-process.
+<ul><li> If you know how to use this function, you dont need to look here
+</li></ul>
+</li></ol>
+<a name="MODULE_Interface" id="MODULE_Interface"></a><h2><span class="editsection">[<a href="/w/index.php?title=Gen_server&amp;action=edit&amp;section=4" title="Edit section: MODULE Interface">edit</a>]</span> <span class="mw-headline"> MODULE Interface </span></h2>
+<p>This is the interface that <b>you</b> should implement in <b>your code</b>.
+</p><p>Functions <b>not</b> implemented by your code will use the gen_server default, which does nothing. (generates warnings)
+</p><p>Below are just notes that I made for myself, to more quickly remember what i read.
+</p>
+<pre>
+
+
+init(State) -&gt;
+   returns any of
+      {ok, State}
+      {ok, State, Timeout}       - operations will take less than Timeout ms or else handle_info()
+      {ok, State, hibernate}     - hibernate = operations will take quite some time, optimize for this
+      {stop, Reason}             - crash
+      ignore                     - do not use
+
+
+%%%% gen_server:call() + gen_server:multi_call()
+handle_call(Request, From, State) -&gt;
+   returns any of
+      {reply,Reply,NewState}
+      {reply,Reply,NewState,Timeout}
+      {reply,Reply,NewState,hibernate}
+      {noreply,NewState}                - send no reply. use gen_server:reply() to avoid handle_info()
+      {noreply,NewState,Timeout}
+      {noreply,NewState,hibernate}
+      {stop,Reason,Reply,NewState}      - crash
+      {stop,Reason,NewState}            - crash
+
+
+%%%% gen_server:cast() + gen_server:abcast()
+handle_cast(Message, State) -&gt;
+   returns any of
+      {noreply,NewState}
+      {noreply,NewState,Timeout}
+      {noreply,NewState,hibernate}
+      {stop,Reason,NewState}             - crash
+
+
+%%%% notifies you that you either failed to reply before Timeout
+%%%%                              OR received a nonstandard message
+handle_info(Info, State) -&gt;
+   returns any of
+      {noreply,NewState}
+      {noreply,NewState,Timeout}
+      {noreply,NewState,hibernate}
+      {stop,Reason,NewState}
+
+
+%%%% does not matter what you return from this function
+%%%% is only used to notify your code that it is about to shut down
+%%%% make sure to save your state somehow
+terminate(Reason, State) -&gt; 
+
+
+%%%% notifies your process that it should switch to a new piece of code
+code_change(PreviousVersion, State, Extra) -&gt;
+
+
+%%%% if you know what this one does, you dont need to read this
+format_status(Opt, [PDict, State]) -&gt;
+
+
+</pre>
+<a name="Example" id="Example"></a><h2><span class="editsection">[<a href="/w/index.php?title=Gen_server&amp;action=edit&amp;section=5" title="Edit section: Example">edit</a>]</span> <span class="mw-headline"> Example </span></h2>
+<p>Server that computes whole-integer squares of numbers sent to it. State is set to the last computed Square.
+</p>
+<pre>
+-module(name_of_module).
+-behaviour(gen_server).
+
+-export([start_link/0]).
+-export([init/1, handle_call/3, handle_cast/2, handle_info/2, terminate/2, code_change/3]).
+
+
+
+%% Make life simpler&nbsp;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+start_link() -&gt;
+   gen_server:start_link(?MODULE, [], []).
+
+
+
+%% gen_server interface for our module&nbsp;%%%%%%%%%%%%%%%%%%
+
+init(_State) -&gt;
+   {ok, []}.
+
+
+
+handle_call(Request, _From, State) -&gt;
+   if is_integer(Request) -&gt;
+         NewState = compute_square(Request),
+         {reply, NewState, NewState};
+      true -&gt;
+         {reply, error, State}
+   end.
+
+
+
+handle_cast(_Message, State) -&gt;
+    {noreply, State}.
+
+
+
+handle_info(_Info, State) -&gt;
+    {noreply, State}.
+
+
+
+terminate(_Reason, State) -&gt;
+    State.
+
+
+
+code_change(_OldVsn, State, _Extra) -&gt;
+    {ok, State}.
+
+
+
+%% Private functions&nbsp;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+compute_square(Number) -&gt;
+   Number * Number.
+
+
+
+</pre>
+<a name="Sources" id="Sources"></a><h2><span class="editsection">[<a href="/w/index.php?title=Gen_server&amp;action=edit&amp;section=6" title="Edit section: Sources">edit</a>]</span> <span class="mw-headline"> Sources </span></h2>
+<ul><li> <a href="http://www.erlang.org/doc/design_principles/gen_server_concepts.html" class="external text" title="http://www.erlang.org/doc/design_principles/gen_server_concepts.html" rel="nofollow">OFFICIAL DEFINITION</a>
+</li><li> <a href="http://learnyousomeerlang.com/clients-and-servers" class="external text" title="http://learnyousomeerlang.com/clients-and-servers" rel="nofollow">Tutorial: Learn you some Erlang - Clients and Servers</a>
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 26/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:311-0!1!0!!en!2 and timestamp 20121019214525 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Gen_server">https://cryptoanarchy.org/wiki/Gen_server</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>:&#32;<span dir='ltr'><a href="/wiki/Category:Erlang" title="Category:Erlang">Erlang</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Gen_server" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Gen_server&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Gen_server&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Gen_server&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gen_server" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Gen_server" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Gen_server" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Gen_server&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Gen_server&amp;oldid=2411" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 2 July 2011, at 00:56.</li>
+					<li id="viewcount">This page has been accessed 1,068 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.136 secs. --></body></htm
+3
+l>
+
+0
+

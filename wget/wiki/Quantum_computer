@@ -1,0 +1,445 @@
+bb68
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Quantum computer,Quantum Hacking" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Quantum_computer&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Quantum_computer&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Quantum_computer&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Quantum computer - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Quantum_computer";
+		var wgTitle = "Quantum computer";
+		var wgAction = "view";
+		var wgArticleId = "326";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 3633;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Quantum_computer skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Quantum computer</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p><font color="red"><b>DISCLAIMER:</b></font> This article is 100% random and mostly just is about trying to figure out how the quantum computers will work, if they work. By using publicly available sources and a book i found in my campus book shop, it seems to be possible.
+</p><p>THIS ARTICLE NEEDS A LOT MORE ACTUAL CODE. it just covers the absolute basics atm.
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Papers_and_other_sources"><span class="tocnumber">1</span> <span class="toctext">Papers and other sources</span></a></li>
+<li class="toclevel-1"><a href="#Why.3F"><span class="tocnumber">2</span> <span class="toctext">Why?</span></a></li>
+<li class="toclevel-1"><a href="#What.3F"><span class="tocnumber">3</span> <span class="toctext">What?</span></a></li>
+<li class="toclevel-1"><a href="#Tools"><span class="tocnumber">4</span> <span class="toctext">Tools</span></a></li>
+<li class="toclevel-1"><a href="#Introduction"><span class="tocnumber">5</span> <span class="toctext">Introduction</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Quantum_probability"><span class="tocnumber">5.1</span> <span class="toctext">Quantum probability</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Ordinary_probability"><span class="tocnumber">5.1.1</span> <span class="toctext">Ordinary probability</span></a></li>
+<li class="toclevel-3"><a href="#Quantum_probability_2"><span class="tocnumber">5.1.2</span> <span class="toctext">Quantum probability</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Superposition"><span class="tocnumber">5.2</span> <span class="toctext">Superposition</span></a></li>
+<li class="toclevel-2"><a href="#Entanglement"><span class="tocnumber">5.3</span> <span class="toctext">Entanglement</span></a></li>
+<li class="toclevel-2"><a href="#Decoherence"><span class="tocnumber">5.4</span> <span class="toctext">Decoherence</span></a></li>
+<li class="toclevel-2"><a href="#How_to_make_computations"><span class="tocnumber">5.5</span> <span class="toctext">How to make computations</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Risk_of_errors"><span class="tocnumber">5.5.1</span> <span class="toctext">Risk of errors</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Stuff_worth_to_know"><span class="tocnumber">6</span> <span class="toctext">Stuff worth to know</span></a>
+<ul>
+<li class="toclevel-2"><a href="#More_random_notes"><span class="tocnumber">6.1</span> <span class="toctext">More random notes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Programming_your_quantum_computer"><span class="tocnumber">7</span> <span class="toctext">Programming your quantum computer</span></a></li>
+<li class="toclevel-1"><a href="#Next_step.3F"><span class="tocnumber">8</span> <span class="toctext">Next step?</span></a></li>
+<li class="toclevel-1"><a href="#Links"><span class="tocnumber">9</span> <span class="toctext">Links</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Papers_and_other_sources" id="Papers_and_other_sources"></a><h1><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=1" title="Edit section: Papers and other sources">edit</a>]</span> <span class="mw-headline"> Papers and other sources </span></h1>
+<ul><li> <a href="https://www.ibm.com/developerworks/linux/library/l-quant/index.html" class="external text" title="https://www.ibm.com/developerworks/linux/library/l-quant/index.html" rel="nofollow">This IBM tutorial gives a short introduction</a>
+</li><li> <a href="https://www.youtube.com/user/mnielsencourses#g/c/1826E60FD05B44E4" class="external text" title="https://www.youtube.com/user/mnielsencourses#g/c/1826E60FD05B44E4" rel="nofollow">Youtube course: Quantum computing for the determined.</a> (alt: google quantum computing for the determined)
+</li><li> <a href="http://alumni.imsa.edu/~matth/quant/299/paper/" class="external text" title="http://alumni.imsa.edu/~matth/quant/299/paper/" rel="nofollow">Quantum Computing and Shor's Algorithm</a>
+</li><li> <a href="http://video.google.com/videoplay?docid=-2069501759514424839" class="external text" title="http://video.google.com/videoplay?docid=-2069501759514424839" rel="nofollow">kvasi-unrelated: is the mind dependent on quantum coherence?</a>
+</li></ul>
+<p>Related and severely interesting
+</p>
+<ul><li> <a href="http://atlas-conferences.com/cgi-bin/abstract/cbdt-26" class="external text" title="http://atlas-conferences.com/cgi-bin/abstract/cbdt-26" rel="nofollow">Atlas: The magic behind quantum computing, chapter sqrt(-1)</a>
+</li></ul>
+<a name="Why.3F" id="Why.3F"></a><h1><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=2" title="Edit section: Why?">edit</a>]</span> <span class="mw-headline"> Why? </span></h1>
+<ul><li> Because quantum computers already exist. (<i>Yes, they can currently only hold a few qubits. But that will change, I think!</i>)
+</li><li> Because they will likely become a real thing within my lifetime.
+</li><li> And also because i want to understand what type of computations that makes up the next layer of this reality.
+</li></ul>
+<a name="What.3F" id="What.3F"></a><h1><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=3" title="Edit section: What?">edit</a>]</span> <span class="mw-headline"> What? </span></h1>
+<p>This science is in its cradle: Just like programming ordinary computers once upon a time required a PhD in electronics, so does programming quantum computers today require a PhD in quantum physics. There are almost no papers written that does not assume that the reader is really good at math and physics.
+</p><p>I want to change that.
+</p><p>I think it is possible to demystify quantum computing in order to make it possible for ordinary humans (like myself) to program them. This is pretty much what this article is all about&nbsp;:)
+</p><p><b>Assumptions:</b>
+</p>
+<ol><li> Quantum computers are not magical.
+</li><li> Quantum computers are possible to program without a deep understanding of quantum physics.
+</li></ol>
+<p>If you want to learn quantum physics, you should not continue reading. This article is only about how to program quantum computers.
+</p>
+<a name="Tools" id="Tools"></a><h1><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=4" title="Edit section: Tools">edit</a>]</span> <span class="mw-headline"> Tools </span></h1>
+<p>QCL is a programming language and an command line-interpreter that can be used to experiment with a model of a quantum computer. You can download it <a href="http://tph.tuwien.ac.at/~oemer/qcl.html" class="external text" title="http://tph.tuwien.ac.at/~oemer/qcl.html" rel="nofollow">here</a>. It seems to be the easiest and most researched quantum programming language around.
+</p><p>QCL can emulate small quantum computers. The emulator can break the laws of physics since it is just a representation of a quantum computer. Therefore it is possible to peek at qubits without destroying their superpositions, something which is not possible in the real world. Emulation also means that it takes <i><b>a lot</b></i> longer to finish large computations than it would if we actually had access to a real quantum computer, but if we limit the emulator to using just a few qubits, we will not notice the lag. (Do not try to run shor's algorithm on numbers larger than ~250.)
+</p><p>There is also a <a href="http://esoteric.voxelperfect.net/wiki/Quantum_brainfuck" class="external text" title="http://esoteric.voxelperfect.net/wiki/Quantum_brainfuck" rel="nofollow">quantum-dialect of brainfuck</a>&nbsp;:D
+</p>
+<a name="Introduction" id="Introduction"></a><h1><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=5" title="Edit section: Introduction">edit</a>]</span> <span class="mw-headline"> Introduction </span></h1>
+<ol><li> Quantum probability
+</li><li> Superpositions
+</li><li> Entanglement
+</li><li> Decoherence
+</li><li> How to make computations
+</li></ol>
+<p>It is difficult to describe any of the concepts without referring to any of the other concepts. This means that you might need to re-read some parts twice.
+</p><p>Ok, here we go...
+</p>
+<a name="Quantum_probability" id="Quantum_probability"></a><h2><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=6" title="Edit section: Quantum probability">edit</a>]</span> <span class="mw-headline"> Quantum probability </span></h2>
+<p>First, we examine real world probability. Then we go from there in order to describe quantum probability&nbsp;:)
+</p>
+<a name="Ordinary_probability" id="Ordinary_probability"></a><h3><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=7" title="Edit section: Ordinary probability">edit</a>]</span> <span class="mw-headline"> Ordinary probability </span></h3>
+<p>If we flip a coin, the probability that it results in a head is 0.5. We write this as
+</p>
+<pre>
+P(head) = P(tail) = 0.5
+</pre>
+<p>and
+</p>
+<pre>
+P(head) + P(tail) = 1
+</pre>
+<p>If we are throwing two coins at the same moment, the probability that their positions ends up as tail-tail is P(tail)*P(tail) = 0.25.
+</p><p>If we flip two coins at the same time, we can not make them affect each others results. Their results are always independent of each others (unless we cheat).
+</p>
+<a name="Quantum_probability_2" id="Quantum_probability_2"></a><h3><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=8" title="Edit section: Quantum probability">edit</a>]</span> <span class="mw-headline"> Quantum probability </span></h3>
+<p>If we have a quantum-coin (a qubit) we end up with this equation (compare with the above one!):
+</p>
+<pre>
+|P(head)|^2 + |P(tail)|^2 = 1
+</pre>
+<p>We can flip two quantum-coins and have them affect each others results. (This is called entanglement, <i>and it is how we cheat.</i>)
+</p><p>The four different positions we can end up with is
+</p>
+<pre>
+P(head, head) = A
+P(head, tail) = B
+P(tail, head) = C
+P(tail, tail) = D
+</pre>
+<p>And
+</p>
+<pre>
+|A|^2 + |B|^2 + |C|^2 + |D|^2 = 1
+</pre>
+<p>If P(head) &gt; P(tail), this means that there is a much higher probability that A (that is, head-head) becomes the result, because the probabilities are squared.
+</p><p>With two entangled qubits, we end up with a four possible outcomes (A, B, C or D). With three entangled qubits, we will have eight possible outcomes. With a hundred entangled qubits, the quantum computer will be able to "select" one out of 2^100 = 1.27 * 10^30 outcomes. Selection occurs when the qubits leave their superpositions due to decoherence.
+</p><p>Since the probability of each single outcome is squared, it means that a single outcome can be made to have a much higher possibility of ending up as the answer than any other possibility. It is possible to use this property to find solutions to problems that are difficult to find via other means. Programs for quantum computers will use this to "guide" the computer towards the correct solution.
+</p><p>Notice that it is not possible to completely remove the possibility of the other, erroneous solutions. This means that quantum computers can never come up with the correct answer with a 100% probability. This is not a problem, we will just re-run the quantum program until we know we found the answer.
+</p>
+<a name="Superposition" id="Superposition"></a><h2><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=9" title="Edit section: Superposition">edit</a>]</span> <span class="mw-headline"> Superposition </span></h2>
+<p>Bits can be in either two states: Zero or One. 
+</p><p>Qubits can be in more states. They can be Zero, One or in a <i>superposition</i>. Superpositions are described using quantum probabilities. A qubit in a superposition does not have a value until decoherence occurs. Multiple qubits may be in <i>the same</i> superposition, if they are entangled.
+</p>
+<a name="Entanglement" id="Entanglement"></a><h2><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=10" title="Edit section: Entanglement">edit</a>]</span> <span class="mw-headline"> Entanglement </span></h2>
+<p>Entanglement is when more than one qubit is in the same superposition. They are "glued together", or <i>entangled</i>. Two qubits can be said to make up a 2-bit quantum processor register if they are entangled with each other.
+</p><p>Qubits that are entangled with each others does not have to be in physical proximity of each others.
+</p><p>A single qubit can only return the answer yes or no, after it has been measured, and has little benefit over a traditional one-bit electronic computer. If thirty qubits are entangled with each other however, they can be made to <i>appear</i> as if they are making 2^30 = 1073741824 computations at the same time. (A single qubit may only collapse into two states: one or zero. 30 entangled qubits may collapse into any of about roughly one billion different states.)
+</p><p>When qubits are entangled in the same superposition, it basically just means that we do not <i>yet</i> know what state the qubits are in. For example, two qubits could together be in 00 or 11 (the <a href="https://en.wikipedia.org/wiki/Bell_state" class="external text" title="https://en.wikipedia.org/wiki/Bell_state" rel="nofollow">bell state</a>). If one then measures only the first of the twoqubits, a measurement on the second qubit will result in the same value as the first. (We have two qubits: <tt>xx</tt>, and then measures the first so that we have <tt>1x</tt>. Then, because we know the two qubits are entangled in the same superposition and the only alternatives for their combined value is either 00 or 11, then we <i>know</i> that the 2nd qubit will also be a 1.)
+</p><p>Entanglement can <i>not</i> be used to transmit information faster than the speed of light. It would be possible to transmit information faster than the speed of light if one could select the outcome of a measurement, but this is not the case. One can think of the shared superposition as if the qubits already have established a common state, but that this state has not been revealed to the outside world. (<b>Weird example:</b> This is a bit like having a magical gnome (quantum computer) write down the same number (entanglement) on two different pieces of paper (two qubits), and then storing the papers without looking at them (two qubits in the same superposition). When you eventually look at the paper (measurement), you know that the same number is written on the other piece of paper too. No information is transmitted between the two papers, they already had their values written on them = It is not possible to transmit information faster than the speed of light using entanglement.)
+</p>
+<a name="Decoherence" id="Decoherence"></a><h2><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=11" title="Edit section: Decoherence">edit</a>]</span> <span class="mw-headline"> Decoherence </span></h2>
+<p>Decoherence is that a variable in a superposition is given a value. (This is what happens to <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Schr%C3%B6dinger%27s_cat" class="external text" title="https://secure.wikimedia.org/wikipedia/en/wiki/Schr%C3%B6dinger%27s_cat" rel="nofollow">Schrödingers Cat</a> when we open the box to check if its alive or not.)
+</p><p>When the state of a qubit is measured, decoherence occurs. The qubit is given a value.
+</p><p>Before decoherence occurs, the values of qubits can only be described using quantum probabilities.
+</p><p><b>Controlled decoherence</b> occurs after we are done with the computations, at the same instant we measure the result.
+</p><p><b>Uncontrolled decoherence</b> occurs when the causality of the external world leaks into the machine and fucks up the superpositions of our qubits. This results in that the wrong answer is returned from the quantum computer. Uncontrolled decoherence is a very big problem for real-world quantum computers.
+</p>
+<a name="How_to_make_computations" id="How_to_make_computations"></a><h2><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=12" title="Edit section: How to make computations">edit</a>]</span> <span class="mw-headline"> How to make computations </span></h2>
+<a name="Risk_of_errors" id="Risk_of_errors"></a><h3><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=13" title="Edit section: Risk of errors">edit</a>]</span> <span class="mw-headline"> Risk of errors </span></h3>
+<p>Two big sources of errors:
+</p>
+<ol><li> The risk of uncontrolled quantum decoherence means that the quantum computer could just fail to return a correct answer, because the machine collapsed back to real world causality before the calculations were complete.
+</li><li> Quantum probability means that a program only returns a <i>probable</i> answer. (BQP assumes the error rate is below 1/3.)
+</li></ol>
+<p>This means that we need to use an ordinary computer to check if the answer the quantum computer gave us is indeed correct. (Or, if that is impossible due to the nature of the problem, run the same quantum program over and over again to collect statistics, and then make a qualified guess.)
+</p>
+<div class="center"><div class="floatnone"><a href="/wiki/File:How_quantum_computes.png" class="image" title="How quantum computes.png"><img alt="" src="/w/images/6/6d/How_quantum_computes.png" width="422" height="448" border="0" /></a></div></div>
+<p><b>In the picture above</b>
+</p>
+<ul><li> Classical control structure = ordinary computer
+</li><li> Unitary transformation = operations on quantum registers are described with unitary matrices. These matrices are called "gates". Think of them as ordinary logic gates, except that they operate on vectors.
+</li><li> measure machine state = controlled decoherence
+</li></ul>
+<p><b>Example:</b> (Please occasionally do look at the picture above while reading this.) Say that we wish to factorize a large number. This takes a lot of time using ordinary electronic computers, but <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Shor%27s_algorithm" class="external text" title="https://secure.wikimedia.org/wikipedia/en/wiki/Shor%27s_algorithm" rel="nofollow">can be done in an instant</a> using a quantum computer. Since it takes <i>much less</i> time to multiply numbers than to find the prime factors of a number using an oldskool computer, we instead use the quantum computer to find a set of <i>probable</i> factors. When the quantum computer has reached an answer, we proceed to use an ordinary computer to multiply the factors that the quantum computer gave us, to check if they result in the number we wished to factorize. If not, we just simply restart the procedure and try again. (It is easy to multiply numbers using ordinary computer, and it is easy to factorize numbers using quantum computers. They complement each others.)
+</p><p><b>Notes:</b>
+</p>
+<ul><li> Shors algorithm is used to factorize numbers on quantum computers. You can find the QCL source code <a href="http://quantum.cryptoanarchy.org/shors-algo/" class="external text" title="http://quantum.cryptoanarchy.org/shors-algo/" rel="nofollow">here</a>.
+</li><li> Algorithms often belong to the <a href="https://secure.wikimedia.org/wikipedia/en/wiki/BQP" class="external text" title="https://secure.wikimedia.org/wikipedia/en/wiki/BQP" rel="nofollow">BPQ complexity class</a>.
+</li></ul>
+<a name="Stuff_worth_to_know" id="Stuff_worth_to_know"></a><h1><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=14" title="Edit section: Stuff worth to know">edit</a>]</span> <span class="mw-headline"> Stuff worth to know </span></h1>
+<p><b>Notes about quantum registers</b>
+</p>
+<ul><li> Registers are allocated by the number of qubits they need to contain. See QCL examples below.
+</li><li> <b>A single-bit register</b> is a two dimensional vector in the complex plane.
+<ul><li> |0&gt; and |1&gt; are the base vectors. When the vector is aligned to any of these, it can be thought and handled like a classic bit.
+</li><li> When it is in a superposition, the one-bit register is a vector that holds the property <font color="red">|</font>A|0&gt;<font color="red">|</font>^2 + <font color="red">|</font>B|1&gt;<font color="red">|</font>^2 = 1, where A and B are the amplitudes of the states. Red vertical bars means absolute value. Amplitudes are real numbers that may be negative. The registers unmeasured value can be thought of as <a href="http://en.wikipedia.org/wiki/Bloch_sphere" class="external text" title="http://en.wikipedia.org/wiki/Bloch_sphere" rel="nofollow">a point on the surface of a unit sphere.</a>
+</li></ul>
+</li><li> The probability that a quantum register will collapse into any of its different states is related to the states amplitude, squared. Therefore it does not matter if the amplitudes are negative.
+</li><li> <b>Multi-bit quantum registers</b> are vectors in the 2^n complex space, where n is the number of qubits in the register. (Thus, for example, a "qubyte" is a 256-dimensional complex vector.)
+<ul><li> When not in superposition, the vector is aligned to the base vectors. Example |0110&gt; is a 4-bit register not in superposition. |0110&gt; can be thought of as equal to the classic 0110 bitstring.
+</li><li> When in superposition, the n-bit register also holds the property that the sum of each one of its amplitudes squared equals 1. (The probability of all possibilities may not be anything but 100%, that is; 1.)
+</li><li> The difference between n-bit registers and 1-bit registers in superpositions is that n-bit registers will have 2^n different states to collapse into, instead of just 2^1=2 states. A three-bit register can collapse to 000, 001, 010, 011, 100, 101, 110 and 111. In QCL it will look something like this: <font color="red">|</font>A|000&gt;<font color="red">|</font>^2 + <font color="red">|</font>B|001&gt;<font color="red">|</font>^2 + <font color="red">|</font>C|010&gt;<font color="red">|</font>^2 + ... + <font color="red">|</font>H|111&gt;<font color="red">|</font>^2 = 1, where A, B, C ... H are yet again real numbers.
+</li></ul>
+</li></ul>
+<p><b>Notes about gates</b>
+</p>
+<ul><li> Every gate is a unitary matrix. There are a bunch of gates (think of the matrices as equivalent to NOT, XOR, AND, etc) that we can use, without having to define the matrices ourselves.
+</li><li> Quantum computers <i>can not</i> erase the results of computations while performing operations on registers in superpositions. This is known as <a href="http://en.wikipedia.org/wiki/Reversible_computing" class="external text" title="http://en.wikipedia.org/wiki/Reversible_computing" rel="nofollow">reversible computing</a>. Paraphernalia knowledge: This is because all operations consume <i>absolutely no</i> energy, and bit erasure evaporates energy. In classical computers, bit erasure means that the voltage over at least one transistor disappears and heat is generated as a result from that. Measurement also involves the release of entropy, since it is not possible to observe something without affecting the measured object (<a href="https://en.wikipedia.org/wiki/Uncertainty_principle" class="external text" title="https://en.wikipedia.org/wiki/Uncertainty_principle" rel="nofollow">heisenbergs uncertainty</a>). Irreversibility is closely related to the passage of time, the reversible nature of quantum computers can be interpreted as the concept of time does not exist during a computation. There is no such thing as "event A happened before event B" until the computation is complete and the waveform collapses (waveform collapse is another word for decoherence). This does not mean that the quantum computer is a perpetual motion machine, it requires energy to create an environment without spontaneous decoherence. It seems to be physically impossible to create perpetual quantum computers, the background radiation from the Big Bang sets the limit. For more on this topic, read <i>The Physics of Information Processing Superobjects: Daily Life Among the Jupiter Brains.</i>
+</li><li> It is possible to approximate the erasure of the results of computations if the programmer (or compiler) stores enough information for being able to reversing them. One however does <i>not</i> have to reverse the computations, they just needs to be <i>possible</i> to reverse. This is often done by storing "control bits". Many of the gates makes use of control bits, if they are not inherently reversible.
+</li><li> <b>Typical gates are</b>
+<ul><li> <b>CNOT</b> -- Controlled NOT, two input bits, one control bit and one target bit. If the control bit is set, then a classic NOT operation is performed on the target bit.
+</li><li> <b>CPhase</b> -- Controlled phase shift. It also has control and target bit.
+</li><li> <b>X, Y and Z pauli matrices</b> -- Basic operations that <i><b>feel</b></i> somewhat like the equivalents of NOT, but they flips vectors upside down, inside out, etc. instead of just inverting, as NOT would do.
+</li><li> <b>Hadamard</b> -- Called Mix() in QCL. Usually just used to move a register into a superposition.
+</li><li> <b>QFT</b> -- the quantum fourier transform can be a single gate. This gate can be constructed out of a series of CNOT and CPhase gates. It can be optimized by using <a href="https://en.wikipedia.org/wiki/Butterfly_%28FFT_algorithm%29" class="external text" title="https://en.wikipedia.org/wiki/Butterfly_%28FFT_algorithm%29" rel="nofollow">butterflies</a>. The QFT is used in Shors algorithm, it is defined as a function taking two qureg (quantum register) values.
+</li></ul>
+</li></ul>
+<p>More that is nice to know more about: Bell state, superdense coding, quantum teleportation. (use wikipedia, or contribute to this article if you know.)
+</p>
+<a name="More_random_notes" id="More_random_notes"></a><h3><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=15" title="Edit section: More random notes">edit</a>]</span> <span class="mw-headline"> More random notes </span></h3>
+<p>an n-qubit register can be described as either
+</p>
+<ul><li> a vector in <b>C</b>^(2^n). <b>C</b> is the <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Complex_number" class="external text" title="https://secure.wikimedia.org/wikipedia/en/wiki/Complex_number" rel="nofollow">complex numbers</a>. So, a single cubit is a vector in C^2. A qubyte is a vector in C^256. Because i^2 = -1, vectors with negative depths (depth = absolute value) is allowed in these dimensions.
+</li><li> a 2^n long string of probabilities that the vector will collapse to either one of its base vectors, when measured. One probability for each base vector. (The bra-ket notation.)
+</li></ul>
+<p>The base vectors represent the binary numbers that the register can assume at the instant of measurement (decoherence). There are 2^n dimensions because there are 2^n different probability that a register collapses to each one of the base vectors. The probability is related to the absolute value of "how deep within that dimension the vector is." (its amplitude in that dimension.)
+</p><p>Since each dimension has both one real and one imaginary part, the depth is equal to the square root of the real part squared plus the imaginary part squared (pythagoras). This is written as the absolute value.
+</p><p>The absolute value is the aplitude, the probability that the register will collapse to a certain value when measured (the vector aligns itself with one of its 2^n base vectors.)
+</p><p>A vector always have the length one, since the total sum of all probabilities (its sum of its depths in each one of its dimensions) can never become anything but 100%.
+</p><p>Input data is delivered as vectors aligned to one of their base vectors. AKA, bitstrings. Then the QC multiplies the vectors with a series of unitary matrices (which can be thought of as rotating the vectors, or as performing transforms on the series of complex numbers that describes the measurement probabilities.) A program is defined as a sequence of unitary matrices ("gates", just like classical computers. same same, but different..). When the program has come to its end, the QC measures the register, decoherence occurs, the register aligns with one of its base vectors and becomes a bitstring. This bitstring is then fed into the classical computer.
+</p><p>...i has no idea how to make useful computations within this framework. i has to study moar&nbsp;:)
+</p>
+<a name="Programming_your_quantum_computer" id="Programming_your_quantum_computer"></a><h1><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=16" title="Edit section: Programming your quantum computer">edit</a>]</span> <span class="mw-headline"> Programming your quantum computer </span></h1>
+<p><font color="red">This contain errors. Please correct them yourself.</font>
+</p><p>All operations in a quantum computer consists of applying unitary matrices to the quantum-registers. Each quantum register contains an array of "probability vectors" (the superpositions are represented that way). When we apply the matrices, the probability vectors change. 
+</p><p>Quantum computation is a bit like manipulating <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Lemarchand%27s_box" class="external text" title="https://secure.wikimedia.org/wikipedia/en/wiki/Lemarchand%27s_box" rel="nofollow">the cube</a> in hellraiser. Every operation is a unitary matrix that, when applied, "rotates" (changes) the "object" (probability vectors) slightly.
+</p><p>Also, most of the time we do not have to care about the matrices. Many of the important ones are pre-programmed.
+</p><p><b>Get QCL up and running!</b>
+</p>
+<ol><li> <a href="http://tph.tuwien.ac.at/~oemer/qcl.html" class="external text" title="http://tph.tuwien.ac.at/~oemer/qcl.html" rel="nofollow">download</a> (if down: <a href="http://web.archive.org/web/20110716205235/http://tph.tuwien.ac.at/~oemer/qcl.html" class="external text" title="http://web.archive.org/web/20110716205235/http://tph.tuwien.ac.at/~oemer/qcl.html" rel="nofollow">Archive.org</a>) the binary distribution of QCL and unzip it.
+</li><li> Goto the path where you downloaded it and run it (requires linux)
+</li></ol>
+<p><b>Allocate 5 qubits from the quantum heap...</b>
+</p>
+<pre>
+./qcl --bits=5
+QCL Quantum Computation Language (5 qubits, seed 1316456645)
+[0/5] 1 |0&gt;
+</pre>
+<p><b>Obtain a 2-qubit entangled superposition register</b>
+</p>
+<pre>
+qcl&gt; qureg a[2];
+qcl&gt; dump a;
+: SPECTRUM a: &lt;0,1&gt;
+1 |0&gt;
+qcl&gt; Mix(a);
+[2/5] 0.5 |0&gt; + 0.5 |1&gt; + 0.5 |2&gt; + 0.5 |3&gt;
+qcl&gt; dump a;
+: SPECTRUM a: &lt;0,1&gt;
+0.25 |0&gt;, 0.25 |1&gt;, 0.25 |2&gt;, 0.25 |3&gt;
+qcl&gt;
+</pre>
+<p><b>What happened?</b>
+The Hadamard function, named Mix() here, puts the qubits in a superposition. There is nothing special with Hadamards function, a lot of functions does this. Hadamard probably is the cleanest method to reach a superposition though. After the Mix(a) is executed, the number of qubits allocated (2 out of 5) is displayed, along with he probability of any given outcome. 0.5 actually means 0.25, but the square is not calculated (this is because the probability could be negative, and when a negative number is squared it becomes positive. We do not wish to lose that information.)
+</p><p>If one dumps the register (not possible outside the simulator - it would break the superposition if you looked at it) it says that there is a 0.25 chance of any of the four outcomes. Two qubits can collapse into any of 00, 01, 10 and 11. For example, "0.25 |3&gt;" means that there is a 0.25 chance that 11 is the answer, if we would let the superposition collapse at this moment.
+</p><p><b>Continuing the QCL session from above..</b>
+</p>
+<pre>
+qcl&gt; measure a;
+[2/5] 1 |3&gt;
+</pre>
+<p>Read as: The probability is 1 that we have a 3 (binary 11) in the register.
+</p><p>When we measure the quantum register a, we have controlled decoherence, and the register obtains a single value. In this case, binary 11, or decimal 3. The answer could just as well have been 2, 1 or 0.
+</p><p><a href="https://www.ibm.com/developerworks/linux/library/l-quant/index.html" class="external text" title="https://www.ibm.com/developerworks/linux/library/l-quant/index.html" rel="nofollow">This IBM tutorial</a> contains an example of some über-awesome parallelism that shows the power of quantum computing&nbsp;:) To be honest, i just read it and..
+</p>
+<a name="Next_step.3F" id="Next_step.3F"></a><h1><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=17" title="Edit section: Next step?">edit</a>]</span> <span class="mw-headline"> Next step? </span></h1>
+<ul><li> Get more free time to spend on this
+</li><li> Write more complex programs.
+</li><li> Re-write the introduction and make it more accurate.
+</li><li> Have a look at the unitary matrices themselves. Describe them.
+</li><li> Also try and learn <a href="http://sneezy.cs.nott.ac.uk/QML/" class="external text" title="http://sneezy.cs.nott.ac.uk/QML/" rel="nofollow">QML</a>: a functional quantum programming language
+</li><li> <a href="/wiki/Quantum_Hacking" title="Quantum Hacking">Quantum Hacking</a>
+</li></ul>
+<a name="Links" id="Links"></a><h1><span class="editsection">[<a href="/w/index.php?title=Quantum_computer&amp;action=edit&amp;section=18" title="Edit section: Links">edit</a>]</span> <span class="mw-headline"> Links </span></h1>
+<ul><li> <a href="https://www.technologyreview.com/computing/38495/" class="external text" title="https://www.technologyreview.com/computing/38495/" rel="nofollow">Quantum Processor Hooks Up with Quantum Memory</a>
+</li><li> <a href="http://www.quantiki.org/wiki/Quantum_Programming_Language" class="external text" title="http://www.quantiki.org/wiki/Quantum_Programming_Language" rel="nofollow">Quantiki: Quantum Programming Language</a>
+</li><li> <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Quantum_programming" class="external text" title="https://secure.wikimedia.org/wikipedia/en/wiki/Quantum_programming" rel="nofollow">Wikipedia: Quantum programming</a>
+</li><li> <a href="http://dwave.files.wordpress.com/2007/08/20070810_d-wave_quantum_annealing.pdf" class="external text" title="http://dwave.files.wordpress.com/2007/08/20070810_d-wave_quantum_annealing.pdf" rel="nofollow">An Introduction to Quantum Annealing</a>
+</li><li> <a href="http://alumni.imsa.edu/~matth/quant/299/paper.pdf" class="external text" title="http://alumni.imsa.edu/~matth/quant/299/paper.pdf" rel="nofollow">Quantum Computing and Shor's Algorithm</a>
+<ul><li> <a href="http://alumni.imsa.edu/~matth/quant/299/shorsim.tar" class="external text" title="http://alumni.imsa.edu/~matth/quant/299/shorsim.tar" rel="nofollow">C++ code for simulating Shor's Algorithm</a>
+</li></ul>
+</li><li> <a href="http://www.dwavesys.com/en/dw_homepage.html" class="external text" title="http://www.dwavesys.com/en/dw_homepage.html" rel="nofollow">D-wave's "Quantum" Annealer</a>
+<ul><li> <a href="http://www.electronista.com/articles/11/05/19/carries.hefty.10.million.price.tag/" class="external text" title="http://www.electronista.com/articles/11/05/19/carries.hefty.10.million.price.tag/" rel="nofollow">D-Wave claims first publicly sold quantum computer 2011 Story</a>
+</li><li><a href="http://en.wikipedia.org/wiki/D-Wave_Systems#Criticism" class="external text" title="http://en.wikipedia.org/wiki/D-Wave_Systems#Criticism" rel="nofollow">Criticisms of D-wave computer by some in Physics Community</a>
+</li></ul>
+</li><li> <a href="http://esoteric.voxelperfect.net/wiki/Quantum_brainfuck" class="external text" title="http://esoteric.voxelperfect.net/wiki/Quantum_brainfuck" rel="nofollow">Quantum brainfuck</a>
+</li><li> <a href="https://www.youtube.com/watch?v=ue4z9lB5ZHg" class="external text" title="https://www.youtube.com/watch?v=ue4z9lB5ZHg" rel="nofollow">Quantum transistors (youtube)</a>
+</li></ul>
+<p><font color="red">EXPLORE &amp; EXPAND</font>
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 58/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:326-0!1!0!!en!2 and timestamp 20121019114022 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Quantum_computer">https://cryptoanarchy.org/wiki/Quantum_computer</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>:&#32;<span dir='ltr'><a href="/wiki/Category:Programming" title="Category:Programming">Programming</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Quantum_computer" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Quantum_computer&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Quantum_computer&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Quantum_computer&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Quantum_computer" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Quantum_computer" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Quantum_computer" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Quantum_computer&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Quantum_computer&amp;oldid=3633" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 13 March 2012, at 23:53.</li>
+					<li id="viewcount">This page has been accessed 3,209 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.137 secs. --></body></html>
+
+0
+

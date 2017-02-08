@@ -1,0 +1,355 @@
+7c98
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="TL-MR3020 PirateBox,PirateBox,PirateBox DIY OpenWrt,PirateBox DIY OpenWrt Old" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=TL-MR3020_PirateBox&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=TL-MR3020_PirateBox&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=TL-MR3020_PirateBox&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>TL-MR3020 PirateBox - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "TL-MR3020_PirateBox";
+		var wgTitle = "TL-MR3020 PirateBox";
+		var wgAction = "view";
+		var wgArticleId = "399";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 3686;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-TL-MR3020_PirateBox skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">TL-MR3020 PirateBox</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Credit"><span class="tocnumber">1</span> <span class="toctext">Credit</span></a></li>
+<li class="toclevel-1"><a href="#Overview"><span class="tocnumber">2</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1"><a href="#Warning"><span class="tocnumber">3</span> <span class="toctext">Warning</span></a></li>
+<li class="toclevel-1"><a href="#TP-Link_MR3020_or_WR703N"><span class="tocnumber">4</span> <span class="toctext">TP-Link MR3020 or WR703N</span></a></li>
+<li class="toclevel-1"><a href="#Stuff_You.27ll_Need"><span class="tocnumber">5</span> <span class="toctext">Stuff You'll Need</span></a></li>
+<li class="toclevel-1"><a href="#Pre-Installation"><span class="tocnumber">6</span> <span class="toctext">Pre-Installation</span></a></li>
+<li class="toclevel-1"><a href="#Install_PirateBox"><span class="tocnumber">7</span> <span class="toctext">Install PirateBox</span></a></li>
+<li class="toclevel-1"><a href="#Recovery"><span class="tocnumber">8</span> <span class="toctext">Recovery</span></a></li>
+<li class="toclevel-1"><a href="#Enclosure_and_Power"><span class="tocnumber">9</span> <span class="toctext">Enclosure and Power</span></a></li>
+<li class="toclevel-1"><a href="#Buffalo_WZR-HP-G300NH"><span class="tocnumber">10</span> <span class="toctext">Buffalo WZR-HP-G300NH</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Credit" id="Credit"></a><h2><span class="editsection">[<a href="/w/index.php?title=TL-MR3020_PirateBox&amp;action=edit&amp;section=1" title="Edit section: Credit">edit</a>]</span> <span class="mw-headline"> <b>Credit</b></span></h2>
+<p>The source for this tutorial was copied, pasted, then remixed from the original, found <a href="http://wiki.daviddarts.com/PirateBox_DIY_OpenWrt" class="external text" title="http://wiki.daviddarts.com/PirateBox_DIY_OpenWrt" rel="nofollow">here.</a> on David Darts' wiki. Additional images and details have been added.
+</p>
+<a name="Overview" id="Overview"></a><h2><span class="editsection">[<a href="/w/index.php?title=TL-MR3020_PirateBox&amp;action=edit&amp;section=2" title="Edit section: Overview">edit</a>]</span> <span class="mw-headline"><b>Overview</b></span></h2>
+<p>PirateBox will potentially run on most OpenWrt compatible routers. The following tutorials below are written specifically for the TP-Link MR3020 and the TP-Link 703R. With minor modifications, it is also possible to install <a href="/wiki/PirateBox" title="PirateBox">PirateBox</a> on a number of other wireless routers capable of supporting the <a href="http://openwrt.org/" class="external text" title="http://openwrt.org/" rel="nofollow">OpenWrt</a> firmware.
+</p>
+<a name="Warning" id="Warning"></a><h2><span class="editsection">[<a href="/w/index.php?title=TL-MR3020_PirateBox&amp;action=edit&amp;section=3" title="Edit section: Warning">edit</a>]</span> <span class="mw-headline"><b>Warning</b></span></h2>
+<p>If you make a mistake and find yourself unable to access your router via telnet or ssh at all, you may think that you've 'bricked' the unit.  OpenWRT routers actually have a fail-safe mode you can initiate that allows you to gain entry to the router via a default IP address.  Once you've regained access, you can either attempt to correct your mistakes manually or you can execute the -rf /overlay/* command to reset the router entirely (see Recovery section below for details).  OpenWRT has a great tutorial for <a href="http://wiki.openwrt.org/doc/howto/generic.failsafe" class="external text" title="http://wiki.openwrt.org/doc/howto/generic.failsafe" rel="nofollow">initiating and manipulating the router in fail-safe mode.</a>
+</p>
+<a name="TP-Link_MR3020_or_WR703N" id="TP-Link_MR3020_or_WR703N"></a><h2><span class="editsection">[<a href="/w/index.php?title=TL-MR3020_PirateBox&amp;action=edit&amp;section=4" title="Edit section: TP-Link MR3020 or WR703N">edit</a>]</span> <span class="mw-headline"><b>TP-Link MR3020 or WR703N</b></span></h2>
+<p>You can now build a PirateBox with chat for under US$35. Big thanks to <a href="http://piratebox.aod-rpg.de" class="external text" title="http://piratebox.aod-rpg.de" rel="nofollow">Matthias Strubel</a> for <a href="https://github.com/MaStr/mkPirateBox/wiki/Installation" class="external text" title="https://github.com/MaStr/mkPirateBox/wiki/Installation" rel="nofollow">porting chat to the OpenWrt version of PirateBox</a>. Thanks also to <a href="mailto:cr@23bit.net" class="external text" title="mailto:cr@23bit.net" rel="nofollow">Christiane Ruetten</a> for developing the original mkPirateBox package and David Morefield for developing <b><a href="https://sites.google.com/site/cookingcomputersandmore/home/computers-electronics-and-gadgets/piratebox-on-tp-link-mr-3020" class="external text" title="https://sites.google.com/site/cookingcomputersandmore/home/computers-electronics-and-gadgets/piratebox-on-tp-link-mr-3020" rel="nofollow">the original tutorial</a></b> for the TP-Link MR3020 build.
+You can read more about <b><a href="http://wiki.openwrt.org/toh/tp-link/tl-mr3020" class="external text" title="http://wiki.openwrt.org/toh/tp-link/tl-mr3020" rel="nofollow">OpenWrt on the TP-Link MR3020 here</a></b> and <a href="http://wiki.openwrt.org/toh/tp-link/tl-wr703n" class="external text" title="http://wiki.openwrt.org/toh/tp-link/tl-wr703n" rel="nofollow">OpenWrt on the TP-Link WR703N here</a><b>. Also check out </b><a href="http://forum.daviddarts.com" class="external text" title="http://forum.daviddarts.com" rel="nofollow">the PirateBox forum</a><b> for more info and support. And of course you can read more about the </b><a href="/wiki/PirateBox" title="PirateBox">PirateBox project here</a><b>.</b>
+</p>
+<a name="Stuff_You.27ll_Need" id="Stuff_You.27ll_Need"></a><h2><span class="editsection">[<a href="/w/index.php?title=TL-MR3020_PirateBox&amp;action=edit&amp;section=5" title="Edit section: Stuff You&#39;ll Need">edit</a>]</span> <span class="mw-headline"><b>Stuff You'll Need</b></span></h2>
+<ul><li><b>TP-Link MR3020</b> (<a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16833704127&amp;Tpk=tp-link%20mr3020" class="external text" title="http://www.newegg.com/Product/Product.aspx?Item=N82E16833704127&amp;Tpk=tp-link%20mr3020" rel="nofollow">Newegg</a>) or <b>TP-Link TL-WR703N</b> (<a href="http://www.ebay.com/sch/i.html?_from=R40&amp;_trksid=p5197.m570.l1313&amp;_nkw=TP-Link+TL-WR703N&amp;_sacat=See-All-Categories" class="external text" title="http://www.ebay.com/sch/i.html?_from=R40&amp;_trksid=p5197.m570.l1313&amp;_nkw=TP-Link+TL-WR703N&amp;_sacat=See-All-Categories" rel="nofollow">eBay</a>) 
+</li></ul>
+<ul><li><b>USB Flash Drive</b> (formatted FAT32 with a single partition)
+</li></ul>
+<ul><li><b>Ethernet cable</b>
+</li></ul>
+<ul><li><b>5V/USB Battery</b> (optional - see <a href="/w/index.php?title=PirateBox_DIY_OpenWrt&amp;action=edit&amp;redlink=1" class="new" title="PirateBox DIY OpenWrt (page does not exist)"> below for more info</a>)
+</li></ul>
+<a name="Pre-Installation" id="Pre-Installation"></a><h2><span class="editsection">[<a href="/w/index.php?title=TL-MR3020_PirateBox&amp;action=edit&amp;section=6" title="Edit section: Pre-Installation">edit</a>]</span> <span class="mw-headline"><b>Pre-Installation</b></span></h2>
+<p><b>1.</b> First download a copy of <a href="http://downloads.openwrt.org/snapshots/trunk/ar71xx/openwrt-ar71xx-generic-tl-mr3020-v1-squashfs-factory.bin" class="external text" title="http://downloads.openwrt.org/snapshots/trunk/ar71xx/openwrt-ar71xx-generic-tl-mr3020-v1-squashfs-factory.bin" rel="nofollow">OpenWrt for the MR3020</a> OR <a href="http://downloads.openwrt.org/snapshots/trunk/ar71xx/openwrt-ar71xx-generic-tl-wr703n-v1-squashfs-factory.bin" class="external text" title="http://downloads.openwrt.org/snapshots/trunk/ar71xx/openwrt-ar71xx-generic-tl-wr703n-v1-squashfs-factory.bin" rel="nofollow">for the WR703N</a>
+</p><p><b>2.</b> Set the toggle switch located beside the LAN/WAN port to WISP mode
+</p><p><b>3.</b> Connect the router via ethernet cable to your computer and open a web browser to <a href="http://192.168.0.254" class="external free" title="http://192.168.0.254" rel="nofollow">http://192.168.0.254</a> 
+</p><p><b>4.</b> Enter the default username &amp; password (admin &amp; admin)
+</p><p><b>5.</b> Navigate to <b>System Tools &gt; Firmware Upgrade</b> and select the OpenWRT firmware  
+</p><p><b>6.</b> After the upgrade completes, the system will restart
+</p><p><b>7.</b> Telnet to the device:
+</p>
+<pre>telnet 192.168.1.1</pre>
+<p><b>8.</b> Use the passwd command to set your login password - this will enable SSH:
+</p>
+<pre>passwd</pre>
+<p><b>9.</b> Edit the network file with vi (<a href="http://www.lagmonster.org/docs/vi.html" class="external text" title="http://www.lagmonster.org/docs/vi.html" rel="nofollow">vi cheat sheet</a>):
+</p>
+<pre>vi /etc/config/network</pre>
+<p><b>NOTE:</b> You should set the option gateway on line 13 and the list DNS on line 14 to YOUR router's IP address, which should NOT be the same as the IP address to which you're assigning the router (192.168.1.1). For the example below, the gateway router's IP address is set to 192.168.1.11 (modify this to fit your own network configuration).
+The modified file should look like this:
+</p>
+<pre>
+config interface 'loopback'                                                               
+        option ifname 'lo'                                                                
+        option proto 'static'                                                             
+        option ipaddr '127.0.0.1'                                                         
+        option netmask '255.0.0.0'                                                        
+                                                                                          
+config interface 'lan'                                                                    
+        option ifname 'eth0'                                                              
+        option type 'bridge'                                                              
+        option proto 'static'                                                             
+        option ipaddr '192.168.1.1'                                                       
+        option netmask '255.255.255.0'                                                    
+        option gateway '192.168.1.11'                                                     
+        list dns '192.168.1.11'                                                           
+        list dns '8.8.8.8'                                                                
+                                                                                          
+</pre>
+<p><b>10.</b> Backup firewall config file:
+</p>
+<pre>cp /etc/config/firewall /etc/config/firewall.bak</pre>
+<p><b>11.</b> Open the firewall config file:
+</p>
+<pre>vi /etc/config/firewall</pre>
+<p>Modify first 23 lines to look like this. Leave the rest of the file alone.
+</p>
+<pre>
+config defaults                                                                       
+        option syn_flood        '1'                                                   
+        option input            'ACCEPT'                                              
+        option output           'ACCEPT'                                              
+        option forward          'ACCEPT'                                              
+# Uncomment this line to disable ipv6 rules                                           
+#       option disable_ipv6     1                                                     
+                                                                                      
+config zone                                                                           
+        option name             'lan'                                                 
+        option network          'lan'                                                 
+        option input            'ACCEPT'                                              
+        option output           'ACCEPT'                                              
+        option forward          'ACCEPT'                                              
+                                                                                      
+config zone                                                                           
+        option name             'wan'                                                 
+        option network          'wan'                                                 
+        option input            'ACCEPT'                                              
+        option output           'ACCEPT'                                              
+        option forward          'ACCEPT'                                              
+        option masq             '1'                                                   
+        option mtu_fix          '1'                      
+
+</pre>
+<p><b>12.</b> Enable wireless by modifying the wireless config:
+</p>
+<pre>vi /etc/config/wireless</pre>
+<p>Change Line 12 to:
+</p>
+<pre>option disabled 0</pre>
+<p><b>13.</b> Power cycle the router by unplugging the AC power.   
+</p><p><b>14.</b> Connect the MR3020 to your gateway router (e.g. your home network router) with an ethernet cable and plug the power back in. Wait a couple of minutes until the router boots up. With your computer connected to your home network, try sshing into the router (Note: use the IP address you assigned in step 9):
+</p>
+<pre>ssh root@192.168.1.1</pre>
+<p><b>15.</b> Ping google to ensure your firewall settings are correct:
+</p>
+<pre>ping google.com</pre>
+<p><b>16.</b> Add USB support to OpenWrt by installing and enabling the following packages:
+</p>
+<pre>
+opkg update
+opkg install kmod-usb-uhci
+insmod usbcore
+insmod uhci
+opkg install kmod-usb-ohci
+insmod usb-ohci
+</pre>
+<a name="Install_PirateBox" id="Install_PirateBox"></a><h2><span class="editsection">[<a href="/w/index.php?title=TL-MR3020_PirateBox&amp;action=edit&amp;section=7" title="Edit section: Install PirateBox">edit</a>]</span> <span class="mw-headline"><b>Install PirateBox</b></span></h2>
+<p>Next you'll need to install PirateBox on the router.
+</p><p><b>1.</b> Connect your USB drive (formatted to FAT32 with only one partition) to the USB port.
+</p><p><b>2.</b> Install the mkPirateBox package by issuing the following commands. (<b>Note:</b> you can install the non chat version of PirateBox by substituting the 0.2.5_all.ipk package below)
+</p>
+<pre>
+cd /tmp
+wget http://piratebox.aod-rpg.de/piratebox_0.3-2_all.ipk
+opkg update &amp;&amp; opkg install piratebox*
+</pre>
+<p><b>NOTE:</b> To install the "non chat" version of PirateBox, download and install this package instead:
+</p>
+<pre>
+cd /tmp
+wget http://cr.23bit.net/piratebox/piratebox_0.2-5_all.ipk 
+opkg update &amp;&amp; opkg install piratebox*
+</pre>
+<p><b>3.</b> Unplug the ethernet cable and power cycle the device by unplugging the AC power cable for 10 seconds.
+</p><p><b>4.</b> Restart the device and join the "PirateBox - Share Freely" network. Open any web page and you should be redirected to the PirateBox menu. 
+</p><p><b>5.</b> Begin sharing files and chatting!
+</p>
+<a name="Recovery" id="Recovery"></a><h2><span class="editsection">[<a href="/w/index.php?title=TL-MR3020_PirateBox&amp;action=edit&amp;section=8" title="Edit section: Recovery">edit</a>]</span> <span class="mw-headline"><b>Recovery</b></span></h2>
+<p>You can remove or reinstall OpenWrt/PirateBox using the following procedure:
+</p><p><b>1.</b> First, access the router via telnet or ssh and delete the "overlay" filesystem with:
+</p>
+<pre>rm -rf /overlay/*</pre>
+<p><b>2.</b> Now "power cycle" the router by unplugging it and plugging it back in.
+</p><p><b>3.</b> Next, connect the router's WAN port to the Internet and use the sysupgrade command. <b>NOTE:</b> If PirateBox isn't installed yet, skip the first two commands: 
+</p>
+<pre>
+/etc/init.d/piratebox stop
+/etc/init.d/piratebox nodns
+sysupgrade -n http://downloads.openwrt.org/snapshots/trunk/ar71xx/openwrt-ar71xx-generic-tl-mr3020-v1-squashfs-factory.bin
+</pre>
+<p>More info about installing and recovering on the <a href="https://github.com/cr/mkPirateBox/wiki/Installation" class="external text" title="https://github.com/cr/mkPirateBox/wiki/Installation" rel="nofollow">mkPirateBox GitHub page</a>.
+</p>
+<a name="Enclosure_and_Power" id="Enclosure_and_Power"></a><h2><span class="editsection">[<a href="/w/index.php?title=TL-MR3020_PirateBox&amp;action=edit&amp;section=9" title="Edit section: Enclosure and Power">edit</a>]</span> <span class="mw-headline"><b>Enclosure and Power</b></span></h2>
+<p>If you're only planning to use the TP-Link router on AC power, you obviously don't need a special enclosure for it to house a battery and USB storage. However, given the router's small size and the fact that it runs on USB power (5V), it naturally lends itself to portability. There are lots of portable 5V power options for this type of device - for something slick and commercially produced, check out the <a href="http://www.amazon.com/iEP380-II-Dual-Port-Universal-Incredible-Blackberry/dp/B005IHDVLU/ref=sr_1_1?ie=UTF8&amp;qid=1331991068&amp;sr=8-1" class="external text" title="http://www.amazon.com/iEP380-II-Dual-Port-Universal-Incredible-Blackberry/dp/B005IHDVLU/ref=sr_1_1?ie=UTF8&amp;qid=1331991068&amp;sr=8-1" rel="nofollow">TeckNet iEP380-II Universal USB Battery Pack</a> or <a href="http://www.iogear.com/product/GMP6600P/" class="external text" title="http://www.iogear.com/product/GMP6600P/" rel="nofollow">this IoGear mobile power station</a>. 
+</p><p>Or, if you'd like to assemble something yourself, you might consider this combination: 
+</p>
+<ul><li><a href="http://www.ebay.com/itm/170673814734?ssPageName=STRK:MEWNX:IT&amp;_trksid=p3984.m1497.l2649" class="external text" title="http://www.ebay.com/itm/170673814734?ssPageName=STRK:MEWNX:IT&amp;_trksid=p3984.m1497.l2649" rel="nofollow">3A Output 5v Mobile Power Box USB</a> 
+</li><li><a href="http://www.ebay.com/itm/300604639136?ssPageName=STRK:MEWNX:IT&amp;_trksid=p3984.m1497.l2649" class="external text" title="http://www.ebay.com/itm/300604639136?ssPageName=STRK:MEWNX:IT&amp;_trksid=p3984.m1497.l2649" rel="nofollow">4 X Ultrafire 18650 3200mAh 3.7V Rechargeable Li-ion Batteries</a> 
+</li><li><a href="http://www.ebay.com/itm/320656624628?ssPageName=STRK:MEWNX:IT&amp;_trksid=p3984.m1497.l2649" class="external text" title="http://www.ebay.com/itm/320656624628?ssPageName=STRK:MEWNX:IT&amp;_trksid=p3984.m1497.l2649" rel="nofollow">AC 100-240V /DC 5V 2A Converter Adapter Power Supply</a>
+</li></ul>
+<p>You might also consider adding a PirateBox sticker - you can download a higher quality PirateBox logo .png file from <a href="http://daviddarts.com/piratebox/piratebox-logo_large.png" class="external text" title="http://daviddarts.com/piratebox/piratebox-logo_large.png" rel="nofollow">here</a>. And/or you can order PirateBox stickers from <a href="http://www.zazzle.com/piratebox_sticker-217661982550050811" class="external text" title="http://www.zazzle.com/piratebox_sticker-217661982550050811" rel="nofollow">zazzle</a>.
+</p>
+<hr />
+<a name="Buffalo_WZR-HP-G300NH" id="Buffalo_WZR-HP-G300NH"></a><h2><span class="editsection">[<a href="/w/index.php?title=TL-MR3020_PirateBox&amp;action=edit&amp;section=10" title="Edit section: Buffalo WZR-HP-G300NH">edit</a>]</span> <span class="mw-headline"><b>Buffalo WZR-HP-G300NH</b></span></h2>
+<p>You can find the original tutorial for installing PirateBox (without chat) on the Buffalo WZR-HP-G300NH <b><a href="/w/index.php?title=PirateBox_DIY_OpenWrt_Old&amp;action=edit&amp;redlink=1" class="new" title="PirateBox DIY OpenWrt Old (page does not exist)"> here</a>. Please note that some users have </b>had difficulty installing OpenWrt<b> on newer versions of the Buffalo WZR-HP-G300NH router featured below. Please see these forum posts (<a href="http://forum.daviddarts.com/read.php?2,408" class="external text" title="http://forum.daviddarts.com/read.php?2,408" rel="nofollow">1</a>, <a href="http://forum.daviddarts.com/read.php?2,366" class="external text" title="http://forum.daviddarts.com/read.php?2,366" rel="nofollow">2</a>, <a href="http://forum.daviddarts.com/read.php?2,433" class="external text" title="http://forum.daviddarts.com/read.php?2,433" rel="nofollow">3</a>) for more info.</b>
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 59/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:399-0!1!0!!en!2 and timestamp 20121019235531 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/TL-MR3020_PirateBox">https://cryptoanarchy.org/wiki/TL-MR3020_PirateBox</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/TL-MR3020_PirateBox" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:TL-MR3020_PirateBox&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=TL-MR3020_PirateBox&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=TL-MR3020_PirateBox&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=TL-MR3020_PirateBox" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/TL-MR3020_PirateBox" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/TL-MR3020_PirateBox" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=TL-MR3020_PirateBox&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=TL-MR3020_PirateBox&amp;oldid=3686" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 3 April 2012, at 04:49.</li>
+					<li id="viewcount">This page has been accessed 740 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.136 secs. --></body></html
+2
+>
+
+0
+

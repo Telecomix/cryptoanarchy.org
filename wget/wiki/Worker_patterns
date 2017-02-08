@@ -1,0 +1,256 @@
+54a8
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Worker patterns,Asynchronous,Erlang,Gen event,Gen fsm,Gen server,Supervisor,Synchronous" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Worker_patterns&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Worker_patterns&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Worker_patterns&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Worker patterns - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Worker_patterns";
+		var wgTitle = "Worker patterns";
+		var wgAction = "view";
+		var wgArticleId = "312";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 2434;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Worker_patterns skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Worker patterns</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p>Code in <a href="/wiki/Erlang" title="Erlang">erlang</a>, when structed to be compatible with the Open Telecom Platform (OTP), essentially follows the idea that everything is either a <b>worker</b> or a <b><a href="/wiki/Supervisor" title="Supervisor">supervisor</a></b>.
+</p><p><br />
+</p><p><b>Workers are used to perform tasks</b>
+</p>
+<ul><li> ANY tasks
+</li></ul>
+<p><b>Supervisors are used to monitor workers</b>
+</p>
+<ul><li> supervisors can also supervise other supervisors
+</li><li> sends signals about code update/downgrade
+</li><li> monitors if any worker dies, and takes action if that happens
+</li></ul>
+<p><br />
+</p>
+<a name="OTP_standard_workers" id="OTP_standard_workers"></a><h2><span class="editsection">[<a href="/w/index.php?title=Worker_patterns&amp;action=edit&amp;section=1" title="Edit section: OTP standard workers">edit</a>]</span> <span class="mw-headline"> OTP standard workers </span></h2>
+<p>There are three standard worker behaviors in OTP. You probably need to add your own non-standard workers for more specific tasks.
+</p>
+<a name="The_model" id="The_model"></a><h3><span class="editsection">[<a href="/w/index.php?title=Worker_patterns&amp;action=edit&amp;section=2" title="Edit section: The model">edit</a>]</span> <span class="mw-headline"> The model </span></h3>
+<p><a href="/wiki/File:GenX_yourcode.png" class="image" title="Image:genX yourcode.png"><img alt="Image:genX yourcode.png" src="/w/images/a/ad/GenX_yourcode.png" width="221" height="134" border="0" /></a>
+</p><p><b>gen_*</b> is a behavior that you implement. There are three standard OTP behaviors. When anyone does something with your code, they will <font color="red"><b>call one of the functions</b></font> in gen_* that will in turn <font color="green"><b>send a message</b></font> to your code. Your callback function will then <font color="#8392e1"><b>return a value</b></font> that is then <font color="#cc83e1"><b>sent back</b></font> to the caller.
+</p><p>The gen_* works a bit like a wrapper that allows you to easily write complex and reliable code quickly. It hides all the error-prone and repetitive things so that you can focus on doing creative work instead.
+</p><p>Much of the APIs are reused and can be found in all behaviors. Some functions can only be found in specific behaviors. Below is a more detailed description.
+</p><p><br />
+</p>
+<a name="Common_API" id="Common_API"></a><h3><span class="editsection">[<a href="/w/index.php?title=Worker_patterns&amp;action=edit&amp;section=3" title="Edit section: Common API">edit</a>]</span> <span class="mw-headline"> Common API </span></h3>
+<p>Remember the colors from the previous section?
+</p>
+<ul><li> <font color="red">Red</font> means that its part of the gen_* API.
+</li><li> <font color="green">Green</font> means that its a callback function in your code.
+</li></ul>
+<a name="API_found_in_all_gen_.2A" id="API_found_in_all_gen_.2A"></a><h4><span class="editsection">[<a href="/w/index.php?title=Worker_patterns&amp;action=edit&amp;section=4" title="Edit section: API found in all gen_*">edit</a>]</span> <span class="mw-headline"> API found in all gen_* </span></h4>
+<ul><li> <font color="red"><b>start_link()</b></font> creates a worker and attach it to a supervisor hierarchy
+</li><li> <font color="red"><b>start()</b></font> creates a worker and <i>does not</i> attach it to a hierarchy
+</li><li> <font color="red"><b>stop()</b></font> destroys the worker
+</li></ul>
+<p>Both start_link() and start() will result in that init() is called in your code. stop() results in that terminate() is called in your code.
+</p>
+<a name="Callback_functions_exist_in_all_worker_behaviors" id="Callback_functions_exist_in_all_worker_behaviors"></a><h4><span class="editsection">[<a href="/w/index.php?title=Worker_patterns&amp;action=edit&amp;section=5" title="Edit section: Callback functions exist in all worker behaviors">edit</a>]</span> <span class="mw-headline"> Callback functions exist in all worker behaviors </span></h4>
+<ul><li> <font color="green"><b>init()</b></font> called when your worker is just starting
+</li><li> <font color="green"><b>handle_info()</b></font> tells you about timeouts and when unidentified messages are sent to you
+</li><li> <font color="green"><b>terminate()</b></font> tells you that your code is being shut down
+</li><li> <font color="green"><b>code_update()</b></font> supervisor informs worker that it should update/downgrade its code
+</li></ul>
+<p><br />
+</p><p><br />
+</p>
+<a name="API_only_found_in_gen_server" id="API_only_found_in_gen_server"></a><h3><span class="editsection">[<a href="/w/index.php?title=Worker_patterns&amp;action=edit&amp;section=6" title="Edit section: API only found in gen_server">edit</a>]</span> <span class="mw-headline"> API only found in gen_server </span></h3>
+<p><a href="/wiki/File:Gen_server.png" class="image" title="Image:gen_server.png"><img alt="Image:gen_server.png" src="/w/images/1/19/Gen_server.png" width="300" height="300" border="0" /></a>
+</p><p><a href="/wiki/Gen_server" title="Gen server">gen_server</a> is used to create processes that are mostly meant to respond to messages. <font color="red">call()</font> and <font color="red">multi_call()</font> sends <a href="/wiki/Synchronous" title="Synchronous">synchronous</a> messages to your process, while <font color="red">cast()</font> and <font color="red">abcast()</font> are used for sending <a href="/wiki/Asynchronous" title="Asynchronous">asynchronous</a> messages. multi_call() and abcast() are used for sending messages to a cluster (if you are running the same server at multiple machines in a cluster)
+</p><p><font color="green">handle_call()</font> replies to synchronous messages. It often need to reply within a specified amount of time, otherwise an error will be reported via <font color="green">handle_info()</font>. 
+</p><p><font color="green">handle_cast()</font> is used to receive asynchronous messages. It does not need to reply.
+</p>
+<a name="API_only_found_in_gen_fsm" id="API_only_found_in_gen_fsm"></a><h3><span class="editsection">[<a href="/w/index.php?title=Worker_patterns&amp;action=edit&amp;section=7" title="Edit section: API only found in gen_fsm">edit</a>]</span> <span class="mw-headline"> API only found in gen_fsm </span></h3>
+<p><a href="/wiki/File:Gen_fsm.png" class="image" title="Image:gen_fsm.png"><img alt="Image:gen_fsm.png" src="/w/images/5/5c/Gen_fsm.png" width="300" height="300" border="0" /></a>
+</p><p><a href="/wiki/Gen_fsm" title="Gen fsm">gen_fsm</a> is used for describing finite state machines. You use <font color="red">send_event()</font> to notify the FSM that an event has occurred that potentially should result in a state transition. Each state in the FSM has its own callback function for handling incoming events. <font color="green">Actions</font> taken by these callback functions can be anything, there is no standard for this (use your creativity).
+</p><p><font color="red">send_all_state_event()</font> is used to send messages to the FSM that does not depend on the FSM to be in a specific state.
+</p>
+<a name="API_only_found_in_gen_event" id="API_only_found_in_gen_event"></a><h3><span class="editsection">[<a href="/w/index.php?title=Worker_patterns&amp;action=edit&amp;section=8" title="Edit section: API only found in gen_event">edit</a>]</span> <span class="mw-headline"> API only found in gen_event </span></h3>
+<p><a href="/wiki/File:Gen_event.png" class="image" title="Image:gen_event.png"><img alt="Image:gen_event.png" src="/w/images/8/82/Gen_event.png" width="300" height="300" border="0" /></a>
+</p><p><b>Event managers</b> are like hubs. <b><a href="/wiki/Gen_event" title="Gen event">Event handlers</a></b> can be attached to the event managers via <font color="red">add_handler()</font>. Whenever anyone uses <font color="red">notify()</font> to send an event to the event handler, the event handler will forward the event to all event handlers that are attached.
+</p><p>Typical sequence:
+</p>
+<ol><li> create event manager using start_link()
+</li><li> add at least zero event handlers to the event handler, using add_handler()
+</li><li> send event to event manager. notify()
+<ul><li> the event is sent to all attached event handlers. handle_event() is called.
+</li></ul>
+</li><li> delete_handler() will remove an event handler.
+</li><li> stop() removes the event handlers you did not delete, and then removes the event manager.
+</li></ol>
+<p>Event handlers can be much more complicated than this. But they usually just print errors into files, etc.
+</p>
+<a name="Supervisors" id="Supervisors"></a><h2><span class="editsection">[<a href="/w/index.php?title=Worker_patterns&amp;action=edit&amp;section=9" title="Edit section: Supervisors">edit</a>]</span> <span class="mw-headline"> <a href="/wiki/Supervisor" title="Supervisor">Supervisors</a> </span></h2>
+<div class="floatright"><a href="/wiki/File:Hierarchy.png" class="image" title="Hierarchy.png"><img alt="" src="/w/images/d/d3/Hierarchy.png" width="300" height="300" border="0" /></a></div>Supervisors can supervise both other supervisors and workers, while workers can only perform their designated tasks. This means that software can (SHOULD) be structured in pyramide-like trees.
+<p>If a problem occurs in a worker process, its supervisor will be notified. If the problem can not be solved by the local supervisor, the supervisor above that one will try to solve the problem, and so on. Depending on how bad the problem is, either a single worker will be restarted, or an entire subsystem can be restarted.
+</p><p>The idea is that <b>SYSTEM FAILURE IS NOT AN OPTION</b>. So, erlang tries to solve that using these supervisor hierarchies. Rather than trying to make software without errors, erlang takes the approach of making software that is capable of recover from failure.
+</p>
+<a name="Read_more" id="Read_more"></a><h2><span class="editsection">[<a href="/w/index.php?title=Worker_patterns&amp;action=edit&amp;section=10" title="Edit section: Read more">edit</a>]</span> <span class="mw-headline"> Read more </span></h2>
+<ul><li> <a href="http://www.erlang.org/doc/design_principles/des_princ.html" class="external text" title="http://www.erlang.org/doc/design_principles/des_princ.html" rel="nofollow">Erlang design principles</a>
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 36/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:312-0!1!0!!en!2 and timestamp 20121020024551 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Worker_patterns">https://cryptoanarchy.org/wiki/Worker_patterns</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>:&#32;<span dir='ltr'><a href="/wiki/Category:Erlang" title="Category:Erlang">Erlang</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Worker_patterns" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Worker_patterns&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Worker_patterns&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Worker_patterns&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Worker_patterns" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Worker_patterns" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Worker_patterns" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Worker_patterns&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Worker_patterns&amp;oldid=2434" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 3 July 2011, at 14:34.</li>
+					<li id="viewcount">This page has been accessed 708 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.206 secs. --></body></h
+5
+tml>
+
+0
+

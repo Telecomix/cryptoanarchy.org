@@ -1,0 +1,308 @@
+72e8
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Blackthrow,Anon shell box,Blackthrow drafts and ideas,CafeBox,Chaosbox,Connect.c,Iptables,OnionCat,PirateBox,PsyOP,Squatting prefixes" />
+		<link rel="canonical" href="/wiki/Blackthrow" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Blackthrow&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Blackthrow&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Blackthrow&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Blackthrow - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Blackthrow";
+		var wgTitle = "Blackthrow";
+		var wgAction = "view";
+		var wgArticleId = "31";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 4027;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Blackthrow skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Blackthrow</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub">(Redirected from <a href="/w/index.php?title=Svartkast&amp;redirect=no" title="Svartkast">Svartkast</a>)</div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			The <b>blackthrow</b> box is an effective anti-censorship peacefare equipment developed by the <a href="http://crypto.telecomix.org" class="external text" title="http://crypto.telecomix.org" rel="nofollow">Telecomix Crypto Munitions Bureau</a> (TCMB). A blackthrow is an anonymously remotely controlled drone that can be used to send any type of packets to any location at the internets. Communication with an operational blackthrow is slow, but its striking power against censorship can be equated to the power of a submerged nuclear submarine.<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Yellow-submarine.jpeg" class="image" title="The awesum striking power of peacefare."><img alt="" src="/w/images/thumb/3/30/Yellow-submarine.jpeg/180px-Yellow-submarine.jpeg" width="180" height="103" border="0" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Yellow-submarine.jpeg" class="internal" title="Enlarge"><img src="/w/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>The awesum striking power of peacefare.</div></div></div>
+<p>A blackthrow is a small computer that can be hidden inside government agencies or corporations. It connects to the TOR or I2P networks and publishes its SSH server as a hidden service in any of these networks. The TCMB field agent can then connect to the blackthrow anonymously and remote control it to deliver any type of packets to any location at the internets, that the host organization can connect to. It will look as if the host organization is responsible for the packets that are sent.
+</p><p>Alternative names for the blackthrow is the <b>dropbox</b> or the <b>kamikaze box</b>. The name dropbox comes from the fact that the box delivery system is akin to <a href="http://en.wikipedia.org/wiki/Culture_jamming" class="external text" title="http://en.wikipedia.org/wiki/Culture_jamming" rel="nofollow">shopdropping</a>. The name kamikaze box comes from the fact that once the box is installed, it will not be possible to repair it, as the risks for detection are too high. The name blackthrow is a direct translation of the swedish word <i>svartkast.</i> The blackthrow is just one of many types of peacefare boxes for field use developed by the TCMB.
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Blackthrow_assembly_instructions"><span class="tocnumber">1</span> <span class="toctext">Blackthrow assembly instructions</span></a></li>
+<li class="toclevel-1"><a href="#Accessing_the_blackthrow"><span class="tocnumber">2</span> <span class="toctext">Accessing the blackthrow</span></a></li>
+<li class="toclevel-1"><a href="#Alternative_method_for_access"><span class="tocnumber">3</span> <span class="toctext">Alternative method for access</span></a></li>
+<li class="toclevel-1"><a href="#Fighting_the_delay"><span class="tocnumber">4</span> <span class="toctext">Fighting the delay</span></a></li>
+<li class="toclevel-1"><a href="#OnionCat"><span class="tocnumber">5</span> <span class="toctext">OnionCat</span></a></li>
+<li class="toclevel-1"><a href="#running_hidden_services"><span class="tocnumber">6</span> <span class="toctext">running hidden services</span></a></li>
+<li class="toclevel-1"><a href="#Hardware_.28MOAR.3F.29"><span class="tocnumber">7</span> <span class="toctext">Hardware (MOAR?)</span></a></li>
+<li class="toclevel-1"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Blackthrow_assembly_instructions" id="Blackthrow_assembly_instructions"></a><h2><span class="editsection">[<a href="/w/index.php?title=Blackthrow&amp;action=edit&amp;section=1" title="Edit section: Blackthrow assembly instructions">edit</a>]</span> <span class="mw-headline"> Blackthrow assembly instructions </span></h2>
+<p>The field agent should be aware of the limiting factors of the box, as it needs to be an autonomous piece of equipment. Once installed, it should never again be physically accessed. Instead of trying to repair the box if it fails, the TCMB operative is adviced to focus on creating new boxes that has as long life expectancy as possible. All blackthrow operations are classified and should be carried out in silence, unless the agent is anonymized.
+</p><p><b>0.</b> The blackthrow itself consists of only a laptop with a WLAN or NIC card. Nothing else is needed. People throw away old laptops that are still useful, the best method to find new equipment is to search the trashes. You can also use Mini PCs (for example <a href="http://en.wikipedia.org/wiki/EPIA" class="external text" title="http://en.wikipedia.org/wiki/EPIA" rel="nofollow">EPIA-based</a>): these are cheap, small, with low-consumption and silent, making them harder to find.
+</p><p><b>1.</b> There should be no identifying information that could lead back to the agent. TCMB therefore recommends that the hard disk should be carefully wiped. Once the machine is installed it is only a matter of time before someone finds it, even if it might takes years before this happens to a well hidden blackthrow. Once it happens though, it is possible that the sysadmins will read the hard disk to learn more about the box origns.
+</p><p><b>2.</b> Install the operating system of choice at the laptop. Because of the low communication speeds with a hidden box, it is recommended that no graphical interface is installed. Make sure that you do not enter any identifying information what so ever in the installation process.
+</p><p><b>3.</b> Once the operating system is installed, TOR or I2P can be installed. It is easier to use TOR. In debian linux, type "apt-get install tor". In OpenBSD type "pkg_add -vi tor".
+</p><p><b>4.1</b> For anonymous remote control of the blackthrow, the secure shell (SSH) server needs to be made accessible as a hidden service. You need to edit two lines in the /etc/tor/torrc file. The file needs to contain the following two lines.
+</p>
+<pre>
+HiddenServiceDir /etc/tor/hidden/
+HiddenServicePort 22 127.0.0.1:22
+</pre>
+<p>You will also need to create the /etc/tor/hidden/ directory. <b>(make sure it is owned by the account that TOR runs as. In debian, its <i>debian-tor</i>)</b>
+</p>
+<div class="floatright"><a href="/wiki/File:Svartkast.png" class="image" title="Svartkast.png"><img alt="" src="/w/images/1/10/Svartkast.png" width="320" height="256" border="0" /></a></div>Then restart TOR. Inside the file /etc/tor/hidden/hostname, there will now be a string that ends in ".onion". This is the anonymous destination of the blackthrows SSH server in the TOR network. It can be used to remotely control the machine anonymously.
+<p><b>4.2</b> While optional, it may be useful to include a web based ssh terminal in conjunction with standard ssh. This will allow you to access ssh using a standard web browser. Keep in mind, it is still very slow, and should be utilized when you have limited resource at hand (e.g. locked down cafe computer, that you could only boot up torbrowser).
+</p><p>We shall be using ajaxterm (please suggest a more latency friendly web ssh alternative.
+</p>
+<pre>
+apt-get install ajaxterm
+/etc/init.d/ajaxterm start
+</pre>
+<p>This will also needs to be made accessible as a hidden service. You need to edit two lines in the /etc/tor/torrc file. The file needs to contain the following two lines.
+</p>
+<pre>
+HiddenServiceDir /etc/tor/hidden-webadmin/
+HiddenServicePort 80 127.0.0.1:8022
+</pre>
+<p>By default, ajaxterm fortunately only binds to localhost, so you can only access this interface via tor.
+</p><p>Instruction source: <a href="http://wiki.kartbuilding.net/index.php/Ajaxterm" class="external free" title="http://wiki.kartbuilding.net/index.php/Ajaxterm" rel="nofollow">http://wiki.kartbuilding.net/index.php/Ajaxterm</a>
+</p><p><b>5.</b> TCMB recommends that you <i>very</i> carefully clean the laptop. At this point, it should not matter if you destroy parts of the laptop in order to clean it from identifying products. The blackthrow should be able to operate fully autonomously without the need for physical access before you install it in any host organization. 
+</p><p>Soap and water can remove fingerprints. Please also consider cleaning the <i>inside</i> of the computer if you have touched anything at the inside.
+</p><p><b>6.</b> Consider painting the blackthrow with the <a href="/wiki/PsyOP" title="PsyOP">PsyOP tactical color patters</a> for maximum perplexity.
+</p><p><b>7.</b> Install the blackthrow at a suitable location. If necessary, you will have to crack their WLAN first. In office areas, it is often possible to hide machinery above of any of the roof tiles. Cable racks ("kabelstegar") are also possible candidates. Below the floor or inside walls are also possible hideouts. Find locations where no one would ever look casually.
+</p><p>Do not forget to remove all the log files. And never insert any personal information about yourself into the box.
+</p>
+<a name="Accessing_the_blackthrow" id="Accessing_the_blackthrow"></a><h2><span class="editsection">[<a href="/w/index.php?title=Blackthrow&amp;action=edit&amp;section=2" title="Edit section: Accessing the blackthrow">edit</a>]</span> <span class="mw-headline"> Accessing the blackthrow </span></h2>
+<p>These instructions should not be applied to the blackthrow itself, but only at the operators computer.
+</p><p>To access the blackthrow, the operator needs to compile a small program and use it together with SSH. You can download it <a href="https://savannah.gnu.org/maintenance/connect.c" class="external text" title="https://savannah.gnu.org/maintenance/connect.c" rel="nofollow">here</a>, or <a href="/wiki/Connect.c" title="Connect.c">directly from this wiki</a>. Compile it with "gcc -o connect ./connect.c". Move the executable file <tt>connect</tt> to some directory that you enjoy.
+</p><p>Then edit /etc/ssh/ssh_config. Append the following lines to the end of the file:
+</p>
+<pre>
+# use TOR to access TOR services lol&nbsp;:)
+Host *.onion
+ProxyCommand /xxx/yyy/connect -S localhost:9050&nbsp;%h&nbsp;%p
+</pre>
+<p>Replace xxx/yyy/ with the directory where you placed the <tt>connect</tt> program.
+</p><p>You should now be able to anonymously access the blackthrow by just typing (replace "fca4q5tuyhdxas7p.onion" with your own destination, which you got from the blackthrows /etc/tor/hidden/hostname file.)
+</p>
+<pre>
+ssh root@fca4q5tuyhdxas7p.onion -p 22
+</pre>
+<a name="Alternative_method_for_access" id="Alternative_method_for_access"></a><h2><span class="editsection">[<a href="/w/index.php?title=Blackthrow&amp;action=edit&amp;section=3" title="Edit section: Alternative method for access">edit</a>]</span> <span class="mw-headline"> Alternative method for access </span></h2>
+<p>If the TOR hidden address is fca4q5tuyhdxas7p.onion, you could add the following line to your /etc/tor/torrc file:
+</p>
+<pre>mapaddress 10.40.40.90 fca4q5tuyhdxas7p.onion
+</pre>
+<p>and then connect to the ip address 10.40.40.90 with SSH, telnet, .. (Make sure your connection to the IP goes through TOR, otherwise it will not work. Type something like "torify ssh root@10.40.40.90" when you connect.). You can use any IP address you want. Notice that you also needs to change the torrc file at the blackthrow to accept connections to the various ports from its hidden service. All information that is needed can be found in your /etc/tor/torrc file.
+</p>
+<a name="Fighting_the_delay" id="Fighting_the_delay"></a><h2><span class="editsection">[<a href="/w/index.php?title=Blackthrow&amp;action=edit&amp;section=4" title="Edit section: Fighting the delay">edit</a>]</span> <span class="mw-headline"> Fighting the delay </span></h2>
+<p>It will take about ten to thirty seconds to connect to the blackthrow. Once connected, an issued command will take about 2-3 seconds to return its result. The delay is caused by the extensive hopping between different computers at the TOR network. Even though the blackthrow is slow to respond, its bandwidth to the internets is as high as the host organizations. Your connection to it is slow just because you are anon, everyone else will perceive the box as having normal bandwidth. 
+</p><p>Consider piping the output to files instead of directly back to the terminal. (Also see "tee" to provide immediate feedback alongside an output logfile.) The use of nuhup, cron, screen, and other services could help with performing tasks even if the connection is broken. Also remember that while it takes time to interact with the blackthrow, it is still possible to transfer rather large files over TOR with ease. Interactive communication is much slower than non-interactive: Use files, not the terminal, to dump the output of larger tasks.
+</p><p>If you like to hack something together, you could cut down some of the lagging by using telnet login instead. TOR is already end-to-end encrypted so it should not matter. Just do not forget to <a href="/wiki/Iptables" title="Iptables">firewall</a> the telnet port so that its only accessible from inside the TOR network.
+</p><p>One thing that can help fight delay substantially is disabling GSSAPI authentication. This authentication method is associated with Kerberos, and isn't needed for our purposes here. Having this option enabled can cause a very long delay during the initial connection, as it tries to connect in this way unsuccessfully several times. Turn this option off in your /etc/ssh/sshd_config file.
+</p>
+<pre>
+# GSSAPI options
+GSSAPIAuthentication no
+#GSSAPIAuthentication yes
+GSSAPICleanupCredentials no
+#GSSAPICleanupCredentials yes
+</pre>
+<p>Alternatively, connect to your blackthrow with GSSAPI disabled on the client-side:
+</p>
+<pre>
+ssh -o GSSAPIAuthentication=no -p 22 root@fca4q5tuyhdxas7p.onion
+</pre>
+<a name="OnionCat" id="OnionCat"></a><h2><span class="editsection">[<a href="/w/index.php?title=Blackthrow&amp;action=edit&amp;section=5" title="Edit section: OnionCat">edit</a>]</span> <span class="mw-headline"> OnionCat </span></h2>
+<p>It is possible to forward any type of information over <a href="/wiki/OnionCat" title="OnionCat">OnionCat</a> via the blackthrows, to the internets anonymously. This means that you do not have to log in to send packets, if the svartkast is configured to route packets from the OnionCat interface to its ordinary WLAN interface.
+</p><p>TODO: iptables command to do so.
+</p>
+<a name="running_hidden_services" id="running_hidden_services"></a><h2><span class="editsection">[<a href="/w/index.php?title=Blackthrow&amp;action=edit&amp;section=6" title="Edit section: running hidden services">edit</a>]</span> <span class="mw-headline"> running hidden services </span></h2>
+<p>If you run hidden services on your blackthrow (eg. a web server), it could leak the purpose of the device to someone who finds it. Even if you encrypt almost everything, the /etc/tor/hidden/hostname has to be unencrypted so you are still able to ssh to your blackthrow via tor to unencrypt the secret data if it reboots for some reason. If it is unencrypted, one could put the blackthrow back and wait for it to reconnect to the network and for you to re-type in the password and then try to access the box with a web browser by typing in the host name from /etc/tor/hidden/hostname. (same problem with other services that might expose the origin or purpose of it, such as irc)
+</p>
+<a name="Hardware_.28MOAR.3F.29" id="Hardware_.28MOAR.3F.29"></a><h2><span class="editsection">[<a href="/w/index.php?title=Blackthrow&amp;action=edit&amp;section=7" title="Edit section: Hardware (MOAR?)">edit</a>]</span> <span class="mw-headline"> Hardware (MOAR?) </span></h2>
+<ul><li> Anything running OpenWRT. Requires manual compiling of Tor (?)
+</li><li> Raspberry&nbsp;: <a href="http://www.raspberrypi.org/" class="external free" title="http://www.raspberrypi.org/" rel="nofollow">http://www.raspberrypi.org/</a>
+<ul><li> 25-36 USD
+</li><li> Full OS
+</li><li> Easily Concealable
+</li></ul>
+</li><li> Linutop&nbsp;: <a href="http://www.linutop.com/index.en.html" class="external free" title="http://www.linutop.com/index.en.html" rel="nofollow">http://www.linutop.com/index.en.html</a>
+<ul><li> More expensive than Raspberry
+</li><li> Better quality (to be written)
+</li></ul>
+</li><li> cstick Cotton Candy&nbsp;: <a href="http://store.cstick.com/" class="external free" title="http://store.cstick.com/" rel="nofollow">http://store.cstick.com/</a>
+<ul><li> really small
+</li><li> 199 USD
+</li><li> still to be studied
+</li></ul>
+</li><li> CuBox&nbsp;: <a href="http://www.solid-run.com/products/cubox" class="external free" title="http://www.solid-run.com/products/cubox" rel="nofollow">http://www.solid-run.com/products/cubox</a>
+<ul><li> 135 USD (Currently sold out)
+</li><li> Low power ARM, no fan, small case, quiet
+</li><li> Gbit ethernet, Infra-red receiver
+</li></ul>
+</li></ul>
+<a name="See_also" id="See_also"></a><h2><span class="editsection">[<a href="/w/index.php?title=Blackthrow&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a>]</span> <span class="mw-headline"> See also </span></h2>
+<ul><li> <a href="/wiki/Chaosbox" title="Chaosbox">Chaosbox</a>
+</li><li> <a href="/wiki/PirateBox" title="PirateBox">PirateBox</a>
+</li><li> <a href="/wiki/Blackthrow_drafts_and_ideas" title="Blackthrow drafts and ideas">Blackthrow drafts and ideas</a> &lt;-- drafts&nbsp;:-)
+</li><li> <a href="/wiki/SvartFON" title="SvartFON">SvartFON</a>
+</li><li> <a href="/wiki/Anon_shell_box" title="Anon shell box">Anon shell box</a>
+</li><li> <a href="/wiki/CafeBox" title="CafeBox">CafeBox</a>
+</li><li> <a href="/wiki/Squatting_prefixes" title="Squatting prefixes">Squatting prefixes</a>
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 30/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:31-0!1!0!!en!2 and timestamp 20121019165004 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Blackthrow">https://cryptoanarchy.org/wiki/Blackthrow</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>:&#32;<span dir='ltr'><a href="/w/index.php?title=Category:HOWTO&amp;action=edit&amp;redlink=1" class="new" title="Category:HOWTO (page does not exist)">HOWTO</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Blackthrow" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk"><a href="/wiki/Talk:Blackthrow" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Blackthrow&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Blackthrow&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Blackthrow" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Blackthrow" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Blackthrow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Blackthrow&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Blackthrow&amp;oldid=4027" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 29 July 2012, at 14:17.</li>
+					<li id="viewcount">This page has been accessed 17,388 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.142 secs. --></body></htm
+3
+l>
+
+0
+

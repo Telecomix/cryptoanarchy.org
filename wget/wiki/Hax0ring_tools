@@ -1,0 +1,1950 @@
+fff8
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Hax0ring tools,ArchTrack/aur/irpas,ArchTrack/aur/dmitry,ArchTrack/aur/dnswalk,ArchTrack/aur/dnsmap,ArchTrack/aur/dnstracer,ArchTrack/aur/firewalk,ArchTrack/pkg/dnsutils,ArchTrack/aur/amap,Kond:Network Mapping,ArchTrack/aur/autoscan" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Hax0ring_tools&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Hax0ring_tools&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Hax0ring_tools&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Hax0ring tools - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Hax0ring_tools";
+		var wgTitle = "Hax0ring tools";
+		var wgAction = "view";
+		var wgArticleId = "385";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 3575;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Hax0ring_tools skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Hax0ring tools</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p>This page is a backup copy from the <a href="https://wiki.archlinux.org/index.php/ArchTrack/oldtools" class="external text" title="https://wiki.archlinux.org/index.php/ArchTrack/oldtools" rel="nofollow">archlinux wiki</a>.
+</p><p><b>TODO</b>
+</p>
+<ul><li> maintain this list
+</li></ul>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Core"><span class="tocnumber">1</span> <span class="toctext">Core</span></a></li>
+<li class="toclevel-1"><a href="#Information_Gathering"><span class="tocnumber">2</span> <span class="toctext">Information Gathering</span></a></li>
+<li class="toclevel-1"><a href="#Network_Mapping"><span class="tocnumber">3</span> <span class="toctext">Network Mapping</span></a></li>
+<li class="toclevel-1"><a href="#Sniffers"><span class="tocnumber">4</span> <span class="toctext">Sniffers</span></a></li>
+<li class="toclevel-1"><a href="#Fingerprint"><span class="tocnumber">5</span> <span class="toctext">Fingerprint</span></a></li>
+<li class="toclevel-1"><a href="#Vulnerability_Identification"><span class="tocnumber">6</span> <span class="toctext">Vulnerability Identification</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Fuzzers"><span class="tocnumber">6.1</span> <span class="toctext">Fuzzers</span></a></li>
+<li class="toclevel-2"><a href="#SNMP"><span class="tocnumber">6.2</span> <span class="toctext">SNMP</span></a></li>
+<li class="toclevel-2"><a href="#SMB"><span class="tocnumber">6.3</span> <span class="toctext">SMB</span></a></li>
+<li class="toclevel-2"><a href="#SQL"><span class="tocnumber">6.4</span> <span class="toctext">SQL</span></a></li>
+<li class="toclevel-2"><a href="#Cisco"><span class="tocnumber">6.5</span> <span class="toctext">Cisco</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Penetration"><span class="tocnumber">7</span> <span class="toctext">Penetration</span></a></li>
+<li class="toclevel-1"><a href="#Privilege_Escalation"><span class="tocnumber">8</span> <span class="toctext">Privilege Escalation</span></a></li>
+<li class="toclevel-1"><a href="#Packet_Generators"><span class="tocnumber">9</span> <span class="toctext">Packet Generators</span></a></li>
+<li class="toclevel-1"><a href="#Maintaining_Access"><span class="tocnumber">10</span> <span class="toctext">Maintaining Access</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Backdoors"><span class="tocnumber">10.1</span> <span class="toctext">Backdoors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Covering_Tracks"><span class="tocnumber">11</span> <span class="toctext">Covering Tracks</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Housekeeping"><span class="tocnumber">11.1</span> <span class="toctext">Housekeeping</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Radio_Network_Analysis"><span class="tocnumber">12</span> <span class="toctext">Radio Network Analysis</span></a>
+<ul>
+<li class="toclevel-2"><a href="#802.11"><span class="tocnumber">12.1</span> <span class="toctext">802.11</span></a></li>
+<li class="toclevel-2"><a href="#Bluetooth"><span class="tocnumber">12.2</span> <span class="toctext">Bluetooth</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#VoIP_.26_Telephony_Analysis"><span class="tocnumber">13</span> <span class="toctext">VoIP &amp; Telephony Analysis</span></a></li>
+<li class="toclevel-1"><a href="#Network_Security_Monitoring"><span class="tocnumber">14</span> <span class="toctext">Network Security Monitoring</span></a></li>
+<li class="toclevel-1"><a href="#Digital_Forensics"><span class="tocnumber">15</span> <span class="toctext">Digital Forensics</span></a></li>
+<li class="toclevel-1"><a href="#Reverse_Engineering"><span class="tocnumber">16</span> <span class="toctext">Reverse Engineering</span></a></li>
+<li class="toclevel-1"><a href="#Services"><span class="tocnumber">17</span> <span class="toctext">Services</span></a></li>
+<li class="toclevel-1"><a href="#Firefox_Add-ons"><span class="tocnumber">18</span> <span class="toctext">Firefox Add-ons</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Core" id="Core"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=1" title="Edit section: Core">edit</a>]</span> <span class="mw-headline"> Core </span></h2>
+<p><b>Legend:</b>
+</p><p><b>(T)</b> -- Text Interface
+</p><p><b>(G)</b> -- Graphical Interface
+</p><p><b>(W)</b> -- Wine App
+</p><p><b>(*)</b>  -- Exclusive. (not on BT)
+</p><p><b>TODO</b>  -- NOT on AUR
+</p><p><b>NOTE: The following list of tools is included to support ongoing development of AUR packages for these tools.  In the near future, it will be automatically generated by the script(s) at the <a href="http://github.com/ryooichi/ArchTrack" class="external text" title="http://github.com/ryooichi/ArchTrack" rel="nofollow">ArchTrack project at GitHub</a>.  Please be patient!  There are only a few people working on this in a part-time, unofficial capacity.</b>
+</p>
+<a name="Information_Gathering" id="Information_Gathering"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=2" title="Edit section: Information Gathering">edit</a>]</span> <span class="mw-headline">Information Gathering</span></h2>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://phenoelit-us.org/irpas/docu.html#ass" class="external text" title="http://phenoelit-us.org/irpas/docu.html#ass" rel="nofollow">ASS</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/irpas&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/irpas (page does not exist)">ArchTrack/aur/irpas</a>
+</th><td> ASS is a Autonomous System Scanner. Because routing protocols use autonomous systems to distinguish between various routing "domains" and various ways to communicate, you need something which works like a TCP port scanner but knows more than one protocol.
+</td></tr>
+
+
+<tr>
+<th align="left"> <a href="http://netsniff-ng.org" class="external text" title="http://netsniff-ng.org" rel="nofollow">ashunt</a>(T) </th><th> ashunt
+</th><td> ashunt is an autonomous system trace route utility, which gathers information about AS numbers of hops, city and country details; part of netsniff-ng
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.mor-pah.net/" class="external text" title="http://www.mor-pah.net/" rel="nofollow">Dmitry</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/dmitry&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/dmitry (page does not exist)">ArchTrack/aur/dmitry</a>
+</th><td> DMitry (Deepmagic Information Gathering Tool) is a UNIX/Linux command line program coded purely in C with the ability to gather as much information as possible about a host.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://vejeta18.wordpress.com/2006/11/19/dns-ptr/#more-12" class="external text" title="http://vejeta18.wordpress.com/2006/11/19/dns-ptr/#more-12" rel="nofollow">DNS-Ptr</a>(T) </th><th> TODO
+</th><td> It is a tool that allows you to make a consultation by means of IP ranks to obtain DNS names of this IPs in addition with simplicity and speed.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://sourceforge.net/projects/dnswalk" class="external text" title="http://sourceforge.net/projects/dnswalk" rel="nofollow">dnswalk</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/dnswalk&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/dnswalk (page does not exist)">ArchTrack/aur/dnswalk</a>
+</th><td> Dnswalk is a DNS debugger.  It performs zone transfers of specified
+<p>domains, and checks the database in numerous ways for internal
+consistency, as well as accuracy.
+</p>
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.revhosts.net/DNSBruteforce" class="external text" title="http://www.revhosts.net/DNSBruteforce" rel="nofollow">dns-bruteforce</a>(T) </th><th> TODO
+</th><td> This tool is used to made a brute force on name resolution.The idea of that tool is to resolve all words dot domain name. To be more useful the tool uses multi threading; one thread for each name server. Classical brute forcers are sequential. With this method we cut the dictionary in n blocs ( n is the number of dns servers) and distribute these blocs to name servers.
+<p>The tool is now in the project revhosts, new updates are only available in revhosts. 
+</p>
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.filip.waeytens.easynet.be/" class="external text" title="http://www.filip.waeytens.easynet.be/" rel="nofollow">dnsenum</a>(T) </th><th> TODO
+</th><td> A tool written in Perl to enumerate information on a domain. It uses the Net::DNS module.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://ikwt.dyndns.org/" class="external text" title="http://ikwt.dyndns.org/" rel="nofollow">dnsmap</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/dnsmap&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/dnsmap (page does not exist)">ArchTrack/aur/dnsmap</a>
+</th><td> Dnsmap is a small C based tool that perform brute-forcing of domains. The tool can use an internal wordlist, or work with an external dictionary file.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://johnny.ihackstuff.com/downloads/task,cat_view/gid,16/limit,5/limitstart,0/order,name/dir,ASC/" class="external text" title="http://johnny.ihackstuff.com/downloads/task,cat_view/gid,16/limit,5/limitstart,0/order,name/dir,ASC/" rel="nofollow">DNSPredictx</a>(T) </th><th> TODO
+</th><td> This PERL script, by Jimmy Neutron, is great for determining DNS names with Google. This tool, which is essential for network mapping, accepts two somewhat related words, and a domain name as arguments. The two words are sent through Google sets which expands the words into a list of related words. For example, "earth" and "mars" would expand to Venus, Mercury, Jupiter, Saturn, Neptune, Uranus, Pluto. If fed domain foo.com, dnspredict would then attempt to DNS resolve venus.foo.com, mercury.foo.com, etc. This Windows version is standalone, and requires nothing other than this executable.
+</td></tr>
+<tr>
+<th align="left"> dnstracer(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/dnstracer&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/dnstracer (page does not exist)">ArchTrack/aur/dnstracer</a>
+</th><td>
+</td></tr>
+<tr>
+<th align="left"> <a href="http://sourceforge.net/project/showfiles.php?group_id=82076" class="external text" title="http://sourceforge.net/project/showfiles.php?group_id=82076" rel="nofollow">FingerGoogle</a>(T) </th><th> TODO
+</th><td> FingerGoogle is a reduced Net-Twister module that helps to find user account names
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.packetfactory.net/projects/firewalk/" class="external text" title="http://www.packetfactory.net/projects/firewalk/" rel="nofollow">Firewalk</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/firewalk&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/firewalk (page does not exist)">ArchTrack/aur/firewalk</a>
+</th><td> Firewalk is an active reconnaissance network security tool that attempts to determine what layer 4 protocols a  given IP forwarding device will pass. Firewalk  works  by sending out TCP or UDP packets with a TTL one greater than the targeted gateway.  If the gateway allows the traffic, it will forward the packets to the next hop where they will expire and elicit an ICMP_TIME_EXCEEDED  message.  If the gateway host does not allow the traffic, it will likely drop the packets on  the floor and we will see no response.
+</td></tr>
+<tr>
+<th align="left"> Goog Mail Enum(T) </th><th> TODO
+</th><td> Enumerate domain emails from google
+</td></tr>
+<tr>
+<th align="left"> Google search(T) </th><th> TODO
+</th><td> Google search script from the command line.
+</td></tr>
+<tr>
+<th align="left"> Googrape(T) </th><th> TODO
+</th><td> Gives a localized access to the Google Hacking DB by allowing you to look up a domain name. And is excelent for searching through records.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://johnny.ihackstuff.com/" class="external text" title="http://johnny.ihackstuff.com/" rel="nofollow">Gooscan</a>(T) </th><th> TODO
+</th><td> Gooscan is a tool that automates queries against Google search appliances.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.hmug.org/man/1/host.php" class="external text" title="http://www.hmug.org/man/1/host.php" rel="nofollow">Host</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/pkg/dnsutils&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/pkg/dnsutils (page does not exist)">ArchTrack/pkg/dnsutils</a>
+</th><td> host is a simple utility for performing DNS lookups. It is normally used to convert names to IP addresses and vice versa. When no arguments or options are given, host prints a short summary of its command line arguments and options.
+<p>For greater information: "man host"
+</p>
+</td></tr>
+<tr>
+<th align="left"> <a href="http://phenoelit-us.org/irpas/docu.html#itrace" class="external text" title="http://phenoelit-us.org/irpas/docu.html#itrace" rel="nofollow">Itrace</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/irpas&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/irpas (page does not exist)">ArchTrack/aur/irpas</a>
+</th><td> Itrace is a program that implements traceroute(1) functionality using ICMP echo request packets. Therefore, it looks like you are just pinging your target while you traceroute there. It often helps tracing behind firewalls.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://phenoelit-us.org/irpas/docu.html#netenum" class="external text" title="http://phenoelit-us.org/irpas/docu.html#netenum" rel="nofollow">Netenum</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/irpas&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/irpas (page does not exist)">ArchTrack/aur/irpas</a>
+</th><td> netenum can be used to produce lists of hosts for other programs. It's not as powerful as other ping-sweep tools, but it's simple. When giving a timeout, it uses ICMP echo request to find available hosts. If you don't supply a timeout, it just prints an IP address per line, so you can use them in shell scripts.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://phenoelit-us.org/irpas/docu.html#netmask" class="external text" title="http://phenoelit-us.org/irpas/docu.html#netmask" rel="nofollow">Netmask</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/irpas&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/irpas (page does not exist)">ArchTrack/aur/irpas</a>
+</th><td> netmask asks for the netmask by ICMP.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.guay-leroux.com/projects/SMTP%20content%20filters.pdf" class="external text" title="http://www.guay-leroux.com/projects/SMTP%20content%20filters.pdf" rel="nofollow">PIRANA</a>(T) </th><th> TODO
+</th><td> PIRANA is a penetration testing framework to help in checking a SMTP content filter's security.  It works by attaching an exploit to an email, optionally disguising it from content filters. PIRANA  also lets you choose from different type of shellcodes to use and has various options to be stealthy.
+<p>Notes:  The manual page incorrectly shows an EXAMPLES entry using the -l (ell) option as a -1 (one).  The -l (ell) option is correct.  You'll need to specify a fully qualified email address (user@example.com) instead of just the user name.  Run make in the /pentest/fuzzers/pirana directory before using PIRANA.
+</p><p>"I wrote a paper that explains what are the vulnerabilities of a SMTP content filter. It also presents what techniques were used in PIRANA to improve reliability and stealthness." Jean-Sébastien Guay-Leroux, Author of Pirana tool
+</p>
+</td></tr>
+<tr>
+<th align="left"> <a href="http://phenoelit-us.org/irpas/docu.html#protos" class="external text" title="http://phenoelit-us.org/irpas/docu.html#protos" rel="nofollow">Protos</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/irpas&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/irpas (page does not exist)">ArchTrack/aur/irpas</a>*
+</th><td> Protos is a IP protocol scanner. It goes through all possible IP protocols and uses a negative scan to sort out unsupported protocols which should be reported by the target using ICMP protocol unreachable messages.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://diveintomark.org/projects/pygoogle/" class="external text" title="http://diveintomark.org/projects/pygoogle/" rel="nofollow">QGoogle</a>(T) </th><th> TODO
+</th><td> Make google queries from python. Google licence key required.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.cirt.dk/" class="external text" title="http://www.cirt.dk/" rel="nofollow">Relay Scanner</a>(T) </th><th> TODO
+</th><td> It can search for SMTP server also locates and identifies open relay SMTP servers. It is an all in one program, you tell it how to scan and it does ALL of the work for you.
+</td></tr>
+<tr>
+<th align="left"> SMTP-Vrfy(T) </th><th> TODO
+</th><td> An SMTP Protocol Hacker.
+<p>Vrfy.pl uses the vrfy command to verify users/mail accounts on a network by using a list of common system names like root, admin, etc...
+</p>
+</td></tr>
+<tr>
+<th align="left"> <a href="http://phenoelit-us.org/irpas/docu.html#tctrace" class="external text" title="http://phenoelit-us.org/irpas/docu.html#tctrace" rel="nofollow">TCtrace</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/irpas&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/irpas (page does not exist)">ArchTrack/aur/irpas</a>*
+</th><td> TCtrace is like itrace a traceroute(1) brother - but it uses TCP SYN packets to trace. This makes it possible for you to trace through firewalls if you know one TCP service that is allowed to pass from the outside.
+</td></tr></table>
+<a name="Network_Mapping" id="Network_Mapping"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=3" title="Edit section: Network Mapping">edit</a>]</span> <span class="mw-headline">Network Mapping</span></h2>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://www.thc.org/thc-amap/" class="external text" title="http://www.thc.org/thc-amap/" rel="nofollow">Amap 5.2</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/amap&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/amap (page does not exist)">ArchTrack/aur/amap</a>
+</th><td> Amap is a next-generation tool for assisting network penetration testing.  It performs fast and reliable application protocol detection, independent on the TCP/UDP port they are being bound to.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://phenoelit-us.org/irpas/docu.html#ass" class="external text" title="http://phenoelit-us.org/irpas/docu.html#ass" rel="nofollow">ASS</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/irpas&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/irpas (page does not exist)">ArchTrack/aur/irpas</a>
+</th><td> <a href="/w/index.php?title=Kond:Network_Mapping&amp;action=edit&amp;redlink=1" class="new" title="Kond:Network Mapping (page does not exist)">Kond:Network Mapping</a>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://autoscan.free.fr/" class="external text" title="http://autoscan.free.fr/" rel="nofollow">Autoscan 0.99R1</a>(G) </th><th> <a href="/w/index.php?title=ArchTrack/aur/autoscan&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/autoscan (page does not exist)">ArchTrack/aur/autoscan</a>*
+</th><td> AutoScan is an application designed to explore and to manage your network. Entire subnets can be scanned simultaneously without human intervention.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.fping.com/" class="external text" title="http://www.fping.com/" rel="nofollow">Fping</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/fping&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/fping (page does not exist)">ArchTrack/aur/fping</a>
+</th><td> Fping is a ping(1) like program which uses the Internet Control Message Protocol (ICMP) echo request to determine if a host is up. fping is different from ping in that you can specify any number of hosts on the command line, or specify a file containing the lists of hosts to ping. Instead of trying one host until it timeouts or replies, fping will send out a ping packet and move on to the next host in a round-robin fashion. If a host replies, it is noted and removed from the list of hosts to check. If a host does not respond within a certain time limit and/or retry limit it will be considered unreachable.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.hping.org/" class="external text" title="http://www.hping.org/" rel="nofollow">Hping</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/hping&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/hping (page does not exist)">ArchTrack/aur/hping</a>
+</th><td> hping is a command-line oriented TCP/IP packet assembler/analyzer. The interface is inspired to the ping(8) unix command, but hping isn't only able to send ICMP echo requests. It supports TCP, UDP, ICMP and RAW-IP protocols, has a traceroute mode, the ability to send files between a covered channel, and many other features.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.nta-monitor.com/tools/ike-scan/" class="external text" title="http://www.nta-monitor.com/tools/ike-scan/" rel="nofollow">IKE-Scan</a>(T) </th><th> TODO
+</th><td> ike-scan is a command-line tool that uses the IKE protocol to discover, fingerprint and test IPsec VPN servers.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.ernw.de/download/ikeprobe.zip" class="external text" title="http://www.ernw.de/download/ikeprobe.zip" rel="nofollow">IKEProbe</a>(T) </th><th> TODO
+</th><td> IKEProbe can be used to determine vulnerabilities in the PSK implementation of the VPN server. It tries out various combinations of ciphers, hashes and Diffie-Helman groups and attempts to force the remote server into aggressive mode. Tutorial using IKEprobe: <a href="http://www.securityfocus.com/infocus/1821" class="external free" title="http://www.securityfocus.com/infocus/1821" rel="nofollow">http://www.securityfocus.com/infocus/1821</a>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://nixgeneration.com/~jaime/netdiscover/" class="external text" title="http://nixgeneration.com/~jaime/netdiscover/" rel="nofollow">Netdiscover</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/netdiscover&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/netdiscover (page does not exist)">ArchTrack/aur/netdiscover</a>
+</th><td> Netdiscover is an active/passive address reconnaissance tool, mainly developed for those wireless networks without dhcp server, when you are wardriving. It can be also used on hub/switched networks.
+</td></tr>
+
+<tr>
+<th align="left"> Netselect(T)(*) </th><th> <a href="/w/index.php?title=ArchTrack/pkg/netselect&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/pkg/netselect (page does not exist)">ArchTrack/pkg/netselect</a>
+</th><td> An ultrafast intelligent parallelizing binary-search implementation of ping.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.insecure.org/nmap" class="external text" title="http://www.insecure.org/nmap" rel="nofollow">Nmap 5</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/pkg/nmap&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/pkg/nmap (page does not exist)">ArchTrack/pkg/nmap</a>*
+</th><td> Nmap (&quot;Network Mapper&quot;) is an open source tool for network exploration and security
+       auditing. It was designed to rapidly scan large networks, although it works fine
+       against single hosts. Nmap uses raw IP packets in novel ways to determine what hosts
+       are available on the network, what services (application name and version) those
+       hosts are offering, what operating systems (and OS versions) they are running, what
+       type of packet filters/firewalls are in use, and dozens of other characteristics.
+       While Nmap is commonly used for security audits, many systems and network
+       administrators find it useful for routine tasks such as network inventory, managing
+       service upgrade schedules, and monitoring host or service uptime.
+<p>Nmap tutorial: <a href="http://www.nmap-tutorial.com/html/nmap-tutorial-single.html" class="external free" title="http://www.nmap-tutorial.com/html/nmap-tutorial-single.html" rel="nofollow">http://www.nmap-tutorial.com/html/nmap-tutorial-single.html</a>
+</p>
+</td></tr>
+<tr>
+<th align="left"> <a href="http://nmapsi.sourceforge.net" class="external text" title="http://nmapsi.sourceforge.net" rel="nofollow">nmapsi4</a>(G) </th><th> <a href="/w/index.php?title=ArchTrack/aur/nmapsi4&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/nmapsi4 (page does not exist)">ArchTrack/aur/nmapsi4</a>*
+</th><td> Nmap graphical interface. Exclusive.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://lcamtuf.coredump.cx/p0f.shtml" class="external text" title="http://lcamtuf.coredump.cx/p0f.shtml" rel="nofollow">P0f</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/p0f&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/p0f (page does not exist)">ArchTrack/aur/p0f</a>
+</th><td> P0f is a versatile passive OS fingerprinting tool.
+</td></tr>
+<tr>
+<th align="left"> PSK-Crack(T) </th><th> TODO
+</th><td> psk-crack attempts to crack IKE Aggressive Mode pre-shared keys that have been previously gathered using  ike-scan with the  --pskcrack option.
+<p>psk-crack can operate in two different modes:
+</p><p>- Dictionary cracking mode: this is the default mode in which psk-crack tries each candidate word from the dictionary file in turn until it finds a match, or all the words in the dictionary have been tried. 
+</p><p>- Brute-force cracking mode: in this mode, psk-crack tries all possible combinations of a specified character set up to a given length.
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.hmug.org/man/8/ping.php" class="external text" title="http://www.hmug.org/man/8/ping.php" rel="nofollow">Ping</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/pkg/iputils&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/pkg/iputils (page does not exist)">ArchTrack/pkg/iputils</a>
+</th><td> The ping utility uses the ICMP protocol's mandatory ECHO_REQUEST datagram to elicit an ICMP ECHO_RESPONSE from a host or gateway.  ECHO_REQUEST datagrams (``pings<i>) have an IP and ICMP header, followed by a ``struct timeval</i> and then an arbitrary number of ``pad<i> bytes used to fill out the packet.</i>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://phenoelit-us.org/irpas/docu.html#protos" class="external text" title="http://phenoelit-us.org/irpas/docu.html#protos" rel="nofollow">Protos</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/irpas&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/irpas (page does not exist)">ArchTrack/aur/irpas</a>
+</th><td> Protos is a IP protocol scanner. It goes through all possible IP protocols and uses a negative scan to sort out unsupported protocols which should be reported by the target using ICMP protocol unreachable messages.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.secureworks.com/research/articles/scanrand" class="external text" title="http://www.secureworks.com/research/articles/scanrand" rel="nofollow">Scanrand</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/paketto&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/paketto (page does not exist)">ArchTrack/aur/paketto</a>
+</th><td> Scanrand is a fast network scanner that can scan single hosts to very large networks efficiently. However, several network mapping utilites boast this same claim. So why is scanrand any different? Scanrand can do what is called stateless TCP scanning, which sets it apart from the other network scanners.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://umit.sourceforge.net/" class="external text" title="http://umit.sourceforge.net/" rel="nofollow">umit</a>(T) </th><th> TODO
+</th><td> Another Nmap frontend
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.unicornscan.org/" class="external text" title="http://www.unicornscan.org/" rel="nofollow">UnicornScan</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/unicornscan&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/unicornscan (page does not exist)">ArchTrack/aur/unicornscan</a>
+</th><td> Unicornscan is a new information gathering and correlation engine built for and by members of the security research and testing communities. It was designed to provide an engine that is Scalable, Accurate, Flexible, and Efficient.
+<p>UnicornScan pgsql 0.4.6e module version 1.03
+</p><p>Automated UnicornScan startup script.
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://pbnj.sf.net" class="external text" title="http://pbnj.sf.net" rel="nofollow">PBNJ</a>(T) </th><th> TODO
+</th><td> PBNJ is a suite of tools to monitor changes on a network over time. It does this by checking for changes on the target machine(s), which includes the details about the services running on them as well as the service state. PBNJ parses the data from a scan and stores it in a database. PBNJ uses Nmap to perform scans.
+<p>OutputPBNJ(T) -- TODO -- a program to query a PBNJ 2.0 database, part of PBNJ 2.0 suite of tools to monitor changes on a network.
+</p><p>ScanPBNJ(T) -- TODO -- a program for running Nmap scans and storing the results in a PBNJ 2.0 database
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> Genlist(T) </th><th> TODO
+</th><td> Network scanning for hosts responding to ping
+</td></tr></table>
+<a name="Sniffers" id="Sniffers"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=4" title="Edit section: Sniffers">edit</a>]</span> <span class="mw-headline"> Sniffers </span></h2>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://www.ex-parrot.com/~chris/driftnet" class="external text" title="http://www.ex-parrot.com/~chris/driftnet" rel="nofollow">Driftnet</a>(T) </th><th> driftnet
+</th><td> Driftnet is a program which listens to network traffic and picks out images from TCP streams it observes.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://monkey.org/~dugsong/dsniff" class="external text" title="http://monkey.org/~dugsong/dsniff" rel="nofollow">Dsniff</a>(T) </th><th> dsniff
+</th><td> dsniff is a collection of tools for network auditing and penetration testing. dsniff, filesnarf, mailsnarf, msgsnarf, urlsnarf, and webspy passively monitor a network for interesting data (passwords, e-mail, files, etc.). arpspoof, dnsspoof, and macof facilitate the interception of network traffic normally unavailable to an attacker (e.g, due to layer-2 switching). sshmitm and webmitm implement active monkey-in-the-middle attacks against redirected SSH and HTTPS sessions by exploiting weak bindings in ad-hoc PKI.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://etherape.sourceforge.net" class="external text" title="http://etherape.sourceforge.net" rel="nofollow">EtherApe</a>(G) </th><th> etherape
+</th><td> EtherApe is a graphical network monitor for Unix modeled after etherman. Featuring link layer, ip and TCP modes, it displays network activity graphically. Hosts and links change in size with traffic. Color coded protocols display.
+<p>It supports Ethernet, FDDI, Token Ring, ISDN, PPP and SLIP devices. It can filter traffic to be shown, and can read traffic from a file as well as live from the network.
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://ettercap.sourceforge.net" class="external text" title="http://ettercap.sourceforge.net" rel="nofollow">Ettercap</a>(T) </th><th> <a href="http://www.archlinux.org/packages/extra/i686/ettercap/" class="external text" title="http://www.archlinux.org/packages/extra/i686/ettercap/" rel="nofollow">ettercap</a>
+</th><td> Ettercap  was  born as a sniffer for switched LAN (and obviously even &quot;hubbed&quot; ones),
+       but during the development process it has gained more and  more  features  that  have
+       changed  it  to  a powerful and flexible tool for man-in-the-middle attacks.  It supports active and passive dissection  of  many  protocols  (even  ciphered  ones)  and includes many features for network and host analysis (such as OS fingerprinting).
+</td></tr>
+
+<tr>
+<th align="left"> EtterCap-GTK(G)(*) </th><th> <a href="http://www.archlinux.org/packages/extra/i686/ettercap-gtk/" class="external text" title="http://www.archlinux.org/packages/extra/i686/ettercap-gtk/" rel="nofollow">ettercap-gtk</a>
+</th><td> GTK2-based ettercap interface presented only as ArchTrack package
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://netsniff-ng.org" class="external text" title="http://netsniff-ng.org" rel="nofollow">netsniff-ng toolkit</a> </th><th> <a href="http://netsniff-ng.org" class="external text" title="http://netsniff-ng.org" rel="nofollow">netsniff-ng</a>
+</th><td> high performance network analyzer and toolkit
+</td></tr>
+
+<tr>
+<th align="left"> HSRP Spoofer(T) </th><th> TODO
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> Hash Collision(T) </th><th> TODO
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> Httpcapture(T) </th><th> TODO
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> ICMP Redirect(T) </th><th> TODO
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> ICMPush(T) </th><th> TODO?
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> IGRP Spoofer(T) </th><th> TODO
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://phenoelit-us.org/irpas/docu.html#irdpresponder" class="external text" title="http://phenoelit-us.org/irpas/docu.html#irdpresponder" rel="nofollow">IRDP Responder</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/irpas&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/irpas (page does not exist)">ArchTrack/aur/irpas</a>
+</th><td> Sniffer, which listens to IRDP requests (solicitation) and answers. Sends out periodic updates.
+</td></tr>
+
+<tr>
+<th align="left"> IRDP Spoofer(T) </th><th> TODO
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.cqure.net/wp/?page_id=17" class="external text" title="http://www.cqure.net/wp/?page_id=17" rel="nofollow">Lodowep</a>(T) </th><th> TODO
+</th><td> Lodowep is a tool for analyzing password strength of accounts on a Lotus Domino webserver system. The tool supports both session- and basic-authentication. It runs 20 simultaneous connection guessing passwords specified in a dictionaryfile against the supplied userfile.
+</td></tr>
+
+<tr>
+<th align="left"> Mailsnarf(T) </th><th> TODO
+</th><td> Mailsnarf Passively monitor a network for interesting data being sent across a network/interface.  [ E-Mails Only ]
+</td></tr>
+
+<tr>
+<th align="left"> Msgsnarf(T) </th><th> TODO
+</th><td> Passively monitors a network for interesting data being sent across the network. Msgsnarf shall capture messages on a network/interface.
+</td></tr>
+
+<tr>
+<th align="left"> MSNsniff(T)(*) </th><th> msnsniff
+</th><td> A command line tool for intercepting conversations over the MSN Messenger protocol
+</td></tr>
+
+<tr>
+<th align="left"> Nast(T)(*) </th><th> nast
+</th><td> Nast is a packet sniffer and a LAN analyzer based on Libnet and Libpcap.
+</td></tr>
+
+
+<tr>
+<th align="left"> NetSed(T) </th><th> netsed
+</th><td> Small and handful utility design to alter the contents of packets forwarded thru network in real time.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.ntop.org/" class="external text" title="http://www.ntop.org/" rel="nofollow">Ntop</a>(T) </th><th> ntop
+</th><td> ntop is a network traffic probe that shows the network usage, similar to what the popular top Unix command does. ntop is based on libpcap and it has been written in a portable way in order to virtually run on every Unix platform and on Win32 as well.
+<p>ntop users can use a a web browser (e.g. netscape) to navigate through ntop (that acts as a web server) traffic information and get a dump of the network status. In the latter case, ntop can be seen as a simple RMON-like agent with an embedded web interface.
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://phenoelit-us.org/phoss/docu.html" class="external text" title="http://phenoelit-us.org/phoss/docu.html" rel="nofollow">PHoss</a>(T) </th><th> phoss
+</th><td> PHoss is a spniffer designed to find HTTP, FTP, LDAP, Telnet, IMAP4 and POP3 logins/passwords on your network. It also sniffs the VNC challenge/response handshake.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.antsight.com/zsl/rainbowcrack/" class="external text" title="http://www.antsight.com/zsl/rainbowcrack/" rel="nofollow">Rcrack</a>(T) </th><th> rainbowcrack
+</th><td> RainbowCrack tool is a hash cracker.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.remote-exploit.org/codes_sipcrack.html" class="external text" title="http://www.remote-exploit.org/codes_sipcrack.html" rel="nofollow">SIPdump</a>(T) </th><th> sipcrack
+</th><td> See <a href="/w/index.php?title=AT&amp;action=edit&amp;redlink=1" class="new" title="AT (page does not exist)">AT#VOIP_.26_Telephony_Analysis</a>
+</td></tr>
+
+<tr>
+<th align="left"> SMB Sniffer(T) </th><th> TODO
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> TFTP-Brute(T) </th><th> TODO
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> THC PPTP(T) </th><th> TODO
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://tcpick.sourceforge.net" class="external text" title="http://tcpick.sourceforge.net" rel="nofollow">TcPick</a>(T) </th><th> TODO?
+</th><td> tcpick is a textmode sniffer libpcap-based that can track, reassemble and reorder tcp streams. Tcpick is able to save the captured flows in different files or displays them in the terminal, and so it is useful to sniff files that are transmitted via ftp or http. It can display all the stream on the terminal, when the connection is closed in different display modes like hexdump, hexdump + ascii, only printable charachters, raw mode and so on.
+</td></tr>
+
+<tr>
+<th align="left"> URLsnarf(T) </th><th> TODO
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> WebCrack(T) </th><th> TODO
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://wireshark.org/" class="external text" title="http://wireshark.org/" rel="nofollow">Wireshark</a>(G) </th><th> wireshark
+</th><td>  Wireshark is a GUI network protocol analyzer.  It lets you interactively browse
+       packet data from a live network or from a previously saved capture file.  Wireshark's
+       native capture file format is libpcap format, which is also the format used by tcp-
+       dump and various other tools.
+<ul><li> Due to trademark issues the Ethereal software project has changed its name to Wireshark&nbsp;!
+</li></ul>
+</td></tr>
+
+<tr>
+<th align="left"> Wireshark Wifi(T) </th><th> TODO
+</th><td> Wireshark with Wifi Injection Patch allows the user to select a packet opened with wireshark  and edit it and reinject throught LORCON injection library.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.remote-exploit.org/codes_wyd.html" class="external text" title="http://www.remote-exploit.org/codes_wyd.html" rel="nofollow">WyD</a>(T) </th><th> wyd
+</th><td> wyd is a password profiling tool that extracts words/strings from supplied files and directories. It supports different filetypes: plain, html, php (partially), doc, ppt, mp3, pdf, jpeg, odp/ods/odp and extracting raw strings.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.acm.vt.edu/~jmaxwell/programs/xspy/xspy.html" class="external text" title="http://www.acm.vt.edu/~jmaxwell/programs/xspy/xspy.html" rel="nofollow">Xspy</a>(T) </th><th> TODO
+</th><td> Xspy takes advantage of an oversight in X Windows (R5 &amp; R6) to find out about keypresses even in "secure mode".  It works by polling the keyboard, by default every hundredth of a second.  Polling the keyboard is not affected by any secure modes, which "grab" the keyboard to shut off events being sent out.
+</td></tr></table>
+<a name="Fingerprint" id="Fingerprint"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=5" title="Edit section: Fingerprint">edit</a>]</span> <span class="mw-headline">Fingerprint</span></h2>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://net-square.com/httprint/" class="external text" title="http://net-square.com/httprint/" rel="nofollow">httprint</a>(T) </th><th> httprint
+</th><td>  httprint is a web server fingerprinting tool. It relies on web server characteristics to accurately identify web servers.  Normally by changing server signatures and banner strings or enabling specific plug-ins, various web fingerprinting tools may be confused and provide false positive results.  This is not the case with httprint. httprint can also be used to detect web enabled devices which do not have a server banner string, such as: Wireless AP, Routers, Switches, Cable modems, etc.
+httprint uses text based signature strings to identify targeted web servers.
+
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://net-square.com/httprint" class="external text" title="http://net-square.com/httprint" rel="nofollow">httprint gui</a>(G) </th><th> TODO
+</th><td> httprint is a web server fingerprinting tool.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://sourceforge.net/projects/sinfp/" class="external text" title="http://sourceforge.net/projects/sinfp/" rel="nofollow">SinFP</a>(T) </th><th> sinfp
+</th><td> SinFP is a new approach to OS fingerprinting, which bypasses limitations that nmap has. This approach brings the era of OS fingerprinting on a per-TCP port basis, not on a per-host basis.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://xprobe.sourceforge.net" class="external text" title="http://xprobe.sourceforge.net" rel="nofollow">Xprobe2</a>(T) </th><th> xprobe2
+</th><td> xprobe2  is  an active operating system fingerprinting tool with a different approach to operating system fingerprinting. xprobe2 relies on fuzzy signature matching, probabilistic guesses, multiple matches simultaneously, and a signature database.
+</td></tr>
+
+</table>
+<a name="Vulnerability_Identification" id="Vulnerability_Identification"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=6" title="Edit section: Vulnerability Identification">edit</a>]</span> <span class="mw-headline">Vulnerability Identification</span></h2>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://curl.haxx.se/" class="external text" title="http://curl.haxx.se/" rel="nofollow">curl</a>(T) </th><th> curl
+</th><td> curl is a command line tool for transferring files with URL syntax, supporting FTP, FTPS, HTTP, HTTPS, SCP, SFTP, TFTP, TELNET, DICT, FILE and LDAP. curl supports SSL certificates, HTTP POST, HTTP PUT, FTP uploading, HTTP form based upload, proxies, cookies, user+password authentication (Basic, Digest, NTLM, Negotiate, kerberos...), file transfer resume, proxy tunneling and a busload of other useful tricks.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.gfi.com/lannetscan/" class="external text" title="http://www.gfi.com/lannetscan/" rel="nofollow">GFI LANguard 2.0</a>(T) </th><th> TODO
+</th><td> GFI LANguard Network Security Scanner (N.S.S.) checks your network for all potential methods that a hacker might use to attack it. By analyzing the operating system and the applications running on your network, GFI LANguard N.S.S. identifies possible security holes. In other words, it plays the devil's advocate and alerts you to weaknesses before a hacker can find them, enabling you to deal with these issues before a hacker can exploit them.
+</td></tr>
+
+<tr>
+<th align="left"> GetSids(T) </th><th> TODO
+</th><td> Getsids tries to enumerate Oracle Sids by sending the services command to the Oracle TNS listener. Like doing ‘lsnrctl service’.
+</td></tr>
+
+<tr>
+<th align="left"> HTTP PUT(T) </th><th> TODO
+</th><td> Usage: /pentest/web/put.pl -h &lt;host&gt; -l &lt;file&gt;
+<pre>       -h &lt;host&gt;       = host you want to attack
+       -r &lt;remote&gt;     = remote file name
+       -f &lt;local&gt;      = local file name
+       -p &lt;port&gt;       = web server port
+</pre>
+<p>Other Options:
+</p>
+<pre>       -x              = ssl mode
+       -v              = verbose
+</pre>
+<p>Example: /pentest/web/put.pl -h target -r /cmdasp.asp -f cmdasp.asp
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://halberd.superadditive.com/" class="external text" title="http://halberd.superadditive.com/" rel="nofollow">Halberd(T</a>) </th><th> TODO
+</th><td> Halberd discovers HTTP load balancers. It is useful for web application security auditing and for load balancer configuration testing.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.infobyte.com.ar/" class="external text" title="http://www.infobyte.com.ar/" rel="nofollow">ISR-Form</a>(T) </th><th> TODO
+</th><td> Gets the form data from a webpage
+</td></tr>
+
+<tr>
+<th align="left"> List-Urls(T) </th><th> TODO
+</th><td> Extracts Urls from a webpage
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://lynx.isc.org/" class="external text" title="http://lynx.isc.org/" rel="nofollow">Lynx</a>(T) </th><th> lynx
+</th><td> Lynx is the text web browser.
+</td></tr>
+
+<tr>
+<th align="left"> Merge Router Config(T) </th><th> TODO
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> MetaCoretex(T) </th><th> TODO
+</th><td> MetaCoretex security scanner is an extremely modular plugin based security scanner written entirely in JAVA to allow the use of JDBC Type IV drivers when scanning databases. Initially, most plugins will likely be for DBs.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.securiteam.com/tools/5CP0O20IAK.html" class="external text" title="http://www.securiteam.com/tools/5CP0O20IAK.html" rel="nofollow">Metoscan</a>(T) </th><th> TODO
+</th><td> Metoscan is a tiny tool for scanning the HTTP methods supported by a web server. It works testing a URL and checking the responses for the different probes.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://0x90.org/releases/mezcal" class="external text" title="http://0x90.org/releases/mezcal" rel="nofollow">Mezcal</a>(T) </th><th> TODO
+</th><td> Mezcal is an HTTP/HTTPS bruteforcing tool allowing the crafting of requests and insertion of dynamic variables on-the-fly.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.cirt.net/code/nikto.shtml" class="external text" title="http://www.cirt.net/code/nikto.shtml" rel="nofollow">Nikto</a>(T) </th><th> nikto
+</th><td> Nikto is an Open Source (GPL) web server scanner which performs comprehensive tests against web servers for multiple items, including over 3300 potentially dangerous files/CGIs, versions on over 625 servers, and version specific problems on over 230 servers. Scan items and plugins are frequently updated and can be automatically updated (if desired).
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.cqure.net/wp/?page_id=2" class="external text" title="http://www.cqure.net/wp/?page_id=2" rel="nofollow">OAT</a>(T) </th><th> TODO
+</th><td> OAT (Oracle Auditing Tools) - is a set of tools which can be used to audit Oracle databases running on the Microsoft Windows platform. The Tools are Java based and were tested on both Windows and Linux. They should hopefully also run on any other Java platform.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2002-0656" class="external text" title="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2002-0656" rel="nofollow">OpenSSL-Scanner</a>(T) </th><th> TODO
+</th><td> OpenSSL vulnerability scanner scans for a remote exploit for the KEY_ARG overflow in OpenSSL 0.9.6d and older. Tested against most major Linux distributions. Gives a remote nobody shell on Apache and remote root on other servers. Includes an OpenSSL vulnerability scanner and a detailed vulnerability analysis. Only Linux/x86 targets are supported.
+<p>Exploit Details (CVE-2002-0656): <a href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2002-0656" class="external free" title="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2002-0656" rel="nofollow">http://cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2002-0656</a>
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.parosproxy.org" class="external text" title="http://www.parosproxy.org" rel="nofollow">Paros Proxy</a>(T) </th><th> TODO
+</th><td> Web Proxy, written in Java. Supports http and https.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.cultdeadcow.com/tools/rpcdump.php" class="external text" title="http://www.cultdeadcow.com/tools/rpcdump.php" rel="nofollow">RPCDump</a>(T) </th><th> TODO
+</th><td> RPCDUMP is a program which provides console access to the RPC APIs in Windows.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.revhosts.net" class="external text" title="http://www.revhosts.net" rel="nofollow">RevHosts</a>(T) </th><th> revhosts
+</th><td> Tool written in Python that is design to accelerate PIG (Passive information gathering).
+<p>We have several modules for that. 
+</p>
+<ul><li> vhh&nbsp;: We use search engine that return host that are on an IP (Virtual Host hacking)
+</li><li> Findsubdomains&nbsp;: module that returns subdomains of a domains.
+</li><li> Dnsbruteforce&nbsp;: dnsbruteforce is now a module of revhosts. It use multithread (1 thread for each dns server) and made dns resolution of hostnames of a domain.
+</li><li> Getdirectories&nbsp;: look on search engine for directories that are on a host (no connection to the host).
+</li><li> subnet&nbsp;: look for IP that have the same tech contact.
+</li><li> getmail&nbsp;: module that search on internet for mail adress
+</li></ul>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.immunitysec.com/resources-freesoftware.shtml" class="external text" title="http://www.immunitysec.com/resources-freesoftware.shtml" rel="nofollow">Spike</a>(T) </th><th> TODO
+</th><td> When you need to analyze a new network protocol for buffer overflows or similar weaknesses, the SPIKE is the tool of choice for professionals. While it requires a strong knowledge of C to use, it produces results second to none in the field. SPIKE is available for the Linux platform only. SPIKE Whitepapers: <a href="http://www.immunitysec.com/resources-papers.shtml" class="external free" title="http://www.immunitysec.com/resources-papers.shtml" rel="nofollow">http://www.immunitysec.com/resources-papers.shtml</a>
+</td></tr>
+
+<tr>
+<th align="left"> Stompy(T) </th><th> TODO
+</th><td> A free tool to perform a fairly detailed black-box assessment of WWW session identifier generation algorithms. Session IDs are commonly used to track authenticated users, and as such, whenever they’re predictable or simply vulnerable to brute-force attacks, we do have a problem. The tool has already revealed several problems in proprietary software platforms such as BEA WebLogic and Sun Java System Web Server (both have problems with their JSESSIONIDs).
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.foundstone.com" class="external text" title="http://www.foundstone.com" rel="nofollow">SuperScan</a>(W) </th><th> wine
+</th><td> Powerful TCP port scanner, pinger, resolver.
+<p>SuperScan is a powerful connect-based TCP port scanner, pinger and hostname resolver. Multithreaded and asynchronous techniques make this program extremely fast and versatile.
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> TNScmd(T) </th><th> TODO
+</th><td> tnscmd can be used to speak, on a very simple level, with Oracle's TNS listener.
+<p>The TNS listener (aka tnslsnr) is the network interface between a database client and the database server. tnslsnr listens on port 1521/tcp, but the DBA can change this (I've seen listeners on port 1541/tcp as well.) fwiw, nmap-services lists these as ncube-lm and rds2, respectively. 
+</p><p>The tnslnsr keeps a spartan log of activity -- spartan in that it doesn't log a whole lot of useful information. For instance, it does not log the IP address of TNS sessions. 
+</p><p>If you initiate a TCP session to the tnslsnr port, you won't make much headway; it won't provide a banner and will probably disconnect if you type something. Don't worry; this is what tnscmd is for.
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://sourceforge.net/projects/taof" class="external text" title="http://sourceforge.net/projects/taof" rel="nofollow">Taof</a>(T) </th><th> TODO
+</th><td> Taof is a GUI cross-platform Python generic network protocol fuzzer. It has been designed for minimizing set-up time during fuzzing sessions and it is especially useful for fast testing of proprietary or undocumented protocols.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://wapiti.sourceforge.net" class="external text" title="http://wapiti.sourceforge.net" rel="nofollow">Wapiti</a>(T) </th><th> TODO
+</th><td> Wapiti allows you to audit the security of your web applications.
+<p>It performs "black-box" scans, i.e. it does not study the source code of the application but will scans the webpages of the deployed webapp, looking for scripts and forms where it can inject data.
+Once it gets this list, Wapiti acts like a fuzzer, injecting payloads to see if a script is vulnerable.
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.yersinia.net" class="external text" title="http://www.yersinia.net" rel="nofollow">Yersinia</a>(T) </th><th> TODO
+</th><td> Yersinia is a network tool designed to take advantage of some weakeness in different network protocols. It pretends to be a solid framework for analyzing and testing the deployed networks and systems.
+</td></tr></table>
+<a name="Fuzzers" id="Fuzzers"></a><h3><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=7" title="Edit section: Fuzzers">edit</a>]</span> <span class="mw-headline"> Fuzzers </span></h3>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://snake-basket.de/bed.html" class="external text" title="http://snake-basket.de/bed.html" rel="nofollow">Bed</a>(T) </th><th> bed
+</th><td> Bruteforce Exploit Detector is a collection of scripts to automatically test implementations of different protocols for buffer overflows and / or format string vulnerabilities, by sending a lot of long strings to a server. It tries a kind of bruteforce, an attack without any plan. Some ppl would call it a fuzzer.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="https://www.buslab.org/index.php/content/view/45743/2/" class="external text" title="https://www.buslab.org/index.php/content/view/45743/2/" rel="nofollow">CIRT Fuzzer</a>(T) </th><th> TODO
+</th><td> A simple TCP/UDP protocol Fuzzer Version 1.0
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.securiteam.com/tools/5TP012AHFU.html" class="external text" title="http://www.securiteam.com/tools/5TP012AHFU.html" rel="nofollow">Fuzzer 1.2</a>(T) </th><th> TODO
+</th><td> What this tool does: "Fuzzing" is an automated software testing technique that generates and submits random or sequential data to various areas of an application in an attempt to uncover security vulnerabilities. For example, when searching for buffer overflows, a tester can simply generate data of various sizes and send it to one of the application entry points to observe how the application handles it.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.owasp.org/index.php/Category:OWASP_JBroFuzz" class="external text" title="http://www.owasp.org/index.php/Category:OWASP_JBroFuzz" rel="nofollow">JBroFuzz</a>(T) </th><th> TODO
+</th><td> JBroFuzz is a stateless network protocol fuzzer that emerged from the needs of penetration testing. Written in Java, it allows for the identification of certain classess of security vulnerabilities, by means of creating malformed data and having the network protocol in question consume the data.
+</td></tr>
+
+<tr>
+<th align="left"> Mistress(T) </th><th> TODO
+</th><td> Mistress in an 'Application Sadism Environment' and can also be called a fuzzer. It is written in Python and was created for probing file formats on the fly and protocols with malformed data, based on pre-defined patterns. It is recommended that the project site be visited for further documentation and use cases.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://peachfuzz.sourceforge.net" class="external text" title="http://peachfuzz.sourceforge.net" rel="nofollow">Peach</a>(T) </th><th> TODO
+</th><td> Peach is a cross-platform fuzzing framework written in Python. Peaches main goals include: short development time, code reuse, ease of use, and flexability. Peach can fuzz just about anything from .NET, COM/ActiveX, SQL, shared libraries/DLL's, network applications, web, you name it. Peach Tutorial: <a href="http://peachfuzz.sourceforge.net/docs/tutorial/peach-tutorial.htm" class="external free" title="http://peachfuzz.sourceforge.net/docs/tutorial/peach-tutorial.htm" rel="nofollow">http://peachfuzz.sourceforge.net/docs/tutorial/peach-tutorial.htm</a>
+</td></tr>
+
+</table>
+<p><br />
+</p>
+<a name="SNMP" id="SNMP"></a><h3><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=8" title="Edit section: SNMP">edit</a>]</span> <span class="mw-headline"> SNMP </span></h3>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://www.mibble.org/" class="external text" title="http://www.mibble.org/" rel="nofollow">Mibble MIB Browser</a>(T) </th><th> mbrowse
+</th><td> Mibble is an open-source SNMP MIB parser (or SMI parser) written in Java. It can be used to read SNMP MIB files as well as simple ASN.1.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.phreedom.org/solar/onesixtyone/" class="external text" title="http://www.phreedom.org/solar/onesixtyone/" rel="nofollow">Onesixtyone</a>(T) </th><th> onesixtyone
+</th><td> an efficient SNMP scanner
+</td></tr>
+
+<tr>
+<th align="left"> net-snmp(T) </th><th> netsnmp
+</th><td> <b>snmpscan</b>
+<pre><b>snmpwalk</b>
+</pre>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http:/
+fff8
+/www.nothink.org/perl/snmpcheck/" class="external text" title="http://www.nothink.org/perl/snmpcheck/" rel="nofollow">snmpcheck</a>(T) </th><th> TODO
+</th><td> Gather information via SNMP protocols. It works against Windows, Linux, Cisco, HP-UX, SunOS and any devices with SNMP protocol support.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.filip.waeytens.easynet.be/" class="external text" title="http://www.filip.waeytens.easynet.be/" rel="nofollow">Snmp Enum</a>(T) </th><th> TODO
+</th><td> Simple Perl script to enumerate information on machines that are running SNMP.
+</td></tr></table>
+<a name="SMB" id="SMB"></a><h3><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=9" title="Edit section: SMB">edit</a>]</span> <span class="mw-headline"> SMB </span></h3>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> SMB Bruteforcer(T) </th><th> TODO
+</th><td> A SMB bruteforcer which tries approx. 1200 logins/sec on Windows 2000 because of the timeout bug. On NT4 it's very much slower.
+</td></tr>
+
+<tr>
+<th align="left"> SMB Client(T) </th><th> smbclient
+</th><td> A LanManager-like simple client for Unix
+<p>The Samba software suite is a collection of programs that implements the SMB protocol. LanManager or NetBIOS protocol.
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> SMB Serverscan(T) </th><th> TODO
+</th><td> Scans for machines running Samba servers.
+</td></tr>
+
+<tr>
+<th align="left"> py-smbpasswd(T) </th><th> py-smbpasswd(*)
+</th><td> SMB Password Hash Generator.
+</td></tr>
+
+<tr>
+<th align="left"> smbat(T) </th><th> smbat(*)
+</th><td>  SMB (password) Auditing Tool for the Windows-and the SMB-platform
+</td></tr>
+
+<tr>
+<th align="left"> SMB LAN Search(T) </th><th> smblansearch(*)
+</th><td> Set of integrated tools that help you to find and download files you need on samba shares.
+</td></tr>
+
+<tr>
+<th align="left"> SMB-NAT(T) </th><th> TODO
+</th><td> Netbios Auditing Tool
+<p>This tool can perform various security checks on remote servers running NetBIOS file sharing services. It is capable of enumerating shares and make break-in attempts using a (user-provided) list of users and passwords.
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> SMBdumpusers(T) </th><th> TODO
+</th><td>
+</td></tr>
+<tr>
+<th align="left"> SMBgetserverinfo(T) </th><th> TODO
+</th><td> usage:
+<pre> smbgetserverinfo -i [options]
+   -i*     IP address
+   -s      Name of the server
+   -t      timeout for connect (default 300ms)
+   -v      Be verbose
+   -vv     Be even more verbose
+</pre>
+<p>Output example(smbgetserverinfo -i 192.168.0.100):
+</p>
+<pre> Server Info for 192.168.0.100
+ -----------------------------
+ Server Name     &nbsp;: BOB
+ Server OS       &nbsp;: Unix
+ Workgroup/Domain&nbsp;: WORKGROUP
+</pre>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://smb4k.berlios.de/" class="external text" title="http://smb4k.berlios.de/" rel="nofollow">Smb4K</a>(T) </th><th> TODO
+</th><td> Smb4K is a SMB/CIFS share browser for KDE. It uses the Samba software suite to access the SMB/CIFS shares of the local network neighborhood.
+</td></tr></table>
+<a name="SQL" id="SQL"></a><h3><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=10" title="Edit section: SQL">edit</a>]</span> <span class="mw-headline"> SQL </span></h3>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://www.0x90.org/releases/absinthe/docs/basicusage.php" class="external text" title="http://www.0x90.org/releases/absinthe/docs/basicusage.php" rel="nofollow">Absinthe</a>(G) </th><th> TODO
+</th><td> Absinthe is a GUI based tool designed to automate the process of blind sql injection. It works by profiling response pages as true or false from known cases, then moves on to identify unknowns as true or false.
+<p>Absinthe does not aid in the discovery of SQL Injection holes. This tool will only speed up the process of data recovery.
+</p><p>Features:
+</p>
+<ul><li> Automated SQL Injection
+</li><li> Supports MS SQL Server, MSDE, Oracle, Postgres
+</li><li> Cookies / Additional HTTP Headers
+</li><li> Query Termination
+</li><li> Additional text appended to queries
+</li><li> Supports Use of Proxies / Proxy Rotation
+</li><li> Multiple filters for page profiling
+</li><li> Custom Delimiters 
+</li></ul>
+<p>Downloading the Schema: <a href="http://www.0x90.org/releases/absinthe/docs/schema.php" class="external free" title="http://www.0x90.org/releases/absinthe/docs/schema.php" rel="nofollow">http://www.0x90.org/releases/absinthe/docs/schema.php</a>
+</p><p>Pulling Records from the Database: <a href="http://www.0x90.org/releases/absinthe/docs/datapull.php" class="external free" title="http://www.0x90.org/releases/absinthe/docs/datapull.php" rel="nofollow">http://www.0x90.org/releases/absinthe/docs/datapull.php</a>
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.red-database-security.com/software/checkpwd.html" class="external text" title="http://www.red-database-security.com/software/checkpwd.html" rel="nofollow">Checkpwd</a>(T) </th><th> TODO
+</th><td> Checkpwd is a fast dictionary based password checker for Oracle databases. Checkpwd reads the password hashes from the table sys.user$ and compares the hashkeys with the hashkeys calculated from a dictionary file.
+</td></tr>
+
+<tr>
+<th align="left"> SQL Inject(T) </th><th> TODO
+</th><td>
+</td></tr>
+<tr>
+<th align="left"> SQL Scanner(T) </th><th> TODO
+</th><td>
+</td></tr>
+<tr>
+<th align="left"> SQLLibf(T) </th><th> TODO
+</th><td>
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.justinclarke.com/archives/2006/03/sqlbrute.html" class="external text" title="http://www.justinclarke.com/archives/2006/03/sqlbrute.html" rel="nofollow">SQLBrute</a>(T) </th><th> sqlbrute
+</th><td> SQLBrute is a tool for brute forcing data out of databases using blind SQL injection vulnerabilities. It supports time based and error based exploit types on Microsoft SQL Server, and error based exploit on Oracle.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.red-database-security.com/whitepaper/oracle_guess_sid.html" class="external text" title="http://www.red-database-security.com/whitepaper/oracle_guess_sid.html" rel="nofollow">Sidguess</a>(T) </th><th> TODO
+</th><td> Sidguess is a brute force tool to guess Oracle SIDs. This tool can be used to get the SID of an Oracle 10g database which is no longer available with the listener status command.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.vulnerabilityassessment.co.uk/sqlat.htm" class="external text" title="http://www.vulnerabilityassessment.co.uk/sqlat.htm" rel="nofollow">sqlanlz</a>(T) </th><th> TODO
+</th><td> Enumerates information about databases, users, extended stored procedures etc. outputting into an HTML report.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.vulnerabilityassessment.co.uk/sqlat.htm" class="external text" title="http://www.vulnerabilityassessment.co.uk/sqlat.htm" rel="nofollow">sqldict</a>(T) </th><th> TODO
+</th><td> Carries out a dictionary based attack on the user(s) specified.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.vulnerabilityassessment.co.uk/sqlat.htm" class="external text" title="http://www.vulnerabilityassessment.co.uk/sqlat.htm" rel="nofollow">sqldumplogins</a>(T) </th><th> TODO
+</th><td> Dump all user accounts from the MS SQL Server.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.vulnerabilityassessment.co.uk/sqlat.htm" class="external text" title="http://www.vulnerabilityassessment.co.uk/sqlat.htm" rel="nofollow">sqlquery</a>(T) </th><th> TODO
+</th><td> Interactive query tool.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.vulnerabilityassessment.co.uk/sqlat.htm" class="external text" title="http://www.vulnerabilityassessment.co.uk/sqlat.htm" rel="nofollow">sqlupload</a>(T) </th><th> TODO
+</th><td> Attempts to upload files to a MS SQL Server.
+</td></tr></table>
+<a name="Cisco" id="Cisco"></a><h3><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=11" title="Edit section: Cisco">edit</a>]</span> <span class="mw-headline"> Cisco </span></h3>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> Cisco Auditing Tool(T) </th><th> TODO
+</th><td> g0ne [null0]
+<p>Usage:
+</p>
+<ul><li> -h hostname     (for scanning single hosts)
+</li><li> -f hostfile     (for scanning multiple hosts)
+</li><li> -p port #       (default port is 23)
+</li><li> -w wordlist     (wordlist for community name guessing)
+</li><li> -a passlist     (wordlist for password guessing)
+</li><li> -i [ioshist]    (Check for IOS History bug)
+</li><li> -l logfile      (file to log to, default screen)
+</li><li> -q quiet mode   (no screen output)
+</li></ul>
+</td></tr>
+<tr>
+<th align="left"> Cisco Enable Bruteforcer(T) </th><th> TODO
+</th><td> Cisco internal bruteforcer
+<p>Usage: enabler &lt;ip&gt; [-u user] &lt;pass&gt; &lt;passlist&gt; [port]
+</p>
+</td></tr>
+<tr>
+<th align="left"> Cisco Global Exploiter(T) </th><th> TODO
+</th><td> Cisco Global Exploiter is a script that targets vulnerabilities in the Cisco Internetwork Operating System (IOS) and Catalyst products. Cisco is ugently advising users to upgrade the networks software to close the holes that this script is exploiting. When the script is run against the host it gives menu choices for the user to perform.
+<p>Vulnerabilities list&nbsp;:
+</p>
+<ul><li> Cisco 677/678 Telnet Buffer Overflow Vulnerability
+</li><li> Cisco IOS Router Denial of Service Vulnerability Cisco IOS HTTP Auth Vulnerability Cisco IOS HTTP Configuration Arbitrary Administrative Access Vulnerability
+</li><li> Cisco Catalyst SSH Protocol Mismatch Denial of Service Vulnerability Cisco 675 Web Administration Denial of Service Vulnerability Cisco Catalyst 3500 XL Remote Arbitrary Command Vulnerability
+</li><li> Cisco IOS Software HTTP Request Denial of Service Vulnerability
+</li><li> Cisco 514 UDP Flood Denial of Service Vulnerability
+</li><li> CiscoSecure ACS for Windows NT Server Denial of Service Vulnerability
+</li><li> Cisco Catalyst Memory Leak Vulnerability
+</li><li> Cisco CatOS CiscoView HTTP Server Buffer Overflow Vulnerability
+</li><li> 0 Encoding IDS Bypass Vulnerability (UTF)
+</li><li> Cisco IOS HTTP Denial of Service Vulnerability
+</li></ul>
+</td></tr>
+<tr>
+<th align="left"> Cisco OCS Mass Scanner(T) </th><th> TODO
+</th><td> Cisco Scanning Tool
+<p>usage: 
+</p><p>./ocs xxx.xxx.xxx.xxx yyy.yyy.yyy.yyy 
+</p><p>xxx.xxx.xxx.xxx = range start IP
+</p><p>yyy.yyy.yyy.yyy = range end IP   
+</p><p>Cisco OCS Mass Scanner Homepage: <a href="http://www.hacklab.tk" class="external free" title="http://www.hacklab.tk" rel="nofollow">http://www.hacklab.tk</a>
+</p>
+</td></tr>
+<tr>
+<th align="left"> Cisco Scanner(T) </th><th> TODO
+</th><td>  Output stored in cisco.txt
+<pre> Usage: ciscos &lt;IP&gt; &lt;class&gt; [option]
+   Class A scan: ciscos 127 1
+   Class B scan: ciscos 127.0 2
+   Class C scan: ciscos 127.0.0 3
+   [-C &lt;threads&gt;] maximum threads
+   [-t &lt;timeout&gt;] seconds before connection timeout
+</pre>
+</td></tr>
+<tr>
+<th align="left"> Cisco Torch(T) </th><th> TODO
+</th><td> Cisco Torch mass scanning, application layer fingerprinting, and exploitation tool to discover and attack remote Cisco hosts running Telnet, SSH, Web, TFTP, NTP and SNMP services. Useful in auditing large networks for misconfigured/un-updated Ciscos.
+<p>Cisco Torch Homepage: <a href="http://www.arhont.com/ViewPage7422.html?siteNodeId=3&amp;languageId=1&amp;contentId=-1" class="external free" title="http://www.arhont.com/ViewPage7422.html?siteNodeId=3&amp;languageId=1&amp;contentId=-1" rel="nofollow">http://www.arhont.com/ViewPage7422.html?siteNodeId=3&amp;languageId=1&amp;contentId=-1</a>
+</p>
+</td></tr></table>
+<a name="Penetration" id="Penetration"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=12" title="Edit section: Penetration">edit</a>]</span> <span class="mw-headline">Penetration</span></h2>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://en.wikibooks.org/wiki/Metasploit/Contents" class="external text" title="http://en.wikibooks.org/wiki/Metasploit/Contents" rel="nofollow">Framework3-MsfC</a>(T) </th><th> TODO?
+</th><td> The Metasploit Framework is an advanced open-source platform for developing, testing, and using exploit code.
+</td></tr>
+<tr>
+<th align="left"> Framework3-MsfUpdate(T) </th><th> TODO?
+</th><td> Uses SVN to update Metasploit code and exploits.
+</td></tr>
+<tr>
+<th align="left"> Framework3-Msfcli(T) </th><th> TODO?
+</th><td> Command line interface for MetaSploit.
+</td></tr>
+<tr>
+<th align="left"> Framework3-Msfweb(T) </th><th> TODO?
+</th><td>
+</td></tr>
+<tr>
+<th align="left"> Init Pgsql (autopwn)(T) </th><th> TODO?
+</th><td>
+</td></tr>
+<tr>
+<th align="left"> Milw0rm Archive(T) </th><th> TODO?
+</th><td>
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.milw0rm.com/Milw0rm" class="external text" title="http://www.milw0rm.com/Milw0rm" rel="nofollow">Milw0rm</a>(T) </th><th> TODO?
+</th><td> Milw0rm is a site for obtaining Proof of concept exploit code.
+</td></tr>
+<tr>
+<th align="left"> MsfCli(T) </th><th> TODO?
+</th><td> Command line interface for MetaSploit.
+</td></tr>
+<tr>
+<th align="left"> MsfConsole(T) </th><th> TODO?
+</th><td> The msfconsole interactive command-line interface provides a command set that allows the user to manipulate the framework environment, set exploit options, and ultimately deploy the exploit. Unrecognized commands are passed to the underlying operating system; in this way, a user can run reconnaissance tools without having to leave the console.
+</td></tr>
+<tr>
+<th align="left"> MsfUpdate(T) </th><th> TODO?
+</th><td> Uses SVN to update Metasploit code and exploits.
+</td></tr>
+<tr>
+<th align="left"> OpenSSL-To-Open(T) </th><th> TODO?
+</th><td> openssl-too-open is a remote exploit for the KEY_ARG overflow in OpenSSL 0.9.6d and older. Tested against most major Linux distributions. Gives a remote nobody shell on Apache and remote root on other servers. Includes an OpenSSL vulnerability scanner and a detailed vulnerability analysis. Only Linux/x86 targets are supported.
+</td></tr>
+<tr>
+<th align="left"> Update Milw0rm(T) </th><th> TODO?
+</th><td> Downloads the latest archive of exploits from <a href="http://www.milw0rm.com" class="external free" title="http://www.milw0rm.com" rel="nofollow">http://www.milw0rm.com</a>.
+</td></tr></table>
+<a name="Privilege_Escalation" id="Privilege_Escalation"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=13" title="Edit section: Privilege Escalation">edit</a>]</span> <span class="mw-headline">Privilege Escalation</span></h2>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> Ascend attacker(T) </th><th> TODO
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> CDP Spoofer(T) </th><th> TODO
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> Cisco Enable Bruteforcer(T) </th><th> TODO
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> Chntpw(T) </th><th> TODO?
+</th><td> Chntpw is my memory works good is a Windows NT 2K XP user pasword tool for
+<p>delete passwords and restrictions from SAM database on installed system 
+theirs not crack like brute force passwords just only delete passwords 
+and restrictions for Administrators and simple user in SAM database .
+</p><p>To erase password use a script that a make almost for you 
+like search ntfs drivers from your XP to mount your partition with your drivers
+if doesn't find ask you to download all needed data from internet .
+</p><p>Note: Deleting the password will enable you to login to the system without a password, but it will not give you access to any encrypted data on the system. All it lets you do is log in.
+<a href="http://pwet.fr/man/linux/administration_systeme/chntpw" class="external free" title="http://pwet.fr/man/linux/administration_systeme/chntpw" rel="nofollow">http://pwet.fr/man/linux/administration_systeme/chntpw</a> <a href="http://home.eunet.no/~pnordahl/ntpasswd/" class="external free" title="http://home.eunet.no/~pnordahl/ntpasswd/" rel="nofollow">http://home.eunet.no/~pnordahl/ntpasswd/</a>
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://sourceforge.net/projects/crunch-wordlist/" class="external text" title="http://sourceforge.net/projects/crunch-wordlist/" rel="nofollow">crunch</a> (T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/crunch&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/crunch (page does not exist)">ArchTrack/aur/crunch</a>
+</th><td> A wordlist generator for all combinations/permutations of a given character set
+</td></tr>
+
+<tr>
+<th align="left"> DHCPX Flooder(T) </th><th> TODO?
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> DNSspoof(T) </th><th> TODO?
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.thc.org" class="external text" title="http://www.thc.org" rel="nofollow">Hydra</a>(T) </th><th> hydra
+</th><td> Hydra is a software project developed by "The Hacker's Choice" (THC) that uses a dictionary attack to test for weak or simple passwords on one or many remote hosts running a variety of different services. It was designed as a proof-of-concept utility to demonstrate the ease of cracking poorly chosen passwords.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.thc.org" class="external text" title="http://www.thc.org" rel="nofollow">Hydra GTK</a>(G) </th><th> TODO
+</th><td> Hydra GTK is a gui front end to Hydra. Which is a online tool to guess/crack valid login/password pairs.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.openwall.com/john/" class="external text" title="http://www.openwall.com/john/" rel="nofollow">John</a>(T) </th><th> john
+</th><td> John the Ripper is used for offline password attacks.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.darknet.org.uk/2006/05/medusa-password-cracker-version-11-now-available-for-download" class="external text" title="http://www.darknet.org.uk/2006/05/medusa-password-cracker-version-11-now-available-for-download" rel="nofollow">Medusa</a>(T) </th><th> medusa
+</th><td> Medusa is a speedy, massively parallel, modular, login brute-forcer for network services, created by the geeks at Foofus.net. It currently has modules for the following services: CVS, FTP, HTTP, IMAP, MS-SQL, MySQL, NCP (NetWare), PcAnywhere, POP3, PostgreSQL, rexec, rlogin, rsh, SMB, SMTP (VRFY), SNMP, SSHv2, SVN, Telnet, VmAuthd, VNC, and a generic wrapper module.
+</td></tr>
+
+<tr>
+<th align="left"> VNC_bypauth(T) </th><th> TODO
+</th><td> RealVNC 4.1.1 Bypass Authentication Scanner - multi-threaded for Linux and Windows
+<p>Usage: VNC_bypauth &lt;target&gt; &lt;scantype&gt; &lt;option&gt; 
+</p><p>&lt;target&gt;: |___-p____|___-i____|
+</p><p>&lt;scantype&gt;: |___-cT___|___-vnc___|
+</p><p>&lt;option&gt;: |___-v____|___-vv____|___-T___|__-tc___|__-tr___|__-tt___|
+</p><p>Type VNC_bypauth &lt;target&gt;,&lt;scantype&gt; or &lt;option&gt; for more informations. To increase the speed under linux, try ulimit -s unlimited
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://phenoelit-us.org/vncrack/docu.html" class="external text" title="http://phenoelit-us.org/vncrack/docu.html" rel="nofollow">VNCrack</a>(T) </th><th> vncrack*
+</th><td> Brute force the hell out of a server. Additional, you may pass a Registry key with the encrypted password or the UNIX password file to VNCrack and it does this simple fixed key decryption for you.
+</td></tr></table>
+<p><br />
+</p>
+<a name="Packet_Generators" id="Packet_Generators"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=14" title="Edit section: Packet Generators">edit</a>]</span> <span class="mw-headline"> Packet Generators </span></h2>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://phenoelit-us.org/irpas/docu.html#file2cable" class="external text" title="http://phenoelit-us.org/irpas/docu.html#file2cable" rel="nofollow">File2Cable</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/irpas&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/irpas (page does not exist)">ArchTrack/aur/irpas</a>
+</th><td> This tool is perfect to find new vulnerabilities and test concepts. It sends out any binary file as Ethernet frame - AS IT IS. So make sure you know what you do. Hint: use xxd from the vim package to produce the binary file from hex dumps.
+</td></tr>
+
+<tr>
+<th align="left"> Nemesis(T) </th><th> nemesis
+</th><td> Nemesis is a packet-crafting program that can forge raw packets up from the Ethernet layer up and put them on the wire. It's handy for when you just want to sit down and specify exactly what packets you want to craft. It supports crafting ARP, DNS, Ethernet, ICP, IGMP,   IP, RIP, TCP, and UDP packets. Similar in concept to the "hping" program.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://packeth.sourceforge.net/" class="external text" title="http://packeth.sourceforge.net/" rel="nofollow">packETH</a>(T) </th><th> TODO?
+</th><td> packETH is a Linux GUI packet generator tool for ethernet. It allows you to create and send any possible packet or sequence of packets on the ethernet.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://netsniff-ng.org" class="external text" title="http://netsniff-ng.org" rel="nofollow">trafgen</a> </th><th> trafgen
+</th><td> trafgen is a tiny high-performance Linux network packet generator, part of the netsniff-ng toolkit
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.obtuse.net/software/packit" class="external text" title="http://www.obtuse.net/software/packit" rel="nofollow">Packit</a>(T) </th><th> packit(*)
+</th><td> Packet toolkit is a network auditing tool. Its value is derived from its ability to customize, inject, monitor, and manipulate IP traffic.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.secdev.org/projects/scapy/" class="external text" title="http://www.secdev.org/projects/scapy/" rel="nofollow">Scapy</a>(T) </th><th> <a href="/w/index.php?title=ArchTrack/aur/scapy&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/scapy (page does not exist)">ArchTrack/aur/scapy</a>(*)
+</th><td> Scapy is a powerful interactive packet manipulation program. It is able to forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more. It can easily handle most classical tasks like scanning, tracerouting, probing, unit tests, attacks or network discovery (it can replace hping, 85% of nmap, arpspoof, arp-sk, arping, tcpdump, tethereal, p0f, etc.). It also performs very well at a lot of other specific tasks that most other tools can't handle, like sending invalid frames, injecting your own 802.11 frames, combining technics (VLAN hopping+ARP cache poisoning, VOIP decoding on WEP encrypted channel, ...), etc.
+</td></tr>
+
+<tr>
+<th align="left"> Sing(T) </th><th> TODO?
+</th><td> Description: A fully programmable ping replacement. Sing is a little tool that sends ICMP packets fully customized from command line. The main purpose is to replace/complement the nice ping command with certain enhancements as:
+<ul><li> Send fragmented packets (Linux and BSD).
+</li><li> Send monster packets &gt; 65534 (Linux and BSD).
+</li><li> Send/read spoofed packets.(Libpcap included in distribution).
+</li><li> Send many ICMP Information types in addition to the ECHO REQUEST type sent by default as Address Mask Request, Timestamp, Information Request, Router Solicitation and Router Advertisement.
+</li><li> Send many ICMP error types: Redirect, Source Quench, Time Exceeded, Destination Unreach and Parameter Problem.
+</li><li> Send to host with Loose or Strict Source Routing.
+</li><li> Use little fingerprinting techniques to discover Windows or Solaris boxes.
+</li><li> Send ICMP packets emulating certain OS: Cisco, Solaris, Linux, Shiva, Unix and Windows at the moment.
+</li></ul>
+</td></tr>
+
+<tr>
+<th align="left"> Wireshark Wifi(T) </th><th> TODO?
+</th><td> Wireshark with Wifi Injection Patch allows the user to select a packet opened with wireshark  and edit it and reinject throught LORCON injection library.
+</td></tr></table>
+<a name="Maintaining_Access" id="Maintaining_Access"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=15" title="Edit section: Maintaining Access">edit</a>]</span> <span class="mw-headline">Maintaining Access</span></h2>
+<a name="Backdoors" id="Backdoors"></a><h5><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=16" title="Edit section: Backdoors">edit</a>]</span> <span class="mw-headline">Backdoors</span></h5>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://matahari.sourceforge.net" class="external text" title="http://matahari.sourceforge.net" rel="nofollow">Matahari</a>(T) </th><th> matahari
+</th><td> Python script to maintain a basic shell remotely on systems behind firewalls. Client gets commands by periodically polling the server and sends the output back after executing them. Traffic traverses firewall as standard outgoing HTTP GET/POST requests. HTTP requests/responses carry payload b64 encoded. Optional encryption is supported (and highly recommended)
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://farm9.org/Cryptcat/" class="external text" title="http://farm9.org/Cryptcat/" rel="nofollow">Cryptcat</a>(T) </th><th> TODO?
+</th><td> Cryptcat is the standard netcat enhanced with twofish encryption with ports for WIndows NT, BSD and Linux. Twofish is courtesy of counterpane, and cryptix.
+</td></tr>
+
+<tr>
+<th align="left"> HttpTunnel Client(T) </th><th> TODO?
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> HttpTunnel Server(T) </th><th> TODO?
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://thomer.com/icmptx" class="external text" title="http://thomer.com/icmptx" rel="nofollow">icmptx</a>(T) </th><th> TODO?
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://code.kryo.se/iodine/" class="external text" title="http://code.kryo.se/iodine/" rel="nofollow">Iodine</a>(T) </th><th> iodine
+</th><td> This is a piece of software that lets you tunnel IPv4 data through a DNS server. This can be usable in different situations where internet access is firewalled, but DNS queries are allowed.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://savannah.nongnu.org/projects/nstx/" class="external text" title="http://savannah.nongnu.org/projects/nstx/" rel="nofollow">NSTX</a>(T) </th><th> TODO?
+</th><td> Nstx is a tunneling tool that allows IP over DNS
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.privoxy.org" class="external text" title="http://www.privoxy.org" rel="nofollow">Privoxy</a>(T) </th><th> privoxy
+</th><td> Privoxy is a web proxy  with advanced filtering capabilities for protecting privacy, modifying web page data, managing cookies, controlling access, and removing ads, banners, pop-ups and other obnoxious Internet junk. Privoxy has a very flexible configuration and can be customized to suit individual needs and tastes. Privoxy has application for both stand-alone systems and multi-user networks.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://proxytunnel.sourceforge.net/" class="external text" title="http://proxytunnel.sourceforge.net/" rel="nofollow">ProxyTunnel</a>(T) </th><th> TODO?
+</th><td> ProxyTunnel is a program that connects stdin and stdout to a server somewhere on the network, through a standard HTTPS proxy. We mostly use it to tunnel SSH sessions through HTTP(S) proxies, allowing us to do many things that wouldn't be possible without ProxyTunnel.
+</td></tr>
+
+<tr>
+<th align="left"> Rinetd(T) </th><th> TODO?
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://tinyproxy.sourceforge.net/" class="external text" title="http://tinyproxy.sourceforge.net/" rel="nofollow">tinyproxy</a>(T) </th><th> <a href="http://aur.archlinux.org/packages.php?ID=11577" class="external text" title="http://aur.archlinux.org/packages.php?ID=11577" rel="nofollow">tinyproxy</a>
+</th><td> tinyproxy is a lightweight HTTP proxy. Designed from the ground up to be fast and yet small, it is an ideal solution for sites where a full-featured HTTP proxy is required, but the system resources required to run a more demanding HTTP proxy are unavailable.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://tigerteam.se/dl/sbd/" class="external text" title="http://tigerteam.se/dl/sbd/" rel="nofollow">sbd</a>(T) </th><th> TODO?
+</th><td> sbd is a Netcat-clone, designed to be portable and offer strong encryption. It runs on Unix-like operating systems and on Microsoft Win32. sbd features AES-CBC-128 + HMAC-SHA1 encryption (by Christophe Devine), program execution (-e option), choosing source port, continuous reconnection with delay, and some other nice features. Only TCP/IP communication is supported.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.dest-unreach.org/socat/" class="external text" title="http://www.dest-unreach.org/socat/" rel="nofollow">socat</a>(T) </th><th> socat
+</th><td> socat is a relay for bidirectional data transfer between two independent data
+<p>channels. Each of these data channels may be a file, pipe, device (serial line
+etc. or a pseudo terminal), a socket (UNIX, IP4, IP6 - raw, UDP, TCP), an
+SSL socket, proxy CONNECT connection, a file descriptor (stdin etc.), the GNU
+line editor (readline), a program, or a combination of two of these. 
+These modes include generation of "listening" sockets, named pipes, and pseudo
+terminals.
+</p>
+</td></tr></table>
+<a name="Covering_Tracks" id="Covering_Tracks"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=17" title="Edit section: Covering Tracks">edit</a>]</span> <span class="mw-headline">Covering Tracks</span></h2>
+<a name="Housekeeping" id="Housekeeping"></a><h5><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=18" title="Edit section: Housekeeping">edit</a>]</span> <span class="mw-headline">Housekeeping</span></h5>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> cloak2(T) </th><th> TODO
+</th><td> Keep a low profile. <a href="http://www.leetupload.com/dbindex2/index.php?dir=Linux/C%20Code" class="external free" title="http://www.leetupload.com/dbindex2/index.php?dir=Linux/C%20Code" rel="nofollow">http://www.leetupload.com/dbindex2/index.php?dir=Linux/C%20Code</a> <a href="http://www.martnet.com/~johnny/exploits/cloaks" class="external free" title="http://www.martnet.com/~johnny/exploits/cloaks" rel="nofollow">http://www.martnet.com/~johnny/exploits/cloaks</a>
+</td></tr>
+
+</table>
+<a name="Radio_Network_Analysis" id="Radio_Network_Analysis"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=19" title="Edit section: Radio Network Analysis">edit</a>]</span> <span class="mw-headline">Radio Network Analysis</span></h2>
+<p>aka "Wardriving", "Wireless Assessment", "Electromagnetic/Radio Frequency (EM/RF)", "Signals"...
+</p>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://gnuradio.org" class="external text" title="http://gnuradio.org" rel="nofollow">GNU Radio</a> (T) </th><th> TODO?
+</th><td>
+</td></tr>
+
+</table>
+<a name="802.11" id="802.11"></a><h3><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=20" title="Edit section: 802.11">edit</a>]</span> <span class="mw-headline">802.11</span></h3>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://homepages.tu-darmstadt.de/~p_larbig/wlan/" class="external text" title="http://homepages.tu-darmstadt.de/~p_larbig/wlan/" rel="nofollow">AFrag</a>(T) </th><th> TODO?
+</th><td> First implementation of the Fragmentation Attack on Linux.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://asleap.sourceforge.net/" class="external text" title="http://asleap.sourceforge.net/" rel="nofollow">ASLeap</a>(TG) </th><th> TODO?
+</th><td> This tool is released as a proof-of-concept to demonstrate weaknesses in
+<p>the LEAP and PPTP protocols.
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.aircrack-ng.org/" class="external text" title="http://www.aircrack-ng.org/" rel="nofollow">Aircrack-ng Suite</a>(T)(*) </th><th> aircrack-ng-svn
+</th><td> <b>Aircrack</b>
+<p>Aircrack is an 802.11 WEP and WPA-PSK keys cracking program that can recover keys once enough data packets have been captured. It implements the standard FMS attack along with some optimizations like KoreK attacks, thus making the attack much faster compared to other WEP cracking tools. In fact, aircrack is a set of tools for auditing wireless networks.
+</p><p><b>Air Decap</b> 
+</p><p>decrypts WEP/WPA capture files. 
+</p><p><b>Air Replay</b> 
+</p><p>802.11 packet injection program. Part of the aircrack suite.
+</p><p><b>Airmon-ng</b>
+</p><p>a utility to check an wifi interfaces status and placing the interface into monitor mode. Part of the aircrack suite.
+</p><p><b>Airodump</b>
+</p><p>802.11 packet capture program. Part of the aircrack suite.
+</p><p><b>Airoscript</b> 
+</p><p>aircrack-ng based wireless cracking script.
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://airpwn.sourceforge.net" class="external text" title="http://airpwn.sourceforge.net" rel="nofollow">Airpwn</a>(T) </th><th> airpwn
+</th><td> Airpwn requires two 802.11 interfaces in the case where driver can't inject in monitor mode (lots of chipsets do nowadays, see <a href="/w/index.php?title=HCL:Wireless&amp;action=edit&amp;redlink=1" class="new" title="HCL:Wireless (page does not exist)">HCL:Wireless</a> for a list). It uses a config file with multiple config sections to respond to specific data packets with arbitrary content. For example, in the HTML goatse example, we look for any TCP data packets starting with "GET" or "POST" and respond with a valid server response including a reference to the canonical goatse image.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://airsnarf.shmoo.com/" class="external text" title="http://airsnarf.shmoo.com/" rel="nofollow">AirSnarf</a>(T) </th><th> TODO
+</th><td> Airsnarf is a simple rogue wireless access point setup utility designed to demonstrate how a rogue AP can steal usernames and passwords from public wireless hotspots.  Airsnarf was developed and released to demonstrate an inherent vulnerability of public 802.11b hotspots--snarfing usernames and passwords by confusing users with DNS and HTTP redirects from a competing AP.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://airsnort.shmoo.com/" class="external text" title="http://airsnort.shmoo.com/" rel="nofollow">AirSnort</a>(G) </th><th> airsnort
+</th><td> AirSnort is a wireless LAN (WLAN) tool which recovers encryption keys. AirSnort operates by passively monitoring transmissions, computing the encryption key when enough packets have been gathered.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://sourceforge.net/projects/cowpatty" class="external text" title="http://sourceforge.net/projects/cowpatty" rel="nofollow">CowPatty</a>(T) </th><th> cowpatty
+</th><td> Cowpatty is designed to audit the pre-shared key (PSK) selection for WPA networks based on the TKIP protocol. A while back, Robert Moskowitz published a paper titled "Weakness in Passphrase Choice in WPA Interface" that described a dictionary attack against wireless networks using the TKIP protocol with a pre-shared key (PSK). Supply a libpcap file that includes the TKIP four-way handshake, a dictionary file of passphrases to guess with and the SSID for the network:
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.blackalchemy.to/project/fakeap/" class="external text" title="http://www.blackalchemy.to/project/fakeap/" rel="nofollow">FakeAP</a>(T) </th><th> TODO
+</th><td> Black Alchemy's Fake AP generates thousands of counterfeit 802.11b access points. Hide in plain sight amongst Fake AP's cacophony of beacon frames. As part of a honeypot or as an instrument of your site security plan, Fake AP confuses Wardrivers, NetStumblers, Script Kiddies, and other undesirables.
+<pre> perl fakeap.pl --interface wlan0 --words lists/stefan-wordlist.txt --vendors lists/stefan-maclist.txt ONLY PRISM!
+</pre>
+</td></tr>
+
+<tr>
+<th align="left"> Gens(T) </th><th> TODO
+</th><td> GenKeys Genpmk
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.remote-exploit.org/codes_hotspotter.html" class="external text" title="http://www.remote-exploit.org/codes_hotspotter.html" rel="nofollow">HotSpotter</a>(TG) </th><th> TODO
+</th><td> Hotspotter passively monitors the network for probe request frames to identify the preferred networks of Windows XP clients, and will compare it to a supplied list of common hotspot network names. If the probed network name matches a common hotspot name, Hotspotter will act as an access point to allow the client to authenticate and associate. Once associated, Hotspotter can be configured to run a command, possibly a script to kick off a DHCP daemon and other scanning against the new victim.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://theta44.org/karma/index.html" class="external text" title="http://theta44.org/karma/index.html" rel="nofollow">Karma</a>(TG) </th><th> TODO
+</th><td> KARMA is a set of tools for assessing the security of wireless clients at multiple layers. Wireless sniffing tools discover clients and their preferred/trusted networks by passively listening for 802.11 Probe Request frames. From there, individual clients can be targetted by creating a Rogue AP for one of their probed networks (which they may join automatically) or using a custom driver that responds to probes and association requests for any SSID. Higher-level fake services can then capture credentials or exploit client-side vulnerabilities on the host.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.kismetwireless.net/" class="external text" title="http://www.kismetwireless.net/" rel="nofollow">Kismet</a>(T) </th><th> kismet
+</th><td> Kismet is an 802.11 layer2 wireless network detector, sniffer, and
+<p>intrusion detection system.  Kismet will work with any wireless card which
+    supports raw monitoring (rfmon) mode, and can sniff 802.11b, 802.11a, and
+    802.11g traffic. Kismet identifies networks by passively collecting packets and detecting
+    standard named networks, detecting (and given time, decloaking) hidden 
+    networks, and infering the presence of nonbeaconing networks via data
+    traffic.
+
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> qkismet(G) </th><th> qkismet-svn
+</th><td> Exclusive.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://alobbs.com/macchanger/" class="external text" title="http://alobbs.com/macchanger/" rel="nofollow">MacChanger</a>(T) </th><th> macchanger
+</th><td> A GNU/Linux utility for viewing/manipulating the MAC address of network interfaces
+</td></tr>
+
+<tr>
+<th align="left"> RUtilt(G)(*) </th><th> rutilt
+</th><td> Graphical tools to configure wifi devices. Great support for RaLink.
+</td></tr>
+
+<tr>
+<th align="left"> Wep_(TG) </th><th> TODO?
+</th><td> Wep_crack Wep Cracker -- Wep_decrypt  Decrypt dump files.
+</td></tr>
+
+<tr>
+<th align="left"> Wifi-Radar(G)(*) </th><th> wifi-radar
+</th><td> GUI to configure wireless devices.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://sid.rstack.org/index.php/Wifitap_EN" class="external text" title="http://sid.rstack.org/index.php/Wifitap_EN" rel="nofollow">WifiTap</a>(T) </th><th> wifitap
+</th><td> Wifitap is a proof of concept for communication over WLAN networks using traffic injection.  Wifitap allows direct communication with an associated station to a given access point directly, whilst not being being associated ourselves or being handled by access point.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://midnightresearch.com/projects/wicrawl" class="external text" title="http://midnightresearch.com/projects/wicrawl" rel="nofollow">WiCrawl</a>(G) </th><th> TODO
+</th><td> wicrawl is an automated wifi scanner and auditor.  It implements common tools to perform checks (association, dhcp, wep cracking, bruteforcing wpa-psk, etc) against the discovered access point list based on profile settings.  It can use multiple cards to run checks against multiple APs at the same time.
+</td></tr>
+
+<tr>
+<th align="left"> Wlassistant(TG) </th><th> TODO
+</th><td> Wireless Assistant scans for wireless access points and displays link quality, encryption and other useful information. When user wants to connect to a network, Wireless Assistant opens up its wizards and guides the user through Wi-Fi settings. After a successful connection is made the settings are remembered so next time the user won't have to enter them again.
+</td></tr></table>
+<a name="Bluetooth" id="Bluetooth"></a><h3><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=21" title="Edit section: Bluetooth">edit</a>]</span> <span class="mw-headline">Bluetooth</span></h3>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://homepages.tu-darmstadt.de/~p_larbig/wlan/" class="external text" title="http://homepages.tu-darmstadt.de/~p_larbig/wlan/" rel="nofollow">AFrag</a>(T) </th><th> TODO?
+</th><td> First implementation of the Fragmentation Attack on Linux.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.remote-exploit.org/codes_bluebugger.html" class="external text" title="http://www.remote-exploit.org/codes_bluebugger.html" rel="nofollow">Bluebugger</a>(T) </th><th> TODO?
+</th><td> bluebugger is an implementation of the bluebug technique which was discovered by Martin Herfurt from the Trifinite Group. It was tested with Nokia 6310i, Nokia N72 and Sony Ericsson T68i.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://trifinite.org/trifinite_stuff_blueprinting.html" class="external text" title="http://trifinite.org/trifinite_stuff_blueprinting.html" rel="nofollow">Blueprint</a>(T) </th><th> TODO?
+</th><td> Blueprinting is a method to remotely find out details about bluetooth-enabled devices. Blueprinting can be used for generating statistics about manufacturers and models and to find out whether there are devices in range that have issues with Bluetooth security.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.alighieri.org/project.html" class="external text" title="http://www.alighieri.org/project.html" rel="nofollow">Bluesnarfer</a>(T) </th><th> TODO?
+</th><td> Bluesnarfer will download the phonebook of any mobile device vulnerable to bluesnarfing.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.pentest.co.uk/" class="external text" title="http://www.pentest.co.uk/" rel="nofollow">Btscanner</a>(T) </th><th> TODO?
+</th><td> btscanner is a tool designed specifically to extract as much information as possible from a Bluetooth device without the requirement to pair.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://trifinite.org/trifinite_stuff_carwhisperer.html" class="external text" title="http://trifinite.org/trifinite_stuff_carwhisperer.html" rel="nofollow">Carwhisperer</a>(T) </th><th> TODO?
+</th><td> The carwhisperer project intends to sensibilise manufacturers of carkits and other Bluetooth appliances without display and keyboard for the possible security threat evolving from the use of standard passkeys.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://cutecom.sourceforge.net/" class="external text" title="http://cutecom.sourceforge.net/" rel="nofollow">CuteCom</a>(T) </th><th> TODO?
+</th><td> CuteCom is a graphical serial terminal, like minicom.
+</td></tr>
+<tr>
+<th align="left"> Ghettotooth(T) </th><th> TODO?
+</th><td> Bluetooth scanner.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.linuxcommand.org/man_pages/hcidump8.html" class="external text" title="http://www.linuxcommand.org/man_pages/hcidump8.html" rel="nofollow">HCIDump</a>(T) </th><th> TODO?
+</th><td> Hcidump reads raw HCI data coming from and going to a Bluetooth device
+<p>and  prints to screen commands, events and data in a human-readable form.
+Optionally, the dump can be written  to  a  file  rather than parsed, and
+the dump file can be parsed in a subsequent moment.
+</p>
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.xmailserver.org/ussp-push.html" class="external text" title="http://www.xmailserver.org/ussp-push.html" rel="nofollow">USSP-Push</a>(T) </th><th> TODO?
+</th><td> ussp-push is a OBEX object pusher for Linux, using the BlueZ BlueTooth stack. The original ussp-push implementation required explicit binding to RFCOMM channels before the usage, that made it quite cumbersome to use. Now it has BlueTooth name resolution, SDP service resolution, and direct access to remote BlueTooth listening channels.
+</td></tr></table>
+<a name="VoIP_.26_Telephony_Analysis" id="VoIP_.26_Telephony_Analysis"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=22" title="Edit section: VoIP &amp; Telephony Analysis">edit</a>]</span> <span class="mw-headline">VoIP &amp; Telephony Analysis</span></h2>
+<ul><li> Wardialing?
+</li></ul>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://sourceforge.net/projects/psipdump" class="external text" title="http://sourceforge.net/projects/psipdump" rel="nofollow">Pcapsipdump</a>(GT) </th><th> TODO?
+</th><td> Pcapsipdump is a tool for dumping (recording) SIP sessions (and RTP traffic, if available) to disk in a fashion similar to "tcpdump -w" (the format is exactly the same).
+<p>The difference is that the data is saved with one file per SIP session. Even if there are thousands of concurrect SIP sessions, each goes to separate file. 
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://wiki.cdyne.com/wiki/index.php?title=PCAP_To_SIP_and_RTP" class="external text" title="http://wiki.cdyne.com/wiki/index.php?title=PCAP_To_SIP_and_RTP" rel="nofollow">PcapToSip_RTP</a>(GT) </th><th> TODO?
+</th><td> This program with full C# source code allows you to dump the calls captured from Tetheral, Ethereal, Wireshark, and TCPDUMP.  You will have the sound files to play Incoming, Outgoing, and Combined audio.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://sipsak.org" class="external text" title="http://sipsak.org" rel="nofollow">Sipsak</a>(GT) </th><th> TODO?
+</th><td> Sipsak is a small command line tool for developers and administrators of Session Initiation Protocol (SIP) applications. It can be used for some simple tests on SIP applications and devices.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.remote-exploit.org/codes_sipcrack.html" class="external text" title="http://www.remote-exploit.org/codes_sipcrack.html" rel="nofollow">SIPcrack</a>(GT) </th><th> sipcrack
+</th><td> SIPcrack is a SIP login sniffer/cracker that contains 2 programs: sipdump to capture the digest authentication and sipcrack to bruteforce the hash using a wordlist or standard input.
+</td></tr>
+
+<tr>
+<th align="left"> SIPdump(GT) </th><th> TODO?
+</th><td>&nbsp;?
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://freshmeat.net/redir/sipp/49242/url_homepage/sipp.sourceforge.net" class="external text" title="http://freshmeat.net/redir/sipp/49242/url_homepage/sipp.sourceforge.net" rel="nofollow">SIPp</a>(GT) </th><th> TODO?
+</th><td> Sipp is a performance testing tool for the SIP protocol. It includes a few basic SipStone user agent scenarios (UAC &amp; UAS) and establishes and releases multiple calls with the INVITE and BYE methods. It also reads XML scenario files describing any performance testing configuration. It features the dynamic display of statistics about running tests, periodic CSV statistics dumps, TCP, UDP, or TLS over IPv4 or IPv6 over multiple sockets or multiplexed with retransmission management, regular expressions and variables in scenario files, conditional branching, and dynamically-adjustable call rates. RTP play (voice, video, and RFC2833 DTMFs) is also supported.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://blog.sipvicious.org/" class="external text" title="http://blog.sipvicious.org/" rel="nofollow">SIPVicious</a> </th><th> <a href="/w/index.php?title=ArchTrack/aur/sipvicious-svn&amp;action=edit&amp;redlink=1" class="new" title="ArchTrack/aur/sipvicious-svn (page does not exist)">ArchTrack/aur/sipvicious-svn</a>
+</th><td> Tools for auditing SIP devices
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.wormulon.net/index.php?/archives/1125-smap-released.html" class="external text" title="http://www.wormulon.net/index.php?/archives/1125-smap-released.html" rel="nofollow">SMap</a>(GT) </th><th> TODO?
+</th><td> smap is a mashup of nmap and sipsak. To sum up functionality in one sentence it aides in both locating and fingerprinting remote SIP devices.
+</td></tr></table>
+<a name="Network_Security_Monitoring" id="Network_Security_Monitoring"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=23" title="Edit section: Network Security Monitoring">edit</a>]</span> <span class="mw-headline"> Network Security Monitoring </span></h2>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> Suricata (T) </th><th> TODO?
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> Sguil (T) </th><th> TODO?
+</th><td>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://netsniff-ng.org" class="external text" title="http://netsniff-ng.org" rel="nofollow">flowtop</a> (T) </th><th> TODO?
+</th><td> flowtop is a live connection tracking tool with flow information about services, countries of src and dst; part of netsniff-ng
+</td></tr>
+
+</table>
+<a name="Digital_Forensics" id="Digital_Forensics"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=24" title="Edit section: Digital Forensics">edit</a>]</span> <span class="mw-headline">Digital Forensics</span></h2>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://www.netmon.ch/forensic/allin1.html" class="external text" title="http://www.netmon.ch/forensic/allin1.html" rel="nofollow">All in 1</a>(T) </th><th> TODO?
+</th><td> This tool should help you to make several time consuming tasks in Sleuthkit/autopsy in one row:
+<ul><li> Extract unallocted space
+</li><li> Extract strings (ASCII and Unicode) from allocated and unallocated
+</li><li> Sort by file types
+</li><li> Sort by images and create thumbnails
+</li><li> Make foremost run on images
+</li><li> Scheduling
+</li></ul>
+<p>All this steps are also saved in the host.aut-file so Autopsy will know about what happened.
+</p>
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://www.sleuthkit.org/autopsy/index.php" class="external text" title="http://www.sleuthkit.org/autopsy/index.php" rel="nofollow">Autopsy</a>(G) </th><th> autopsy
+</th><td> The Autopsy Forensic Browser is a graphical interface to the command line digital investigation tools in  The Sleuth Kit. Together, they allow you to investigate the file system and volumes of a computer.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://dcfldd.sourceforge.net/" class="external text" title="http://dcfldd.sourceforge.net/" rel="nofollow">dcfldd</a>(T) </th><th> dcfldd
+</th><td> dcfldd is an enhanced version of GNU dd with features useful for forensics and security.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://freshmeat.net/projects/ddrescue/" class="external text" title="http://freshmeat.net/projects/ddrescue/" rel="nofollow">DD_Rescue</a>(T) </th><th> TODO?
+</th><td> dd_rescue copies data from one file or block device to another. It is intended for error recovery, so, by default, it doesn't abort on errors, and doesn't truncate the output file. It uses large block sizes to quicken the copying, but falls back to small blocks upon encountering errors. It produces reports that allow you to keep track of bad blocks.
+</td></tr>
+
+<tr>
+<th align="left"> <a href="http://foremost.sourceforge.net/" class="external text" title="http://foremost.sourceforge.net/" rel="nofollow">Foremost</a>(T) </th><th> foremost
+</th><td> Foremost is a console program to recover files based on their headers, footers, and internal data structures. This process is commonly referred to as data carving. Foremost can work on image files, such as those generated by dd, Safeback, Encase, etc, or directly on a drive. The headers and footers can be specified by a configuration file or you can use command line switches to specify built-in file types. These built-in types look at the data structures of a given file format allowing for a more reliable and faster recovery.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://jbj.rapanden.dk/magicrescue/" class="external text" title="http://jbj.rapanden.dk/magicrescue/" rel="nofollow">Magic Rescue</a>(T) </th><th> TODO?
+</th><td> Magic Rescue scans a block device for file types it knows how to recover and calls an external program to extract them. It looks at "magic bytes" in file contents, so it can be used both as an undelete utility and for recovering a corrupted drive or partition. As long as the file data is there, it will find it.
+<p>It works on any file system, but on very fragmented file systems it can only recover the first chunk of each file. Practical experience (this program was not written for fun) shows, however, that chunks of 30-50MB are not uncommon.
+</p>
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.mboxgrep.org/" class="external text" title="http://www.mboxgrep.org/" rel="nofollow">mboxgrep</a>(T) </th><th> TODO?
+</th><td> mboxgrep is a small utility that scans a mailbox for messages matching a regular expression. Found messages can be either displayed on standard output, counted, deleted, piped to a shell command or written to another mailbox.
+</td></tr>
+<tr>
+<th align="left"> mdd </th><th> TODO
+</th><td>
+</td></tr>
+<tr>
+<th align="left"> <a href="http://lcamtuf.coredump.cx/" class="external text" title="http://lcamtuf.coredump.cx/" rel="nofollow">Memfetch</a>(T) </th><th> TODO?
+</th><td> Memfetch is a yet another small but useful security tool that allows instant and non-intrusive dumping of ALL process memory, including the information absent from core files. This is a neat way to see what, exactly, is running at a particular PID.
+</td></tr>
+<tr>
+<th align="left"> Memfetch Find(T) </th><th> TODO?
+</th><td> Custom perl script that can be used to find strings (regular expression matches) in memfetch dump files in a more useful way then grep could - that is, finding exact memory locations.
+</td></tr>
+<tr>
+<th align="left"> Pasco(T) </th><th> TODO?
+</th><td> Index.dat (Internet Explorer history file) reader. Output is comma delimited for analysis in favorite spreadsheet.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://directory.fsf.org/RootkitHunter.html" class="external text" title="http://directory.fsf.org/RootkitHunter.html" rel="nofollow">Rootkithunter</a>(T) </th><th> <a href="http://aur.archlinux.org/packages.php?ID=25940" class="external text" title="http://aur.archlinux.org/packages.php?ID=25940" rel="nofollow">rkhunter</a>
+</th><td> Rootkit Hunter scans files and systems for known and unknown rootkits, backdoors, and sniffers. The package contains one shell script, a few text-based databases, and optional Perl modules.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.sleuthkit.org/sleuthkit" class="external text" title="http://www.sleuthkit.org/sleuthkit" rel="nofollow">Sleuthkit</a>(T) </th><th> TODO?
+</th><td> The Sleuth Kit (TSK) is a collection of UNIX-based command line tools that allow you to investigate a computer. The current focus of the tools is the file and volume systems and TSK supports FAT, Ext2/3, NTFS, UFS, and ISO 9660 file systems.
+</td></tr>
+<tr>
+<th align="left"> Vinetto(GT) </th><th> TODO
+</th><td> Vinetto is a forensics tool to examine Thumbs.db files
+</td></tr></table>
+<a name="Reverse_Engineering" id="Reverse_Engineering"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=25" title="Edit section: Reverse Engineering">edit</a>]</span> <span class="mw-headline">Reverse Engineering</span></h2>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://sourceware.org/gdb/documentation/" class="external text" title="http://sourceware.org/gdb/documentation/" rel="nofollow">GDB GNU Debugger</a>(GT) </th><th> gdb
+</th><td> GDB, the GNU Project debugger, allows you to see what is going on `inside' another program while it executes -- or what another program was doing at the moment it crashed. The program being debugged can be written in Ada, C, C++, Objective-C, Pascal (and many other languages). Those programs might be executing on the same machine as GDB (native) or on another machine (remote). GDB can run on most popular UNIX and Microsoft Windows variants.
+<p>GDB can do four main kinds of things (plus other things in support of these) to help you catch bugs in the act:
+</p><p>1) Start your program, specifying anything that might affect its behavior.
+</p><p>2) Make your program stop on specified conditions.
+</p><p>3) Examine what has happened, when your program has stopped.
+</p><p>4) Change things in your program, so you can experiment with correcting the effects of one bug and go on to learn 
+about another. 
+</p>
+<ul><li> GDB User Manual: <a href="http://sourceware.org/gdb/current/onlinedocs/gdb_toc.html" class="external free" title="http://sourceware.org/gdb/current/onlinedocs/gdb_toc.html" rel="nofollow">http://sourceware.org/gdb/current/onlinedocs/gdb_toc.html</a>
+</li></ul>
+<ul><li> GDB Internals Manual: <a href="http://sourceware.org/gdb/current/onlinedocs/gdbint_toc.html" class="external free" title="http://sourceware.org/gdb/current/onlinedocs/gdbint_toc.html" rel="nofollow">http://sourceware.org/gdb/current/onlinedocs/gdbint_toc.html</a>
+</li></ul>
+</td></tr>
+<tr>
+<th align="left"> GDB Console GUI(G) </th><th> TODO?
+</th><td> Same as GDB GNU Debugger with a GUI frontend.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://sourceware.org/gdb/current/onlinedocs/gdb_18.html#SEC162" class="external text" title="http://sourceware.org/gdb/current/onlinedocs/gdb_18.html#SEC162" rel="nofollow">gdbserver</a>(GT) </th><th> TODO?
+</th><td> gdbserver is a control program for Unix-like systems, which allows you to connect your program with a remote GDB via target remote---but without linking in the usual debugging stub.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.gnu.org/manual/ddd/" class="external text" title="http://www.gnu.org/manual/ddd/" rel="nofollow">GNU DDD</a>(GT) </th><th> TODO?
+</th><td> GNU DDD is a graphical front-end for command-line debuggers such as GDB, DBX, WDB, Ladebug, JDB, XDB, the Perl debugger, the bash debugger, or the Python debugger. Besides ``usual<i> front-end features such as viewing source texts, DDD has become famous through its interactive graphical data display, where data structures are displayed as graphs.</i>
+</td></tr>
+<tr>
+<th align="left"> <a href="http://miller.emu.id.au/pmiller/software/hexdump/" class="external text" title="http://miller.emu.id.au/pmiller/software/hexdump/" rel="nofollow">Hexdump</a>(T) </th><th> TODO?
+</th><td> Hexdmup is a simple program for dumping binary files in hexadecimal format. It provides both hexadecimal and ascii columns.
+</td></tr>
+<tr>
+<th align="left"> Hexedit(GT) </th><th> hexedit
+</th><td> View and edit files in hexadecimal or in ASCII. The file can be a device as the file is read a piece at a time. You can modify the file and search through it.
+</td></tr>
+<tr>
+<th align="left"> <a href="http://www.ollydbg.de" class="external text" title="http://www.ollydbg.de" rel="nofollow">OllyDbg</a>(GT) </th><th> TODO?
+</th><td>  is a 32-bit assembler level analysing debugger for Microsoft® Windows®. Emphasis on binary code analysis makes it particularly useful in cases where source is unavailable.
+</td></tr></table>
+<a name="Services" id="Services"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=26" title="Edit section: Services">edit</a>]</span> <span class="mw-headline">Services</span></h2>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> <a href="http://www.snort.org" class="external text" title="http://www.snort.org" rel="nofollow">SNORT</a>(T) </th><th> snort
+</th><td>
+<p><br />
+</p>
+</td></tr>
+<tr>
+<th align="left"> snortrules(T) </th><th> snortrules
+</th><td>
+</td></tr>
+<tr>
+<th align="left"> snortsam(T) </th><th> snortsam
+</th><td>
+</td></tr>
+<tr>
+<th align="left"> oinkmaster(T) </th><th> oinkmaster
+</th><td>
+</td></tr></table>
+<p><br />
+</p>
+<a name="Firefox_Add-ons" id="Firefox_Add-ons"></a><h2><span class="editsection">[<a href="/w/index.php?title=Hax0ring_tools&amp;action=edit&amp;section=27" title="Edit section: Firefox Add-ons">edit</a>]</span> <span class="mw-headline">Firefox Add-ons</span></h2>
+<table class="wikitable sortable" style="text-align: left; font-size: 85%; width: auto; table-layout: fixed;">
+
+<tr>
+<th style="width:120px" align="center" bgcolor="#ccccdd"> tool
+</th><th style="width:70px; background:#ffdead;" align="
+19c0
+center"> status
+</th><th align="center" bgcolor="#ccccdd"> info
+</th></tr>
+
+<tr>
+<th align="left"> Firebug </th><th> Firebug
+</th><td>
+<p><br />
+</p>
+</td></tr>
+<tr>
+<th align="left"> FoxyProxy </th><th> FoxyProxy
+</th><td>
+</td></tr>
+<tr>
+<th align="left"> HackBar </th><th> HackBar
+</th><td>
+</td></tr>
+<tr>
+<th align="left"> NoScript </th><th> NoScript
+</th><td>
+</td></tr>
+<tr>
+<th align="left"> AdBlock </th><th> AdBlock
+</th><td>
+</td></tr>
+<tr>
+<th align="left"> Tamper Data </th><th> Tamper Data
+</th><td>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 74/1000000
+Post-expand include size: 789/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:385-0!1!0!!en!2 and timestamp 20121019220748 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Hax0ring_tools">https://cryptoanarchy.org/wiki/Hax0ring_tools</a>"</div>
+						<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Hax0ring_tools" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Hax0ring_tools&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Hax0ring_tools&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Hax0ring_tools&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hax0ring_tools" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hax0ring_tools" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hax0ring_tools" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Hax0ring_tools&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Hax0ring_tools&amp;oldid=3575" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 14 February 2012, at 17:48.</li>
+					<li id="viewcount">This page has been accessed 1,529 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.134 secs. --></body></htm
+3
+l>
+
+0
+

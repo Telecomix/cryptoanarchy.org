@@ -1,0 +1,449 @@
+73c0
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta name="generator" content="MediaWiki 1.15.1" />
+		<meta name="keywords" content="Pf,Blocklists" />
+		<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Pf&amp;action=edit" />
+		<link rel="edit" title="Edit" href="/w/index.php?title=Pf&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Telecomix Crypto Munitions Bureau (en)" />
+		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Pf&amp;action=creativecommons" rel="meta" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="alternate" type="application/rss+xml" title="Telecomix Crypto Munitions Bureau RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Telecomix Crypto Munitions Bureau Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Pf - Telecomix Crypto Munitions Bureau</title>
+		<link rel="stylesheet" href="/w/skins/common/shared.css?207" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/w/skins/common/commonPrint.css?207" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/skins/monobook/main.css?207" type="text/css" media="screen" />
+		<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?207" type="text/css" media="screen" /><![endif]-->
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" media="print" />
+		<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" type="text/css" />
+		<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" type="text/css" />
+		<!--[if lt IE 7]><script type="text/javascript" src="/w/skins/common/IEFixes.js?207"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+		<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "monobook";
+		var stylepath = "/w/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "/w";
+		var wgScript = "/w/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "https://cryptoanarchy.org";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "Pf";
+		var wgTitle = "Pf";
+		var wgAction = "view";
+		var wgArticleId = "6";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "en";
+		var wgContentLanguage = "en";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 2977;
+		var wgVersion = "1.15.1";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+
+		<script type="text/javascript" src="/w/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/w/skins/common/ajax.js?207"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Pf skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 id="firstHeading" class="firstHeading">Pf</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Telecomix Crypto Munitions Bureau</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p><b>pf</b>, short for <b>packet filter</b>, is the default firewall for the OpenBSD operating system.
+</p><p>If you want to know how pf works, you can go to <b><a href="http://www.openbsd.org/faq/pf/" class="external text" title="http://www.openbsd.org/faq/pf/" rel="nofollow">The OpenBSD pf tutorial</a></b>. This page <i>sometimes</i> assumes that you have read the default manual.
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Note.21"><span class="tocnumber">1</span> <span class="toctext">Note!</span></a></li>
+<li class="toclevel-1"><a href="#Why_use_pf.3F"><span class="tocnumber">2</span> <span class="toctext">Why use pf?</span></a></li>
+<li class="toclevel-1"><a href="#What_you_need_to_think_of"><span class="tocnumber">3</span> <span class="toctext">What you need to think of</span></a></li>
+<li class="toclevel-1"><a href="#Example:_Firewall_cluster"><span class="tocnumber">4</span> <span class="toctext">Example: Firewall cluster</span></a></li>
+<li class="toclevel-1"><a href="#Fucktards_list"><span class="tocnumber">5</span> <span class="toctext">Fucktards list</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Note.21" id="Note.21"></a><h2><span class="editsection">[<a href="/w/index.php?title=Pf&amp;action=edit&amp;section=1" title="Edit section: Note!">edit</a>]</span> <span class="mw-headline"> Note! </span></h2>
+<p>This is for OpenBSD 4.5 or something, which was more than two years ago. Pf has changed since then and so should this article..
+</p>
+<a name="Why_use_pf.3F" id="Why_use_pf.3F"></a><h2><span class="editsection">[<a href="/w/index.php?title=Pf&amp;action=edit&amp;section=2" title="Edit section: Why use pf?">edit</a>]</span> <span class="mw-headline"> Why use pf? </span></h2>
+<p>Because you do not trust your linux iptables-firewall. It is very difficult to set up rules for <a href="http://www.openbsd.org/faq/pf/scrub.html" class="external text" title="http://www.openbsd.org/faq/pf/scrub.html" rel="nofollow">scrubbing</a> incoming packets from weird stuff, but pf does this nicely&nbsp;:) Maybe think about using OpenBSD for your routers, and linux only for the servers? That way the routers can filter all incoming packets and handle VPN stuff, BGP/OSPF/RIP/whatever-routing, while you still can use linux larger flora of free software. OpenBSD is generally more difficult to use for servers and stuff, but they are better on networking than linux. Take the best from both worlds&nbsp;:)? You can also use FreeBSD. Or just ignore this text. It is up to you&nbsp;:D *omg freedom of choice!*
+</p><p><b>why?</b>
+</p>
+<ol><li> its much easier to learn how pf works, than how linux iptables works.
+</li><li> pf is secure by default, <i>iptables is not.</i>
+</li><li> there is a good tutorial for pf, there is only crappy tutorials for iptables. the iptables man page even contains errors (!).
+</li><li> pf has <i>one</i> well-defined method for updating firewall rules and all updates are done <a href="http://en.wikipedia.org/wiki/Atomicity_(database_systems)" class="external text" title="http://en.wikipedia.org/wiki/Atomicity_(database_systems)" rel="nofollow">atomically</a> (all rules are updated at once, and errors will make it abort updates without any changes). Iptables can do this too, but it <i>seems</i> more difficult.
+</li></ol>
+<a name="What_you_need_to_think_of" id="What_you_need_to_think_of"></a><h2><span class="editsection">[<a href="/w/index.php?title=Pf&amp;action=edit&amp;section=3" title="Edit section: What you need to think of">edit</a>]</span> <span class="mw-headline"> What you need to think of </span></h2>
+<ul><li> pf assumes that the different rules come in a special predefined order. Read the example below and figure it out, I have forgotten&nbsp;;)
+</li></ul>
+<a name="Example:_Firewall_cluster" id="Example:_Firewall_cluster"></a><h2><span class="editsection">[<a href="/w/index.php?title=Pf&amp;action=edit&amp;section=4" title="Edit section: Example: Firewall cluster">edit</a>]</span> <span class="mw-headline"> Example: Firewall cluster </span></h2>
+<p>(This script is old, the language used for defining pf rules has been updated slightly. You can still modify this script easily though, if you want. But maybe read the <a href="http://www.openbsd.org/faq/pf/" class="external text" title="http://www.openbsd.org/faq/pf/" rel="nofollow">official openbsd pf tutorial</a> instead, its really good!)
+</p><p>This script is for a computer that sits in a firewall cluster. There are mainly three important interfaces: $intertubes, which connects to the internets. $LAN that connects to the LAN, obviously. And, finally, $syncro that is a special cable that runs to the other firewalls in the cluster. $syncro is used to keep track of all connections that flows through the cluster, so that if one firewall goes offline the others can resume operations without you going offline. It is nice if you want to stay online even if you reboot and maintains your firewalls. The $syncro interface could be connected to a switch if there are more than two computers in the cluster, or directly to the other firewall if there is only two of them. 
+</p><p>DO NOT DEFINE $syncro AS EQUAL TO $LAN, it would seriously damage your security if there is angry-evil ppl in your LAN that knows how to capture packets off the wires. $syncro should be a separate cable, for physical security.
+</p><p>For this to work, you need to set up an <a href="http://www.openbsd.org/faq/pf/carp.html" class="external text" title="http://www.openbsd.org/faq/pf/carp.html" rel="nofollow">pfsync interface</a>, and a <a href="http://www.openbsd.org/faq/pf/ftp.html" class="external text" title="http://www.openbsd.org/faq/pf/ftp.html" rel="nofollow">ftp_proxy</a>. See the <a href="http://www.openbsd.org/faq/pf/" class="external text" title="http://www.openbsd.org/faq/pf/" rel="nofollow">OpenBSD pf FAQ</a> for more information about that.
+</p><p><b>Think of this script as a helping hand if you are trying to debug anything, rather than a definitive guide.</b> It is NOT a replacement for the pf manual.
+</p><p>Stuff you need to think about
+</p>
+<ul><li> The firewall computers each have their own IPs, but they are sharing two IPs with carp. You need to use (carp0) and (carp1) for NATing and stuff, do <i>not</i> use the firewalls own IP addresses.
+</li><li> When I rewrote one of my own pf.conf-files for this example (I removed my personal stuff), I might have forgotten about something. Do not trust that this works just out of the box&nbsp;:b
+</li><li> You need to update the interfaces named intertubes, LAN and syncro to something sane and real.
+</li><li> You can use the same script for all your firewalls, if you just change the IP-addresses and the interfaces.
+</li><li> Do not forget to take care of your /etc/hostname.IF-files. Please DO use a good password for the carp protocols.
+</li><li> I recommend that you paint a detailed picture of how your network is wired after you are done with this, it will be very difficult to recall it laters. Glue the picture to anyone of your firewalls&nbsp;:)
+</li></ul>
+<pre>
+# macros -----------------------------------------------------------------------
+
+intertubes=&quot;rl0&quot;
+LAN=&quot;fxp0&quot;
+syncro=&quot;rl1&quot;
+# carp0 is used for $intertubes common IP
+# carp1 is used for $LAN common IP
+
+intertubes_ip=&quot;1.2.3.4&quot;
+LAN_ip=&quot;192.168.0.1&quot;
+
+tcp_services=&quot;{ 22 }&quot;
+
+server_0=&quot;192.168.0.5&quot;
+server_0_tcp=&quot;{ 1424 1333 7500:8000 }&quot;
+server_0_udp=&quot;{ 25325 }&quot;
+
+server_1=&quot;192.168.0.6&quot;
+server_1_tcp=&quot;{ 1355 666 }&quot;
+
+ircserver=&quot;192.168.0.7&quot;
+irc_ports=&quot;{6667 6668 6669}&quot;
+
+# other macros -----------------------------------------------------------------
+# traps to catch skript kiddies.
+# max-src-conn = how many sessions are allowed from one single IP
+# max-src-conn-rate = how fast an IP is allowed to connect (15/5 means 15 per 5 sec)
+# overload &lt;traplist&gt; = IPs that exceeds the limits are put in this table
+trap=&quot;(max-src-conn 100, max-src-conn-rate 15/5, overload &lt;traplist&gt; flush global)&quot;
+eviltrap=&quot;(max-src-conn 5, max-src-conn-rate 3/5, overload &lt;traplist&gt; flush global)&quot;
+irc_trap=&quot;(max-src-conn 100, max-src-conn-rate 30/600, overload &lt;traplist&gt; flush global)&quot;
+
+# runtime options / define general pf behaviour --------------------------------
+set block-policy drop               # do not notify anyone of errors, just drop all strange stuff
+set loginterface $intertubes        # we are logging on the most important interface&nbsp;:)
+set skip on lo0                     # and we assume that our loopback interface is behaving
+
+
+# creating some tabels that are useful -----------------------------------------
+# this section only creates the tables, they are *used* later in the script
+
+table &lt;fucktards&gt; persist file &quot;/etc/pf-own/fucktards&quot;
+      # fucktards are permanently blocked IP addresses (put FRA here, use creeper.se to get their IP-blocks)
+
+table &lt;traplist&gt; persist
+      # ip's in the traplist are only blocked until reboot or table-flush
+      # I recommend that you flush the table with cron every day or so
+
+
+# scrubbing --------------------------------------------------------------------
+
+scrub in
+   # simple scrub of all packets that enter on any interface. More specific rules for
+   # the $intertubes-interface just below:
+
+scrub in on $intertubes min-ttl 255
+   # sets incomming TTL to 255 to avoid letting people map the network by examining
+   # which services respond at different TTLs, thus denying them the ability to examine
+   # your network topology. CAUTION!!! If you have another computer that routes traffic
+   # and also sets the TTL to something before sending it to the $intertubes-interface
+   # you are creating a ticking bomb. It would be very simple to DoS you (and perhaps
+   # your friends) if you do not think this through first: Packets that have their their
+   # TTL changed can be routed forever, and *very* quickly eat up all your bandwidth,
+   # thus forcing you offline.
+
+scrub out on $intertubes max-mss 1500 random-id min-ttl 255
+   # remove some identifying info, sets outgoing TTL to 255 for everything. The same
+   # applies here as for the previous rule. BE CAREFUL and THINK BEFORE you just
+   # copy the part about min-ttl!!!
+
+# bandwidth allocation ---------------------------------------------------------
+# We assume that we have a connection with 1Gbit/s bandwidth, just for lulz
+# _Obviously_ you should change this to your actual bandwidth. It is just an
+# example.
+
+altq on $intertubes cbq bandwidth 1Gb queue { std, ssh, important } 
+  queue std        on $intertubes bandwidth 88% priority 0 cbq(default)
+  queue ssh        on $intertubes bandwidth 2%  priority 1 cbq(borrow)
+  queue important  on $intertubes bandwidth 10%  priority 2 cbq(borrow)
+
+
+# nat/rdr ----------------------------------------------------------------------
+
+nat on $intertubes from 192.168.0.0/16 -&gt; (carp0)
+       # NAT traffic from LAN to the internet via the firewalls common IP&nbsp;:)
+
+nat on $LAN from 192.168.0.0/16 -&gt; $LAN_ip
+       # NAT mirror used to access services. This can be used to bounce traffic
+       # against the firewalls to reach stuff that is inside our network. It is
+       # an *uglyhack* but it helps if you want to reach services inside your
+       # own LAN as if you were connecting from the outside.
+
+# FTP PROXY RULES (needed to traverse the firewall) # # # # # #
+nat-anchor &quot;ftp-proxy/*&quot;         # used by ftp-proxy to make FTP work&nbsp;:)
+rdr-anchor &quot;ftp-proxy/*&quot;         # used by ftp-proxy to make FTP work&nbsp;:)
+rdr on $LAN proto tcp from any to any port 21 -&gt; 127.0.0.1 port 8021
+                                 # ftp-proxy listens at this port
+                                 # do not forget to actually start this program
+                                 # or ALL of your FTP sessions will fail.
+
+# normal redirects # # # # # # # # # # # # # # # # # # # # # # #
+
+   # server_0 port redirections
+rdr on $intertubes proto tcp from any to any port $server_0_tcp -&gt; $server_0
+rdr on $intertubes proto udp from any to any port $server_0_udp -&gt; $server_0
+
+   # server_1 port redirections
+rdr on $intertubes proto tcp from any to any port $server_1_tcp -&gt; $server_1
+
+
+# filter rules -----------------------------------------------------------------
+
+block in                               # default is to block from outside
+
+pass out on $intertubes proto tcp modulate state   # randomize outgoing TCP packets
+pass out keep state       # FUCKING IMPORTANT DO NOT REMOVE
+                          # &quot;keep state&quot; *NEEDS* to be there if you want to have
+                          # a stateful firewall, and not something lame. If you
+                          # plan on using NATing then you must use it for the
+                          # firewall to know which connection on the inside of
+                          # the LAN belongs to which connection on the outside
+                          # at the $intertubes interface.
+
+~~~~~~~~~~~~~~ firewall cluster rules ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# do not allow people to access the firewall clusters private network
+block in quick on {$LAN $intertubes} inet from any to a.b.c.d/16
+# replace a.b.c.d with the network you use for the firewall cluster.
+
+# firewall cluster rules. Needed to make the firewall servers talk to each other
+# about which connections are up and running. If one of the firewalls go down,
+# then the other can instantly replace the other, but it needs to know the state
+# of *all* connections at all times. the $syncro interface is used just for that.
+pass quick on { $syncro } proto pfsync keep state (no-sync)         # UNENCRYPTED
+pass quick on { $intertubes $LAN } proto carp keep state (no-sync)  # this uses SHA-1
+        # no-sync does not forward the states to pfsync --^
+        # the reason why you want no-sync here is because it would be weird to
+        # keep track of the protocol that keeps track of connections. You do not
+        # need that. Maybe it will not ever work&nbsp;:)?
+        # It does not need to be checked by the firewall (pass quick) because it
+        # uses SHA-1 to check if the traffic came from a friend or not.
+
+# block all martians trying to enter our networks from tze intertubes
+block in on $intertubes inet from 10.0.0.0/8 to any
+block in quick on $intertubes inet from 192.168.0.0/16 to any
+block in quick on $intertubes inet from 172.16.0.0/12 to any
+
+# blacklists
+# block &amp; log various government organisations and other tards
+block in log quick on $intertubes from &lt;fucktards&gt; to any
+# and just simply ignore the skript kiddies that got trapped
+block in quick on $intertubes from &lt;traplist&gt; to any
+# the traps were defined earlier, in the macros section.
+
+# FTP proxy, you *NEED* this if you want to be able to use the FTP protocol
+anchor &quot;ftp-proxy/*&quot;          # used by ftp-proxy to make FTP work&nbsp;:)
+
+# look this up in The openbsd pf FAQ: www.openbsd.org/faq/pf/
+antispoof quick for { lo $intertubes $LAN $syncro }
+
+
+# --- the ports must pass through filtering for redirection to work --------
+
+# server_0
+pass in on {$intertubes $LAN} inet proto tcp from any to $server_0 port $server_0_tcp \
+   flags S/SA synproxy state $trap queue important
+pass in on {$intertubes $LAN} inet proto udp from any to $server_0 port $server_0_udp \
+   queue std
+
+pass in on {$intertubes $LAN} inet proto tcp from any to $server_1 port $server_1_tcp \
+   flags S/SA synproxy state $trap queue important
+
+# ircserver, with the special trap rule if you remember
+pass in on $intertubes inet proto tcp from any to $ircserver port $irc_ports \
+   flags S/SA synproxy state $irc_trap queue std
+
+# we want some traffic to be able to reach the router too 
+pass in on { $intertubes $LAN } inet proto tcp from any to any port $tcp_services \
+   flags S/SA synproxy state $eviltrap queue ssh
+
+# synproxy means that the router keeps track of the TCP handshake, and forwards it
+# to the server only if it was correctly performed. This is nice, because we do not
+# really trust the servers on the inside to handle this correctly.
+
+# we trust everyone on the LAN. (but maybe you should go through which services are
+# running on the router anyways.)
+pass in on $LAN
+</pre>
+<a name="Fucktards_list" id="Fucktards_list"></a><h2><span class="editsection">[<a href="/w/index.php?title=Pf&amp;action=edit&amp;section=5" title="Edit section: Fucktards list">edit</a>]</span> <span class="mw-headline"> Fucktards list </span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Advice.jpg" class="image" title="Advice.jpg"><img alt="" src="/w/images/thumb/1/13/Advice.jpg/180px-Advice.jpg" width="180" height="179" border="0" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Advice.jpg" class="internal" title="Enlarge"><img src="/w/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div></div></div></div>
+<p>These are some IP-blocks i harvested from creeper.se. They contains swedish government organizations, and just plain evil companies, that are not allowed into any of my networks. Put them in a file (with the same syntax as below) and update your pf.conf to contain them in a table, that you block.
+</p><p>EDIT: This should really be a link to the <a href="/wiki/Blocklists" title="Blocklists">Blocklists</a> page.
+</p>
+<pre>
+   62.20.16.216/29
+   62.119.21.32/27
+   130.242.58.0/24
+   137.59.0.0/16
+   137.60.0.0/16
+   137.61.0.0/16
+   138.215.0.0/16
+   147.186.0.0/16
+   150.227.0.0/16
+   156.49.0.0/16
+   159.72.0.0/16
+   192.0.0.0/24
+   192.71.128.0/24
+   192.121.27.0/24
+   192.121.208.0/21
+   192.121.219.0/24
+   192.121.237.0/24
+   192.165.31.0/24
+   193.15.242.192/27
+   193.44.94.0/24
+   193.180.162.0/24
+   193.180.163.0/24
+   193.235.152.0/24
+   193.241.0.0/16
+   193.241.212.0/24
+   194.16.110.0/24
+   194.18.73.0/24
+   194.18.169.0/24
+   194.18.170.0/24
+   194.18.171.0/24
+   194.218.37.80/29
+   194.218.101.0/24
+   195.58.110.0/24
+   195.67.14.48/28
+   213.115.32.68/30
+   213.242.135.0/29
+</pre>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 12/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key cryptoanarchy_wiki:pcache:idhash:6-0!1!0!!en!2 and timestamp 20121020022714 -->
+<div class="printfooter">
+Retrieved from "<a href="https://cryptoanarchy.org/wiki/Pf">https://cryptoanarchy.org/wiki/Pf</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>:&#32;<span dir='ltr'><a href="/w/index.php?title=Category:HOWTO&amp;action=edit&amp;redlink=1" class="new" title="Category:HOWTO (page does not exist)">HOWTO</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/wiki/Pf" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Pf&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Pf&amp;action=edit" title="You can edit this page.&#10;Please use the preview button before saving [e]" accesskey="e">Edit</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Pf&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pf" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/w/tcmb.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform"><div>
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" name="search" type="text" title="Search Telecomix Crypto Munitions Bureau [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pf" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pf" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Pf&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Pf&amp;oldid=2977" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 20 October 2011, at 11:29.</li>
+					<li id="viewcount">This page has been accessed 2,581 times.</li>
+					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="privacy"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:Privacy_policy" title="Telecomix Crypto Munitions Bureau:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:About" title="Telecomix Crypto Munitions Bureau:About">About Telecomix Crypto Munitions Bureau</a></li>
+					<li id="disclaimer"><a href="/wiki/Telecomix_Crypto_Munitions_Bureau:General_disclaimer" title="Telecomix Crypto Munitions Bureau:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.232 secs. --></body></h
+5
+tml>
+
+0
+
